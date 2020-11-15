@@ -346,3 +346,67 @@
   place: Online
   date: May 6-9, 2019
   sub: ML
+
+- venue: ICCV
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: "SinGAN: Learning a Generative Model from a Single Natural Image"
+    author: Tamar Rott Shaham, Tali Dekel, Tomer Michaeli
+    link: https://openaccess.thecvf.com/content_ICCV_2019/html/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.html
+    source: https://iccv2019.thecvf.com/program/main_conference
+  - award: Best Student Paper
+    title: PLMP - Point-Line Minimal Problems in Complete Multi-View Visibility
+    author: Timothy Duff, Kathlén Kohn, Anton Leykin, Tomas Pajdla
+    link: https://openaccess.thecvf.com/content_ICCV_2019/html/Duff_PLMP_-_Point-Line_Minimal_Problems_in_Complete_Multi-View_Visibility_ICCV_2019_paper.html
+    source: https://iccv2019.thecvf.com/program/main_conference
+  place: Seoul, Korea
+  date: October 27 - November 2, 2019
+  sub: CV
+
+- venue: ECCV
+  year: 2020
+  place: Online
+  awards:
+  - award: Best Paper
+    title: "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"
+    author: Zachary Teed, Jia Deng
+    link: https://arxiv.org/abs/2003.12039
+    source: https://eccv2020.eu/awards/
+  place: Online
+  date: August 23-28, 2020
+  sub: CV
+
+- venue: AAAI
+  year: 2020
+  awards:
+  - award: Outstanding Paper
+    title: "WinoGrande: An Adversarial Winograd Schema Challenge at Scale"
+    author: Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
+    link: 
+    source: https://aaai.org/Awards/paper.php
+  place: New York, USA
+  date: February 7-12, 2020
+  sub: AI
+
+- venue: ACL
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList"
+    author: Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh
+    link: https://arxiv.org/abs/2005.04118
+    source: https://acl2020.org/blog/ACL-2020-best-papers/
+  - award: Best Theme Paper
+    title: "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data"
+    author: Emily M. Bender, Alexander Koller
+    link: https://openreview.net/pdf?id=GKTvAcb12b
+    source: https://acl2020.org/blog/ACL-2020-best-papers/
+  - award: Best Demonstration Paper
+    title: "GAIA: A Fine-grained Multimedia Knowledge Extraction System"
+    author: Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman
+    link: https://www.aclweb.org/anthology/2020.acl-demos.11/
+    source: https://acl2020.org/blog/ACL-2020-best-papers/
+  place: Online
+  date: July 5-10, 2020
+  sub: NLP
