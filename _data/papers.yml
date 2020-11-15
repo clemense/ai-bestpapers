@@ -278,7 +278,7 @@
     link: https://www.jair.org/index.php/jair/article/view/10942
     source: https://www.helsinki.fi/en/news/data-science-news/2019-ijcai-jair-best-paper-prize
   place: ""
-  date: 2019
+  date: "2019"
   sub: AI
 
 - venue: CoRL
@@ -366,7 +366,6 @@
 
 - venue: ECCV
   year: 2020
-  place: Online
   awards:
   - award: Best Paper
     title: "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow"
@@ -383,7 +382,7 @@
   - award: Outstanding Paper
     title: "WinoGrande: An Adversarial Winograd Schema Challenge at Scale"
     author: Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
-    link: 
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/6399
     source: https://aaai.org/Awards/paper.php
   place: New York, USA
   date: February 7-12, 2020
