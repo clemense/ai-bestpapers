@@ -13,4 +13,4 @@ To add or update an awarded paper:
 
 ## License
 
-[MIT][LICENSE]
+[MIT](LICENSE)
