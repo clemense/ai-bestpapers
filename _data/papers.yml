@@ -1,6 +1,6 @@
 ---
 
-- conference: ICRA
+- venue: ICRA
   year: 2020
   awards:
   - award: Best Paper
@@ -72,7 +72,7 @@
   date: May 31 - Aug 31, 2020
   sub: RO
 
-- conference: CASE
+- venue: CASE
   year: 2020
   awards:
   - award: Best Paper
@@ -104,7 +104,7 @@
   date: August 20-21, 2020
   sub: RO
 
-- conference: RSS
+- venue: RSS
   year: 2020
   awards:
   - award: Best Paper
@@ -128,7 +128,7 @@
   date: July 12-16, 2020
   sub: RO
 
-- conference: CVPR
+- venue: CVPR
   year: 2020
   awards:
   - award: Best Paper
@@ -147,7 +147,7 @@
   date: June 16-18, 2020
   sub: CV
 
-- conference: IROS
+- venue: IROS
   year: 2019
   awards:
   - award: Best Paper
@@ -195,7 +195,7 @@
   date: November 4-8, 2019
   sub: RO
 
-- conference: CoRL
+- venue: CoRL
   year: 2019
   awards:
   - award: Best Paper
@@ -219,7 +219,7 @@
   date: October 30 - November 1, 2019
   sub: RO
 
-- conference: NeurIPS
+- venue: NeurIPS
   year: 2019
   awards:
   - award: Outstanding Paper
@@ -243,3 +243,40 @@
   place: Vancouver, Canada
   date: December 8-14, 2019
   sub: ML
+
+- venue: EMNLP
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: Specializing Word Embeddings (for Parsing) by Information Bottleneck
+    author: Xiang Lisa Li, Jason Eisner
+    link: https://www.aclweb.org/anthology/D19-1276/
+    source: https://2019.emnlp.org/program/award/
+  
+  - award: Best Resource Paper
+    title: "Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala English"
+    author: Francisco Guzmán, Peng-Jen Chen, Myle Ott, Juan Pino, Guillaume Lample, Philipp Koehn, Vishrav Chaudhary, Marc’Aurelio Ranzato
+    link: https://www.aclweb.org/anthology/D19-1632/
+    source: https://2019.emnlp.org/program/award/
+  
+  - award: Best Demo Paper
+    title: "AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models"
+    author: Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian, Matt Gardner, Sameer Singh
+    link: https://www.aclweb.org/anthology/D19-3002/
+    source: https://2019.emnlp.org/program/award/
+
+  place: Hong Kong, China
+  date: November 3-7, 2019
+  sub: NLP
+
+- venue: IJCAI-JAIR
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: Clause Elimination for SAT and QSAT
+    author: Marijn Heule, Matti Järvisalo, Florian Lonsing, Martina Seidl, Armin Biere
+    link: https://www.jair.org/index.php/jair/article/view/10942
+    source: https://www.helsinki.fi/en/news/data-science-news/2019-ijcai-jair-best-paper-prize
+  place: ""
+  date: 2019
+  sub: AI

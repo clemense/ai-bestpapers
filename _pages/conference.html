@@ -77,7 +77,7 @@ permalink: /conference/
     </div>
     <script type="text/javascript" charset="utf-8">
         $(function () {
-            {% for conf in site.data.conferences %}
+            {% for conf in site.data.papers %}
             if (conf == "{{ conf.id }}") {
                 $('#conf-title-href').text("{{conf.title}} {{conf.year}}");
                 $('#conf-title-href').attr('href', "/conference?id={{conf.id}}");

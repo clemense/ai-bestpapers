@@ -78,10 +78,10 @@
             -->
         </div>
         {% for conf in site.data.papers %}
-        <div id="{{conf.conference}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+        <div id="{{conf.venue}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-xs-5 col-sm-6">
-                    <a class="conf-title" href="/conference?id={{ conf.conference }}">{{conf.conference}}
+                    <a class="conf-title" href="/conference?id={{ conf.venue }}">{{conf.venue}}
                         {{conf.year}}</a>
                 </div>
                 <div class="col-xs-7 col-sm-6">
@@ -176,7 +176,7 @@
         }
 
         {% for conf in site.data.papers %}
-        $('#{{conf.conference}} .conf-sub').html(sub2name["{{conf.sub}}"].toLocaleLowerCase());
+        $('#{{conf.venue}} .conf-sub').html(sub2name["{{conf.sub}}"].toLocaleLowerCase());
         {% endfor %}
 
         // Get subjects from URL
