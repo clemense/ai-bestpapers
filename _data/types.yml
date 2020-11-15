@@ -7,7 +7,3 @@
   sub: NLP
 - name: Robotics
   sub: RO
-- name: Speech/SigProc
-  sub: SP
-- name: Data Mining
-  sub: DM

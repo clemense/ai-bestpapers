@@ -1,29 +1,5 @@
 ---
 
-- conference: RSS
-  year: 2020
-  awards:
-  - award: Best Paper
-    title: Learning Agile Robotic Locomotion Skills by Imitating Animals
-    link: https://roboticsconference.org/2020/program/papers/64.html
-    author: Xue Bin Peng, Erwin Coumans, Tingnan Zhang, Tsang-Wei Lee, Jie Tan, Sergey Levine
-    source: https://roboticsconference.org/2020/program/awards/index.html
-
-  - award: Best Student Paper
-    title: A Continuous Representation of Belief over SO(3) for Robust Rotation Learning with Uncertainty
-    link: https://roboticsconference.org/2020/program/papers/7.html
-    author: Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly
-    source: https://roboticsconference.org/2020/program/awards/index.html
-
-  - award: Best Systems Paper
-    title: "AlphaPilot: Autonomous Drone Racing"
-    link: https://roboticsconference.org/2020/program/papers/81.html
-    author: Philipp Foehn, Dario Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias Gehrig, Manasi Muglikar, Davide Scaramuzza
-    source: https://roboticsconference.org/2020/program/awards/index.html
-  place: Online
-  date: July 12-16, 2020
-  sub: RO
-
 - conference: ICRA
   year: 2020
   awards:
@@ -127,3 +103,143 @@
   place: Online
   date: August 20-21, 2020
   sub: RO
+
+- conference: RSS
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Learning Agile Robotic Locomotion Skills by Imitating Animals
+    link: https://roboticsconference.org/2020/program/papers/64.html
+    author: Xue Bin Peng, Erwin Coumans, Tingnan Zhang, Tsang-Wei Lee, Jie Tan, Sergey Levine
+    source: https://roboticsconference.org/2020/program/awards/index.html
+
+  - award: Best Student Paper
+    title: A Continuous Representation of Belief over SO(3) for Robust Rotation Learning with Uncertainty
+    link: https://roboticsconference.org/2020/program/papers/7.html
+    author: Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly
+    source: https://roboticsconference.org/2020/program/awards/index.html
+
+  - award: Best Systems Paper
+    title: "AlphaPilot: Autonomous Drone Racing"
+    link: https://roboticsconference.org/2020/program/papers/81.html
+    author: Philipp Foehn, Dario Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias Gehrig, Manasi Muglikar, Davide Scaramuzza
+    source: https://roboticsconference.org/2020/program/awards/index.html
+  place: Online
+  date: July 12-16, 2020
+  sub: RO
+
+- conference: CVPR
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild
+    author: Shangzhe Wu, Christian Rupprecht, Andrea Vedaldi
+    link: https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.html
+    source: http://cvpr2020.thecvf.com/node/817
+
+  - award: Best Student Paper
+    title: "BSP-Net: Generating Compact Meshes via Binary Space Partitioning"
+    author: Zhiqin Chen, Andrea Tagliasacchi, Hao Zhang
+    link: https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_BSP-Net_Generating_Compact_Meshes_via_Binary_Space_Partitioning_CVPR_2020_paper.html
+    source: http://cvpr2020.thecvf.com/node/817
+  
+  place: Online
+  date: June 16-18, 2020
+  sub: CV
+
+- conference: IROS
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: Planning Reactive Manipulation in Dynamic Environments
+    author: Philipp Sebastian Schmitt, Florian Wirnshofer, Kai M. Wurm, Georg v. Wichert, Wolfram Burgard
+    link: https://ieeexplore.ieee.org/abstract/document/8968452
+    source: https://www.iros2019.org/awards
+
+  - award: Best Student Paper
+    title: Efficient and Guaranteed Planar Pose Graph Optimization Using the Complex Number Representation
+    author: Taosha Fan, Hanlin Wang, Michael Rubenstein, Todd Murphey
+    link: https://ieeexplore.ieee.org/abstract/document/8968044
+    source: https://www.iros2019.org/awards
+  
+  - award: Best Application Paper
+    title: Visual Servoing of Miniature Magnetic Film Swimming Robots for 3D Arbitrary Path Following
+    author: Chenyang Huang, Tiantian Xu, Jia Liu, Laliphat Manamanchaiyaporn, Xinyu Wu
+    link: https://ieeexplore.ieee.org/abstract/document/8772184
+    source: https://www.iros2019.org/awards
+  
+  - award: Best Cognitive Robotics Paper
+    title: Planning Beyond The Sensing Horizon Using a Learned Context
+    author: Michael Everett, Justin Miller, Jonathan Patrick How
+    link: https://arxiv.org/abs/1908.09171
+    source: https://www.iros2019.org/awards
+  
+  - award: Best RoboCup Paper
+    title: Motion Decoupling and Composition via Reduced Order Model Optimization for Dynamic Humanoid Walking with CLF-QP based Active Force Control
+    author: Xiaobin Xiong, Aaron Ames
+    link: https://arxiv.org/abs/1910.00687
+    source: https://www.iros2019.org/awards
+
+  - award: Best Novel Technology Paper for Amusement Culture
+    title: Responsive Joint Attention in Human-Robot Interaction
+    author: André Pereira, Catharine Oertel, Leonor Fermoselle, Joe Mendelson, Joakim Gustafson
+    link: https://ieeexplore.ieee.org/abstract/document/8968130
+    source: https://www.iros2019.org/awards
+  
+  - award: Best Safety, Security, and Rescue Robotics Paper
+    title: Optimization Based Motion Planning for Multi-Limbed Vertical Climbing Robots
+    author: Xuan Lin, Jingwen Zhang, Junjie Shen, Gabriel Ikaika Fernandez, Dennis Hong
+    link: https://arxiv.org/abs/1909.06339
+    source: https://www.iros2019.org/awards
+  place: Macau, China
+  date: November 4-8, 2019
+  sub: RO
+
+- conference: CoRL
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: A Divergence Minimization Perspective on Imitation Learning Methods
+    author: Seyed Kamyar Seyed Ghasemipour, Richard Semel, Shixiang Gu 
+    link: http://proceedings.mlr.press/v100/ghasemipour20a.html
+    source: https://sites.google.com/robot-learning.org/corl2019
+
+  - award: Best System Paper
+    title: Learning to Manipulate Object Collections Using Grounded State Representations
+    author: Matthew Wilson, Tucker Hermans
+    link: http://proceedings.mlr.press/v100/wilson20a.html
+    source: https://sites.google.com/robot-learning.org/corl2019
+
+  - award: Best Presentation
+    title: Bayesian Optimization Meets Riemannian Manifolds in Robot Learning
+    author: Noemie Jaquier, Leonel Rozo, Sylvain Calinon, Mathias Burger
+    link: http://proceedings.mlr.press/v100/jaquier20a.html
+    source: https://sites.google.com/robot-learning.org/corl2019
+  place: Osaka, Japan
+  date: October 30 - November 1, 2019
+  sub: RO
+
+- conference: NeurIPS
+  year: 2019
+  awards:
+  - award: Outstanding Paper
+    title: Distribution-Independent PAC Learning of Halfspaces with Massart Noise
+    author: Ilias Diakonikolas, Themis Gouleakis, Christos Tzamos
+    link: https://papers.nips.cc/paper/2019/hash/358aee4cc897452c00244351e4d91f69-Abstract.html
+    source: https://neuripsconf.medium.com/neurips-2019-paper-awards-807e41d0c1e
+  
+  - award: Outstanding New Directions Paper
+    title: Uniform convergence may be unable to explain generalization in deep learning
+    author: Vaishnavh Nagarajan, J. Zico Kolter
+    link: https://papers.nips.cc/paper/2019/hash/05e97c207235d63ceb1db43c60db7bbb-Abstract.html
+    source: https://neuripsconf.medium.com/neurips-2019-paper-awards-807e41d0c1e
+  
+  - award: Test of Time
+    title: Dual Averaging Method for Regularized Stochastic Learning and Online Optimization
+    author: Lin Xiao
+    link: https://papers.nips.cc/paper/2009/hash/7cce53cf90577442771720a370c3c723-Abstract.html
+    source: https://neuripsconf.medium.com/neurips-2019-paper-awards-807e41d0c1e
+  
+  place: Vancouver, Canada
+  date: December 8-14, 2019
+  sub: ML
