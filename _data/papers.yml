@@ -280,3 +280,69 @@
   place: ""
   date: 2019
   sub: AI
+
+- venue: CoRL
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: "Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation"
+    author: Lucas Manuelli, Peter R. Florence, Russ Tedrake
+    link: https://arxiv.org/abs/1806.08756
+    source: https://sites.google.com/a/robot-learning.org/corl2017/corl2018
+  - award: Best Systems Paper
+    title: "Deep Drone Racing: Learning Agile Flight in Dynamic Environments"
+    author: Elia Kaufmann, Antonio Loquercio, Rene Ranftl, Alexey Dosovitskiy, Vladlen Koltun, Davide Scaramuzza
+    link: https://arxiv.org/abs/1806.08548
+    source: https://sites.google.com/a/robot-learning.org/corl2017/corl2018
+  - award: Best Systems Paper
+    title: "QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation"
+    author: Julian Ibarz, Dmitry Kalashnikov, Peter Pastor, Mrinal Kalakrishnan, Deirdre Quillen, Alexander Herzog, Sergey Levine, Vincent Vanhoucke, Ethan Holly, Eric Jang, Alex Irpan
+    link: https://arxiv.org/abs/1806.10293
+    source: https://sites.google.com/a/robot-learning.org/corl2017/corl2018
+  - award: Best Presentation
+    title: Learning over Subgoals for Efficient Navigation of Structured, Unknown Environments
+    author: Gregory Stein
+    link: http://proceedings.mlr.press/v87/stein18a.html
+    source: https://sites.google.com/a/robot-learning.org/corl2017/corl2018
+  place: Zürich, Switzerland
+  date: October 29-31, 2018
+  sub: RO
+
+- venue: ICML
+  year: 2020
+  awards:
+  - award: Outstanding Paper
+    title: 
+    author: Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya
+    link: https://icml.cc/virtual/2020/poster/6022
+    source: https://icml.cc/Conferences/2020/Awards
+  - award: Outstanding Paper
+    title: "Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems"
+    author: Kaixuan Wei, Angelica I Aviles-Rivero, Jingwei Liang, Ying Fu, Carola-Bibiane Schönlieb, Hua Huang
+    link: https://icml.cc/virtual/2020/poster/6447
+    source: https://icml.cc/Conferences/2020/Awards
+  - award: Test of Time
+    title: "Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design"
+    author:	Niranjan Srinivas, Andreas Krause, Sham Kakade, Matthias Seeger
+    link: https://icml.cc/Conferences/2010/papers/422.pdf
+    source: https://icml.cc/Conferences/2020/Awards
+  place: Online
+  date: July 13-18, 2020
+  sub: ML
+
+- venue: ICLR
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: "Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks"
+    author: Yikang Shen, Shawn Tan, Alessandro Sordoni, Aaron Courville
+    link: https://iclr.cc/Conferences/2019/Schedule?showEvent=1175
+    source: https://iclr.cc/Conferences/2019/Awards
+  - award: Best Paper
+    title: "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks"
+    author: Jonathan Frankle, Michael Carbin
+    link: https://iclr.cc/Conferences/2019/Schedule?showEvent=1156
+    source: https://iclr.cc/Conferences/2019/Awards
+  place: Online
+  date: May 6-9, 2019
+  sub: ML

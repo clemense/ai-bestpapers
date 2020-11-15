@@ -14,7 +14,7 @@ permalink: /conference/
     <meta name="author" content="{{ site.author }}">
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
     <link rel="stylesheet" type="text/css"
-        href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}?t={{site.time | date: '%s'}}"
+        href="{{ "/static/css/bestpapers.css" | prepend:site.baseurl }}?t={{site.time | date: '%s'}}"
         media="screen,projection">
     <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
     <script type="text/javascript" src="{{ "/static/js/jquery.min.js" | prepend:site.baseurl }}"></script>
@@ -28,10 +28,11 @@ permalink: /conference/
     <div class="top-strip"></div>
     <div class="container">
         <div class="page-header" id="conf-title">
-            <div class="row">
+            {% for venue in site.data.papers %}
+            <div id="{{venue.venue}}{{venue.year}}" class="row">
                 <div class="col-xs-12 col-sm-12">
                     <h1>
-                        <a id="conf-title-href" nohref></a>
+                        <a id="conf-title-href" nohref>{{venue.venue}} {{venue.year}}</a>
                         <span id="twitter-box"></span>
                     </h1>
                 </div>
@@ -59,6 +60,7 @@ permalink: /conference/
                     <a id="conf-website" target="_blank" nohref></a><br>
                 </div>
             </div>
+            {% endfor %}
         </div>
         <div>
             <div class="row">
@@ -72,30 +74,28 @@ permalink: /conference/
         </div>
         <footer>
             <a href="/">{{ site.domain }}</a> is maintained by <a
-                href="//twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.<br>
+                href="//{{ site.github_username }}.github.io">{{ site.author }}</a>. It is based
+            on the great <a href="http://aideadlin.es">aideadlin.es</a>.<br>
         </footer>
     </div>
     <script type="text/javascript" charset="utf-8">
         $(function () {
-            {% for conf in site.data.papers %}
-            if (conf == "{{ conf.id }}") {
-                $('#conf-title-href').text("{{conf.title}} {{conf.year}}");
-                $('#conf-title-href').attr('href', "/conference?id={{conf.id}}");
-                $('#conf-date').text("{{conf.date}}");
-                $('#conf-place').text("{{conf.place}}");
-                $('#conf-website').text("{{conf.link}}");
-                $('#conf-website').attr('href', "{{conf.link}}");
-                {% if conf.deadline == "TBA" %}
-                $('#conf-timer').html("TBA");
-                $('.deadline-time').html("TBA");
-                $('.deadline-local-time').html("TBA");
-                {% else %}
-                // adjust date according to deadline timezone
-                var timezone = {% if conf.timezone %} "{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
-            {% endif %}
-        }
-        {% endfor %}
-    });
+            var url = new URL(window.location);
+            var venue = url.searchParams.get('id');
+            console.log(venue);
+
+            {% for venue in site.data.papers %}
+            if (venue != "{{ venue.venue }}") {
+                // $('#conf-title-href').text("{{venue.venue}} {{venue.year}}");
+                // $('#conf-title-href').attr('href', "/conference?id={{venue.venue}}");
+                // $('#conf-date').text("{{venue.date}}");
+                // $('#conf-place').text("{{venue.place}}");
+                // $('#conf-website').text("{{conf.link}}");
+                // $('#conf-website').attr('href', "{{conf.link}}");
+                $('#{{venue.venue}}{{venue.year}}').hide();
+            }
+            {% endfor %}
+        });
     </script>
 </body>
 

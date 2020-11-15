@@ -10,7 +10,7 @@
     <meta name="author" content="{{ site.author }}">
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
     <link rel="stylesheet" type="text/css"
-        href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}?t={{site.time | date: '%s'}}"
+        href="{{ "/static/css/bestpapers.css" | prepend:site.baseurl }}?t={{site.time | date: '%s'}}"
         media="screen,projection">
     <link rel="shortcut icon" href="{{ "/static/img/favicon.png" | prepend:site.baseurl }}">
     <script type="text/javascript" src="{{ "/static/js/jquery.min.js" | prepend:site.baseurl }}"></script>
@@ -78,7 +78,7 @@
             -->
         </div>
         {% for conf in site.data.papers %}
-        <div id="{{conf.venue}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+        <div id="{{conf.venue}}{{conf.year}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-xs-5 col-sm-6">
                     <a class="conf-title" href="/conference?id={{ conf.venue }}">{{conf.venue}}
@@ -114,7 +114,7 @@
             {% endfor %}
             <div class="row">
                 <div class="col-xs-12">
-                    <span title="Click to only show {{paper.sub}} conferences" data-sub="{{paper.sub}}"
+                    <span title="Click to only show {{conf.sub}} conferences" data-sub="{{conf.sub}}"
                         class="conf-sub"></span>
                 </div>
             </div>
@@ -122,13 +122,9 @@
         </div>
         {% endfor %}
         <footer>
-            <div class="row">
-                <div class="col-xs-12 col-sm-6">
-                    <a href="/">{{ site.domain }}</a> is based on <a href="http://aideadlin.es">aideadlin.es</a>. It is
-                    maintained by <a
-                        href="//twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.<br>
-                </div>
-            </div>
+            <a href="/">{{ site.domain }}</a> is maintained by <a
+                href="//{{ site.github_username }}.github.io">{{ site.author }}</a>. It is based
+            on the great <a href="http://aideadlin.es">aideadlin.es</a>.<br><br>
         </footer>
         <br><br>
     </div>
@@ -175,8 +171,8 @@
             name2sub[conf_type_data[i]['name']] = conf_type_data[i]['sub'];
         }
 
-        {% for conf in site.data.papers %}
-        $('#{{conf.venue}} .conf-sub').html(sub2name["{{conf.sub}}"].toLocaleLowerCase());
+        {% for venue in site.data.papers %}
+        $('#{{venue.venue}}{{venue.year}} .conf-sub').html(sub2name["{{venue.sub}}"].toLocaleLowerCase());
         {% endfor %}
 
         // Get subjects from URL
