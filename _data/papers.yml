@@ -1,0 +1,129 @@
+---
+
+- conference: RSS
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Learning Agile Robotic Locomotion Skills by Imitating Animals
+    link: https://roboticsconference.org/2020/program/papers/64.html
+    author: Xue Bin Peng, Erwin Coumans, Tingnan Zhang, Tsang-Wei Lee, Jie Tan, Sergey Levine
+    source: https://roboticsconference.org/2020/program/awards/index.html
+
+  - award: Best Student Paper
+    title: A Continuous Representation of Belief over SO(3) for Robust Rotation Learning with Uncertainty
+    link: https://roboticsconference.org/2020/program/papers/7.html
+    author: Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly
+    source: https://roboticsconference.org/2020/program/awards/index.html
+
+  - award: Best Systems Paper
+    title: "AlphaPilot: Autonomous Drone Racing"
+    link: https://roboticsconference.org/2020/program/papers/81.html
+    author: Philipp Foehn, Dario Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias Gehrig, Manasi Muglikar, Davide Scaramuzza
+    source: https://roboticsconference.org/2020/program/awards/index.html
+  place: Online
+  date: July 12-16, 2020
+  sub: RO
+
+- conference: ICRA
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Preference-Based Learning for Exoskeleton Gait Optimization
+    link: https://arxiv.org/abs/1909.12316
+    author: Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel Burdick, Aaron Ames
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/72-icra-best-conference-paper
+
+  - award: Best Student Paper
+    title: Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation
+    link: https://ras.papercept.net/proceedings/ICRA20/1733.pdf
+    author: Shenli Yuan, Austin Epps, Jerome Nowak, Kenneth Salisbury
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/74-icra-best-student-paper
+
+  - award: Best Automation Paper
+    title: "Securing Industrial Operators with Collaborative Robots: Simulation and Experimental Validation for a Carpentry Task"
+    link: https://ieeexplore.ieee.org/abstract/document/9197161
+    author: Nassim Benhabib, Vincent Padois, David Daney
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper
+
+  - award: Best Cognitive Robotics Paper
+    title: Semantic Linking Maps for Active Visual Object Search
+    link: https://ieeexplore.ieee.org/abstract/document/9196830
+    author: Zhen Zeng, Adrian Röfer, Odest Chadwicke Jenkins
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/83-icra-cognitive-robotics-best-paper-award-sponsored-by-cotesys
+
+  - award: Best Human-Robot Interaction Paper
+    title: Preference-Based Learning for Exoskeleton Gait Optimization
+    link: https://arxiv.org/abs/1909.12316
+    author: Maegan Tucker, Ellen Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel Burdick, Aaron Ames
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/703-icra-best-paper-award-on-human-robot-interaction-hri
+
+  - award: Best Medical Robotics Paper
+    title: Fault Tolerant Control in Shape-Changing Internal Robots
+    link: https://ieeexplore.ieee.org/abstract/document/9196989
+    author: Lavanya Balasubramanian, Tom Wray, Dana Damian
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/82-icra-best-medical-robotics-paper-award-sponsored-by-intuitive-surgical
+
+  - award: Best Multi-Robot Systems Paper
+    title: Distributed Multi-Target Tracking for Autonomous Vehicle Fleets
+    link: https://arxiv.org/abs/2004.05965
+    author: Ola Shorinwa, Javier Yu, Trevor Halsted, Alex Koufos, Mac Schwager
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-icra-best-paper-award-on-multi-robot-systems-sponsored-by-amazon-robotics
+
+  - award: Best Robot Manipulation Paper
+    title: Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation
+    link: https://ras.papercept.net/proceedings/ICRA20/1733.pdf
+    author: Shenli Yuan, Austin Epps, Jerome Nowak, Kenneth Salisbury
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/73-icra-best-manipulation-paper
+
+  - award: Best Robot Vision Paper
+    title: "Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection"
+    link: https://ieeexplore.ieee.org/abstract/document/8957085
+    author: Heng Yang, Pasquale Antonante, Vasileios Tzoumas, Luca Carlone
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/76-icra-best-vision-paper
+
+  - award: Best Service Robotics Paper
+    title: Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments
+    link: https://arxiv.org/abs/2003.05016
+    author: Stewart Jamieson, Jonathan Patrick How, Yogesh Girdhar
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/78-kuka-service-robotics-best-paper-award
+
+  - award: Best Unmanned Aerial Vehicles Paper
+    title: Design and Autonomous Stabilization of a Ballistically Launched Multirotor
+    link: https://ieeexplore.ieee.org/abstract/document/9197542
+    author: Amanda Bouman, Paul Nadan, Matthew Anderson, Daniel Pastor, Jacob Izraelevitz, Joel Burdick, Brett Kennedy
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/1234-ieee-icra-best-paper-award-on-unmanned-aerial-vehicles
+  place: Online
+  date: May 31 - Aug 31, 2020
+  sub: RO
+
+- conference: CASE
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile
+    link: https://arxiv.org/abs/2004.11022
+    author: Ziyue Li, Hao Yan, Chen Zhang, Fugee Tsung
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/79-ieee-case-spansion-best-conference-paper-award
+  
+  - award: Best Student Paper
+    title: Simulating Polyculture Farming to Tune Automation Policies for Plant Diversity and Precision Irrigation
+    link: https://ieeexplore.ieee.org/abstract/document/9216984
+    author: Yahav Avigal, Jensen Gao, William Wong, Kevin Li, Grady Pierroz, Fang Shuo Deng, Mark Theis, Mark Presten, Ken Goldberg
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/80-ieee-case-best-student-conference-paper-award
+    place: Online
+
+  - award: Best Student Paper
+    title: Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using Global-Local Path Planning and Eye-In-Hand Visual Servoing
+    link: https://ieeexplore.ieee.org/abstract/document/9216900
+    author: Lidong Yang, Li Zhang
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/80-ieee-case-best-student-conference-paper-award
+    note: "Two recipients this year."
+
+  - award: Best Application Paper
+    title: A System for Human-In-The-Loop Simulation of Industrial Collaborative Robot Applications
+    link: https://ieeexplore.ieee.org/abstract/document/9216766
+    author: Maximilian Metzner, Daniel Utsch, Walter Matthias, Christian Hofstetter, Christina Ramer, Andreas Blank, Jörg Franke
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/81-ieee-case-best-application-paper-award-sponsored-by-qsi
+  place: Online
+  date: August 20-21, 2020
+  sub: RO

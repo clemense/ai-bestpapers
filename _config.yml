@@ -1,0 +1,15 @@
+title: AI Best Paper Awards # (Maintained by @clembow)
+# email: clemens.eppner@gmail.com
+description: Awarded Papers from Robotics/ML/CV/NLP/AI 
+author: Clemens Eppner
+
+domain: "aibestpape.rs"
+baseurl: ""
+
+twitter_username: clembow
+github_username: clemense
+github_repo: ai-bestpapers
+
+markdown: kramdown
+
+include: ['_pages']
