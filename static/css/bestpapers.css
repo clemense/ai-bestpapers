@@ -111,8 +111,24 @@ footer {
   font-weight: 400;
 }
 
+.conf-place {
+    font-size: 12px;
+}
+
 .deadline, .meta {
   font-size: 13px;
+}
+
+.award-info {
+    margin-left: 20px;
+}
+
+.paper-title {
+    font-size: 14px;
+}
+
+.author-names {
+    font-size: 12px;
 }
 
 .note {
