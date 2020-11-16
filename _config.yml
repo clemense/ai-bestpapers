@@ -3,7 +3,7 @@ description: Awarded Papers from Robotics/AI/ML/CV/NLP
 author: Clemens Eppner
 
 domain: "aibestpape.rs"
-baseurl: "."
+baseurl: ""
 
 twitter_username: clembow
 github_username: clemense
