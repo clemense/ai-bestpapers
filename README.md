@@ -11,6 +11,10 @@ To add or update an awarded paper:
 - Update `_data/papers.yml`
 - Send a pull request
 
+## Related
+
+This is based on [aideadlin.es](https://github.com/abhshkdz/ai-deadlines).
+
 ## License
 
 [MIT](LICENSE)
