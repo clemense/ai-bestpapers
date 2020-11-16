@@ -1,5 +1,5 @@
 ---
-permalink: /conference/
+permalink: /venue/
 ---
 
 <html>
@@ -76,14 +76,14 @@ permalink: /conference/
         <footer>
             <a href="/">{{ site.domain }}</a> is maintained by <a
                 href="//{{ site.github_username }}.github.io">{{ site.author }}</a>. It is based
-            on the great <a href="http://aideadlin.es">aideadlin.es</a>.<br>
+            on the splendid <a href="http://aideadlin.es">aideadlin.es</a>.<br>
         </footer>
     </div>
     <script type="text/javascript" charset="utf-8">
         $(function () {
             var url = new URL(window.location);
             var venue = url.searchParams.get('id');
-            console.log(venue);
+            // console.log(venue);  
 
             {% for venue in site.data.venues %}
             if (venue == "{{ venue.name }}") {
@@ -94,12 +94,6 @@ permalink: /conference/
 
             {% for venue in site.data.papers %}
             if (venue != "{{ venue.venue }}") {
-                // $('#conf-title-href').text("{{venue.venue}} {{venue.year}}");
-                // $('#conf-title-href').attr('href', "/conference?id={{venue.venue}}");
-                // $('#conf-date').text("{{venue.date}}");
-                // $('#conf-place').text("{{venue.place}}");
-                // $('#conf-website').text("{{conf.link}}");
-                // $('#conf-website').attr('href', "{{conf.link}}");
                 $('#{{venue.venue}}{{venue.year}}').hide();
             }
             {% endfor %}

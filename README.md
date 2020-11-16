@@ -1,6 +1,6 @@
 ## Best AI Papers [![Build Status](https://travis-ci.com/clemense/ai-bestpapers.svg?branch=gh-pages)](https://travis-ci.com/clemense/ai-bestpapers)
 
-List of awarded papers from Robotics/AI/ML/CV/NLP conferences.
+List of awarded papers from Robotics/AI/ML/CV/NLP venues.
 
 ## Contributing
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
-# Sort and Clean conference data.
+# Sort and Clean award data.
 # It writes to `sorted_data.yml` and `cleaned_data.yml`, copy those to the papers.yml after screening.
 
 import yaml
