@@ -130,6 +130,7 @@ with open("../_data/papers.yml", "r") as stream:
                 Dumper=yaml.SafeDumper,
                 default_flow_style=False,
                 explicit_start=True,
+                allow_unicode=True,
             ).splitlines():
                 outfile.write(line.replace("- venue:", "\n- venue:"))
                 outfile.write("\n")

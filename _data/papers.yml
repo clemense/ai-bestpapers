@@ -312,7 +312,7 @@
   year: 2020
   awards:
   - award: Outstanding Paper
-    title: 
+    title: On Learning Sets of Symmetric Elements
     author: Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya
     link: https://icml.cc/virtual/2020/poster/6022
     source: https://icml.cc/Conferences/2020/Awards
@@ -403,7 +403,7 @@
     source: https://acl2020.org/blog/ACL-2020-best-papers/
   - award: Best Demonstration Paper
     title: "GAIA: A Fine-grained Multimedia Knowledge Extraction System"
-    author: Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman
+    author: Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie Freedman
     link: https://www.aclweb.org/anthology/2020.acl-demos.11/
     source: https://acl2020.org/blog/ACL-2020-best-papers/
   place: Online
