@@ -32,50 +32,47 @@ permalink: /conference/
                 <span id="venue-header-long"></span>
                 (<span id="venue-header-short"></span>)
             </h1>
-            {% for venue in site.data.papers %}
-            <div id="{{venue.venue}}{{venue.year}}" class="row">
-                <div class="col-xs-12 col-sm-12">
-                    <h3>
-                        <a id="conf-title-href" nohref>{{venue.year}}</a>
-                        <span id="twitter-box"></span>
-                    </h3>
+        </div>
+        {% for conf in site.data.papers %}
+        <div id="{{conf.venue}}{{conf.year}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+            <div class="row conf-row">
+                <div class="col-xs-12">
+                    <a class="conf-title" href="#">{{conf.venue}}
+                        {{conf.year}}</a>
+                    &nbsp;&nbsp;<span class="conf-place">({{ conf.date }}. </span><span class="conf-place">
+                        {{ conf.place }}.)</span>
                 </div>
-                <div class="meta deadline col-xs-12">
-                    <span id="conf-date"></span>. <span id="conf-place"></span>.<br>
-                </div>
-                <div class="meta deadline col-xs-12 col-md-5">
-                    Deadline in timezone from conference website:
-                </div>
-                <div class="meta deadline col-xs-12 col-md-6">
-                    <span class="deadline-time"></span>
-                </div>
-                <span class="local-timezone-hide">
-                    <div class="meta deadline col-xs-12 col-md-5">
-                        Deadline in your local <span class="local-timezone">America/New_York</span> timezone:
+            </div>
+            {% for award in conf.awards %}
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="paper-title">
+                        <strong>{{award.award}}:</strong>
                     </div>
-                    <div class="meta deadline col-xs-12 col-md-6">
-                        <span class="deadline-local-time"></span>
-                    </div>
-                </span>
-                <div class="meta deadline col-xs-2 col-sm-1 col-md-5">
-                    Website:
                 </div>
-                <div class="meta deadline col-xs-10 col-sm-11 col-md-7">
-                    <a id="conf-website" target="_blank" nohref></a><br>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 award-info">
+                    <div class="paper-title">
+                        <a href="{{award.link}}">{{award.title}}</a>
+                    </div>
+                    <div class="deadline">
+                        {{award.author}}
+                    </div>
+                    <div class="award-source">
+                        <a href="{{ award.source }}">[Source]</a>
+                    </div>
+                    {% if award.note %}
+                    <div class="note">
+                        {{award.note}}
+                    </div>
+                    {% endif %}
                 </div>
             </div>
             {% endfor %}
-        </div>
-        <div>
-            <div class="row">
-                <div class="col-xs-12">
-                    <span id="conf-timer"></span>
-                    <br>
-                </div>
-            </div>
-            <br>
             <hr>
         </div>
+        {% endfor %}
         <footer>
             <a href="/">{{ site.domain }}</a> is maintained by <a
                 href="//{{ site.github_username }}.github.io">{{ site.author }}</a>. It is based

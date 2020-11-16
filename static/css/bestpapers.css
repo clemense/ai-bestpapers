@@ -123,6 +123,11 @@ footer {
     margin-left: 20px;
 }
 
+.award-source {
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
 .paper-title {
     font-size: 14px;
 }

@@ -356,6 +356,53 @@
   date: October 27 - November 2, 2019
   sub: CV
 
+- venue: Humanoids
+  year: 2019
+  awards:
+  - award: Best Oral Paper
+    title: Footstep Planning for Autonomous Walking Over Rough Terrain
+    author: Robert J. Griffin, Georg Wiedebach, Stephen McCrory, Sylvain Bertrand,
+      Inho Lee, Jerry Pratt
+    link: https://ieeexplore.ieee.org/abstract/document/9035046
+    source: https://humanoids2019.loria.fr/index.html
+  - award: Best Interactive Paper
+    title: Formal Connections between Template and Anchor Models via Approximate Simulation
+    author: Vince Kurtz, Rafael Rodrigues da Silva, Patrick M. Wensing, Hai Lin
+    link: https://ieeexplore.ieee.org/abstract/document/9035022
+    source: https://humanoids2019.loria.fr/index.html
+  - award: Mike Stilman Paper
+    title: 'A Robot Design Method for Weight Saving Aimed at Dynamic Motions: Design
+      of Humanoid JAXON3-P and Realization of Jump Motions'
+    author: Kunio Kojima, Yuta Kojio, Tatsuya Ishikawa, Fumihito Sugai, Yohei Kakiuchi,
+      Kei Okada, Masayuki Inaba
+    link: https://ieeexplore.ieee.org/abstract/document/9035049
+    source: https://humanoids2019.loria.fr/index.html
+  place: Toronto, Canada
+  date: October 15-17, 2019
+  sub: RO
+
+- venue: RSS
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: A Magnetically-Actuated Untethered Jellyfish-Inspired Soft Milliswimmer
+    author: Ziyu Ren, Tianlu Wang, Wenqi Hu, Metin Sitti
+    link: http://rss2019.informatik.uni-freiburg.de/papers/0069_FI.pdf
+    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
+  - award: Best Student Paper
+    title: An Online Learning Approach to Model Predictive Control
+    author: Nolan Wagener, Ching-an Cheng, Jacob Sacks, Byron Boots
+    link: http://rss2019.informatik.uni-freiburg.de/papers/0118_FI.pdf
+    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
+  - award: Best Systems Paper
+    title: Learning to Throw Arbitrary Objects with Residual Physics
+    author: Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas A. Funkhouser
+    link: http://rss2019.informatik.uni-freiburg.de/papers/0030_FI.pdf
+    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
+  place: Freiburg, Germany
+  date: June 22-26, 2019
+  sub: RO
+
 - venue: ICLR
   year: 2019
   awards:
@@ -422,54 +469,11 @@
   year: 2016
   awards:
   - award: Best Paper
-    title: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group
+    title: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean
+      Group
     author: David Rosen, Luca Carlone, Afonso Bandeira, John Leonard
     link: http://wafr2016.berkeley.edu/papers/WAFR_2016_paper_138.pdf
     source: https://journals.sagepub.com/doi/10.1177/0278364919827656
   place: San Francisco, USA
   date: December 18-20, 2016
-  sub: RO
-
-- venue: Humanoids
-  year: 2019
-  awards:
-  - award: Best Oral Paper
-    title: Footstep Planning for Autonomous Walking Over Rough Terrain
-    author: Robert J. Griffin, Georg Wiedebach, Stephen McCrory, Sylvain Bertrand, Inho Lee, Jerry Pratt
-    link: https://ieeexplore.ieee.org/abstract/document/9035046
-    source: https://humanoids2019.loria.fr/index.html
-  - award: Best Interactive Paper
-    title: Formal Connections between Template and Anchor Models via Approximate Simulation
-    author: Vince Kurtz, Rafael Rodrigues da Silva, Patrick M. Wensing, Hai Lin
-    link: https://ieeexplore.ieee.org/abstract/document/9035022
-    source: https://humanoids2019.loria.fr/index.html
-  - award: Mike Stilman Paper
-    title: "A Robot Design Method for Weight Saving Aimed at Dynamic Motions: Design of Humanoid JAXON3-P and Realization of Jump Motions"
-    author: Kunio Kojima, Yuta Kojio, Tatsuya Ishikawa, Fumihito Sugai, Yohei Kakiuchi, Kei Okada, Masayuki Inaba
-    link: https://ieeexplore.ieee.org/abstract/document/9035049
-    source: https://humanoids2019.loria.fr/index.html
-  place: Toronto, Canada
-  date: October 15-17, 2019
-  sub: RO
-
-- venue: RSS
-  year: 2019
-  awards:
-  - award: Best Paper
-    title: A Magnetically-Actuated Untethered Jellyfish-Inspired Soft Milliswimmer
-    author: Ziyu Ren, Tianlu Wang, Wenqi Hu, Metin Sitti
-    link: http://rss2019.informatik.uni-freiburg.de/papers/0069_FI.pdf
-    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
-  - award: Best Student Paper
-    title: An Online Learning Approach to Model Predictive Control
-    author: Nolan Wagener, Ching-an Cheng, Jacob Sacks, Byron Boots
-    link: http://rss2019.informatik.uni-freiburg.de/papers/0118_FI.pdf
-    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
-  - award: Best Systems Paper
-    title: Learning to Throw Arbitrary Objects with Residual Physics
-    author: Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas A. Funkhouser
-    link: http://rss2019.informatik.uni-freiburg.de/papers/0030_FI.pdf
-    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
-  place: Freiburg, Germany
-  date: June 22-26, 2019
   sub: RO
