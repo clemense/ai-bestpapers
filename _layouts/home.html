@@ -64,18 +64,18 @@
                 <div class="col-xs-12">
                     {% for type in site.data.types %}
                     <span title="Click to only show {{type.sub}} venues" data-sub="{{type.sub}}"
-                        class="conf-sub">{{ type.name }}</span>
+                        class="venue-sub">{{ type.name }}</span>
                     {% endfor %}
                 </div>
             </div>
         </div>
         {% for venue in site.data.papers %}
         <div id="{{venue.venue}}{{venue.year}}" class="{% for sub in venue.sub %} {{sub}}-conf {% endfor %}">
-            <div class="row conf-row">
+            <div class="row venue-row">
                 <div class="col-xs-12">
-                    <a class="conf-title" href="/venue?id={{ venue.venue }}">{{venue.venue}}
+                    <a class="venue-title" href="/venue?id={{ venue.venue }}">{{venue.venue}}
                         {{venue.year}}</a>
-                    &nbsp;&nbsp;<span class="conf-place">({{ venue.place }})</span>
+                    &nbsp;&nbsp;<span class="venue-place">({{ venue.place }})</span>
                 </div>
             </div>
             {% for award in venue.awards %}
@@ -91,7 +91,7 @@
                     <div class="paper-title">
                         <a href="{{award.link}}">{{award.title}}</a>
                     </div>
-                    <div class="deadline">
+                    <div class="author-names">
                         {{award.author}}
                     </div>
                     {% if award.note %}
@@ -175,7 +175,7 @@
         });
 
         // Event handler on sub click
-        $('.conf-sub').click(function (e) {
+        $('.venue-sub').click(function (e) {
             var csub = $(this).data('sub');
             for (var i = 0; i < subs.length; i++) {
                 if (subs[i] != csub) {

@@ -46,7 +46,7 @@ h3 {
   margin-top: 20px;
 }
 
-#conf-title.page-header {
+#venue-title.page-header {
   border-bottom: none;
 }
 
@@ -102,16 +102,16 @@ footer {
   opacity: 0.5;
 }
 
-.conf-row {
+.venue-row {
   margin-bottom: 5px;
 }
 
-.conf-title {
+.venue-title {
   font-size: 20px;
   font-weight: 400;
 }
 
-.conf-place {
+.venue-place {
     font-size: 12px;
 }
 
@@ -141,17 +141,7 @@ footer {
   margin-bottom: 5px;
 }
 
-.timer {
-  font-size: 20px;
-  font-weight: 400;
-}
-
-#conf-timer {
-  font-size: 72px;
-  color: #444;
-}
-
-.conf-sub {
+.venue-sub {
   color: #5c9100;
   background: rgba(236, 240, 241, 0.7);
   font-size: 13px;
@@ -160,7 +150,7 @@ footer {
   font-weight: 300;
 }
 
-.conf-sub::selection {
+.venue-sub::selection {
   background: #76b900;
 }
 
@@ -173,36 +163,18 @@ footer {
   border-color: #76b900;
 }
 
-@media only screen and (max-width: 780px) {
-  #conf-timer {
-    font-size: 64px;
-  }
-  .calendar {
-    margin-bottom: 10px;
-  }
-}
-
 @media only screen and (max-width: 450px) {
-  #conf-timer {
-    font-size: 36px;
-  }
-  .conf-place {
+  .venue-place {
     display: none;
   }
-  .conf-date {
+  .venue-date {
     display: none;
   }
   .note {
     display: none;
   }
-  .conf-row {
+  .venue-row {
     margin-bottom: 7px;
-  }
-}
-
-@media only screen and (max-width: 375px) {
-  #conf-timer {
-    font-size: 28px;
   }
 }
 
@@ -210,19 +182,6 @@ footer {
   font-size: 12px;
 }
 
-.calendar {
-  font-size: 12px;
-  margin-top: 3px;
-}
-
-.calendar img {
-  margin-right: 5px;
-}
-
 .ind-cal {
   margin: 0 5px;
-}
-
-.calendar img {
-  height: 20px;
 }

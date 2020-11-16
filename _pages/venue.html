@@ -27,23 +27,22 @@ permalink: /venue/
 <body>
     <div class="top-strip"></div>
     <div class="container">
-        <div class="page-header" id="conf-title">
+        <div class="page-header" id="venue-title">
             <h1>
                 <span id="venue-header-long"></span>
                 (<span id="venue-header-short"></span>)
             </h1>
         </div>
-        {% for conf in site.data.papers %}
-        <div id="{{conf.venue}}{{conf.year}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
-            <div class="row conf-row">
+        {% for venue in site.data.papers %}
+        <div id="{{venue.venue}}{{venue.year}}" class="{% for sub in venue.sub %} {{sub}}-conf {% endfor %}">
+            <div class="row venue-row">
                 <div class="col-xs-12">
-                    <a class="conf-title" href="#">{{conf.venue}}
-                        {{conf.year}}</a>
-                    &nbsp;&nbsp;<span class="conf-place">({{ conf.date }}. </span><span class="conf-place">
-                        {{ conf.place }}.)</span>
+                    <a class="venue-title" href="#">{{venue.venue}}
+                        {{venue.year}}</a>
+                    &nbsp;&nbsp;<span class="venue-place">({{ venue.date }}. {{ venue.place }}.)</span>
                 </div>
             </div>
-            {% for award in conf.awards %}
+            {% for award in venue.awards %}
             <div class="row">
                 <div class="col-xs-12">
                     <div class="paper-title">
@@ -56,7 +55,7 @@ permalink: /venue/
                     <div class="paper-title">
                         <a href="{{award.link}}">{{award.title}}</a>
                     </div>
-                    <div class="deadline">
+                    <div class="author-names">
                         {{award.author}}
                     </div>
                     <div class="award-source">
