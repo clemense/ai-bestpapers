@@ -28,13 +28,17 @@ permalink: /conference/
     <div class="top-strip"></div>
     <div class="container">
         <div class="page-header" id="conf-title">
+            <h1>
+                <span id="venue-header-long"></span>
+                (<span id="venue-header-short"></span>)
+            </h1>
             {% for venue in site.data.papers %}
             <div id="{{venue.venue}}{{venue.year}}" class="row">
                 <div class="col-xs-12 col-sm-12">
-                    <h1>
-                        <a id="conf-title-href" nohref>{{venue.venue}} {{venue.year}}</a>
+                    <h3>
+                        <a id="conf-title-href" nohref>{{venue.year}}</a>
                         <span id="twitter-box"></span>
-                    </h1>
+                    </h3>
                 </div>
                 <div class="meta deadline col-xs-12">
                     <span id="conf-date"></span>. <span id="conf-place"></span>.<br>
@@ -83,6 +87,13 @@ permalink: /conference/
             var url = new URL(window.location);
             var venue = url.searchParams.get('id');
             console.log(venue);
+
+            {% for venue in site.data.venues %}
+            if (venue == "{{ venue.name }}") {
+                $('#venue-header-long').text("{{ venue.long }}")
+                $('#venue-header-short').text("{{ venue.name }}")
+            }
+            {% endfor %}
 
             {% for venue in site.data.papers %}
             if (venue != "{{ venue.venue }}") {
