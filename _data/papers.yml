@@ -451,3 +451,25 @@
   place: Toronto, Canada
   date: October 15-17, 2019
   sub: RO
+
+- venue: RSS
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: A Magnetically-Actuated Untethered Jellyfish-Inspired Soft Milliswimmer
+    author: Ziyu Ren, Tianlu Wang, Wenqi Hu, Metin Sitti
+    link: http://rss2019.informatik.uni-freiburg.de/papers/0069_FI.pdf
+    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
+  - award: Best Student Paper
+    title: An Online Learning Approach to Model Predictive Control
+    author: Nolan Wagener, Ching-an Cheng, Jacob Sacks, Byron Boots
+    link: http://rss2019.informatik.uni-freiburg.de/papers/0118_FI.pdf
+    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
+  - award: Best Systems Paper
+    title: Learning to Throw Arbitrary Objects with Residual Physics
+    author: Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas A. Funkhouser
+    link: http://rss2019.informatik.uni-freiburg.de/papers/0030_FI.pdf
+    source: http://rss2019.informatik.uni-freiburg.de/program/awards/
+  place: Freiburg, Germany
+  date: June 22-26, 2019
+  sub: RO
