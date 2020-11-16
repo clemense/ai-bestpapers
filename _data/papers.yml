@@ -34,7 +34,7 @@
     link: https://ieeexplore.ieee.org/abstract/document/9216900
     author: Lidong Yang, Li Zhang
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/80-ieee-case-best-student-conference-paper-award
-    note: Two recipients this year.
+    # note: (Two best student paper recipients this year.)
   - award: Best Application Paper
     title: A System for Human-In-The-Loop Simulation of Industrial Collaborative Robot
       Applications

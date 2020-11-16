@@ -30,7 +30,7 @@ permalink: /venue/
         <div class="page-header" id="venue-title">
             <h1>
                 <span id="venue-header-long"></span>
-                (<span id="venue-header-short"></span>)
+                <span id="venue-header-short"></span>
             </h1>
         </div>
         {% for venue in site.data.papers %}
@@ -39,7 +39,8 @@ permalink: /venue/
                 <div class="col-xs-12">
                     <a class="venue-title" href="#">{{venue.venue}}
                         {{venue.year}}</a>
-                    &nbsp;&nbsp;<span class="venue-place">({{ venue.date }}. {{ venue.place }}.)</span>
+                    &nbsp;&nbsp;<span class="venue-place">({{ venue.date }}.{% if venue.place != "" %}
+                        {{ venue.place }}.{% endif %})</span>
                 </div>
             </div>
             {% for award in venue.awards %}
@@ -83,11 +84,12 @@ permalink: /venue/
             var url = new URL(window.location);
             var venue = url.searchParams.get('id');
             // console.log(venue);  
+            $('#venue-header-long').text(venue);
 
             {% for venue in site.data.venues %}
             if (venue == "{{ venue.name }}") {
                 $('#venue-header-long').text("{{ venue.long }}")
-                $('#venue-header-short').text("{{ venue.name }}")
+                $('#venue-header-short').text("({{ venue.name }})")
             }
             {% endfor %}
 

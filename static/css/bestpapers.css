@@ -70,8 +70,14 @@ p {
 
 a {
   text-decoration: none;
-  border-bottom: 1px solid #ccc;
-  color: inherit;
+  /* border-bottom: 1px solid #ccc; */
+  color: #609701;
+}
+
+.venue-row a {
+    text-decoration: none;
+    border-bottom: 1px solid #ccc;
+    color: inherit;
 }
 
 p.lead.authors a {

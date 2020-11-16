@@ -43,21 +43,20 @@
             <br>
             <div class="row">
                 <div class="col-xs-12">
-                    <!-- <div class="well"> -->
                     <form class="form-horizontal">
                         <div class="form-group">
                             {% for type in site.data.types %}
                             <div class="col-md-4 col-xs-6">
                                 <div class="checkbox">
                                     <label>
-                                        <input type="checkbox" id="{{ type.sub }}-checkbox" class=""> {{ type.name }}
+                                        <input type="checkbox" id="{{ type.sub }}-checkbox" class="">
+                                        {{ type.name }}
                                     </label>
                                 </div>
                             </div>
                             {% endfor %}
                         </div>
                     </form>
-                    <!-- </div> -->
                 </div>
             </div>
             <div class="row">
@@ -75,7 +74,9 @@
                 <div class="col-xs-12">
                     <a class="venue-title" href="/venue?id={{ venue.venue }}">{{venue.venue}}
                         {{venue.year}}</a>
+                    {% if venue.place != "" %}
                     &nbsp;&nbsp;<span class="venue-place">({{ venue.place }})</span>
+                    {% endif %}
                 </div>
             </div>
             {% for award in venue.awards %}
@@ -169,7 +170,6 @@
                 if (idx >= 0)
                     subs.splice(idx, 1);
             }
-            console.log(subs);
             store.set('{{ site.domain }}', subs);
             window.history.pushState('', '', '/?sub=' + subs.join());
         });
@@ -177,18 +177,17 @@
         // Event handler on sub click
         $('.venue-sub').click(function (e) {
             var csub = $(this).data('sub');
-            for (var i = 0; i < subs.length; i++) {
-                if (subs[i] != csub) {
-                    $('#' + subs[i] + '-checkbox').prop('checked', false);
-                    $('.' + subs[i] + '-conf').hide();
+            for (var i = 0; i < all_subs.length; i++) {
+                if (all_subs[i] != csub) {
+                    $('#' + all_subs[i] + '-checkbox').prop('checked', false);
+                    $('.' + all_subs[i] + '-conf').hide();
                 }
                 else {
-                    $('#' + subs[i] + '-checkbox').prop('checked', true);
-                    $('.' + subs[i] + '-conf').show();
+                    $('#' + all_subs[i] + '-checkbox').prop('checked', true);
+                    $('.' + all_subs[i] + '-conf').show();
                 }
             }
             subs = [csub];
-            console.log(subs);
             store.set('{{ site.domain }}', subs);
             window.history.pushState('', '', '/?sub=' + subs.join());
         });
