@@ -115,7 +115,7 @@
     author: Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead,
       Brian Chen, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski, Marjorie
       Freedman
-    link: https://www.aclweb.org/anthology/2020.acl-demos.11/
+    link: https://www.ee.columbia.edu/ln/dvmm/publications/20/aidaacl2020demo.pdf
     source: https://acl2020.org/blog/ACL-2020-best-papers/
   place: Online
   date: July 5-10, 2020
@@ -298,20 +298,20 @@
   - award: Best Paper
     title: Specializing Word Embeddings (for Parsing) by Information Bottleneck
     author: Xiang Lisa Li, Jason Eisner
-    link: https://www.aclweb.org/anthology/D19-1276/
+    link: https://arxiv.org/abs/1910.00163
     source: https://2019.emnlp.org/program/award/
   - award: Best Resource Paper
     title: 'Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English
       and Sinhala English'
     author: Francisco Guzmán, Peng-Jen Chen, Myle Ott, Juan Pino, Guillaume Lample,
       Philipp Koehn, Vishrav Chaudhary, Marc’Aurelio Ranzato
-    link: https://www.aclweb.org/anthology/D19-1632/
+    link: https://arxiv.org/abs/1902.01382
     source: https://2019.emnlp.org/program/award/
   - award: Best Demo Paper
     title: 'AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models'
     author: Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian, Matt Gardner,
       Sameer Singh
-    link: https://www.aclweb.org/anthology/D19-3002/
+    link: https://arxiv.org/abs/1909.09251
     source: https://2019.emnlp.org/program/award/
   place: Hong Kong, China
   date: November 3-7, 2019
