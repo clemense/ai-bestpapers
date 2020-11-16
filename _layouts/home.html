@@ -69,16 +69,16 @@
                 </div>
             </div>
         </div>
-        {% for conf in site.data.papers %}
-        <div id="{{conf.venue}}{{conf.year}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+        {% for venue in site.data.papers %}
+        <div id="{{venue.venue}}{{venue.year}}" class="{% for sub in venue.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-xs-12">
-                    <a class="conf-title" href="/venue?id={{ conf.venue }}">{{conf.venue}}
-                        {{conf.year}}</a>
-                    &nbsp;&nbsp;<span class="conf-place">({{ conf.place }})</span>
+                    <a class="conf-title" href="/venue?id={{ venue.venue }}">{{venue.venue}}
+                        {{venue.year}}</a>
+                    &nbsp;&nbsp;<span class="conf-place">({{ venue.place }})</span>
                 </div>
             </div>
-            {% for award in conf.awards %}
+            {% for award in venue.awards %}
             <div class="row">
                 <div class="col-xs-12">
                     <div class="paper-title">
