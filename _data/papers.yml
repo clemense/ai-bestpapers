@@ -465,6 +465,52 @@
   date: October 29-31, 2018
   sub: RO
 
+- venue: RSS
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning
+    author: Marc Toussaint, Kelsey Allen, Kevin Smith, Joshua Tenenbaum
+    link: http://www.roboticsproceedings.org/rss14/p44.html
+    source: https://www.roboticsfoundation.org/awards/best-paper/
+  - award: Best Student Paper
+    title: In-Hand Manipulation via Motion Cones
+    author: Nikhil Chavan Dafle, Rachel Holladay, Alberto Rodriguez
+    link: http://www.roboticsproceedings.org/rss14/p58.html
+    source: https://www.roboticsfoundation.org/awards/best-student-paper/
+  - award: Best Systems Paper
+    title: Embedded High Precision Control and Corn Stand Counting Algorithms for
+      an Ultra-Compact 3D Printed Field Robot
+    author: Erkan Kayacan, Zhongzhong Zhang, Girish Chowdhary
+    link: http://www.roboticsproceedings.org/rss14/p36.html
+    source: https://www.roboticsfoundation.org/awards/best-systems-paper-in-memory-of-seth-teller/
+  place: Pittsburgh, USA
+  date: June 26-30, 2018
+  sub: RO
+
+- venue: RSS
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Asymptotically Optimal Design of Piecewise Cylindrical Robots using Motion
+      Planning
+    author: Cenk Baykal, Ron Alterovitz
+    link: http://roboticsproceedings.org/rss13/p20.html
+    source: https://www.roboticsfoundation.org/awards/best-paper/
+  - award: Best Student Paper
+    title: Improving Slip Prediction on Mars Using Thermal Inertia Measurements
+    author: Christopher Cunningham, Issa Nesnas, William Whittaker
+    link: http://roboticsproceedings.org/rss13/p38.html
+    source: https://www.roboticsfoundation.org/awards/best-student-paper/
+  - award: Best Systems Paper
+    title: 'XPose: Reinventing User Interaction with Flying Cameras'
+    author: Ziquan Lan, Mohit Shridhar, David Hsu, Shengdong Zhao
+    link: http://roboticsproceedings.org/rss13/p06.html
+    source: https://www.roboticsfoundation.org/awards/best-systems-paper-in-memory-of-seth-teller/
+  place: Cambridge, USA
+  date: July 12-16, 2017
+  sub: RO
+
 - venue: WAFR
   year: 2016
   awards:
@@ -476,4 +522,58 @@
     source: https://journals.sagepub.com/doi/10.1177/0278364919827656
   place: San Francisco, USA
   date: December 18-20, 2016
+  sub: RO
+
+- venue: RSS
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Efficient Grounding of Abstract Spatial Concepts for Natural Language Interaction
+      with Robot Manipulators
+    author: Rohan Paul, Jacob Arkin, Nicholas Roy and Thomas M. Howard
+    link: http://roboticsproceedings.org/rss12/p37.html
+    source: https://www.roboticsfoundation.org/awards/best-paper/
+  - award: Best Student Paper
+    title: 'Coordinated multi-arm motion planning: Reaching for moving objects in
+      the face of uncertainty'
+    author: Seyed Sina Mirrazavi Salehian, Nadia Figueroa and Aude Billard
+    link: http://roboticsproceedings.org/rss12/p19.html
+    source: https://www.roboticsfoundation.org/awards/best-student-paper/
+  - award: Best Systems Paper
+    title: An End-To-End System for Accomplishing Tasks with Modular Robots
+    author: Gangyuan Jing, Tarik Tosun, Mark Yim, Hadas Kress-Gazit
+    link: http://roboticsproceedings.org/rss12/p25.html
+    source: https://www.roboticsfoundation.org/awards/best-systems-paper-in-memory-of-seth-teller/
+  - award: Best Systems Paper
+    title: 'Lessons from the Amazon Picking Challenge: Four Aspects of Building Robotic
+      Systems'
+    author: Clemens Eppner, Sebastian Höfer, Rico Jonschkowski, Roberto Martín-Martín,
+      Arne Sieverling, Vincent Wall, Oliver Brock
+    link: http://roboticsproceedings.org/rss12/p36.html
+    source: https://www.roboticsfoundation.org/awards/best-systems-paper-in-memory-of-seth-teller/
+  place: Ann Arbor, USA
+  date: July 18-22, 2016
+  sub: RO
+
+- venue: RSS
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Guidance and Navigation for UAV Airborne Docking
+    author: Daniel Wilson, Ali Goktogan, Salah Sukkarieh
+    link: http://www.roboticsproceedings.org/rss11/p17.html
+    source: https://www.roboticsfoundation.org/awards/best-paper/
+  - award: Best Student Paper
+    title: On the hardness of unlabeled motion planning
+    author: Kiril Solovey, Dan Halperin
+    link: http://www.roboticsproceedings.org/rss11/p46.html
+    source: https://www.roboticsfoundation.org/awards/best-student-paper/
+  - award: Best Systems Paper
+    title: Autonomy Infused Teleoperation with Application to BCI Manipulation
+    author: Katharina Mulling, Arun Venkatraman, Jean-Sebastien Valois, John Downey,
+      Jeffrey Weiss, Martial Hebert, Andrew Schwartz, Jennifer Collinger, Andrew Bagnell
+    link: http://www.roboticsproceedings.org/rss11/p39.html
+    source: https://www.roboticsfoundation.org/awards/best-systems-paper-in-memory-of-seth-teller/
+  place: Rome, Italy
+  date: July 13-17, 2015
   sub: RO
