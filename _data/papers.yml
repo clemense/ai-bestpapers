@@ -1,5 +1,27 @@
 ---
 
+- venue: CoRL
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Learning Latent Representations to Influence Multi-Agent Interaction
+    author: Annie Xie, Dylan Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
+    link: https://corlconf.github.io/paper_128/
+    source: https://www.robot-learning.org/program/awards
+  - award: Best System Paper
+    title: "SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving"
+    author: Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao, Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Chongxi Huang, Ying Wen, Kimia Hassanzadeh, Daniel Graves, Zhengbang Zhu, Yihan Ni, Nhat Nguyen, Mohamed Elsayed, Haitham Ammar, Alexander Cowen-Rivers, Sanjeevan Ahilan, Zheng Tian, Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen, Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
+    link: https://corlconf.github.io/paper_53/
+    source: https://www.robot-learning.org/program/awards
+  - award: Best Presentation
+    title: Accelerating Reinforcement Learning with Learned Skill Priors
+    author: Karl Pertsch, Youngwoon Lee, Joseph Lim
+    link: https://corlconf.github.io/paper_44/
+    source: https://www.robot-learning.org/program/awards
+  place: Online
+  date: November 16-18, 2020
+  sub: RO
+
 - venue: ECCV
   year: 2020
   awards:
@@ -458,7 +480,7 @@
   - award: Best Presentation
     title: Learning over Subgoals for Efficient Navigation of Structured, Unknown
       Environments
-    author: Gregory Stein
+    author: Gregory J. Stein, Christopher Bradley, Nicholas Roy
     link: http://proceedings.mlr.press/v87/stein18a.html
     source: https://sites.google.com/a/robot-learning.org/corl2017/corl2018
   place: Zürich, Switzerland
