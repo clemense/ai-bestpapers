@@ -9,8 +9,14 @@
     link: https://corlconf.github.io/paper_128/
     source: https://www.robot-learning.org/program/awards
   - award: Best System Paper
-    title: "SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving"
-    author: Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao, Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Chongxi Huang, Ying Wen, Kimia Hassanzadeh, Daniel Graves, Zhengbang Zhu, Yihan Ni, Nhat Nguyen, Mohamed Elsayed, Haitham Ammar, Alexander Cowen-Rivers, Sanjeevan Ahilan, Zheng Tian, Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen, Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
+    title: 'SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous
+      Driving'
+    author: Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao,
+      Weinan Zhang, Montgomery Alban, Iman Fadakar, Zheng Chen, Chongxi Huang, Ying
+      Wen, Kimia Hassanzadeh, Daniel Graves, Zhengbang Zhu, Yihan Ni, Nhat Nguyen,
+      Mohamed Elsayed, Haitham Ammar, Alexander Cowen-Rivers, Sanjeevan Ahilan, Zheng
+      Tian, Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen,
+      Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
     link: https://corlconf.github.io/paper_53/
     source: https://www.robot-learning.org/program/awards
   - award: Best Presentation
@@ -310,6 +316,61 @@
       Hong
     link: https://arxiv.org/abs/1909.06339
     source: https://www.iros2019.org/awards
+  place: Macau, China
+  date: November 4-8, 2019
+  sub: RO
+
+- venue: IROS
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient
+      Mapping on an MAV with Ultra-Wide FOV Stereo Vision
+    author: M. G. Müller, F. Steidle, M. J. Schuster, P. Lutz, M. Maier, S. Stoneman,
+      T. Tomic, W. Stürzl
+    link: https://ieeexplore.ieee.org/abstract/document/8594117
+    source: https://www.iros2018.org/awards
+  - award: Best Student Paper
+    title: Online Temporal Calibration for Monocular Visual-Inertial Systems
+    author: Tong Qin, Shaojie Shen
+    link: https://ieeexplore.ieee.org/abstract/document/8593603
+    source: https://www.iros2018.org/awards
+  - award: Best Application Paper
+    title: Closed-Loop Single-Beacon Passive Acoustic Navigation for Low-Cost Autonomous
+      Underwater Vehicles
+    author: Nicholas R. Rypkema, Erin M. Fischell, Henrik Schmidt
+    link: https://ieeexplore.ieee.org/abstract/document/8593626
+    source: https://www.iros2018.org/awards
+  - award: Best Cognitive Robotics Paper
+    title: 'Augmenting Physical Simulators with Stochastic Neural Networks: Case Study
+      of Planar Pushing and Bouncing'
+    author: Anurag Ajay, Jiajun Wu, Nima Fazeli, Maria Bauza, Leslie P. Kaelbling,
+      Joshua B. Tenenbaum, Alberto Rodriguez
+    link: https://arxiv.org/abs/1808.03246
+    source: https://www.iros2018.org/awards
+  - award: Best RoboCup Paper
+    title: Motion Decoupling and Composition via Reduced Order Model Optimization
+      for Dynamic Humanoid Walking with CLF-QP based Active Force Control
+    author: Aly Magassouba, Komei Sugiura, Hisashi Kawai
+    link: https://arxiv.org/abs/1910.00687
+    source: https://www.iros2018.org/awards
+  - award: Best Novel Technology Paper for Amusement Culture
+    title: Real-Time Dance Generation to Music for a Legged Robot
+    author: Thomas Bi, Péter Fankhauser, Dario Bellicoso, Marco Hutter
+    link: https://ieeexplore.ieee.org/abstract/document/8593983
+    source: https://www.iros2018.org/awards
+  - award: Best Novel Technology Paper for Amusement Culture
+    title: 'Hands and Faces, Fast: Mono-Camera User Detection Robust Enough to Directly
+      Control a UAV in Flight'
+    author: Sepehr MohaimenianPour, Richard Vaughan
+    link: https://ieeexplore.ieee.org/abstract/document/8593709
+    source: https://www.iros2018.org/awards
+  - award: Best Safety, Security, and Rescue Robotics Paper
+    title: Fire-Aware Planning of Aerial Trajectories and Ignitions
+    author: Evan Beachly, Carrick Detweiler, Sebastian Elbaum, Brittany Duncan, Carl
+      Hildebrandt, Dirac Twidwell, Craig Allen
+    link: https://ieeexplore.ieee.org/abstract/document/8593568
+    source: https://www.iros2018.org/awards
   place: Macau, China
   date: November 4-8, 2019
   sub: RO
