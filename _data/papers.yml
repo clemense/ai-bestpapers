@@ -1,5 +1,22 @@
 ---
 
+- venue: EMNLP
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: Digital voicing of Silent Speech
+    author: David Gaddy, Dan Klein
+    link: https://www.aclweb.org/anthology/2020.emnlp-main.445/
+    source: https://2020.emnlp.org/blog/2020-11-19-best-papers/
+  - award: Best Demonstration Paper
+    title: "🤗 Transformers: State-of-the-art Natural Language Processing"
+    author: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander M. Rush
+    link: https://www.aclweb.org/anthology/2020.emnlp-demos.6/
+    source: https://2020.emnlp.org/blog/2020-11-19-best-papers/
+  place: Online
+  date: November 16-20, 2020
+  sub: NLP
+
 - venue: CoRL
   year: 2020
   awards:
