@@ -1,5 +1,18 @@
 ---
 
+- venue: 3DV
+  year: 2020
+  awards:
+  - award: Best Paper
+    title: 'Grasping Field: Learning Implicit Representations for Human Grasps'
+    author: Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol
+      Muandet, Siyu Tang
+    link: https://arxiv.org/abs/2008.04451
+    source: http://3dv2020.dgcv.nii.ac.jp/awards.html
+  place: Online
+  date: November 25-28, 2020
+  sub: CV
+
 - venue: EMNLP
   year: 2020
   awards:
@@ -9,8 +22,12 @@
     link: https://www.aclweb.org/anthology/2020.emnlp-main.445/
     source: https://2020.emnlp.org/blog/2020-11-19-best-papers/
   - award: Best Demonstration Paper
-    title: "🤗 Transformers: State-of-the-art Natural Language Processing"
-    author: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander M. Rush
+    title: "\U0001F917 Transformers: State-of-the-art Natural Language Processing"
+    author: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
+      Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison,
+      Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen
+      Xu, Teven Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest, Alexander
+      M. Rush
     link: https://www.aclweb.org/anthology/2020.emnlp-demos.6/
     source: https://2020.emnlp.org/blog/2020-11-19-best-papers/
   place: Online
@@ -481,6 +498,20 @@
   date: October 15-17, 2019
   sub: RO
 
+- venue: 3DV
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: Correspondence-Free Region Localization for Partial Shape Similarity via
+      Hamiltonian Spectrum Alignment
+    author: Arianna Rampini, Irene Tallini, Alex Bronstein, Maks Ovsjanikov, Emanuele
+      Rodola
+    link: https://arxiv.org/abs/1906.06226
+    source: http://3dv19.gel.ulaval.ca/
+  place: Québec, Canada
+  date: September 16-19, 2019
+  sub: CV
+
 - venue: RSS
   year: 2019
   awards:
@@ -565,6 +596,25 @@
   date: October 29-31, 2018
   sub: RO
 
+- venue: 3DV
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Robust Fitting of Subdivision Surfaces for Smooth Shape Analysis
+    author: Virginia Estellers, Frank R. Schmidt, Daniel Cremers
+    link: https://ieeexplore.ieee.org/abstract/document/8490978/
+    source: http://3dv18.uniud.it/
+  - award: Best Student Paper
+    title: 'Neural Body Fitting: Unifying Deep Learning and Model Based Human Pose
+      and Shape Estimation'
+    author: Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter Gehler, Bernt
+      Schiele
+    link: https://arxiv.org/abs/1808.05942
+    source: http://3dv18.uniud.it/
+  place: Verona, Italy
+  date: September 5-8, 2018
+  sub: CV
+
 - venue: RSS
   year: 2018
   awards:
@@ -587,6 +637,23 @@
   place: Pittsburgh, USA
   date: June 26-30, 2018
   sub: RO
+
+- venue: 3DV
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Learning Human Motion Models for Long-term Predictions
+    author: Partha Ghosh, Jie Song, Emre Aksan, Otmar Hilliges
+    link: https://arxiv.org/abs/1704.02827
+    source: http://irc.cs.sdu.edu.cn/3dv/index.html
+  - award: Best Student Paper
+    title: Sparsity Invariant CNNs
+    author: Jonas Uhrig, Nick Schneider, Lukas Schneider, Thomas Brox, Andreas Geiger
+    link: https://arxiv.org/abs/1708.06500
+    source: http://irc.cs.sdu.edu.cn/3dv/index.html
+  place: Qingdao, China
+  date: October 10-12, 2017
+  sub: CV
 
 - venue: RSS
   year: 2017
@@ -624,6 +691,18 @@
   date: December 18-20, 2016
   sub: RO
 
+- venue: 3DV
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Depth from Gradients in Dense Light Fields for Object Reconstruction
+    author: Kaan Yucer, Changil Kim, Alexander Sorkine-Hornung, Olga Sorkine-Hornung
+    link: https://ieeexplore.ieee.org/abstract/document/7785098
+    source: http://3dv.stanford.edu/
+  place: Stanford, USA
+  date: October 25-28, 2016
+  sub: CV
+
 - venue: RSS
   year: 2016
   awards:
@@ -655,6 +734,18 @@
   date: July 18-22, 2016
   sub: RO
 
+- venue: 3DV
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Towards Probabilistic Volumetric Reconstruction using Ray Potentials
+    author: Ali Ulusoy, Andreas Geiger, Michael Black
+    link: https://ieeexplore.ieee.org/abstract/document/7335464/
+    source: http://3dv2015.inria.fr/index.html
+  place: Lyon, France
+  date: October 19-22, 2015
+  sub: CV
+
 - venue: RSS
   year: 2015
   awards:
@@ -677,3 +768,27 @@
   place: Rome, Italy
   date: July 13-17, 2015
   sub: RO
+
+- venue: 3DV
+  year: 2014
+  awards:
+  - award: Best Paper
+    title: 3D Tracking of Multiple Objects with Identical Appearance using RGB-D Input
+    author: Carl Yuheng Ren, Victor Prisacariu, Olaf Kaehler, Ian Reid, David Murray
+    link: https://ieeexplore.ieee.org/abstract/document/7035808
+    source: http://www.3dimpvt.org/awards/
+  place: Tokyo, Japan
+  date: December 8-11, 2014
+  sub: CV
+
+- venue: 3DV
+  year: 2013
+  awards:
+  - award: Best Paper
+    title: The Visual Turing Test for Scene Reconstruction
+    author: Qi Shan, Riley Adams, Brian Curless, Yasutaka Furukawa, Steve Seitz
+    link: https://ieeexplore.ieee.org/abstract/document/6599051
+    source: www.3dimpvt.cs.washington.edu/awards/
+  place: Seattle, USA
+  date: June 29-30, 2013
+  sub: CV

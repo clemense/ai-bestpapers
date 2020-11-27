@@ -47,3 +47,6 @@
 - name: WAFR
   long: International Workshop on the Algorithmic Foundations of Robotics
   link: http://www.algorithmic-robotics.org/
+- name: 3DV
+  long: International Conference on 3D Vision
+  link: www.3dv.org
