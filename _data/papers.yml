@@ -745,6 +745,48 @@
   date: October 25-28, 2016
   sub: CV
 
+- venue: IROS
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: ANYmal - a Highly Mobile and Dynamic Quadrupedal Robot
+    author: Marco Hutter, Christian Gehring, Dominic Jud, Andreas Lauber, Carmine Dario Bellicoso, Vassilios Tsounis, Jemin Hwangbo, Karen Bodie, Péter Fankhauser, Michael Bloesch, Remo Diethelm, Samuel Bachmann, Amir Melzer, Mark Hoepflinger
+    link: https://ieeexplore.ieee.org/abstract/document/7758092
+    source: http://www.iros2016.org/awards.html
+  - award: Best Student Paper
+    title: "Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments"
+    author: Markus Wulfmeier, Dominic Zeng Wang, Ingmar Posner
+    link: https://arxiv.org/abs/1607.02329
+    source: http://www.iros2016.org/awards.html
+  - award: Best Application Award Paper
+    title: Skeletal Structure with Artificial Perspiration for Cooling by Latent Heat for Musculoskeletal Humanoid Kengoro
+    author: Toyotaka Kozuki, Hirose Toshinori, Takuma Shirai, Shinsuke Nakashima, Yuki Asano, Yohei Kakiuchi, Kei Okada, Masayuki Inaba
+    link: https://ieeexplore.ieee.org/abstract/document/7759335
+    source: http://www.iros2016.org/awards.html
+  - award: Best Safety, Security, and Recue Robotics Paper
+    title: A Palm for a Rock Climbing Robot Based on Dense Arrays of Micro-Spines
+    author: Shiquan Wang, Hao Jiang, Mark Cutkosky
+    link: https://ieeexplore.ieee.org/abstract/document/7759034
+    source: http://www.iros2016.org/awards.html
+  - award: Best Cognitive Robotics Paper
+    title: "Predicting Actions to Act Predictably: Cooperative Partial Motion Planning with Maximum Entropy Models"
+    author: Mark Pfeiffer, Ulrich Schwesinger, Hannes Sommer, Enric Galceran, Roland Siegwart
+    link: https://ieeexplore.ieee.org/abstract/document/7759329
+    source: http://www.iros2016.org/awards.html
+  - award: Best RoboCup Paper
+    title: "Multi-Robot Search for a Moving Target: Integrating World Modeling, Task Assignment and Context"
+    author: Francesco Riccio, Emanuele Borzi, Guglielmo Gemignani, Daniele Nardi
+    link: https://ieeexplore.ieee.org/abstract/document/7759298
+    source: http://www.iros2016.org/awards.html
+  - award: Best Novel Technology Paper for Amusement Culture
+    title: Robot Artist for Colorful Picture Painting with Visual Control System
+    author: Ren Luo, Ming-Jyun Hong, Ping-Chang Chung
+    link: https://ieeexplore.ieee.org/abstract/document/7759464
+    source: http://www.iros2016.org/awards.html
+  place: Daejeon, Korea
+  date: October 9-14, 2016
+  sub: RO
+
 - venue: RSS
   year: 2016
   awards:
@@ -787,6 +829,38 @@
   place: Lyon, France
   date: October 19-22, 2015
   sub: CV
+
+- venue: IROS
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Tactile Sensing for Gecko-Inspired Adhesion
+    author: Xin Alice Wu, Srinivasan Suresh, Hao Jiang, John Ulmen, Elliot Wright Hawkes, David Christensen, Mark Cutkosky
+    link: https://ieeexplore.ieee.org/abstract/document/7353566
+    source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
+  - award: Best Student Paper
+    title: Hybrid Aerial and Aquatic Locomotion in an At-Scale Robotic Insect
+    author: YuFeng Chen, Elizabeth Farrell Helbling, Gravish Nicholas, Kevin Ma, Robert Wood
+    link: https://ieeexplore.ieee.org/abstract/document/7353394
+    source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
+  - award: Best Application Paper
+    title: Cloth Dynamics Modeling in Latent Spaces and its Application to Robotic Clothing Assistance
+    author: Nishanth Koganti, Jimson Gelbolingo Ngeo, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata
+    link: https://ieeexplore.ieee.org/abstract/document/7353860
+    source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
+  - award: Best Novel Technology Paper for Amusement Culture
+    title: Momentum-Driven Single-Actuated Swimming Robot
+    author: Gilad Refael, Amir Degani
+    link: https://ieeexplore.ieee.org/abstract/document/7353684
+    source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
+  - award: Best RoboCup Paper
+    title: "POMDP to the Rescue: Boosting Performance for Robocup Rescue"
+    author: Kegui Wu, Wee Sun Lee, David Hsu
+    link: https://ieeexplore.ieee.org/abstract/document/7354124
+    source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
+  place: Hamburg, Germany
+  date: September 28 - October 2, 2015
+  sub: RO
 
 - venue: RSS
   year: 2015
