@@ -655,6 +655,48 @@
   date: October 10-12, 2017
   sub: CV
 
+- venue: IROS
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Repetitive extreme-acceleration (14-g) spatial jumping with Salto-1P
+    authors: Duncan W. Haldane, Justin K. Yim, Ronald S. Fearing
+    link: https://ieeexplore.ieee.org/abstract/document/8206172
+    source: https://www.iros2017.org/program/award-winners
+  - award: Best Student Paper
+    title: Socially Aware Motion Planning with Deep Reinforcement Learning
+    authors: Yu Fan Chen, Michael Everett, Miao Liu, Jonathan P. How
+    link: https://arxiv.org/abs/1703.08862
+    source: https://www.iros2017.org/program/award-winners
+  - award: Best Application Paper
+    title: A Multi-Track Elevator System for E-Commerce Fulﬁllment Centers
+    author: Rachel M. Hoffman, H. Harry Asada
+    link: https://ieeexplore.ieee.org/abstract/document/8206341
+    source: https://www.iros2017.org/program/award-winners
+  - award: Best Safety, Security, and Recue Robotics Paper
+    title: Development of a 20-m-long Giacometti Arm with Balloon Body Based on Kinematic Model with Air Resistance
+    author: Masashi Takeichi, Koichi Suzumori, Gen Endo, Hiroyuki Nabae
+    link: https://ieeexplore.ieee.org/abstract/document/8206097
+    source: https://www.iros2017.org/program/award-winners
+  - award: Best Cognitive Robotics Paper
+    title: Task-oriented Grasping with Semantic and Geometric Scene Understanding
+    author: Renaud Detry, Jeremie Papon Larry Matthies
+    link: https://ieeexplore.ieee.org/abstract/document/8206162
+    source: https://www.iros2017.org/program/award-winners
+  - award: Best RoboCup Paper
+    title: Online Visual Robot Tracking and Identiﬁcation using Deep LSTM Networks
+    author: Hafez Farazi, Sven Behnke
+    link: https://arxiv.org/abs/1810.04941
+    source: https://www.iros2017.org/program/award-winners
+  - award: Best Novel Technology Paper for Amusement Culture
+    title: Fabrication, Modeling, and Control of Plush Robots
+    author: James M. Bern, Grace Kumagai, Stelian Coros
+    link: https://ieeexplore.ieee.org/abstract/document/8206223
+    source: https://www.iros2017.org/program/award-winners
+  place: Vancouver, Canada
+  date: September 24-28, 2017
+  sub: RO
+
 - venue: RSS
   year: 2017
   awards:
