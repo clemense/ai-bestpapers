@@ -89,6 +89,8 @@
                 </div>
             </div>
             {% for award in venue.awards %}
+            {% assign prev_i = forloop.index0 | minus: 1 %}
+            {% if prev_i < 0 or award.award != venue.awards[prev_i].award %}
             <div class="row">
                 <div class="col-xs-12">
                     <div class="paper-title">
@@ -96,6 +98,7 @@
                     </div>
                 </div>
             </div>
+            {% endif %}
             <div class="row">
                 <div class="col-xs-12 award-info">
                     <div class="paper-title">
