@@ -96,7 +96,6 @@
     link: https://ieeexplore.ieee.org/abstract/document/9216900
     author: Lidong Yang, Li Zhang
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/80-ieee-case-best-student-conference-paper-award
-    note: (Two best student paper recipients this year.)
   - award: Best Application Paper
     title: A System for Human-In-The-Loop Simulation of Industrial Collaborative Robot
       Applications
@@ -508,6 +507,36 @@
   date: '2019'
   sub: AI
 
+- venue: NeurIPS
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Non-delusional Q-learning and Value-iteration
+    author: Tyler Lu, Dale Schuurmans, Craig Boutilier
+    link: https://proceedings.neurips.cc/paper/2018/hash/5fd0245f6c9ddbdf3eff0f505975b6a7-Abstract.html
+    source: https://nips.cc/Conferences/2018/Awards
+  - award: Best Paper
+    title: Optimal Algorithms for Non-Smooth Distributed Optimization in Networks
+    author: Kevin Scaman, Francis Bach, Sebastien Bubeck, Laurent Massoulié, Yin Tat
+      Lee
+    link: https://proceedings.neurips.cc/paper/2018/hash/8fb21ee7a2207526da55a679f0332de2-Abstract.html
+    source: https://nips.cc/Conferences/2018/Awards
+  - award: Best Paper
+    title: Nearly Tight Sample Complexity Bounds for Learning Mixtures of Gaussians
+      via Sample Compression Schemes
+    author: Hassan Ashtiani, Shai Ben-David, Nick Harvey, Christopher Liaw, Abbas
+      Mehrabian, Yaniv Plan
+    link: https://proceedings.neurips.cc/paper/2018/hash/70ece1e1e0931919438fcfc6bd5f199c-Abstract.html
+    source: https://nips.cc/Conferences/2018/Awards
+  - award: Best Paper
+    title: Neural Ordinary Differential Equations
+    author: Tian Qi Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud
+    link: https://proceedings.neurips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html
+    source: https://nips.cc/Conferences/2018/Awards
+  place: Montréal, Canada
+  date: December 2-8, 2018
+  sub: ML
+
 - venue: CoRL
   year: 2018
   awards:
@@ -593,7 +622,7 @@
     link: https://ieeexplore.ieee.org/abstract/document/8593568
     source: https://www.iros2018.org/awards
   place: Madrid, Spain
-  date: October, 1-5, 2018
+  date: October 1-5, 2018
   sub: RO
 
 - venue: 3DV
@@ -638,6 +667,33 @@
   date: June 26-30, 2018
   sub: RO
 
+- venue: NeurIPS
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Safe and Nested Subgame Solving for Imperfect-Information Games
+    author: Noam Brown, Tuomas Sandholm
+    link: https://papers.nips.cc/paper/2017/hash/7fe1f8abaad094e0b5cb1b01d712f708-Abstract.html
+    source: https://nips.cc/Conferences/2017/Awards
+  - award: Best Paper
+    title: Variance-based Regularization with Convex Objectives
+    author: Hongseok Namkoong, John Duchi
+    link: https://proceedings.neurips.cc/paper/2017/hash/5a142a55461d5fef016acfb927fee0bd-Abstract.html
+    source: https://nips.cc/Conferences/2017/Awards
+  - award: Best Paper
+    title: A Linear-Time Kernel Goodness-of-Fit Test
+    author: Wittawat Jitkrittum, Wenkai Xu, Zoltan Szabo, Kenji Fukumizu, Arthur Gretton
+    link: https://proceedings.neurips.cc/paper/2017/hash/979d472a84804b9f647bc185a877a8b5-Abstract.html
+    source: https://nips.cc/Conferences/2017/Awards
+  - award: Test of Time
+    title: Random Features for Large-Scale Kernel Machines
+    author: Ali Rahimi, Benjamen Recht
+    link: https://papers.nips.cc/paper/2007/file/013a006f03dbc5392effeb8f18fda755-Paper.pdf
+    source: https://nips.cc/Conferences/2017/Awards
+  place: Long Beach, USA
+  date: December 4-9, 2017
+  sub: ML
+
 - venue: 3DV
   year: 2017
   awards:
@@ -674,7 +730,8 @@
     link: https://ieeexplore.ieee.org/abstract/document/8206341
     source: https://www.iros2017.org/program/award-winners
   - award: Best Safety, Security, and Recue Robotics Paper
-    title: Development of a 20-m-long Giacometti Arm with Balloon Body Based on Kinematic Model with Air Resistance
+    title: Development of a 20-m-long Giacometti Arm with Balloon Body Based on Kinematic
+      Model with Air Resistance
     author: Masashi Takeichi, Koichi Suzumori, Gen Endo, Hiroyuki Nabae
     link: https://ieeexplore.ieee.org/abstract/document/8206097
     source: https://www.iros2017.org/program/award-winners
@@ -733,6 +790,23 @@
   date: December 18-20, 2016
   sub: RO
 
+- venue: NeurIPS
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Value Iteration Networks
+    author: Aviv Tamar, Yi Wu, Garrett Thomas, Sergey Levine, Pieter Abbeel
+    link: https://papers.nips.cc/paper/2016/hash/c21002f464c5fc5bee3b98ced83963b8-Abstract.html
+    source: https://nips.cc/Conferences/2016/Awards
+  - award: Best Student Paper
+    title: Matrix Completion has No Spurious Local Minimum
+    author: Rong Ge, Jason Lee, Tengyu Ma
+    link: https://proceedings.neurips.cc/paper/2016/hash/7fb8ceb3bd59c7956b1df66729296a4c-Abstract.html
+    source: https://nips.cc/Conferences/2016/Awards
+  place: Barcelona, Spain
+  date: December 5-11, 2016
+  sub: ML
+
 - venue: 3DV
   year: 2016
   awards:
@@ -750,17 +824,22 @@
   awards:
   - award: Best Paper
     title: ANYmal - a Highly Mobile and Dynamic Quadrupedal Robot
-    author: Marco Hutter, Christian Gehring, Dominic Jud, Andreas Lauber, Carmine Dario Bellicoso, Vassilios Tsounis, Jemin Hwangbo, Karen Bodie, Péter Fankhauser, Michael Bloesch, Remo Diethelm, Samuel Bachmann, Amir Melzer, Mark Hoepflinger
+    author: Marco Hutter, Christian Gehring, Dominic Jud, Andreas Lauber, Carmine
+      Dario Bellicoso, Vassilios Tsounis, Jemin Hwangbo, Karen Bodie, Péter Fankhauser,
+      Michael Bloesch, Remo Diethelm, Samuel Bachmann, Amir Melzer, Mark Hoepflinger
     link: https://ieeexplore.ieee.org/abstract/document/7758092
     source: http://www.iros2016.org/awards.html
   - award: Best Student Paper
-    title: "Watch This: Scalable Cost-Function Learning for Path Planning in Urban Environments"
+    title: 'Watch This: Scalable Cost-Function Learning for Path Planning in Urban
+      Environments'
     author: Markus Wulfmeier, Dominic Zeng Wang, Ingmar Posner
     link: https://arxiv.org/abs/1607.02329
     source: http://www.iros2016.org/awards.html
   - award: Best Application Award Paper
-    title: Skeletal Structure with Artificial Perspiration for Cooling by Latent Heat for Musculoskeletal Humanoid Kengoro
-    author: Toyotaka Kozuki, Hirose Toshinori, Takuma Shirai, Shinsuke Nakashima, Yuki Asano, Yohei Kakiuchi, Kei Okada, Masayuki Inaba
+    title: Skeletal Structure with Artificial Perspiration for Cooling by Latent Heat
+      for Musculoskeletal Humanoid Kengoro
+    author: Toyotaka Kozuki, Hirose Toshinori, Takuma Shirai, Shinsuke Nakashima,
+      Yuki Asano, Yohei Kakiuchi, Kei Okada, Masayuki Inaba
     link: https://ieeexplore.ieee.org/abstract/document/7759335
     source: http://www.iros2016.org/awards.html
   - award: Best Safety, Security, and Recue Robotics Paper
@@ -769,12 +848,15 @@
     link: https://ieeexplore.ieee.org/abstract/document/7759034
     source: http://www.iros2016.org/awards.html
   - award: Best Cognitive Robotics Paper
-    title: "Predicting Actions to Act Predictably: Cooperative Partial Motion Planning with Maximum Entropy Models"
-    author: Mark Pfeiffer, Ulrich Schwesinger, Hannes Sommer, Enric Galceran, Roland Siegwart
+    title: 'Predicting Actions to Act Predictably: Cooperative Partial Motion Planning
+      with Maximum Entropy Models'
+    author: Mark Pfeiffer, Ulrich Schwesinger, Hannes Sommer, Enric Galceran, Roland
+      Siegwart
     link: https://ieeexplore.ieee.org/abstract/document/7759329
     source: http://www.iros2016.org/awards.html
   - award: Best RoboCup Paper
-    title: "Multi-Robot Search for a Moving Target: Integrating World Modeling, Task Assignment and Context"
+    title: 'Multi-Robot Search for a Moving Target: Integrating World Modeling, Task
+      Assignment and Context'
     author: Francesco Riccio, Emanuele Borzi, Guglielmo Gemignani, Daniele Nardi
     link: https://ieeexplore.ieee.org/abstract/document/7759298
     source: http://www.iros2016.org/awards.html
@@ -818,6 +900,23 @@
   date: July 18-22, 2016
   sub: RO
 
+- venue: NeurIPS
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: 'Competitive Distribution Estimation: Why is Good-Turing Good'
+    author: Alon Orlitsky, Ananda Suresh
+    link: https://proceedings.neurips.cc/paper/2015/hash/d759175de8ea5b1d9a2660e45554894f-Abstract.html
+    source: https://nips.cc/Conferences/2015/Awards
+  - award: Best Paper
+    title: Fast Convergence of Regularized Learning in Games
+    author: Vasilis Syrgkanis, Alekh Agarwal, Haipeng Luo, Robert Schapire
+    link: https://proceedings.neurips.cc/paper/2015/hash/7fea637fd6d02b8f0adf6f7dc36aed93-Abstract.html
+    source: https://nips.cc/Conferences/2015/Awards
+  place: Montréal, Canada
+  date: December 7-12, 2015
+  sub: ML
+
 - venue: 3DV
   year: 2015
   awards:
@@ -835,17 +934,21 @@
   awards:
   - award: Best Paper
     title: Tactile Sensing for Gecko-Inspired Adhesion
-    author: Xin Alice Wu, Srinivasan Suresh, Hao Jiang, John Ulmen, Elliot Wright Hawkes, David Christensen, Mark Cutkosky
+    author: Xin Alice Wu, Srinivasan Suresh, Hao Jiang, John Ulmen, Elliot Wright
+      Hawkes, David Christensen, Mark Cutkosky
     link: https://ieeexplore.ieee.org/abstract/document/7353566
     source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
   - award: Best Student Paper
     title: Hybrid Aerial and Aquatic Locomotion in an At-Scale Robotic Insect
-    author: YuFeng Chen, Elizabeth Farrell Helbling, Gravish Nicholas, Kevin Ma, Robert Wood
+    author: YuFeng Chen, Elizabeth Farrell Helbling, Gravish Nicholas, Kevin Ma, Robert
+      Wood
     link: https://ieeexplore.ieee.org/abstract/document/7353394
     source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
   - award: Best Application Paper
-    title: Cloth Dynamics Modeling in Latent Spaces and its Application to Robotic Clothing Assistance
-    author: Nishanth Koganti, Jimson Gelbolingo Ngeo, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata
+    title: Cloth Dynamics Modeling in Latent Spaces and its Application to Robotic
+      Clothing Assistance
+    author: Nishanth Koganti, Jimson Gelbolingo Ngeo, Tomoya Tamei, Kazushi Ikeda,
+      Tomohiro Shibata
     link: https://ieeexplore.ieee.org/abstract/document/7353860
     source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
   - award: Best Novel Technology Paper for Amusement Culture
@@ -854,7 +957,7 @@
     link: https://ieeexplore.ieee.org/abstract/document/7353684
     source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
   - award: Best RoboCup Paper
-    title: "POMDP to the Rescue: Boosting Performance for Robocup Rescue"
+    title: 'POMDP to the Rescue: Boosting Performance for Robocup Rescue'
     author: Kegui Wu, Wee Sun Lee, David Hsu
     link: https://ieeexplore.ieee.org/abstract/document/7354124
     source: https://www.ieee-ras.org/about-ras/latest-news/683-iros-2015-award-winners-announced
