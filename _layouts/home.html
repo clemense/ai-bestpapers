@@ -70,6 +70,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12">
+                    <span title="Click to show all venues" data-sub="all" class="venue-sub">All</span>&nbsp;&nbsp;&nbsp;
                     {% for type in site.data.types %}
                     <span title="Click to only show {{type.sub}} venues" data-sub="{{type.sub}}"
                         class="venue-sub">{{ type.name }}</span>
@@ -189,17 +190,26 @@
         // Event handler on sub click
         $('.venue-sub').click(function (e) {
             var csub = $(this).data('sub');
-            for (var i = 0; i < all_subs.length; i++) {
-                if (all_subs[i] != csub) {
-                    $('#' + all_subs[i] + '-checkbox').prop('checked', false);
-                    $('.' + all_subs[i] + '-conf').hide();
-                }
-                else {
+            if (csub == 'all') {
+                for (var i = 0; i < all_subs.length; i++) {
                     $('#' + all_subs[i] + '-checkbox').prop('checked', true);
                     $('.' + all_subs[i] + '-conf').show();
                 }
+                subs = all_subs;
             }
-            subs = [csub];
+            else {
+                for (var i = 0; i < all_subs.length; i++) {
+                    if (all_subs[i] != csub) {
+                        $('#' + all_subs[i] + '-checkbox').prop('checked', false);
+                        $('.' + all_subs[i] + '-conf').hide();
+                    }
+                    else {
+                        $('#' + all_subs[i] + '-checkbox').prop('checked', true);
+                        $('.' + all_subs[i] + '-conf').show();
+                    }
+                }
+                subs = [csub];
+            }
             store.set('{{ site.domain }}', subs);
             window.history.pushState('', '', '/?sub=' + subs.join());
         });
