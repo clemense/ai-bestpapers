@@ -491,6 +491,31 @@
   date: June 22-26, 2019
   sub: RO
 
+- venue: CVPR
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction
+    author: Shumian Xin, Sotiris Nousias, Kyros Kutulakos, Aswin Sankaranarayanan,
+      Srinivasa G. Narasimhan, Ioannis Gkioulekas
+    link: https://openaccess.thecvf.com/content_CVPR_2019/html/Xin_A_Theory_of_Fermat_Paths_for_Non-Line-Of-Sight_Shape_Reconstruction_CVPR_2019_paper.html
+    source: https://cvpr2019.thecvf.com/program/main_conference#awards
+  - award: Best Student Paper
+    title: Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning
+      for Vision-Language Navigation
+    author: Xin Wang, Qiuyuan Huang, Asli Celikyilmaz, Jianfeng Gao, Dinghan Shen,
+      Yuan-Fang Wang, William Yang Wang, Lei Zhang
+    link: https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Reinforced_Cross-Modal_Matching_and_Self-Supervised_Imitation_Learning_for_Vision-Language_Navigation_CVPR_2019_paper.html
+    source: https://cvpr2019.thecvf.com/program/main_conference#awards
+  - award: Retrospective Most Impactful Paper from CVPR 2009
+    title: 'ImageNet: A large-scale hierarchical image database'
+    author: Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, Li Fei-Fei
+    link: https://ieeexplore.ieee.org/abstract/document/5206848/
+    source: https://cvpr2019.thecvf.com/program/main_conference#awards
+  place: Long Beach, USA
+  date: June 16-20, 2019
+  sub: CV
+
 - venue: ICLR
   year: 2019
   awards:
@@ -698,6 +723,29 @@
   date: June 26-30, 2018
   sub: RO
 
+- venue: CVPR
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: 'Taskonomy: Disentangling Task Transfer Learning'
+    author: Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik,
+      Silvio Savarese
+    link: https://arxiv.org/abs/1804.08328
+    source: https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984
+  - award: Best Student Paper
+    title: 'Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies'
+    author: Hanbyul Joo, Tomas Simon, Yaser Sheikh
+    link: https://arxiv.org/abs/1801.01615
+    source: https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984
+  - award: Retrospective Most Impactful Paper from CVPR 2008
+    title: A Discriminatively Trained, Multiscale, Deformable Part Model
+    author: Pedro Felzenszwalb. David McAllester, Deva Ramanan
+    link: https://ieeexplore.ieee.org/document/4587597
+    source: https://medium.com/syncedreview/cvpr-2018-kicks-off-best-papers-announced-d3361bcc6984
+  place: Salt Lake City, USA
+  date: June 18-22, 2018
+  sub: CV
+
 - venue: AAAI
   year: 2018
   awards:
@@ -802,6 +850,39 @@
   place: Vancouver, Canada
   date: September 24-28, 2017
   sub: RO
+
+- venue: CVPR
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Densely Connected Convolutional Networks
+    author: Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
+    link: https://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.html
+    source: https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards
+  - award: Best Paper
+    title: Learning from Simulated and Unsupervised Images through Adversarial Training
+    author: Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Joshua Susskind, Wenda
+      Wang, Russell Webb
+    link: https://openaccess.thecvf.com/content_cvpr_2017/html/Shrivastava_Learning_From_Simulated_CVPR_2017_paper.html
+    source: https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards
+  - award: Best Student Paper
+    title: Computational Imaging on the Electric Grid
+    author: Mark Sheinin, Yoav Y. Schechner, Kiriakos N. Kutulakos
+    link: https://openaccess.thecvf.com/content_cvpr_2017/html/Sheinin_Computational_Imaging_on_CVPR_2017_paper.html
+    source: https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards
+  - award: Retrospective Most Impactful Paper from CVPR 2007
+    title: Object Retrieval with Large Vocabularies and Fast Spatial Matching
+    author: James Philbin, Ondrej Chum, Michael Isard, Josef Sivic, Andrew Zisserman
+    link: https://ieeexplore.ieee.org/abstract/document/4270197
+    source: https://cvpr2017.thecvf.com/program/main_conference#cvpr2017_awards
+  - award: Retrospective Most Impactful Paper from CVPR 2007
+    title: Accurate, Dense, and Robust Multi-View Stereopsis
+    author: Y. Furukawa, J. Ponce
+    link: https://ieeexplore.ieee.org/abstract/document/5226635
+    source: https://www.thecvf.com/?page_id=413#LHP
+  place: Honolulu, USA
+  date: July 21-26, 2017
+  sub: CV
 
 - venue: RSS
   year: 2017
@@ -966,6 +1047,34 @@
   date: July 18-22, 2016
   sub: RO
 
+- venue: CVPR
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Deep Residual Learning for Image Recognition
+    author: Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+    link: https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html
+    source: https://cvpr2016.thecvf.com/
+  - award: Best Student Paper
+    title: 'Structural-RNN: Deep Learning on Spatio-Temporal Graphs'
+    author: Ashesh Jain, Amir R. Zamir, Silvio Savarese, Ashutosh Saxena
+    link: https://openaccess.thecvf.com/content_cvpr_2016/html/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.html
+    source: https://cvpr2016.thecvf.com/
+  - award: Retrospective Most Impactful Paper from CVPR 2006
+    title: 'Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural
+      Scene Categories'
+    author: S. Lazebnik, C. Schmid, J. Ponce
+    link: https://ieeexplore.ieee.org/abstract/document/1641019
+    source: https://www.thecvf.com/?page_id=413#LHP
+  - award: Retrospective Most Impactful Paper from CVPR 2006
+    title: Scalable Recognition with a Vocabulary Tree
+    author: D. Nister, H. Stewenius
+    link: https://ieeexplore.ieee.org/abstract/document/1641018
+    source: https://www.thecvf.com/?page_id=413#LHP
+  place: Las Vegas, USA
+  date: June 26 - July 1, 2016
+  sub: CV
+
 - venue: AAAI
   year: 2016
   awards:
@@ -1070,6 +1179,33 @@
   place: Rome, Italy
   date: July 13-17, 2015
   sub: RO
+
+- venue: CVPR
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: 'DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time'
+    author: Richard A. Newcombe, Dieter Fox, Steven M. Seitz
+    link: https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Newcombe_DynamicFusion_Reconstruction_and_2015_CVPR_paper.html
+    source: http://www.pamitc.org/cvpr15/awards.php
+  - award: Best Student Paper
+    title: Category-Specific Object Reconstruction from a Single Image
+    author: Abhishek Kar, Shubham Tulsiani, João Carreira, Jitendra Malik
+    link: https://openaccess.thecvf.com/content_cvpr_2015/html/Kar_Category-Specific_Object_Reconstruction_2015_CVPR_paper.html
+    source: http://www.pamitc.org/cvpr15/awards.php
+  - award: Retrospective Most Impactful Paper from CVPR 2005
+    title: Histograms of oriented gradients for human detection
+    author: Navneet Dalal, Bill Triggs
+    link: https://ieeexplore.ieee.org/abstract/document/1467360
+    source: http://www.pamitc.org/cvpr15/awards.php
+  - award: Retrospective Most Impactful Paper from CVPR 2005
+    title: A non-local algorithm for image denoising
+    author: Antoni Buades, Bartomeu Coll, Jean-Michel Morel
+    link: https://ieeexplore.ieee.org/abstract/document/1467423
+    source: http://www.pamitc.org/cvpr15/awards.php
+  place: Boston, USA
+  date: June 7-12, 2015
+  sub: CV
 
 - venue: AAAI
   year: 2015
