@@ -267,7 +267,7 @@
       Joel Burdick, Brett Kennedy
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/1234-ieee-icra-best-paper-award-on-unmanned-aerial-vehicles
   place: Online
-  date: May 31 - Aug 31, 2020
+  date: May 31 - August 31, 2020
   sub: RO
 
 - venue: AAAI
@@ -277,6 +277,19 @@
     title: 'WinoGrande: An Adversarial Winograd Schema Challenge at Scale'
     author: Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
     link: https://ojs.aaai.org/index.php/AAAI/article/view/6399
+    source: https://aaai.org/Awards/paper.php
+  - award: Outstanding Student Paper
+    title: Fair Division of Mixed Divisible and Indivisible Goods
+    author: Xiaohui Bei, Zihao Li, Jinyan Liu, Shengxin Liu, Xinhang Lu
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/5548
+    source: https://aaai.org/Awards/paper.php
+  - award: 'Outstanding Paper: Special Track on AI for Social Impact'
+    title: A Distributed Multi-Sensor Machine Learning Approach to Earthquake Early
+      Warning
+    author: Kevin Fauvel, Daniel Balouek-Thomert, Diego Melgar, Pedro Silva, Anthony
+      Simonet, Gabriel Antoniu, Alexandru Costan, Véronique Masson, Manish Parashar,
+      Ivan Rodero, Alexandre Termier
+    link: https://ojs.aaai.org//index.php/AAAI/article/view/5376
     source: https://aaai.org/Awards/paper.php
   place: New York, USA
   date: February 7-12, 2020
@@ -495,6 +508,24 @@
   date: May 6-9, 2019
   sub: ML
 
+- venue: AAAI
+  year: 2019
+  awards:
+  - award: Outstanding Paper
+    title: How to Combine Tree-Search Methods in Reinforcement Learning
+    author: Yonathan Efroni, Gal Dalal, Bruno Scherrer, Shie Mannor
+    link: https://ojs.aaai.org//index.php/AAAI/article/view/4227
+    source: https://aaai.org/Awards/paper.php
+  - award: Outstanding Student Paper
+    title: 'Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning
+      Inference'
+    author: Mike Wu, Milan Mosse, Noah Goodman, Chris Piech
+    link: https://ojs.aaai.org//index.php/AAAI/article/view/3857
+    source: https://aaai.org/Awards/paper.php
+  place: Honolulu, USA
+  date: January 27 - February 1, 2019
+  sub: AI
+
 - venue: IJCAI-JAIR
   year: 2019
   awards:
@@ -667,6 +698,24 @@
   date: June 26-30, 2018
   sub: RO
 
+- venue: AAAI
+  year: 2018
+  awards:
+  - award: Outstanding Paper
+    title: Memory-Augmented Monte Carlo Tree Search
+    author: Chenjun Xiao, Jincheng Mei, and Martin Müller
+    link: http://webdocs.cs.ualberta.ca/~mmueller/ps/2018/Chenjun-Xiao-M-MCTS-aaai18-final.pdf
+    source: https://aaai.org/Awards/paper.php
+  - award: Outstanding Student Paper
+    title: Counterfactual Multi-Agent Policy Gradients
+    author: Jakob N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli,
+      Shimon Whiteson
+    link: https://arxiv.org/abs/1705.08926
+    source: https://aaai.org/Awards/paper.php
+  place: New Orleans, USA
+  date: February 2-7, 2018
+  sub: AI
+
 - venue: NeurIPS
   year: 2017
   awards:
@@ -776,6 +825,23 @@
   place: Cambridge, USA
   date: July 12-16, 2017
   sub: RO
+
+- venue: AAAI
+  year: 2017
+  awards:
+  - award: Outstanding Paper
+    title: Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
+    author: Russell Stewart, Stefano Ermon
+    link: https://arxiv.org/abs/1609.05566
+    source: https://aaai.org/Awards/paper.php
+  - award: Outstanding Student Paper
+    title: The Option-Critic Architecture
+    author: Pierre-Luc Bacon, Jean Harb, Doina Precup
+    link: https://arxiv.org/abs/1609.05140
+    source: https://aaai.org/Awards/paper.php
+  place: San Francisco, USA
+  date: February 4-9, 2017
+  sub: AI
 
 - venue: WAFR
   year: 2016
@@ -900,6 +966,23 @@
   date: July 18-22, 2016
   sub: RO
 
+- venue: AAAI
+  year: 2016
+  awards:
+  - award: Outstanding Paper
+    title: Bidirectional Search That Is Guaranteed to Meet in the Middle
+    author: Robert C. Holte, Ariel Felner, Guni Sharon, Nathan R. Sturtevant
+    link: https://www.cs.du.edu/~sturtevant/papers/MMaaai.pdf
+    source: https://aaai.org/Awards/paper.php
+  - award: Outstanding Student Paper
+    title: Toward a Taxonomy and Computational Models of Abnormalities in Images
+    author: Babak Saleh, Ahmed Elgammal, Jacob Feldman, Ali Farhadi
+    link: https://arxiv.org/abs/1512.01325
+    source: https://aaai.org/Awards/paper.php
+  place: Phoenix, USA
+  date: February 12-17, 2016
+  sub: AI
+
 - venue: NeurIPS
   year: 2015
   awards:
@@ -987,6 +1070,23 @@
   place: Rome, Italy
   date: July 13-17, 2015
   sub: RO
+
+- venue: AAAI
+  year: 2015
+  awards:
+  - award: Outstanding Paper
+    title: From Non-Negative to General Operator Cost Partitioning
+    author: Florian Pommerening, Malte Helmert, Gabriele Röger, Jendrik Seipp
+    link: https://edoc.unibas.ch/37078/
+    source: https://aaai.org/Awards/paper.php
+  - award: Outstanding Student Paper
+    title: Surpassing Human-Level Face Verification Performance on LFW with GaussianFace
+    author: Chaochao Lu, Xiaoou Tang
+    link: https://arxiv.org/abs/1404.3840
+    source: https://aaai.org/Awards/paper.php
+  place: Austin, USA
+  date: January 25-30, 2015
+  sub: AI
 
 - venue: 3DV
   year: 2014
