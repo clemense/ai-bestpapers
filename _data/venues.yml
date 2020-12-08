@@ -1,4 +1,7 @@
 ---
+- name: 3DV
+  long: International Conference on 3D Vision
+  link: www.3dv.org
 - name: AAAI
   long: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/Conferences/AAAI/aaai.php
@@ -38,7 +41,7 @@
 - name: IROS
   long: IEEE/RSJ International Conference on Intelligent Robots and Systems
   link: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
-- name: NeuRIPS
+- name: NeurIPS
   long: Conference on Neural Information Processing Systems
   link: https://nips.cc/
 - name: RSS
@@ -47,6 +50,3 @@
 - name: WAFR
   long: International Workshop on the Algorithmic Foundations of Robotics
   link: http://www.algorithmic-robotics.org/
-- name: 3DV
-  long: International Conference on 3D Vision
-  link: www.3dv.org
