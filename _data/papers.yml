@@ -9,17 +9,24 @@
     link: https://proceedings.neurips.cc/paper/2020/hash/5763abe87ed1938799203fb6e8650025-Abstract.html
     source: https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537
   - award: Best Paper
-    title: Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection and the Nyström Method
+    title: Improved Guarantees and a Multiple-Descent Curve for Column Subset Selection
+      and the Nyström Method
     author: Michal Derezinski, Rajiv Khanna, Michael W. Mahoney
     link: https://proceedings.neurips.cc/paper/2020/hash/342c472b95d00421be10e9512b532866-Abstract.html
     source: https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537
   - award: Best Paper
     title: Language Models are Few-Shot Learners
-    author: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei
+    author: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+      Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell,
+      Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon
+      Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher
+      Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack
+      Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario
+      Amodei
     link: https://arxiv.org/abs/2005.14165
     source: https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537
   - award: Test of Time
-    title: "HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent"
+    title: 'HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent'
     author: Feng Niu, Benjamin Recht, Christopher Re, Stephen Wright
     link: https://papers.nips.cc/paper/2011/hash/218a0aefd1d1a4be65601cc6ddc1520e-Abstract.html
     source: https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537
@@ -543,6 +550,25 @@
   date: June 16-20, 2019
   sub: CV
 
+- venue: ICML
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: Challenging Common Assumptions in the Unsupervised Learning of Disentangled
+      Representations
+    author: Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain
+      Gelly, Bernhard Schölkopf, Olivier Bachem
+    link: https://arxiv.org/abs/1811.12359
+    source: https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8
+  - award: Best Paper
+    title: Rates of Convergence for Sparse Variational Gaussian Process Regression
+    author: David R. Burt, Carl E. Rasmussen, Mark van der Wilk
+    link: https://arxiv.org/abs/1903.03571
+    source: https://medium.com/syncedreview/icml-2019-google-eth-zurich-mpi-is-cambridge-prowler-io-share-best-paper-honours-4aeabd5c9fc8
+  place: Long Beach, USA
+  date: June 9-15, 2019
+  sub: ML
+
 - venue: ICLR
   year: 2019
   awards:
@@ -727,6 +753,30 @@
   date: September 5-8, 2018
   sub: CV
 
+- venue: ICML
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: 'Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses
+      to Adversarial Examples'
+    author: Anish Athalye, Nicholas Carlini, David Wagner
+    link: https://arxiv.org/abs/1802.00420
+    source: https://icml.cc/Conferences/2018/Awards
+  - award: Best Paper
+    title: Delayed Impact of Fair Machine Learning
+    author: Lydia Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt
+    link: https://arxiv.org/abs/1803.04383
+    source: https://icml.cc/Conferences/2018/Awards
+  - award: Test of Time
+    title: 'A Unified Architecture for Natural Language Processing: Deep Neural Networks
+      with Multitask Learning'
+    author: Ronan Collobert, Jason Weston
+    link: https://dl.acm.org/doi/abs/10.1145/1390156.1390177
+    source: https://icml.cc/Conferences/2018/Awards
+  place: Stockholm, Sweden
+  date: July 10-15, 2018
+  sub: ML
+
 - venue: RSS
   year: 2018
   awards:
@@ -877,6 +927,23 @@
   place: Vancouver, Canada
   date: September 24-28, 2017
   sub: RO
+
+- venue: ICML
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Understanding Black-box Predictions via Influence Functions
+    author: Pang Wei Koh, Percy Liang
+    link: https://arxiv.org/abs/1703.04730
+    source: https://icml.cc/Conferences/2017/Awards
+  - award: Test of Time
+    title: Combining Online and Offline Knowledge in UCT
+    author: Sylvain Gelly, David Silver
+    link: https://dl.acm.org/doi/abs/10.1145/1273496.1273531
+    source: https://icml.cc/Conferences/2017/Awards
+  place: Sydney, Australia
+  date: August 6-11, 2017
+  sub: ML
 
 - venue: CVPR
   year: 2017
@@ -1102,6 +1169,34 @@
   date: June 26 - July 1, 2016
   sub: CV
 
+- venue: ICML
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Dueling Network Architectures for Deep Reinforcement Learning
+    author: Ziyu Wang, Tom Schaul, Matteo Hessel, Hado Hasselt, Marc Lanctot, Nando
+      Freitas
+    link: http://proceedings.mlr.press/v48/wangf16.html
+    source: https://icml.cc/Conferences/2016/index.html%3Fp=2009.html
+  - award: Best Paper
+    title: Pixel Recurrent Neural Networks
+    author: Aaron Van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu
+    link: http://proceedings.mlr.press/v48/oord16.html
+    source: https://icml.cc/Conferences/2016/index.html%3Fp=2009.html
+  - award: Best Paper
+    title: Ensuring Rapid Mixing and Low Bias for Asynchronous Gibbs Sampling
+    author: Christopher De Sa, Chris Re, Kunle Olukotun
+    link: http://proceedings.mlr.press/v48/sa16.html
+    source: https://icml.cc/Conferences/2016/index.html%3Fp=2009.html
+  - award: Test of Time
+    title: Dynamic Topic Models
+    author: David M. Blei, John D. Lafferty
+    link: https://icml.cc/Conferences/2016/awards/dtm.pdf
+    source: https://icml.cc/Conferences/2016/index.html%3Fp=2009.html
+  place: New York, USA
+  date: June 19-24, 2016
+  sub: ML
+
 - venue: AAAI
   year: 2016
   awards:
@@ -1206,6 +1301,29 @@
   place: Rome, Italy
   date: July 13-17, 2015
   sub: RO
+
+- venue: ICML
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Optimal and Adaptive Algorithms for Online Boosting
+    author: Alina Beygelzimer, Satyen Kale, Haipeng Luo
+    link: http://jmlr.org/proceedings/papers/v37/beygelzimer15.pdf
+    source: https://icml.cc/2015/index.html%3Fp=51.html
+  - award: Best Paper
+    title: A Nearly-Linear Time Framework for Graph-Structured Sparsity
+    author: Chinmay Hegde, Piotr Indyk, Ludwig Schmid
+    link: http://jmlr.org/proceedings/papers/v37/hegde15.pdf
+    source: https://icml.cc/2015/index.html%3Fp=51.html
+  - award: Test of Time
+    title: Learning to Rank Using Gradient Descent
+    author: Chris Burges, Tal Shaked, Erin Renshaw, Ari Lazier, Matt Deeds, Nicole
+      Hamilton, Greg Hullender
+    link: https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf
+    source: https://icml.cc/2015/index.html%3Fp=51.html
+  place: Lille, France
+  date: July 6-11, 2015
+  sub: ML
 
 - venue: CVPR
   year: 2015
