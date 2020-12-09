@@ -582,7 +582,7 @@
     author: Jonathan Frankle, Michael Carbin
     link: https://iclr.cc/Conferences/2019/Schedule?showEvent=1156
     source: https://iclr.cc/Conferences/2019/Awards
-  place: Online
+  place: New Orleans, USA
   date: May 6-9, 2019
   sub: ML
 
@@ -823,6 +823,20 @@
   date: June 18-22, 2018
   sub: CV
 
+- venue: ICLR
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Continuous Adaptation via Meta-Learning in Nonstationary and Competitive
+      Environments
+    author: Maruan Al-Shedivat, Trapit Bansal, Yuri Burda, Ilya Sutskever, Igor Mordatch,
+      Pieter Abbeel
+    link: https://arxiv.org/abs/1710.03641
+    source: https://www.ml.cmu.edu/honors-and-awards/best-paper-awards.html
+  place: Vancouver, Canada
+  date: April 30 - May 3, 2018
+  sub: ML
+
 - venue: AAAI
   year: 2018
   awards:
@@ -1000,6 +1014,30 @@
   place: Cambridge, USA
   date: July 12-16, 2017
   sub: RO
+
+- venue: ICLR
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Making Neural Programming Architectures Generalize via Recursion
+    author: Jonathon Cai, Richard Shin, Dawn Song
+    link: https://openreview.net/forum?id=BkbY4psgg&noteId=BkbY4psgg
+    source: https://iclr.cc/archive/www/doku.php%3Fid=iclr2017:schedule.html
+  - award: Best Paper
+    title: Understanding deep learning requires rethinking generalization
+    author: Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals
+    link: https://openreview.net/forum?id=Sy8gdB9xx&noteId=Sy8gdB9xx
+    source: https://iclr.cc/archive/www/doku.php%3Fid=iclr2017:schedule.html
+  - award: Best Paper
+    title: Semi-supervised Knowledge Transfer for Deep Learning from Private Training
+      Data
+    author: Nicolas Papernot, Martín Abadi, Úlfar Erlingsson, Ian Goodfellow, Kunal
+      Talwar
+    link: https://openreview.net/forum?id=HkwoSDPgg&noteId=HkwoSDPgg
+    source: https://iclr.cc/archive/www/doku.php%3Fid=iclr2017:schedule.html
+  place: Toulon, France
+  date: April 24-26, 2017
+  sub: ML
 
 - venue: AAAI
   year: 2017
@@ -1195,6 +1233,24 @@
     source: https://icml.cc/Conferences/2016/index.html%3Fp=2009.html
   place: New York, USA
   date: June 19-24, 2016
+  sub: ML
+
+- venue: ICLR
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Neural Programmer-Interpreters
+    author: Scott Reed, Nando de Freitas
+    link: http://arxiv.org/abs/1511.06279
+    source: https://iclr.cc/archive/www/2016.html
+  - award: Best Paper
+    title: 'Deep Compression: Compressing Deep Neural Networks with Pruning, Trained
+      Quantization and Huffman Coding'
+    author: Song Han, Huizi Mao, Bill Dally
+    link: http://arxiv.org/abs/1510.00149
+    source: https://iclr.cc/archive/www/2016.html
+  place: San Juan, Puerto Rico
+  date: May 2-4, 2016
   sub: ML
 
 - venue: AAAI
