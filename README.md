@@ -9,6 +9,7 @@ Contributions are very welcome!
 To add or update an awarded paper:
 - Fork the repository
 - Update `_data/papers.yml`
+- If the added award(s) appear(s) at a venue that it is not yet listed, update `_data/venues.yml`
 - Send a pull request
 
 ## Related
