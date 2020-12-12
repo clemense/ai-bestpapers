@@ -894,6 +894,23 @@
   date: December 4-9, 2017
   sub: ML
 
+- venue: ICCV
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Mask R-CNN
+    author: K. He, G. Gkioxari, P. Dollar, R. Girshick
+    link: https://arxiv.org/abs/1703.06870
+    source: https://medium.com/onfido-tech/the-best-of-iccv-2017-b029b7ad4ab0
+  - award: Best Student Paper
+    title: Focal Loss for Dense Object Detection
+    author: T.-Y. Lin, P. Goyal, R. Girshick, K. He, P. Dollar
+    link: https://arxiv.org/abs/1708.02002
+    source: https://medium.com/onfido-tech/the-best-of-iccv-2017-b029b7ad4ab0
+  place: Venice, Italy
+  date: October 22-29, 2017
+  sub: CV
+
 - venue: 3DV
   year: 2017
   awards:
@@ -1300,6 +1317,18 @@
   date: February 12-17, 2016
   sub: AI
 
+- venue: ICCV
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Deep Neural Decision Forests
+    author: P. Kontschieder, M. Fiterau, A. Criminisi, S. Rota Bulo
+    link: https://openaccess.thecvf.com/content_iccv_2015/html/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.html
+    source: https://www.microsoft.com/en-us/research/blog/microsoft-led-research-team-wins-marr-prize-for-outstanding-computer-vision-research/
+  place: Santiago, Chile
+  date: December 11-18, 2015
+  sub: CV
+
 - venue: NeurIPS
   year: 2015
   awards:
@@ -1485,6 +1514,18 @@
   date: September 6-12, 2014
   sub: CV
 
+- venue: ICCV
+  year: 2013
+  awards:
+  - award: Best Paper
+    title: From Large Scale Image Categorization to Entry-Level Categories
+    author: V. Ordonez, J. Deng, Y. Choi, A. Berg, T. Berg
+    link: https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Ordonez_From_Large_Scale_2013_ICCV_paper.html
+    source: http://www.pamitc.org/iccv13/awards.php
+  place: Sydney, Australia
+  date: December 3-6, 2013
+  sub: CV
+
 - venue: 3DV
   year: 2013
   awards:
@@ -1512,4 +1553,22 @@
     source: https://eccv2012.unifi.it/conference/awards/
   place: Firenze, Italy
   date: October 7-13, 2012
+  sub: CV
+
+- venue: ICCV
+  year: 2011
+  awards:
+  - award: Best Paper
+    title: Relative Attributes
+    author: D. Parikh, K. Grauman
+    link: https://www.cs.utexas.edu/~grauman/papers/ParikhGrauman_ICCV2011_relative.pdf
+    source: http://www.cvpapers.com/iccv2011.html
+  - award: Best Student Paper
+    title: 'Close the Loop: Joint Blind Image Restoration and Recognition with Sparse
+      Representation Prior'
+    author: H. Zhang, J. Yang, Y. Zhang, N. M. Nasrabadi, T. S. Huang
+    link: http://www.ifp.illinois.edu/~jyang29/papers/JRR_ICCV11.pdf
+    source: http://www.cvpapers.com/iccv2011.html
+  place: Barcelona, Spain
+  date: November 6-13, 2011
   sub: CV
