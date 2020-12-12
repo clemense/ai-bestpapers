@@ -734,6 +734,18 @@
   date: October 1-5, 2018
   sub: RO
 
+- venue: ECCV
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Implicit 3D Orientation Learning for 6D Object Detection from RGB Images
+    author: M. Sundermeyer, Z. Marton, M. Durner, M. Brucker, R. Triebel
+    link: https://openaccess.thecvf.com/content_ECCV_2018/html/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.html
+    source: https://eccv2018.org/wp-content/uploads/2018/09/ECCV2018Awards.pdf
+  place: Munich, Germany
+  date: September 8-14, 2018
+  sub: CV
+
 - venue: 3DV
   year: 2018
   awards:
@@ -1148,6 +1160,24 @@
   date: October 9-14, 2016
   sub: RO
 
+- venue: ECCV
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera
+    author: H. Kim, S. Leutenegger, A. J. Davison
+    link: https://spiral.imperial.ac.uk/handle/10044/1/38816
+    source: https://www.eccv2016.org/awards/
+  - award: Best Student Paper
+    title: 'Focal Flow: Measuring Distance and Velocity with Defocus and Differential
+      Motion'
+    author: Emma Alexander, Qi Guo, Sanjeev Koppal, Steven Gortler, Todd Zickler
+    link: https://link.springer.com/chapter/10.1007/978-3-319-46487-9_41
+    source: https://www.eccv2016.org/awards/
+  place: Amsterdam, Netherlands
+  date: October 8-16, 2016
+  sub: CV
+
 - venue: RSS
   year: 2016
   awards:
@@ -1437,6 +1467,24 @@
   date: December 8-11, 2014
   sub: CV
 
+- venue: ECCV
+  year: 2014
+  awards:
+  - award: Best Paper
+    title: Large-Scale Object Classification using Label Relation Graphs
+    author: J. Deng, N. Ding, Y. Jia, A. Frome, K. Murphy, S. Bengio, Y. Li, H. Neven,
+      H. Adam
+    link: https://link.springer.com/chapter/10.1007/978-3-319-10590-1_4
+    source: https://cse.engin.umich.edu/stories/jia-deng-wins-best-paper-award-at-eccv
+  - award: Best Paper
+    title: Scene Chronology
+    author: K. Matzen, N. Snavely
+    link: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.686.6739
+    source: https://www.cs.cornell.edu/information/news/newsitem1016/kevin-matzen-and-noah-snavelys-paper-scene-chronology-won-one-two-best
+  place: Zürich, Switzerland
+  date: September 6-12, 2014
+  sub: CV
+
 - venue: 3DV
   year: 2013
   awards:
@@ -1447,4 +1495,21 @@
     source: http://www.3dimpvt.cs.washington.edu/awards/
   place: Seattle, USA
   date: June 29-30, 2013
+  sub: CV
+
+- venue: ECCV
+  year: 2012
+  awards:
+  - award: Best Paper
+    title: Segmentation Propagation in ImageNet
+    author: D. Kuettel, M. Guillaumin, V. Ferrari
+    link: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.398.4592
+    source: https://eccv2012.unifi.it/conference/awards/
+  - award: Best Student Paper
+    title: Reconstructing the World’s Museums
+    author: Jianxiong Xiao, Yasutaka Furukawa
+    link: https://link.springer.com/article/10.1007%2Fs11263-014-0711-y
+    source: https://eccv2012.unifi.it/conference/awards/
+  place: Firenze, Italy
+  date: October 7-13, 2012
   sub: CV
