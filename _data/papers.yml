@@ -696,6 +696,37 @@
   date: December 2-8, 2018
   sub: ML
 
+- venue: EMNLP
+  year: 2018
+  awards:
+  - award: Best Long Paper
+    title: Linguistically-Informed Self-Attention for Semantic Role Labeling
+    author: Emma Strubell, Patrick Verga, Daniel Andor, David Weiss, Andrew McCallum
+    link: https://www.aclweb.org/anthology/D18-1548/
+    source: https://ds.cs.umass.edu/news/strubell-verga-mccallum-receive-emnlp-2018-best-long-paper-award
+  - award: Best Long Paper
+    title: Phrase-Based & Neural Unsupervised Machine Translation
+    author: Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio
+      Ranzato
+    link: https://arxiv.org/abs/1804.07755
+    source: https://www.patricklewis.io/post/emnlp2018/#best-paper-awards
+  - award: Best Short Paper
+    title: How Much Reading Does Reading Comprehension Require? A Critical Investigation
+      of Popular Benchmarks
+    author: Divyansh Kaushik, Zachary C. Lipton
+    link: https://arxiv.org/abs/1808.04926
+    source: https://www.ml.cmu.edu/honors-and-awards/best-paper-awards.html
+  - award: Best Resource Paper
+    title: MultiWOZ — A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented
+      Dialogue Modelling
+    author: Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva,
+      Stefan Ultes, Osman Ramadan, Milica Gašić
+    link: https://arxiv.org/abs/1810.00278
+    source: https://medium.com/@chriszhu12/highlights-of-emnlp-2018-55892fba4247
+  place: Brussels, Belgium
+  date: October 31 - November 4, 2018
+  sub: NLP
+
 - venue: CoRL
   year: 2018
   awards:
@@ -1060,6 +1091,35 @@
   date: September 24-28, 2017
   sub: RO
 
+- venue: EMNLP
+  year: 2017
+  awards:
+  - award: Best Long Paper
+    title: 'Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level
+      Constraints'
+    author: Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang
+    link: https://arxiv.org/abs/1707.09457
+    source: https://www.facebook.com/emnlp2017/posts/congratulations-to-the-emnlp2017-best-paper-award-winnersbest-long-papers-jieyu-/1935449656693734/
+  - award: Best Long Paper
+    title: Depression and Self-Harm Risk Assessment in Online Forums
+    author: Andrew Yates, Arman Cohan, Nazli Goharian
+    link: https://arxiv.org/abs/1709.01848
+    source: https://www.facebook.com/emnlp2017/posts/congratulations-to-the-emnlp2017-best-paper-award-winnersbest-long-papers-jieyu-/1935449656693734/
+  - award: Best Short Paper
+    title: Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog
+    author: Satwik Kottur, José Moura, Stefan Lee, Dhruv Batra
+    link: https://arxiv.org/abs/1706.08502
+    source: https://www.facebook.com/emnlp2017/posts/congratulations-to-the-emnlp2017-best-paper-award-winnersbest-long-papers-jieyu-/1935449656693734/
+  - award: Best Resource Paper
+    title: 'Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of
+      Concept Maps'
+    author: Tobias Falke, Iryna Gurevych
+    link: https://arxiv.org/abs/1704.04452
+    source: https://www.facebook.com/emnlp2017/posts/congratulations-to-the-emnlp2017-best-paper-award-winnersbest-long-papers-jieyu-/1935449656693734/
+  place: Copenhagen, Denmark
+  date: September 7-11, 2017
+  sub: NLP
+
 - venue: ICML
   year: 2017
   awards:
@@ -1215,6 +1275,35 @@
   place: Barcelona, Spain
   date: December 5-11, 2016
   sub: ML
+
+- venue: EMNLP
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Improving Information Extraction by Acquiring External Evidence with Reinforcement
+      Learning
+    author: Karthik Narasimhan, Adam Yala, Regina Barzilay
+    link: https://arxiv.org/abs/1603.07954
+    source: https://mirror.aclweb.org/emnlp2016/best-papers.html
+  - award: Best Paper
+    title: Global Neural CCG Parsing with Optimality Guarantees
+    author: Kenton Lee, Mike Lewis, Luke Zettlemoyer
+    link: https://arxiv.org/abs/1607.01432
+    source: https://mirror.aclweb.org/emnlp2016/best-papers.html
+  - award: Best Short Paper
+    title: Learning a Lexicon and Translation Model from Phoneme Lattices
+    author: Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Truong Do,
+      Satoshi Nakamura
+    link: https://www.aclweb.org/anthology/D16-1263.pdf
+    source: https://mirror.aclweb.org/emnlp2016/best-papers.html
+  - award: Best Resource Paper
+    title: 'SQuAD: 100,000+ Questions for Machine Comprehension of Text'
+    author: Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang
+    link: https://arxiv.org/abs/1606.05250
+    source: https://mirror.aclweb.org/emnlp2016/best-papers.html
+  place: Austin, USA
+  date: November 1-5, 2016
+  sub: NLP
 
 - venue: 3DV
   year: 2016
@@ -1507,6 +1596,30 @@
   place: Hamburg, Germany
   date: September 28 - October 2, 2015
   sub: RO
+
+- venue: EMNLP
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Broad-coverage CCG Semantic Parsing with AMR
+    author: Yoav Artzi, Kenton Lee, Luke Zettlemoyer
+    link: https://www.aclweb.org/anthology/D15-1198.pdf
+    source: http://www.emnlp2015.org/best-papers.html
+  - award: Best Paper
+    title: Semantically Conditioned LSTM-based Natural Language Generation for Spoken
+      Dialogue Systems
+    author: Tsung-Hsien Wen, Milica Gasic, Nikola Mrkšić, Pei-Hao Su, David Vandyke,
+      Steve Young
+    link: https://arxiv.org/abs/1508.01745
+    source: http://www.emnlp2015.org/best-papers.html
+  - award: Best Resource Paper
+    title: A large annotated corpus for learning natural language inference
+    author: Samuel R. Bowman, Gabor Angeli, Christopher Potts, Christopher D. Manning
+    link: https://arxiv.org/abs/1508.05326
+    source: http://www.emnlp2015.org/best-papers.html
+  place: Lisbon, Portugal
+  date: September 17-21, 2015
+  sub: NLP
 
 - venue: ACL
   year: 2015
