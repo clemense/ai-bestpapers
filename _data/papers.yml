@@ -503,6 +503,56 @@
   date: September 16-19, 2019
   sub: CV
 
+- venue: ACL
+  year: 2019
+  awards:
+  - award: Best Short Paper
+    title: Do you know that Florence is packed with visitors? Evaluating state-of-the-art
+      models of speaker commitment
+    author: Nanjiang Jiang, Marie-Catherine de Marneffe
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Best Long Paper
+    title: Bridging the Gap between Training and Inference for Neural Machine Translation
+    author: Wen Zhang, Yang Feng, Fandong Meng, Di You Qun Liu
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Outstanding Paper
+    title: 'Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts'
+    author: Rui Xia, Zixiang Ding
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Outstanding Paper
+    title: A Simple Theoretical Model of Importance for Summarization
+    author: Maxime Peyrard
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Outstanding Paper
+    title: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems
+    author: Chien-Sheng Wu, Andrea Madotto, Ehsan Hosseini-Asl, Caiming Xiong, Richard
+      Socher, Pascale Fung
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Outstanding Paper
+    title: We need to talk about standard splits
+    author: Kyle Gorman, Steven Bedrick
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Outstanding Paper
+    title: Zero-shot Word Sense Disambiguation using Sense Definition Embeddings
+    author: Sawan Kumar, Sharmistha Jat, Karan Saxena, Partha Talukdar
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  - award: Best Demonstration Paper
+    title: 'OpenKiwi: An Open Source Framework for Quality Estimation'
+    author: Fabio Kepler, Jonay Trenous, Marcos Treviso, Miguel Vera, André F. T.
+      Martins
+    link: null
+    source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
+  place: Florence, Italy
+  date: July 28 - August 2, 2019
+  sub: NLP
+
 - venue: RSS
   year: 2019
   awards:
@@ -765,6 +815,45 @@
   date: September 5-8, 2018
   sub: CV
 
+- venue: ACL
+  year: 2018
+  awards:
+  - award: Best Short Paper
+    title: 'Know What You Don’t Know: Unanswerable Questions for SQuAD'
+    author: Pranav Rajpurkar, Robin Jia, Percy Liang
+    link: null
+    source: https://acl2018.org/2018/06/10/best-papers
+  - award: Best Short Paper
+    title: '‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions'
+    author: Olivia Winn, Smaranda Muresan
+    link: null
+    source: https://acl2018.org/2018/06/10/best-papers
+  - award: Best Long Paper
+    title: Finding syntax in human encephalography with beam search
+    author: John Hale, Chris Dyer, Adhiguna Kuncoro, Jonathan Brennan
+    link: null
+    source: https://acl2018.org/2018/06/10/best-papers
+  - award: Best Long Paper
+    title: 'Learning to Ask Good Questions: Ranking Clarification Questions using
+      Neural Expected Value of Perfect Information'
+    author: Sudha Rao, Hal Daumé III
+    link: null
+    source: https://acl2018.org/2018/06/10/best-papers
+  - award: Best Long Paper
+    title: 'Let’s do it “again”: A First Computational Approach to Detecting Adverbial
+      Presupposition Triggers'
+    author: Andre Cianflone, Yulan Feng, Jad Kabbara, Jackie Chi Kit Cheung
+    link: null
+    source: https://acl2018.org/2018/06/10/best-papers
+  - award: Best System Demonstration Paper
+    title: Out-of-the-box Universal Romanization Tool uroman
+    author: Ulf Hermjakob, Jonathan May, Kevin Knight
+    link: https://www.aclweb.org/anthology/P18-4003.pdf
+    source: https://acl2018.org/2018/07/31/best-demo-paper/
+  place: Melbourne, Australia
+  date: July 15-20, 2018
+  sub: NLP
+
 - venue: ICML
   year: 2018
   awards:
@@ -988,6 +1077,18 @@
   date: August 6-11, 2017
   sub: ML
 
+- venue: ACL
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: 'Probabilistic Typology: Deep Generative Models of Vowel Inventories'
+    author: Ryan Cotterell, Jason Eisner
+    link: https://www.aclweb.org/anthology/P17-1109/
+    source: https://aclweb.org/aclwiki/Best_paper_awards
+  place: Vancouver, Canada
+  date: July 30 - August 4, 2017
+  sub: NLP
+
 - venue: CVPR
   year: 2017
   awards:
@@ -1195,6 +1296,19 @@
   date: October 8-16, 2016
   sub: CV
 
+- venue: ACL
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: Finding Non-Arbitrary Form-Meaning Systematicity Using String-Metric Learning
+      for Kernel Regression
+    author: E.Dario Gutiérrez, Roger Levy, Benjamin Bergen
+    link: https://www.aclweb.org/anthology/P16-1225/
+    source: https://aclweb.org/aclwiki/Best_paper_awards
+  place: Berlin, Germany
+  date: August 7-12, 2016
+  sub: NLP
+
 - venue: RSS
   year: 2016
   awards:
@@ -1393,6 +1507,23 @@
   place: Hamburg, Germany
   date: September 28 - October 2, 2015
   sub: RO
+
+- venue: ACL
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Improving Evaluation of Machine Translation Quality Estimation
+    author: Yvette Graham
+    link: https://www.aclweb.org/anthology/P15-1174/
+    source: https://aclweb.org/aclwiki/Best_paper_awards
+  - award: Best Paper
+    title: Learning Dynamic Feature Selection for Fast Sequential Prediction
+    author: Emma Strubell, Luke Vilnis, Kate Silverstein, Andrew McCallum
+    link: https://www.aclweb.org/anthology/P15-1015/
+    source: https://aclweb.org/aclwiki/Best_paper_awards
+  place: Beijing, China
+  date: July 26-31, 2015
+  sub: NLP
 
 - venue: RSS
   year: 2015
