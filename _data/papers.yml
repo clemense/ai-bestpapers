@@ -510,44 +510,44 @@
     title: Do you know that Florence is packed with visitors? Evaluating state-of-the-art
       models of speaker commitment
     author: Nanjiang Jiang, Marie-Catherine de Marneffe
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1412/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Best Long Paper
     title: Bridging the Gap between Training and Inference for Neural Machine Translation
     author: Wen Zhang, Yang Feng, Fandong Meng, Di You Qun Liu
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1426/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Outstanding Paper
     title: 'Emotion-Cause Pair Extraction: A New Task to Emotion Analysis in Texts'
     author: Rui Xia, Zixiang Ding
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1096/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Outstanding Paper
     title: A Simple Theoretical Model of Importance for Summarization
     author: Maxime Peyrard
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1101/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Outstanding Paper
     title: Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems
     author: Chien-Sheng Wu, Andrea Madotto, Ehsan Hosseini-Asl, Caiming Xiong, Richard
       Socher, Pascale Fung
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1078/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Outstanding Paper
     title: We need to talk about standard splits
     author: Kyle Gorman, Steven Bedrick
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1267/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Outstanding Paper
     title: Zero-shot Word Sense Disambiguation using Sense Definition Embeddings
     author: Sawan Kumar, Sharmistha Jat, Karan Saxena, Partha Talukdar
-    link: null
+    link: https://www.aclweb.org/anthology/P19-1568/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   - award: Best Demonstration Paper
     title: 'OpenKiwi: An Open Source Framework for Quality Estimation'
     author: Fabio Kepler, Jonay Trenous, Marcos Treviso, Miguel Vera, André F. T.
       Martins
-    link: null
+    link: https://www.aclweb.org/anthology/P19-3020/
     source: https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml.html
   place: Florence, Italy
   date: July 28 - August 2, 2019
@@ -852,29 +852,29 @@
   - award: Best Short Paper
     title: 'Know What You Don’t Know: Unanswerable Questions for SQuAD'
     author: Pranav Rajpurkar, Robin Jia, Percy Liang
-    link: null
+    link: https://www.aclweb.org/anthology/P18-2124/
     source: https://acl2018.org/2018/06/10/best-papers
   - award: Best Short Paper
     title: '‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions'
     author: Olivia Winn, Smaranda Muresan
-    link: null
+    link: https://www.aclweb.org/anthology/P18-2125/
     source: https://acl2018.org/2018/06/10/best-papers
   - award: Best Long Paper
     title: Finding syntax in human encephalography with beam search
     author: John Hale, Chris Dyer, Adhiguna Kuncoro, Jonathan Brennan
-    link: null
+    link: https://www.aclweb.org/anthology/P18-1254/
     source: https://acl2018.org/2018/06/10/best-papers
   - award: Best Long Paper
     title: 'Learning to Ask Good Questions: Ranking Clarification Questions using
       Neural Expected Value of Perfect Information'
     author: Sudha Rao, Hal Daumé III
-    link: null
+    link: https://www.aclweb.org/anthology/P18-1255/
     source: https://acl2018.org/2018/06/10/best-papers
   - award: Best Long Paper
     title: 'Let’s do it “again”: A First Computational Approach to Detecting Adverbial
       Presupposition Triggers'
     author: Andre Cianflone, Yulan Feng, Jad Kabbara, Jackie Chi Kit Cheung
-    link: null
+    link: https://www.aclweb.org/anthology/P18-1256/
     source: https://acl2018.org/2018/06/10/best-papers
   - award: Best System Demonstration Paper
     title: Out-of-the-box Universal Romanization Tool uroman
