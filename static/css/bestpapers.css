@@ -131,7 +131,12 @@ footer {
 
 .award-source {
     font-size: 10px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
+}
+
+.award-title {
+    font-size: 14px;
+    margin-top: 10px;
 }
 
 .paper-title {
@@ -190,4 +195,26 @@ footer {
 
 .ind-cal {
   margin: 0 5px;
+}
+
+/* .row{
+    overflow: hidden; 
+}
+
+[class*="col-"]{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+} */
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+
+#myinner{
+    width: 100%;
+    overflow: auto;
+    height: 100%;
+    padding-right: 15px;
 }

@@ -1,52 +1,95 @@
 ---
 - name: 3DV
   long: International Conference on 3D Vision
+  source:
+    - 3DV
+    - International Conference on 3D Vision
   link: www.3dv.org
 - name: AAAI
   long: AAAI Conference on Artificial Intelligence
+  source:
+    - The AAAI Conference on Artificial Intelligence
   link: https://aaai.org/Conferences/AAAI/aaai.php
 - name: ACL
   long: Annual Meeting of the Association for Computational Linguistics
+  source:
+    - ACL
   link: https://www.aclweb.org/portal/acl
 - name: CASE
   long: IEEE International Conference on Automation Science and Engineering
+  source:
+    - Automation Science and Engineering
   link: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case
 - name: CoRL
   long: Conference on Robot Learning
+  source:
+    - CORL
+    - Conference on Robot Learning
   link: https://www.robot-learning.org/
 - name: CVPR
   long: Conference on Computer Vision and Pattern Recognition
+  source:
+    - CVPR
   link: https://www.thecvf.com/?page_id=100
 - name: ECCV
   long: European Conference on Computer Vision
+  source:
+    - ECCV
+    - European Conference on Computer Vision
   link: https://link.springer.com/conference/eccv
 - name: EMNLP
   long: Conference on Empirical Methods in Natural Language Processing
+  source:
+    - EMNLP
+    - Conference on Empirical Methods in Natural Language Processing
   link: https://www.aclweb.org/anthology/venues/emnlp/
 - name: Humanoids
   long: IEEE-RAS International Conference on Humanoid Robots
+  source:
+    - Humanoids
   link: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids
 - name: ICCV
   long: International Conference on Computer Vision
+  source:
+    - ICCV
+    - International Conference on Computer Vision
   link: https://www.thecvf.com/?page_id=100
 - name: ICLR
   long: International Conference on Learning Representations
+  source:
+    - ICLR
+    - International Conference on Learning Representations
   link: https://iclr.cc/
 - name: ICML
   long: International Conference on Machine Learning
+  source:
+    - ICML
+    - International Conference on Machine Learning
   link: https://icml.cc/
 - name: ICRA
   long: IEEE International Conference on Robotics and Automation
+  source:
+    - ICRA
   link: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
 - name: IROS
   long: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  source:
+    - IROS
   link: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
 - name: NeurIPS
   long: Conference on Neural Information Processing Systems
-  link: https://nips.cc/
+  source:
+    - NeurIPS
+    - NIPS
+  link: https://neurips.cc/
 - name: RSS
   long: "Robotics: Science and Systems"
+  source:
+    - "Robotics: Science and Systems"
   link: https://roboticsconference.org/
 - name: WAFR
   long: International Workshop on the Algorithmic Foundations of Robotics
+  source:
+    - WAFR
+    - International Workshop on the Algorithmic Foundations of Robotics
   link: http://www.algorithmic-robotics.org/

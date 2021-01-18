@@ -77,12 +77,28 @@
                     {% endfor %}
                 </div>
             </div>
+            <div class="row" style="padding-top: 10px;">
+                <div class="col-xs-12">
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" name="mostcitedcheckbox" id="mostcited-checkbox" checked="true"
+                                class="">
+                            Show most cited papers &nbsp;&nbsp; <span style="font-size: 10px; color: #808080;">(Only
+                                conferences 6
+                                months or older. Based on Google Scholar data. Last updated:
+                                <strong>{{ site.data.mostcited[0].last_updated }}</strong>. Click on conference for
+                                more.)</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
         </div>
         {% for venue in site.data.papers %}
         <div id="{{venue.venue}}{{venue.year}}" class="{% for sub in venue.sub %} {{sub}}-conf {% endfor %}">
             <div class="row venue-row">
                 <div class="col-xs-12">
-                    <a class="venue-title" href="/venue?id={{ venue.venue }}">{{venue.venue}}
+                    <a class="venue-title"
+                        href="/venue?id={{ venue.venue }}#{{ venue.venue }}{{ venue.year }}">{{venue.venue}}
                         {{venue.year}}</a>
                     {% if venue.place != "" %}
                     &nbsp;&nbsp;<span class="venue-place">({{ venue.place }})</span>
@@ -94,7 +110,7 @@
             {% if prev_i < 0 or award.award != venue.awards[prev_i].award %}
             <div class="row">
                 <div class="col-xs-12">
-                    <div class="paper-title">
+                    <div class="award-title">
                         <strong>{{award.award}}:</strong>
                     </div>
                 </div>
@@ -115,6 +131,38 @@
                     {% endif %}
                 </div>
             </div>
+            {% endfor %}
+            {% for mostcited_venue in site.data.mostcited %}
+            {% if mostcited_venue.venue == venue.venue and mostcited_venue.year == venue.year %}
+            {% if mostcited_venue.mostcited[0].citations >= 5 %}
+            <div class="row mostcited-list">
+                <div class="col-xs-12">
+                    <div class="award-title">
+                        <strong>Most Cited Papers:</strong>
+                    </div>
+                </div>
+            </div>
+            <div class="row mostcited-list">
+                {% for mostcited_paper in mostcited_venue.mostcited limit:5 %}
+                {% if mostcited_paper.citations >= 5 %}
+                <div class="col-xs-12 vertical-align">
+                    <div class="text-right" style="font-size:10px;min-width:25px;">
+                        {{mostcited_paper.citations}}
+                    </div>
+                    <div style="padding-left: 15px;">
+                        <div class="paper-title">
+                            <a href="{{mostcited_paper.link}}">{{mostcited_paper.title}}</a>
+                        </div>
+                        <div class="author-names">
+                            {{mostcited_paper.author}}
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% endif %}
             {% endfor %}
             <hr>
         </div>
@@ -185,6 +233,15 @@
             }
             store.set('{{ site.domain }}', subs);
             window.history.pushState('', '', '/?sub=' + subs.join());
+        });
+
+        // Event handler for most cited checkbox
+        $('input[name=mostcitedcheckbox]').change(function () {
+            if ($(this).is(':checked')) {
+                $('.mostcited-list').show();
+            } else {
+                $('.mostcited-list').hide();
+            }
         });
 
         // Event handler on sub click
