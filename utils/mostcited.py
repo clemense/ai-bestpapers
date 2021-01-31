@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
-# Sort and Clean award data.
-# It writes to `sorted_data.yml` and `cleaned_data.yml`, copy those to the papers.yml after screening.
+# Find most cited papers.
+# It writes to `mostcited.yml`, copy those to the `_data/mostcited.yml` after screening.
 
 import random
 import itertools
