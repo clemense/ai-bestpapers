@@ -83,11 +83,11 @@
                         <label>
                             <input type="checkbox" name="mostcitedcheckbox" id="mostcited-checkbox" checked="true"
                                 class="">
-                            Show most cited papers &nbsp;&nbsp; <span style="font-size: 10px; color: #808080;">(Only
-                                conferences 6
-                                months or older. Based on Google Scholar data. Last updated:
-                                <strong>{{ site.data.mostcited[0].last_updated }}</strong>. Click on conference for
-                                more.)</span>
+                            Show most cited papers &nbsp;&nbsp; <span style="font-size: 10px; color: #808080;">(Based on
+                                Google Scholar. Only
+                                venues 6 months or older. Last updated:
+                                <strong>{{ site.data.mostcited[0].last_updated }}</strong>. Click on venue for
+                                Top 10.)</span>
                         </label>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         href="/venue?id={{ venue.venue }}#{{ venue.venue }}{{ venue.year }}">{{venue.venue}}
                         {{venue.year}}</a>
                     {% if venue.place != "" %}
-                    &nbsp;&nbsp;<span class="venue-place">({{ venue.place }})</span>
+                    &nbsp;&nbsp;<span class="venue-place">({{ venue.place }}. {{ venue.date }})</span>
                     {% endif %}
                 </div>
             </div>
