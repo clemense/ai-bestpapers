@@ -54,6 +54,7 @@
   source:
     - ICCV
     - International Conference on Computer Vision
+    - Conference on Computer Vision
   link: https://www.thecvf.com/?page_id=100
 - name: ICLR
   long: International Conference on Learning Representations

@@ -494,47 +494,47 @@
 
 - venue: ICCV
   year: 2019
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICCV%22%20OR%20source%3A%22International%20Conference%20on%20Computer%20Vision%22&as_ylo=2019&as_yhi=2019&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Conference%20on%20Computer%20Vision%22&as_ylo=2019&as_yhi=2019&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 546
+  - citations: 549
     title: Searching for mobilenetv3
     author: A. Howard, M. Sandler, G. Chu
     link: http://openaccess.thecvf.com/content_ICCV_2019/papers/Howard_Searching_for_MobileNetV3_ICCV_2019_paper.pdf
-  - citations: 487
+  - citations: 493
     title: 'Fcos: Fully convolutional one-stage object detection'
     author: Z. Tian, C. Shen, H. Chen, T. He
     link: https://openaccess.thecvf.com/content_ICCV_2019/papers/Tian_FCOS_Fully_Convolutional_One-Stage_Object_Detection_ICCV_2019_paper.pdf
-  - citations: 417
+  - citations: 421
     title: Slowfast networks for video recognition
     author: C. Feichtenhofer, H. Fan, J. Malik
     link: https://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf
-  - citations: 355
+  - citations: 357
     title: Free-form image inpainting with gated convolution
     author: J. Yu, Z. Lin, J. Yang, X. Shen, X. Lu
     link: http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Free-Form_Image_Inpainting_With_Gated_Convolution_ICCV_2019_paper.pdf
-  - citations: 342
+  - citations: 343
     title: Rethinking imagenet pre-training
     author: K. He, R. Girshick, P. Dollár
     link: https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Rethinking_ImageNet_Pre-Training_ICCV_2019_paper.pdf
-  - citations: 340
+  - citations: 341
     title: Digging into self-supervised monocular depth estimation
     author: C. Godard, O. Mac Aodha, M. Firman
     link: http://openaccess.thecvf.com/content_ICCV_2019/papers/Godard_Digging_Into_Self-Supervised_Monocular_Depth_Estimation_ICCV_2019_paper.pdf
+  - citations: 317
+    title: 'Ccnet: Criss-cross attention for semantic segmentation'
+    author: Z. Huang, X. Wang, L. Huang
+    link: http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf
   - citations: 315
     title: 'Centernet: Keypoint triplets for object detection'
     author: K. Duan, S. Bai, L. Xie, H. Qi
     link: https://openaccess.thecvf.com/content_ICCV_2019/papers/Duan_CenterNet_Keypoint_Triplets_for_Object_Detection_ICCV_2019_paper.pdf
-  - citations: 315
-    title: 'Ccnet: Criss-cross attention for semantic segmentation'
-    author: Z. Huang, X. Wang, L. Huang
-    link: http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf
-  - citations: 292
+  - citations: 294
     title: 'Cutmix: Regularization strategy to train strong classifiers with localizable
       features'
     author: S. Yun, D. Han, S.J. Oh, S. Chun
     link: http://openaccess.thecvf.com/content_ICCV_2019/papers/Yun_CutMix_Regularization_Strategy_to_Train_Strong_Classifiers_With_Localizable_Features_ICCV_2019_paper.pdf
-  - citations: 288
+  - citations: 290
     title: Everybody dance now
     author: C. Chan, S. Ginosar, T. Zhou
     link: https://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_Everybody_Dance_Now_ICCV_2019_paper.pdf
@@ -639,14 +639,14 @@
 
 - venue: ACL
   year: 2019
-  last_updated: 01/30/21
+  last_updated: 02/01/21
   source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ACL%22&as_ylo=2019&as_yhi=2019&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 214
+  - citations: 216
     title: What does BERT learn about the structure of language?
     author: G. Jawahar, B. Sagot, D. Seddah
     link: https://hal.inria.fr/hal-02131630/document
-  - citations: 111
+  - citations: 112
     title: Transferable multi-domain state generator for task-oriented dialogue systems
     author: C.S. Wu, A. Madotto, E. Hosseini-Asl, C. Xiong
     link: https://arxiv.org/pdf/1905.08743
@@ -662,10 +662,7 @@
     title: 'OpenKiwi: An open source framework for quality estimation'
     author: F. Kepler, J. Trénous, M. Treviso, M. Vera
     link: https://arxiv.org/pdf/1902.08646
-  - citations: 32
-    title: Administration on aging. 2017 Profile of older Americans
-    author: U.S. Department of Health and Human Services
-  - citations: 29
+  - citations: 30
     title: We need to talk about standard splits
     author: K. Gorman, S. Bedrick
     link: https://www.aclweb.org/anthology/P19-1267.pdf
@@ -681,10 +678,15 @@
     title: 'Neural fuzzy repair: Integrating fuzzy matches into neural machine translation'
     author: B. Bulté, A. Tezcan
     link: https://biblio.ugent.be/publication/8624135/file/8624136
+  - citations: 11
+    title: Neural text simplification of clinical letters with a domain specific phrase
+      table
+    author: M. Shardlow, R. Nawaz
+    link: https://e-space.mmu.ac.uk/623484/1/clinicalNTS.pdf
 
 - venue: RSS
   year: 2019
-  last_updated: 01/30/21
+  last_updated: 02/01/21
   source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Robotics%3A%20Science%20and%20Systems%22&as_ylo=2019&as_yhi=2019&as_vis=0&as_sdt=1,33
   mostcited:
   - citations: 87
@@ -725,10 +727,11 @@
     title: Autonomous Tool Construction Using Part Shape and Attachment Prediction.
     author: L. Nair, N.S. Srikanth, Z.M. Erickson
     link: http://www.roboticsproceedings.org/rss15/p09.pdf
-  - citations: 11
-    title: Online Incremental Learning of the Terrain Traversal Cost in Autonomous
-      Exploration.
-    author: M. Prágr, P. Cizek, J. Bayer, J. Faigl
+  - citations: 10
+    title: Asymptotically Optimal Planning for Non-Myopic Multi-Robot Information
+      Gathering.
+    author: Y. Kantaros, B. Schlotfeldt, N. Atanasov
+    link: https://www.seas.upenn.edu/~brentsc/files/papers/kantaros_rss_2019.pdf
 
 - venue: CVPR
   year: 2019
@@ -827,24 +830,17 @@
 
 - venue: ICLR
   year: 2019
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICLR%22%20OR%20source%3A%22International%20Conference%20on%20Learning%20Representations%22&as_ylo=2019&as_yhi=2019&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22International%20Conference%20on%20Learning%20Representations%22&as_ylo=2019&as_yhi=2019&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 212
+  - citations: 215
     title: Deep Graph Infomax.
     author: P. Velickovic, W. Fedus, W.L. Hamilton, P. Liò
     link: https://pdfs.semanticscholar.org/2ef6/299459f0b7c9273cddba65f7402083c3b452.pdf
-  - citations: 154
-    title: 'Deep graph library: Towards efficient and scalable deep learning on graphs'
-    author: M. Wang, L. Yu, D. Zheng, Q. Gan, Y. Gai, Z. Ye, M. Li
-  - citations: 69
+  - citations: 70
     title: 'Dyrep: Learning representations over dynamic graphs'
     author: R. Trivedi, M. Farajtabar, P. Biswal, H. Zha
     link: https://par.nsf.gov/servlets/purl/10099025
-  - citations: 63
-    title: 'BabyAI: First steps towards grounded language learning with a human in
-      the loop'
-    author: M. Chevalier-Boisvert, D. Bahdanau, S. Lahlou
   - citations: 56
     title: 'ALISTA: Analytic weights are as good as learned weights in LISTA'
     author: J. Liu, X. Chen
@@ -862,13 +858,21 @@
     author: Y. Wang, D. Zou, J. Yi, J. Bailey, X. Ma
     link: https://openreview.net/pdf?id=rklOg6EFwS
   - citations: 38
+    title: Amortized Bayesian Meta-Learning.
+    author: S. Ravi, A. Beatson
+    link: https://openreview.net/references/pdf?id=r1zQeNpB4
+  - citations: 38
     title: 'Dba: Distributed backdoor attacks against federated learning'
     author: C. Xie, K. Huang, P.Y. Chen, B. Li
     link: https://openreview.net/pdf/61dc789b9f12be96506a23ddb7670ac132a51d6d.pdf
   - citations: 37
-    title: Amortized Bayesian Meta-Learning.
-    author: S. Ravi, A. Beatson
-    link: https://openreview.net/references/pdf?id=r1zQeNpB4
+    title: Learning-Based Frequency Estimation Algorithms.
+    author: C.Y. Hsu, P. Indyk, D. Katabi, A. Vakilian
+    link: https://par.nsf.gov/servlets/purl/10112257
+  - citations: 32
+    title: 'Adversarial training and provable defenses: Bridging the gap'
+    author: M. Balunovic, M. Vechev
+    link: https://openreview.net/pdf?id=SJxSDxrKDr
 
 - venue: AAAI
   year: 2019
@@ -1551,51 +1555,52 @@
 
 - venue: ICCV
   year: 2017
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICCV%22%20OR%20source%3A%22International%20Conference%20on%20Computer%20Vision%22&as_ylo=2017&as_yhi=2017&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Conference%20on%20Computer%20Vision%22&as_ylo=2017&as_yhi=2017&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 9934
+  - citations: 9959
     title: Mask r-cnn
     author: K. He, G. Gkioxari, P. Dollár
     link: http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf
-  - citations: 5909
+  - citations: 7317
+    title: Unpaired image-to-image translation using cycle-consistent adversarial
+      networks
+    author: J.Y. Zhu, T. Park, P. Isola, A.A. Efros
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf
+  - citations: 5935
     title: Focal loss for dense object detection
     author: T.Y. Lin, P. Goyal, R. Girshick, K. He
     link: https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf
-  - citations: 230
-    title: 'Hide-and-seek: Forcing a network to be meticulous for weakly-supervised
-      object and action localization'
-    author: K.K. Singh, Y.J. Lee
-    link: https://arxiv.org/pdf/1704.04232
-  - citations: 151
-    title: 'Autodial: Automatic domain alignment layers'
-    author: F.M. Carlucci, L. Porzi, B. Caputo, E. Ricci
-    link: https://arxiv.org/pdf/1704.08082
-  - citations: 129
-    title: 'DeepFuse: A Deep Unsupervised Approach for Exposure Fusion with Extreme
-      Exposure Image Pairs.'
-    author: K.R. Prabhakar, V.S. Srikar, R.V. Babu
-    link: https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Prabhakar_DeepFuse_A_Deep_ICCV_2017_supplemental.pdf
-  - citations: 101
-    title: 'Subunets: End-to-end hand shape and continuous sign language recognition'
-    author: N.C. Camgoz, S. Hadfield, O. Koller
-    link: http://epubs.surrey.ac.uk/841837/1/camgoz2017iccv.pdf
-  - citations: 87
-    title: 'Adversarial inverse graphics networks: Learning 2d-to-3d lifting and image-to-image
-      translation from unpaired supervision'
-    author: HYF Tung, A.W. Harley, W. Seto
-    link: https://arxiv.org/pdf/1705.11166
-  - citations: 77
-    title: Monocular 3d human pose estimation by predicting depth on joints
-    author: B.X. Nie, P. Wei, S.C. Zhu
-    link: https://ieeexplore.ieee.org/abstract/document/8237635/
-  - citations: 71
-    title: ́, ar, and Ross, Girshick
-    author: K. He, G. Gkioxari, P. Doll
-  - citations: 71
-    title: Adversarial image perturbation for privacy protection a game theory perspective
-    author: S.J. Oh, M. Fritz, B. Schiele
-    link: https://arxiv.org/pdf/1703.09471
+  - citations: 3715
+    title: 'Grad-cam: Visual explanations from deep networks via gradient-based localization'
+    author: R.R. Selvaraju, M. Cogswell, A. Das
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf
+  - citations: 1987
+    title: Least squares generative adversarial networks
+    author: X. Mao, Q. Li, H. Xie, RYK Lau, Z. Wang
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Mao_Least_Squares_Generative_ICCV_2017_paper.pdf
+  - citations: 1493
+    title: Deformable convolutional networks
+    author: J. Dai, H. Qi, Y. Xiong, Y. Li, G. Zhang
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf
+  - citations: 1474
+    title: 'Stackgan: Text to photo-realistic image synthesis with stacked generative
+      adversarial networks'
+    author: H. Zhang, T. Xu, H. Li, S. Zhang, X. Wang
+    link: https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf
+  - citations: 1055
+    title: Arbitrary style transfer in real-time with adaptive instance normalization
+    author: X. Huang, S. Belongie
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.pdf
+  - citations: 1036
+    title: Unlabeled samples generated by gan improve the person re-identification
+      baseline in vitro
+    author: Z. Zheng, L. Zheng, Y. Yang
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Unlabeled_Samples_Generated_ICCV_2017_paper.pdf
+  - citations: 1014
+    title: 'Dualgan: Unsupervised dual learning for image-to-image translation'
+    author: Z. Yi, H. Zhang, P. Tan, M. Gong
+    link: http://openaccess.thecvf.com/content_ICCV_2017/papers/Yi_DualGAN_Unsupervised_Dual_ICCV_2017_paper.pdf
 
 - venue: 3DV
   year: 2017
@@ -1939,16 +1944,13 @@
 
 - venue: ICLR
   year: 2017
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICLR%22%20OR%20source%3A%22International%20Conference%20on%20Learning%20Representations%22&as_ylo=2017&as_yhi=2017&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22International%20Conference%20on%20Learning%20Representations%22&as_ylo=2017&as_yhi=2017&as_vis=0&as_sdt=1,33
   mostcited:
   - citations: 101
     title: Making neural programming architectures generalize via recursion
     author: J. Cai, R. Shin, D. Song
     link: https://arxiv.org/pdf/1704.06611
-  - citations: 98
-    title: Combining policy gradient and Q-learning.
-    author: B. O'Donoghue, R. Munos, K. Kavukcuoglu, V. Mnih
   - citations: 72
     title: 'Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization.'
     author: L. Li, K.G. Jamieson, G. DeSalvo, A. Rostamizadeh
@@ -1961,24 +1963,31 @@
     title: Variational Recurrent Adversarial Deep Domain Adaptation.
     author: S. Purushotham, W. Carvalho, T. Nilanon, Y. Liu
     link: https://openreview.net/references/pdf?id=ryc_GMywl
-  - citations: 47
-    title: 'SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5
-      MB model size'
-    author: N. Forrest, H. Song, V.M. Matthew, A. Khalid, J.D. William
   - citations: 46
     title: Categorical reparametrization with gumble-softmax
     author: E. Jang, S. Gu, B. Poole
     link: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2564872
-  - citations: 35
-    title: CN d
-    author: Z. Lin, M. Feng
   - citations: 23
     title: Pl@ ntnet app in the era of deep learning
     author: A. Affouard, H. Goëau, P. Bonnet
     link: https://hal.archives-ouvertes.fr/hal-01629195/document
   - citations: 17
-    title: Optimization as a model for few-shot learning
-    author: R. Sachin, L. Hugo
+    title: Audio super-resolution using neural nets
+    author: V. Kuleshov, S.Z. Enam, S. Ermon
+    link: https://openreview.net/references/pdf?id=HkEtKFBYg
+  - citations: 12
+    title: Joint embeddings of scene graphs and images
+    author: E. Belilovsky, M. Blaschko, J. Kiros, R. Urtasun
+    link: https://hal.inria.fr/hal-01667777/document
+  - citations: 8
+    title: 'Paying more attention to attention: improving the performance of convolutional
+      neural networks via attention transfer'
+    author: N. Komodakis, S. Zagoruyko
+    link: https://hal.archives-ouvertes.fr/hal-01832769/
+  - citations: 5
+    title: 'De novo drug design with deep generative models: an empirical study'
+    author: M. Cherti, B. Kégl, A. Kazakçı
+    link: https://hal.archives-ouvertes.fr/hal-01773760/document
 
 - venue: AAAI
   year: 2017
@@ -2561,48 +2570,50 @@
 
 - venue: ICCV
   year: 2015
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICCV%22%20OR%20source%3A%22International%20Conference%20on%20Computer%20Vision%22&as_ylo=2015&as_yhi=2015&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Conference%20on%20Computer%20Vision%22&as_ylo=2015&as_yhi=2015&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 337
-    title: Deep neural decision forests
-    author: P. Kontschieder, M. Fiterau
-    link: http://openaccess.thecvf.com/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf
-  - citations: 42
-    title: Object detection and terrain classification in agricultural fields using
-      3D lidar data
-    author: M. Kragh, R.N. Jørgensen, H. Pedersen
-    link: https://link.springer.com/chapter/10.1007/978-3-319-20904-3_18
-  - citations: 36
-    title: CL, Zitnick, and D
-    author: S. Antol, A. Agrawal, J. Lu, M. Mitchell, D. Batra
-  - citations: 34
-    title: Learning image representations equivariant to ego-motion
-    author: D. Jayaraman, K. Grauman
-  - citations: 25
-    title: 'DCO: Fast and Robust Registration of 3D Textureless Objects Using the
-      Directional Chamfer Distance'
-    author: M. Imperoli, A. Pretto
-    link: http://flourish-project.eu/fileadmin/user_upload/publications/miap_icvs2015.pdf
-  - citations: 19
-    title: Margaret, Mitchell, Dhruv Batra, C
-    author: S. Antol, A. Agrawal, J. Lu
-  - citations: 17
-    title: 'It''s in the bag: Stronger supervision for automated face labelling'
-    author: O.M. Parkhi, E. Rahtu, A. Zisserman
-    link: https://ora.ox.ac.uk/objects/uuid:4c488040-6c9e-4549-a1a4-b7b6d98813db/download_file?file_format=pdf&safe_filename=parkhi15a.pdf&type_of_work=Conference+item
-  - citations: 17
-    title: The visual object tracking vot2015 challenge results
-    author: K. Matej, J. Matas, A. Leonardis
-    link: https://graz.pure.elsevier.com/de/publications/the-visual-object-tracking-vot2015-challenge-results
-  - citations: 17
-    title: 'A vision-based system for movement analysis in medical applications: The
-      example of Parkinson disease'
-    author: S. Spasojević, J. Santos-Victor, T. Ilić, S. Milanović
-    link: https://www.researchgate.net/profile/Tihomir_Ilic2/publication/280553269_A_Vision-Based_System_for_Movement_Analysis_in_Medical_Applications_The_Example_of_Parkinson_Disease/links/55c48c7708aea2d9bdc2ae17/A-Vision-Based-System-for-Movement-Analysis-in-Medical-Applications-The-Example-of-Parkinson-Disease.pdf
-  - citations: 16
-    title: LearningSpatio temporalFeatureswith3DConvolutionalNetworks
-    author: B.L. TranD
+  - citations: 13220
+    title: Fast r-cnn
+    author: R. Girshick
+    link: https://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf
+  - citations: 10601
+    title: 'Delving deep into rectifiers: Surpassing human-level performance on imagenet
+      classification'
+    author: K. He, X. Zhang, S. Ren, J. Sun
+    link: https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf
+  - citations: 4430
+    title: Learning spatiotemporal features with 3d convolutional networks
+    author: D. Tran, L. Bourdev, R. Fergus
+    link: https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf
+  - citations: 3295
+    title: Deep learning face attributes in the wild
+    author: Z. Liu, P. Luo, X. Wang, X. Tang
+    link: http://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Deep_Learning_Face_ICCV_2015_paper.pdf
+  - citations: 3161
+    title: Learning deconvolution network for semantic segmentation
+    author: H. Noh, S. Hong, B. Han
+    link: https://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf
+  - citations: 2436
+    title: 'Vqa: Visual question answering'
+    author: S. Antol, A. Agrawal, J. Lu, M. Mitchell
+    link: http://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf
+  - citations: 2325
+    title: Conditional random fields as recurrent neural networks
+    author: S. Zheng, S. Jayasumana
+    link: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf
+  - citations: 1976
+    title: 'Scalable person re-identification: A benchmark'
+    author: L. Zheng, L. Shen, L. Tian, S. Wang
+    link: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf
+  - citations: 1914
+    title: Holistically-nested edge detection
+    author: S. Xie, Z. Tu
+    link: http://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Holistically-Nested_Edge_Detection_ICCV_2015_paper.pdf
+  - citations: 1894
+    title: 'Flownet: Learning optical flow with convolutional networks'
+    author: A. Dosovitskiy, P. Fischer, E. Ilg
+    link: http://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf
 
 - venue: NeurIPS
   year: 2015
@@ -2750,10 +2761,10 @@
 
 - venue: EMNLP
   year: 2015
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22EMNLP%22%20OR%20source%3A%22Conference%20on%20Empirical%20Methods%20in%20Natural%20Language%20Processing%22&as_ylo=2015&as_yhi=2015&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Conference%20on%20Empirical%20Methods%20in%20Natural%20Language%20Processing%22&as_ylo=2015&as_yhi=2015&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 1769
+  - citations: 1774
     title: A large annotated corpus for learning natural language inference
     author: S.R. Bowman, G. Angeli, C. Potts, C.D. Manning
     link: https://arxiv.org/pdf/1508.05326
@@ -2783,9 +2794,6 @@
     title: Using Content-level Structures for Summarizing Microblog Repost Trees.
     author: J. Li, W. Gao, Z. Wei, B. Peng, K.F. Wong
     link: https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5576&context=sis_research
-  - citations: 13
-    title: 'Glove: Global vectors forword representation'
-    author: J. Pennington, R. Socher, C.D. Manning
   - citations: 11
     title: 'Transparent machine learning for information extraction: state-of-the-art
       and the future'
@@ -2795,6 +2803,10 @@
     title: Syntactic parse fusion
     author: DMC Do Kook Choe, E. Charniak
     link: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.699.7846
+  - citations: 4
+    title: Automatic Extraction of Time Expressions Across Domains in French Narratives
+    author: MDT Nzali, X. Tannier, A. Névéol
+    link: https://hal.archives-ouvertes.fr/hal-01222642/file/tapinzaliEMNLPshort2015_final.pdf
 
 - venue: ACL
   year: 2015
@@ -3135,51 +3147,49 @@
 
 - venue: ICCV
   year: 2013
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICCV%22%20OR%20source%3A%22International%20Conference%20on%20Computer%20Vision%22&as_ylo=2013&as_yhi=2013&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Conference%20on%20Computer%20Vision%22&as_ylo=2013&as_yhi=2013&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 114
-    title: From large scale image categorization to entry-level categories
-    author: V. Ordonez, J. Deng, Y. Choi, A.C. Berg
-    link: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Ordonez_From_Large_Scale_2013_ICCV_paper.pdf
-  - citations: 103
-    title: Lear-inria submission for the thumos workshop
+  - citations: 2858
+    title: Action recognition with improved trajectories
     author: H. Wang, C. Schmid
-    link: https://www.crcv.ucf.edu/ICCV13-Action-Workshop/index.files/NotebookPapers13/Paper%2039%20(Supplementary).pdf
-  - citations: 86
-    title: Simultaneous localization and mapping for event-based vision systems
-    author: D. Weikersdorfer, R. Hoffmann, J. Conradt
-    link: https://www.researchgate.net/profile/David_Weikersdorfer/publication/259006161_Simultaneous_Localization_and_Mapping_for_Event-Based_Vision_Systems/links/00b7d53300044c0634000000.pdf
-  - citations: 62
-    title: A hierarchical scheme of multiple feature fusion for high-resolution satellite
-      scene categorization
-    author: W. Shao, W. Yang, G.S. Xia, G. Liu
-    link: https://www.researchgate.net/profile/Wen_Yang12/publication/262238525_A_Hierarchical_Scheme_of_Multiple_Feature_Fusion_for_High-Resolution_Satellite_Scene_Categorization/links/55c0a57608aed621de13cf5e/A-Hierarchical-Scheme-of-Multiple-Feature-Fusion-for-High-Resolution-Satellite-Scene-Categorization.pdf
-  - citations: 45
-    title: Fast detection of multiple textureless 3-D objects
-    author: H. Cai, T. Werner, J. Matas
-    link: https://dspace.cvut.cz/bitstream/handle/10467/60915/2013_Fast-Detection-of-Multiple-Textureless-3D-Objects.pdf?sequence=1
-  - citations: 42
-    title: Model-based pose estimation for rigid objects
-    author: M. Lourakis, X. Zabulis
-    link: http://users.ics.forth.gr/~lourakis/publ/2013_icvs.pdf
-  - citations: 35
-    title: Adapting pedestrian detection from synthetic to far infrared images
-    author: Y. Socarrás, S. Ramos, D. Vázquez, A.M. López
-    link: https://www.researchgate.net/profile/David_Vazquez4/publication/259930768_Adapting_Pedestrian_Detection_from_Synthetic_to_Far_Infrared_Images/links/0a85e52ee235817f0b000000.pdf
-  - citations: 30
-    title: Compensation for multipath in ToF camera measurements supported by photometric
-      calibration and environment integration
-    author: S. Fuchs, M. Suppa, O. Hellwich
-    link: https://link.springer.com/chapter/10.1007/978-3-642-39402-7_4
-  - citations: 29
-    title: ́, ar and CL Zitnick
-    author: P. Doll
-  - citations: 27
-    title: L1-regularized logistic regression stacking and transductive crf smoothing
-      for action recognition in video
-    author: S. Karaman, L. Seidenari, A.D. Bagdanov
-    link: http://www.sveborkaraman.com/wp-content/papercite-data/pdf/karamanthumos2013.pdf
+    link: https://openaccess.thecvf.com/content_iccv_2013/papers/Wang_Action_Recognition_with_2013_ICCV_paper.pdf
+  - citations: 1045
+    title: Anchored neighborhood regression for fast example-based super-resolution
+    author: R. Timofte, V. De Smet
+    link: http://openaccess.thecvf.com/content_iccv_2013/papers/Timofte_Anchored_Neighborhood_Regression_2013_ICCV_paper.pdf
+  - citations: 981
+    title: Structured forests for fast edge detection
+    author: P. Dollár, C.L. Zitnick
+    link: http://openaccess.thecvf.com/content_iccv_2013/papers/Dollar_Structured_Forests_for_2013_ICCV_paper.pdf
+  - citations: 948
+    title: Unsupervised visual domain adaptation using subspace alignment
+    author: B. Fernando, A. Habrard, M. Sebban
+    link: http://openaccess.thecvf.com/content_iccv_2013/papers/Fernando_Unsupervised_Visual_Domain_2013_ICCV_paper.pdf
+  - citations: 913
+    title: 'DeepFlow: Large displacement optical flow with deep matching'
+    author: P. Weinzaepfel, J. Revaud
+    link: https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf
+  - citations: 845
+    title: Transfer feature learning with joint distribution adaptation
+    author: M. Long, J. Wang, G. Ding, J. Sun
+    link: https://openaccess.thecvf.com/content_iccv_2013/papers/Long_Transfer_Feature_Learning_2013_ICCV_paper.pdf
+  - citations: 733
+    title: Robust face landmark estimation under occlusion
+    author: X.P. Burgos-Artizzu, P. Perona
+    link: http://openaccess.thecvf.com/content_iccv_2013/papers/Burgos-Artizzu_Robust_Face_Landmark_2013_ICCV_paper.pdf
+  - citations: 704
+    title: Efficient image dehazing with boundary constraint and contextual regularization
+    author: G. Meng, Y. Wang, J. Duan, S. Xiang
+    link: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Meng_Efficient_Image_Dehazing_2013_ICCV_paper.pdf
+  - citations: 666
+    title: Joint deep learning for pedestrian detection
+    author: W. Ouyang, X. Wang
+    link: http://openaccess.thecvf.com/content_iccv_2013/papers/Ouyang_Joint_Deep_Learning_2013_ICCV_paper.pdf
+  - citations: 627
+    title: Saliency detection via dense and sparse reconstruction
+    author: X. Li, H. Lu, L. Zhang, X. Ruan
+    link: https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Li_Saliency_Detection_via_2013_ICCV_paper.pdf
 
 - venue: 3DV
   year: 2013
@@ -3275,22 +3285,22 @@
 
 - venue: ICCV
   year: 2011
-  last_updated: 01/30/21
-  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22ICCV%22%20OR%20source%3A%22International%20Conference%20on%20Computer%20Vision%22&as_ylo=2011&as_yhi=2011&as_vis=0&as_sdt=1,33
+  last_updated: 02/01/21
+  source: https://scholar.google.com/scholar?hl=en&q=source%3A%22Conference%20on%20Computer%20Vision%22&as_ylo=2011&as_yhi=2011&as_vis=0&as_sdt=1,33
   mostcited:
-  - citations: 7610
+  - citations: 7617
     title: 'ORB: An efficient alternative to SIFT or SURF'
     author: E. Rublee, V. Rabaud, K. Konolige
     link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.370.4395&rep=rep1&type=pdf
-  - citations: 3653
+  - citations: 3654
     title: 'BRISK: Binary robust invariant scalable keypoints'
     author: S. Leutenegger, M. Chli
     link: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/43288/1/eth-7684-01.pdf
-  - citations: 2266
+  - citations: 2269
     title: 'HMDB: a large video database for human motion recognition'
     author: H. Kuehne, H. Jhuang, E. Garrote
     link: https://dspace.mit.edu/bitstream/handle/1721.1/69981/Poggio-HMDB.pdf?sequence=1&isAllowed=y
-  - citations: 2007
+  - citations: 2008
     title: 'Sparse representation or collaborative representation: Which helps face
       recognition?'
     author: L. Zhang, M. Yang, X. Feng
@@ -3299,7 +3309,7 @@
     title: 'DTAM: Dense tracking and mapping in real-time'
     author: R.A. Newcombe, S.J. Lovegrove
     link: http://ugweb.cs.ualberta.ca/~vis/courses/CompVis/readings/3DReconstruction/dtam.pdf
-  - citations: 1197
+  - citations: 1199
     title: From learning models of natural image patches to whole image restoration
     author: D. Zoran, Y. Weiss
     link: http://people.csail.mit.edu/danielzoran/EPLLICCVCameraReady.pdf
@@ -3311,11 +3321,11 @@
     title: Fisher discrimination dictionary learning for sparse representation
     author: M. Yang, L. Zhang, X. Feng
     link: ftp://doc.nit.ac.ir/cee/electronic/ezoji.mehdi/Sparse%20Representation/Algorithms%20&%20Applications/ICCV%202011%20FDDL.pdf
-  - citations: 1004
+  - citations: 1005
     title: 'Domain adaptation for object recognition: An unsupervised approach'
     author: R. Gopalan, R. Li, R. Chellappa
     link: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.300.3323&rep=rep1&type=pdf
-  - citations: 994
+  - citations: 993
     title: Relative attributes
     author: D. Parikh, K. Grauman
     link: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.648.3354&rep=rep1&type=pdf
