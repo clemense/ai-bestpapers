@@ -1,5 +1,52 @@
 ---
 
+- venue: ICLR
+  year: 2020
+  awards:
+  - award: Outstanding Paper
+    title: "Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters"
+    author: Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu
+    link: https://openreview.net/forum?id=rcQdycl0zyk
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: Complex Query Answering with Neural Link Predictors
+    author: Erik Arakelyan, Daniel Daza, Pasquale Minervini, Michael Cochez
+    link: https://openreview.net/forum?id=Mos9F9kDwkz
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: "EigenGame: PCA as a Nash Equilibrium"
+    author: Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel
+    link: https://openreview.net/forum?id=NzTU59SYbNq
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: Learning Mesh-Based Simulation with Graph Networks
+    author: Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter Battaglia
+    link: https://openreview.net/forum?id=roNqYL0_XP
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: Neural Synthesis of Binaural Speech from Mono Audio
+    author: Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, Yaser Sheikh
+    link: https://openreview.net/forum?id=uAX8q61EVRu
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime
+    author: Atsushi Nitanda, Taiji Suzuki
+    link: https://openreview.net/forum?id=PULSD5qI2N1
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: Rethinking Architecture Selection in Differentiable NAS
+    author: Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh
+    link: https://openreview.net/forum?id=PKubaeJkw3
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  - award: Outstanding Paper
+    title: Score-Based Generative Modeling through Stochastic Differential Equations
+    author: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
+    link: https://openreview.net/forum?id=PxTIG12RRHS
+    source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
+  place: Online
+  date: April 26 - May 1, 2021
+  sub: ML
+
 - venue: NeurIPS
   year: 2020
   awards:
