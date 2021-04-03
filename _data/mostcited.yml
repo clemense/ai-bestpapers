@@ -964,7 +964,7 @@
   - citations: 54
     title: Bayesian Control of Large MDPs with Unknown Dynamics in Data-Poor Environments.
     author: M. Imani, S.F. Ghoreishi, U. Braga-Neto
-    link: https://www.academia.edu/download/58389467/NIPS_Imani.pdf
+    link: http://papers.neurips.cc/paper/8037-bayesian-control-of-large-mdps-with-unknown-dynamics-in-data-poor-environments.pdf
   - citations: 53
     title: Distributed multi-player bandits-a game of thrones approach
     author: I. Bistritz, A. Leshem
@@ -2092,7 +2092,7 @@
   - citations: 150
     title: Fast and accurate spike sorting of high-channel count probes with KiloSort
     author: M. Pachitariu, N. Steinmetz, S. Kadir, M. Carandini
-    link: http://uhra.herts.ac.uk/bitstream/handle/2299/19969/Published_Version.pdf?sequence=2
+    link: http://www.steinmetzlab.net/assets/img/Pachitariu%20et%20al.%20-%202016%20-%20Fast%20and%20accurate%20spike%20sorting%20of%20high-channel%20count%20probes%20with%20KiloSort.pdf
   - citations: 147
     title: Speeding up semantic segmentation for autonomous driving
     author: M. Treml, J. Arjona-Medina, T. Unterthiner
@@ -2207,7 +2207,7 @@
   - citations: 273
     title: 'AprilTag 2: Efficient and robust fiducial detection'
     author: J. Wang, E. Olson
-    link: http://pcv.oss-cn-shanghai.aliyuncs.com/www.p-chao.com/2018/11/wang2016iros.pdf
+    link: https://ieeexplore.ieee.org/abstract/document/7759617
   - citations: 183
     title: Efficient deep models for monocular road segmentation
     author: G.L. Oliveira, W. Burgard, T. Brox
@@ -2868,7 +2868,7 @@
     title: 'Place recognition with convnet landmarks: Viewpoint-robust, condition-robust,
       training-free'
     author: N. Sünderhauf, S. Shirazi, A. Jacobson
-    link: https://eprints.qut.edu.au/84931/21/rss15_placeRec.pdf
+    link: https://core.ac.uk/download/pdf/33500882.pdf
   - citations: 266
     title: Online localization of radio-tagged wildlife with an autonomous aerial
       robot system
