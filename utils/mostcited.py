@@ -139,8 +139,8 @@ num_output_top_results = 10
 use_full_author_list = False  # Requires more google queries
 
 update_specific_venue = True
-update_venues = ["CVPR"]
-update_years = [2020]
+update_venues = ["ICLR"]
+update_years = [2016]
 # update_years = list(range(2010, 2020))
 
 min_number_of_days_elapsed = int(365 / 2)

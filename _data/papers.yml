@@ -4,8 +4,10 @@
   year: 2020
   awards:
   - award: Outstanding Paper
-    title: "Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters"
-    author: Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu
+    title: 'Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex
+      Multiplications with 1/n Parameters'
+    author: Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie
+      Fu
     link: https://openreview.net/forum?id=rcQdycl0zyk
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   - award: Outstanding Paper
@@ -14,7 +16,7 @@
     link: https://openreview.net/forum?id=Mos9F9kDwkz
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   - award: Outstanding Paper
-    title: "EigenGame: PCA as a Nash Equilibrium"
+    title: 'EigenGame: PCA as a Nash Equilibrium'
     author: Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel
     link: https://openreview.net/forum?id=NzTU59SYbNq
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
@@ -25,11 +27,13 @@
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   - award: Outstanding Paper
     title: Neural Synthesis of Binaural Speech from Mono Audio
-    author: Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, Yaser Sheikh
+    author: Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone
+      Alexander Butler, Fernando Torre, Yaser Sheikh
     link: https://openreview.net/forum?id=uAX8q61EVRu
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   - award: Outstanding Paper
-    title: Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime
+    title: Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent
+      Kernel Regime
     author: Atsushi Nitanda, Taiji Suzuki
     link: https://openreview.net/forum?id=PULSD5qI2N1
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
@@ -40,7 +44,8 @@
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   - award: Outstanding Paper
     title: Score-Based Generative Modeling through Stochastic Differential Equations
-    author: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
+    author: Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano
+      Ermon, Ben Poole
     link: https://openreview.net/forum?id=PxTIG12RRHS
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   place: Online
@@ -726,6 +731,73 @@
   date: June 9-15, 2019
   sub: ML
 
+- venue: ICRA
+  year: 2019
+  awards:
+  - award: Best Paper
+    title: 'Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal
+      Representations for Contact- Rich Tasks'
+    link: https://arxiv.org/abs/1810.10191
+    author: Michelle A. Lee, Yuke Zhu, Krishnan Srinivasan, Parth Shah, Silvio Savarese,
+      Li Fei-Fei, Animesh Garg, Jeannette Bohg
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/72-icra-best-conference-paper
+  - award: Best Student Paper
+    title: Drift-free Roll and Pitch Estimation for High-acceleration Hopping
+    link: https://ieeexplore.ieee.org/abstract/document/8793259
+    author: Justin K. Yim, Eric K. Wang, Ronald Fearing
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/74-icra-best-student-paper
+  - award: Best Automation Paper
+    title: Robotic Orientation Control of Deformable Cells
+    link: https://ieeexplore.ieee.org/abstract/document/8793986
+    author: Changsheng Dai, Zhuoran Zhang, Yuchen Lu, Guanqiao Shan, Xian Wang, Qili
+      Zhao, Yu Sun
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper
+  - award: Best Cognitive Robotics Paper
+    title: Efficient Symbolic Reactive Synthesis for Finite-Horizon Tasks
+    link: https://ieeexplore.ieee.org/abstract/document/8794170
+    author: Keliang He, Andrew Wells, Lydia Kavraki, Moshe Vardi
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/83-icra-cognitive-robotics-best-paper-award-sponsored-by-cotesys
+  - award: Best Human-Robot Interaction Paper
+    title: Gesture Recognition via Flexible Capacitive Touch Electrodes
+    link: https://ieeexplore.ieee.org/abstract/document/8794202
+    author: Louis Dankovich, Sarah Bergbreiter
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/703-icra-best-paper-award-on-human-robot-interaction-hri
+  - award: Best Medical Robotics Paper
+    title: Adaptive Control of Sclera Force and Insertion Depth for Safe Robot-Assisted
+      Retinal Surgery
+    link: https://ieeexplore.ieee.org/abstract/document/8793658
+    author: Ali Ebrahimi, Niravkumar Patel, Changyan He, Peter Gehlbach, Marin Kobilarov,
+      Iulian Iordachita
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/82-icra-best-medical-robotics-paper-award-sponsored-by-intuitive-surgical
+  - award: Best Multi-Robot Systems Paper
+    title: Distributed Multi-Robot Formation Splitting and Merging in Dynamic Environments
+    link: https://ieeexplore.ieee.org/abstract/document/8793765
+    author: Hai Zhu, Jelle Juhl, Laura Ferranti, Javier Alonso-Mora
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-icra-best-paper-award-on-multi-robot-systems-sponsored-by-amazon-robotics
+  - award: Best Robot Manipulation Paper
+    title: 'Shallow-Depth Insertion: Peg in Shallow Hole through Robotic In-Hand Manipulation'
+    link: https://ieeexplore.ieee.org/abstract/document/8598749
+    author: Chung Hee Kim, Jungwon Seo
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/73-icra-best-manipulation-paper
+  - award: Best Robot Vision Paper
+    title: Geo-Supervised Visual Depth Prediction
+    link: https://arxiv.org/abs/1807.11130
+    author: Xiaohan Fei, Alex Wong, Stefano Soatto
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/76-icra-best-vision-paper
+  - award: Best Service Robotics Paper
+    title: Multi-Robot Region-of-Interest Reconstruction with Dec-MCTS
+    link: https://ieeexplore.ieee.org/abstract/document/8793560
+    author: Fouad Sukkar, Graeme Best, Chanyeol Yoo, Robert Fitch
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/78-kuka-service-robotics-best-paper-award
+  - award: Best Unmanned Aerial Vehicles Paper
+    title: Design and Control of a Passively Morphing Quadcopter
+    link: https://ieeexplore.ieee.org/abstract/document/8794373
+    author: Nathan Bucki, Mark Wilfried Mueller
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/1234-ieee-icra-best-paper-award-on-unmanned-aerial-vehicles
+  place: Montreal, Canada
+  date: May 20-24, 2019
+  sub: RO
+
 - venue: ICLR
   year: 2019
   awards:
@@ -1062,6 +1134,85 @@
   date: June 18-22, 2018
   sub: CV
 
+- venue: ICRA
+  year: 2018
+  awards:
+  - award: Best Paper
+    title: Compact Design of a Hydraulic Driving Robot for Intra-operative MRI-guided
+      Bilateral Stereotactic Neurosurgery
+    link: https://ieeexplore.ieee.org/abstract/document/8310892
+    author: Ziyan Guo, Ziyang Dong, Kit-Hang Lee, Chim Lee Cheung, Hing Choi Fu, Justin
+      Di-Lang Ho, Haokun He, Wai Sang Poon, Tat-Ming Chan, Ka-Wai Kwok
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/72-icra-best-conference-paper
+  - award: Best Student Paper
+    title: 'Design of an Autonomous Racecar: Perception, State Estimation and System
+      Integration'
+    link: https://arxiv.org/abs/1804.03252
+    author: Miguel de la Iglesia Valls, Hubertus Franciscus Cornelis Hendrikx, Victor
+      Reijgwart, Fabio Vito Meier, Inkyu Sa, Renaud Dubé, Abel Roman Gawel, Mathias
+      Bürki, Roland Siegwart
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/74-icra-best-student-paper
+  - award: Best Automation Paper
+    title: Accurate and Adaptive In situ Fabrication of an Undulated Wall using an
+      On-Board Visual Sensing System
+    link: https://ieeexplore.ieee.org/abstract/document/8460480
+    author: Manuel Lussi, Timothy Sandy, Kathrin Doerfler, Norman Hack, Fabio Gramazio,
+      Matthias Daniel Kohler, Jonas Buchli
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper
+  - award: Best Cognitive Robotics Paper
+    title: 'Social Attention: Modeling Attention in Human Crowds'
+    link: https://arxiv.org/abs/1710.04689
+    author: Anirudh Vemula, Katharina Muelling, Jean Oh
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/83-icra-cognitive-robotics-best-paper-award-sponsored-by-cotesys
+  - award: Best Human-Robot Interaction Paper
+    title: Interactively Picking Real-World Objects with Unconstrained Spoken Language
+      Instructions
+    link: https://arxiv.org/abs/1710.06280
+    author: Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, Yuta Tsuboi,
+      Yuya Unno, Wilson Kien Ho Ko, Jethro Tan
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/703-icra-best-paper-award-on-human-robot-interaction-hri
+  - award: Best Medical Robotics Paper
+    title: A Lightweight and Efficient Portable Soft Exosuit for Paretic Ankle Assistance
+      in Walking after Stroke
+    link: https://ieeexplore.ieee.org/abstract/document/8461046
+    author: Jaehyun Bae, Christopher Siviy, Michael Rouleau, Nicolas Menard, Kathleen
+      O’Donnell, Ignacio Galiana, Maria Athanassiu, Danielle Ryan, Christine Bibeau,
+      Lizeth Sloot, Pawel Kudzia, Terry Ellis, Louis Awad, Conor James Walsh
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/82-icra-best-medical-robotics-paper-award-sponsored-by-intuitive-surgical
+  - award: Best Multi-Robot Systems Paper
+    title: Pairwise Consistent Measurement Set Maximization for Robust Multi-robot
+      Map Merging
+    link: https://ieeexplore.ieee.org/abstract/document/8460217
+    author: Joshua Mangelson, Derrick Dominic, Ryan Eustice, Ram Vasudevan
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-icra-best-paper-award-on-multi-robot-systems-sponsored-by-amazon-robotics
+  - award: Best Robot Manipulation Paper
+    title: Decentralized Adaptive Control for Collaborative Manipulation
+    link: https://ieeexplore.ieee.org/abstract/document/8461263
+    author: Preston Culbertson, Mac Schwager
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/73-icra-best-manipulation-paper
+  - award: Best Robot Vision Paper
+    title: 'Optimization Beyond the Convolution: Generalizing Spatial Relations with
+      End-to-End Metric Learning'
+    link: https://arxiv.org/abs/1707.00893
+    author: Philipp Jund, Andreas Eitel, Nichola Abdo, Wolfram Burgard
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/76-icra-best-vision-paper
+  - award: Best Service Robotics Paper
+    title: 'PRM-RL: Long-range Robotic Navigation Tasks by Combining Reinforcement
+      Learning and Sampling-based Planning'
+    link: https://arxiv.org/abs/1710.03937
+    author: Aleksandra Faust, Oscar Alejandro Ramirez, Marek Fiser, Kenneth Oslund,
+      Anthony Francis, James Davidson, Lydia Tapia
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/78-kuka-service-robotics-best-paper-award
+  - award: Best Unmanned Aerial Vehicles Paper
+    title: 'Design, Modeling and Control of Aerial Robot DRAGON: Dual-rotor-embedded-multilink
+      Robot with the Ability of Multi-deGree-of-freedom Aerial TransformatiON'
+    link: https://ieeexplore.ieee.org/abstract/document/8258850
+    author: Moju Zhao, Tomoki Anzai, Fan Shi, Xiangyu Chen, Kei Okada, Masayuki Inaba
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/1234-ieee-icra-best-paper-award-on-unmanned-aerial-vehicles
+  place: Brisbane, Australia
+  date: May 21-25, 2018
+  sub: RO
+
 - venue: ICLR
   year: 2018
   awards:
@@ -1310,6 +1461,72 @@
     source: https://www.roboticsfoundation.org/awards/best-systems-paper-in-memory-of-seth-teller/
   place: Cambridge, USA
   date: July 12-16, 2017
+  sub: RO
+
+- venue: ICRA
+  year: 2017
+  awards:
+  - award: Best Paper
+    title: Probabilistic Data Association for Semantic SLAM
+    link: https://ieeexplore.ieee.org/abstract/document/7989203
+    author: Sean Bowman, Nikolay Atanasov, Kostas Daniilidis, George J. Pappas
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/72-icra-best-conference-paper
+  - award: Best Student Paper
+    title: Autonomous Robotic Stone Stacking with Online Next Best Object Target Pose
+      Planning
+    link: https://ieeexplore.ieee.org/abstract/document/7989272
+    author: Fadri Furrer, Martin Wermelinger, Hironori Yoshida, Fabio Gramazio, Matthias
+      Daniel Kohler, Roland Siegwart, Marco Hutter
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/74-icra-best-student-paper
+  - award: Best Automation Paper
+    title: UAV-Based Crop and Weed Classification for Smart Farming
+    link: https://ieeexplore.ieee.org/abstract/document/7989347
+    author: Philipp Lottes, Raghav Khanna, Johannes Pfeifer, Roland Siegwart, Cyrill
+      Stachniss
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper
+  - award: Best Cognitive Robotics Paper
+    title: Learning to Guide Task and Motion Planning Using Score-Space Representation
+    link: https://arxiv.org/abs/1807.09962
+    author: Beomjoon Kim, Leslie Kaelbling, Tomas Lozano-Perez
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/83-icra-cognitive-robotics-best-paper-award-sponsored-by-cotesys
+  - award: Best Human-Robot Interaction Paper
+    title: Development of a Block Machine for Volleyball Attack Training
+    link: https://ieeexplore.ieee.org/abstract/document/7989125
+    author: Kosuke Sato, Keita Watanabe, Shuichi Mizuno, Masayoshi Manabe, Hiroaki
+      Yano, Hiroo Iwata
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/703-icra-best-paper-award-on-human-robot-interaction-hri
+  - award: Best Medical Robotics Paper
+    title: First Demonstration of Simultaneous Localization and Propulsion of a Magnetic
+      Capsule in a Lumen using a Single Rotating Magnet
+    link: https://ieeexplore.ieee.org/abstract/document/7989138
+    author: Katie Popek, Tucker Hermans, Jake Abbott
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/82-icra-best-medical-robotics-paper-award-sponsored-by-intuitive-surgical
+  - award: Best Multi-Robot Systems Paper
+    title: 'The Robotarium: A Remotely Accessible Swarm Robotics Research Testbed'
+    link: https://arxiv.org/abs/1609.04730
+    author: Daniel Pickem, Paul Glotfelter, Li Wang, Mark Mote, Aaron Ames, Eric Feron,
+      Magnus Egerstedt
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-icra-best-paper-award-on-multi-robot-systems-sponsored-by-amazon-robotics
+  - award: Best Robot Manipulation Paper
+    title: Analyzing Achievable Stiffness Control Bounds of Robotic Hands with Compliantly
+      Coupled Finger Joints
+    link: https://ieeexplore.ieee.org/abstract/document/7989393
+    author: Prashant Rao, Gray Thomas, Luis Sentis, Ashish Deshpande
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/73-icra-best-manipulation-paper
+  - award: Best Robot Vision Paper
+    title: Self-supervised Learning of Dense Visual Descriptors
+    link: https://homes.cs.washington.edu/~tws10/3163.pdf
+    author: Tanner Schmidt, Richard Newcombe, Dieter Fox
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/76-icra-best-vision-paper
+  - award: Best Service Robotics Paper
+    title: High-Precision Microinjection of Microbeads into C. Elegans Trapped in
+      a Suction Microchannel
+    link: https://ieeexplore.ieee.org/abstract/document/7989422
+    author: Masahiro Nakajima, Yuki Ayamura, Masaru Takeuchi, Naoki Hisamoto, Strahil
+      Pastuhov, Yasuhisa Hasegawa, Toshio Fukuda, Qiang Huang
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/78-kuka-service-robotics-best-paper-award
+  place: Singapore, Singapore
+  date: May 29 - June 3, 2017
   sub: RO
 
 - venue: ICLR
@@ -1592,6 +1809,53 @@
   date: June 19-24, 2016
   sub: ML
 
+- venue: ICRA
+  year: 2016
+  awards:
+  - award: Best Paper
+    title: 'A Convex Polynomial Force-Motion Model for Planar Sliding: Identification
+      and Application'
+    link: https://arxiv.org/abs/1602.06056
+    author: Jiaji Zhou, Robert Paolini, James Bagnell, Matthew T. Mason
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/72-icra-best-conference-paper
+  - award: Best Student Paper
+    title: 'Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700
+      Robot Hours'
+    link: https://arxiv.org/abs/1509.06825
+    author: Lerrel Joseph Pinto, Abhinav Gupta
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/74-icra-best-student-paper
+  - award: Best Automation Paper
+    title: 'Beyond Layers: A 3D-Aware Toolpath Algorithm for Fused Filament Fabrication'
+    link: https://ieeexplore.ieee.org/abstract/document/7487546
+    author: Samuel Lensgraf, Ramgopal Mettu
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper
+  - award: Best Human-Robot Interaction Paper
+    title: A Highly Sensitive Dual Mode Tactile Proximity Sensor Using Carbon Microcoils
+      for Robotic Applications
+    link: https://ieeexplore.ieee.org/abstract/document/7487121
+    author: Hyo Seung Han, Junwoo Park, Tien Dat Nguyen, Uikyum Kim, Canh Toan Nguyen,
+      Hoa Phung, Hyouk Ryeol Choi
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/71-awards-recognition/conference-awards/703-icra-best-paper-award-on-human-robot-interaction-hri
+  - award: Best Medical Robotics Paper
+    title: Image-Based Robotic System for Enhanced Minimally Invasive Intra-Articular
+      Fracture Surgeries
+    link: https://ieeexplore.ieee.org/abstract/document/7487196
+    author: Giulio Dagnino, Ioannis Georgilas, Paul Köhler, R. Atkins, Sanja Dogramadzi
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/82-icra-best-medical-robotics-paper-award-sponsored-by-intuitive-surgical
+  - award: Best Robot Manipulation Paper
+    title: 'Optimal Control with Learned Local Models: Application to Dexterous Manipulation'
+    link: https://ieeexplore.ieee.org/abstract/document/7487156
+    author: Vikash Kumar, Emanuel Todorov, Sergey Levine
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/73-icra-best-manipulation-paper
+  - award: Best Robot Vision Paper
+    title: Multi-Type Activity Recognition in Robot-Centric Scenarios
+    link: https://arxiv.org/abs/1507.02558
+    author: Ilaria Gori, J.K. Aggarwal, Larry Matthies, Michael S. Ryoo
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/76-icra-best-vision-paper
+  place: Stockholm, Sweden
+  date: May 16-21, 2016
+  sub: RO
+
 - venue: ICLR
   year: 2016
   awards:
@@ -1817,6 +2081,59 @@
   place: Boston, USA
   date: June 7-12, 2015
   sub: CV
+
+- venue: ICRA
+  year: 2015
+  awards:
+  - award: Best Paper
+    title: Observability, Identifiability and Sensitivity of Vision-Aided Inertial
+      Navigation
+    link: https://ieeexplore.ieee.org/abstract/document/7139507
+    author: Joshua Hernandez, Konstantine Tsotsos, Stefano Soatto
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/72-icra-best-conference-paper
+  - award: Best Student Paper
+    title: 'Grasping without Squeezing: Shear Adhesion Gripper with Fibrillar Thin
+      Film'
+    link: https://ieeexplore.ieee.org/abstract/document/7139505
+    author: Elliot Wright Hawkes, David Christensen, Amy Kyungwon Han, Hao Jiang,
+      Mark Cutkosky
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/74-icra-best-student-paper
+  - award: Best Automation Paper
+    title: Design, Modeling and Control of a Modular Contactless Wafer Handling System
+    link: https://ieeexplore.ieee.org/abstract/document/7139295
+    author: Bassem Dahroug, Guillaume J. Laurent, Valérian Guelpa, Nadine Le Fort-Piat
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper
+  - award: Best Cognitive Robotics Paper
+    title: Grounding Spatial Relations for Outdoor Robot Navigation
+    link: https://ieeexplore.ieee.org/abstract/document/7139457
+    author: Abdeslam Boularias, Felix Duvallet, Jean Oh, Anthony Stentz
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/83-icra-cognitive-robotics-best-paper-award-sponsored-by-cotesys
+  - award: Best Medical Robotics Paper
+    title: An Ankle-Foot Prosthesis Emulator with Control of Plantarflexion and Inversion-Eversion
+      Torque
+    link: https://ieeexplore.ieee.org/abstract/document/7139345
+    author: Steven H. Collins, Myunghee Kim, Tianjian Chen, Tianyao Chen
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/82-icra-best-medical-robotics-paper-award-sponsored-by-intuitive-surgical
+  - award: Best Robot Manipulation Paper
+    title: Learning Contact-Rich Manipulation Skills with Guided Policy Search
+    link: https://arxiv.org/abs/1501.05611
+    author: Sergey Levine, Nolan Wagener, Pieter Abbeel
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/73-icra-best-manipulation-paper
+  - award: Best Robot Vision Paper
+    title: 'Work Smart, Not Hard: Recalling Relevant Experiences for Vast-Scale but
+      Time-Constrained Localisation'
+    link: https://ieeexplore.ieee.org/abstract/document/7138985
+    author: Chris Linegar, Winston Churchill, Paul Newman
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/76-icra-best-vision-paper
+  - award: Best Service Robotics Paper
+    title: 'RoboSherlock: Unstructured Information Processing for Robot Perception'
+    link: https://ieeexplore.ieee.org/abstract/document/7139395
+    author: Michael Beetz, Ferenc Balint-Benczedi, Nico Blodow, Daniel Nyga, Thiemo
+      Wiedemeyer, Zoltan-Csaba Marton
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/78-kuka-service-robotics-best-paper-award
+  place: Seattle, USA
+  date: May 25-30, 2015
+  sub: RO
 
 - venue: AAAI
   year: 2015
