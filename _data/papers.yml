@@ -1,5 +1,82 @@
 ---
 
+- venue: ICRA
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: Extrinsic Contact Sensing with Relative-Motion Tracking from Distributed
+      Tactile Measurements
+    link: https://arxiv.org/pdf/2103.08108.pdf
+    author: Daolin Ma, Siyuan Dong, Alberto Rodriguez
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Student Paper
+    title: Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory
+      Estimator
+    link: https://ieeexplore.ieee.org/abstract/document/9357964
+    author: David Juny Yoon, Haowei Zhang, Mona Gridseth, Hugues Thomas, Timothy Barfoot
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Automation Paper
+    title: Automated Fabrication of the High-Fidelity Cellular Micro-Scaffold through
+      Proportion-Corrective Control of the Photocuring Process
+    link: https://ieeexplore.ieee.org/abstract/document/9326338
+    author: Xin Li, Huaping Wang, Qing Shi, Jia Xin Liu, Zhanhua Xin, Xinyi Dong,
+      Qiang Huang, Toshio Fukuda
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Cognitive Robotics Paper
+    title: 'How to Select and Use Tools? : Active Perception of Target Objects Using
+      Multimodal Deep Learning'
+    link: https://ieeexplore.ieee.org/abstract/document/9362222
+    author: Namiko Saito, Tetsuya Ogata, Satoshi Funabashi, Hiroki Mori, Shigeki Sugano
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Human-Robot Interaction Paper
+    title: Reactive Human-To-Robot Handovers of Arbitrary Objects
+    link: https://arxiv.org/pdf/2011.08961.pdf
+    author: Wei Yang, Chris Paxton, Arsalan Mousavian, Yu-Wei Chao, Maya Cakmak, Dieter
+      Fox
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Mechanism and Design Paper
+    title: Soft Hybrid Aerial Vehicle Via Bistable Mechanism
+    link: https://arxiv.org/pdf/2011.00426.pdf
+    author: Xuan Li, Jessica McWilliams, Minchen Li, Cynthia Sung, Chenfanfu Jiang
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Medical Robotics Paper
+    title: Relational Graph Learning on Visual and Kinematics Embeddings for Accurate
+      Gesture Recognition in Robotic Surgery
+    link: https://arxiv.org/pdf/2011.01619.pdf
+    author: Yonghao Long, Jie Ying Wu, Bo Lu, Yueming Jin, Mathias Unberath, Yunhui
+      Liu, Pheng Ann Heng, Qi Dou
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Multi-Robot Systems Paper
+    title: Optimal Sequential Stochastic Deployment of Multiple Passenger Robots
+    link: http://research.engr.oregonstate.edu/rdml/sites/research.engr.oregonstate.edu.rdml/files/icra21_home_papercept_ras.papercept.net_www_conferences_conferences_icra21_submissions_0513_fi.pdf
+    author: Chris (Yu Hsuan) Lee, Graeme Best, Geoffrey Hollinger
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Robot Manipulation Paper
+    title: 'StRETcH: A Soft to Resistive Elastic Tactile Hand'
+    link: https://arxiv.org/pdf/2105.08154.pdf
+    author: Carolyn Matl, Josephine Koe, Ruzena Bajcsy
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Robot Vision Paper
+    title: Interval-Based Visual-LiDAR Sensor Fusion
+    link: https://ieeexplore.ieee.org/abstract/document/9349119
+    author: Raphael Voges, Bernardo Wagner
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Service Robotics Paper
+    title: Compact Flat Fabric Pneumatic Artificial Muscle (ffPAM) for Soft Wearable
+      Robotic Devices
+    link: https://ieeexplore.ieee.org/abstract/document/9362245
+    author: Woojong Kim, Hyunkyu Park, Jung Kim
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  - award: Best Unmanned Aerial Vehicles Paper
+    title: Aerial Manipulator Pushing a Movable Structure Using a DOB-Based Robust
+      Controller
+    link: https://ieeexplore.ieee.org/abstract/document/9309359
+    author: Dongjae Lee, Hoseong Seo, Inkyu Jang, Seung Jae Lee, H. Jin Kim
+    source: https://www.ieee-icra.org/files/ICRA2021AwardList.pdf
+  place: Online
+  date: May 30 - June 5, 2021
+  sub: RO
+
 - venue: ICLR
   year: 2020
   awards:
