@@ -203,7 +203,7 @@
   - award: Best Paper
     title: Learning Latent Representations to Influence Multi-Agent Interaction
     author: Annie Xie, Dylan Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
-    link: https://corlconf.github.io/paper_128/
+    link: https://arxiv.org/abs/2011.06619
     source: https://www.robot-learning.org/program/awards
   - award: Best System Paper
     title: 'SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous
@@ -214,12 +214,12 @@
       Mohamed Elsayed, Haitham Ammar, Alexander Cowen-Rivers, Sanjeevan Ahilan, Zheng
       Tian, Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen,
       Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
-    link: https://corlconf.github.io/paper_53/
+    link: https://arxiv.org/abs/2010.09776
     source: https://www.robot-learning.org/program/awards
   - award: Best Presentation
     title: Accelerating Reinforcement Learning with Learned Skill Priors
     author: Karl Pertsch, Youngwoon Lee, Joseph Lim
-    link: https://corlconf.github.io/paper_44/
+    link: https://arxiv.org/abs/2010.11944
     source: https://www.robot-learning.org/program/awards
   place: Online
   date: November 16-18, 2020
@@ -233,53 +233,53 @@
       for Dynamic Swing-Up Manipulation'
     author: Chen Wang, Shaoxiong Wang, Branden Romero, Veiga Filipe Fernandes Veiga,
       Edward Adelson
-    link: https://ras.papercept.net/proceedings/IROS20/1576.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/1576.pdf
     source: https://www.iros2020.org/
   - award: Best Student Paper
     title: Computational Design of Balanced Open Link Planar Mechanisms with Counterweights
       from User Sketches
     author: Takuto Takahashi, Hiroshi G. Okuno, Shigeki Sugano, Stelian Coros, Bernhard
       Thomaszewski
-    link: https://ras.papercept.net/proceedings/IROS20/3184.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/3184.pdf
     source: https://www.iros2020.org/
   - award: Best Application Paper
     title: 'MHYRO: Modular HYbrid RObot for Contact Inspection and Maintenance in
       Oil & Gas Plants'
     author: Abraham López, Pedro J. Sanchez-Cuevas, Alejandro Suarez, Ámbar Soldado,
       Anibal Ollero
-    link: https://ras.papercept.net/proceedings/IROS20/3258.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/3258.pdf
     source: https://www.iros2020.org/
   - award: Best Cognitive Robotics Paper
     title: Representation and Experience-Based Learning of Explainable Models for
       Robot Action Execution
     author: Alex Mitrevski, Paul G. Plöger, Gerhard Lakemeyer
-    link: https://ras.papercept.net/proceedings/IROS20/0701.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/0701.pdf
     source: https://www.iros2020.org/
   - award: Best Robot Mechanism and Design Paper
     title: 'FreeBOT: A Freeform Modular Self-Reconfigurable Robot with Arbitrary Connection
       Point - Design and Implementation'
     author: Guanqi Liang, Haobo Luo, Ming Li, Huihuan Qian, Tin Lun Lam
-    link: https://ras.papercept.net/proceedings/IROS20/3241.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/3241.pdf
     source: https://www.iros2020.org/
   - award: Best RoboCup Paper
     title: Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic
       Legged Locomotion
     author: Seungwoo Hong, Joon-Ha Kim, Hae-Won Park
-    link: https://ras.papercept.net/proceedings/IROS20/2325.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/2325.pdf
     source: https://www.iros2020.org/
   - award: Best Entertainment and Amusement Paper
     title: 'Towards Micro Robot Hydrobatics: Vision-based Guidance, Navigation, and
       Control for Agile Underwater Vehicles in Confined Environments'
     author: Daniel Andre Duecker, Nathalie Bauschmann, Tim Hansen, Edwin Kreuzer,
       Robert Seifried
-    link: https://ras.papercept.net/proceedings/IROS20/3246.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/3246.pdf
     source: https://www.iros2020.org/
   - award: Best Safety, Security, and Rescue Robotics Paper
     title: 'Autonomous Spot: Long-Range Autonomous Exploration of Extreme Environments
       with Legged Locomotion'
     author: Amanda Bouman, Muhammad Fadhil Ginting, Nikhilesh Alatur, Matteo Palieri,
       David D. Fan
-    link: https://ras.papercept.net/proceedings/IROS20/3250.pdf
+    link: http://ras.papercept.net/images/temp/IROS/files/3250.pdf
     source: https://www.iros2020.org/
   place: Online
   date: October 25 - January 24, 2020
