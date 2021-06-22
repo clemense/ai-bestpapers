@@ -1,5 +1,36 @@
 ---
 
+- venue: CVPR
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: 'GIRAFFE: Representing Scenes as Compositional Generative Neural Feature
+      Fields'
+    author: Michael Niemeyer, Andreas Geiger
+    link: https://openaccess.thecvf.com/content/CVPR2021/html/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.html
+    source: http://cvpr2021.thecvf.com/node/329
+  - award: Best Student Paper
+    title: 'Task Programming: Learning Data Efficient Behavior Representations'
+    author: Jennifer J. Sun, Ann Kennedy, Eric Zhan, David J. Anderson, Yisong Yue,
+      Pietro Perona
+    link: https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Task_Programming_Learning_Data_Efficient_Behavior_Representations_CVPR_2021_paper.html
+    source: http://cvpr2021.thecvf.com/node/329
+  - award: Retrospective Most Impactful Paper from CVPR 2011
+    title: Real-time human pose recognition in parts from single depth image
+    author: Jamie Shotton, Andrew Fitzgibbon, Mat Cook, Toby Sharp, Mark Finocchio,
+      Richard Moore, Alex Kipman, Andrew Blake
+    link: https://ieeexplore.ieee.org/abstract/document/5995316
+    source: http://cvpr2021.thecvf.com/node/330
+  - award: Retrospective Most Impactful Paper from CVPR 2011
+    title: 'Baby talk: Understanding and generating simple image descriptions'
+    author: Girish Kulkarni, Visruth Premraj, Sagnik Dhar, Siming Li, Yejin Choi,  Alexander
+      C. Berg, Tamara L. Berg
+    link: https://ieeexplore.ieee.org/abstract/document/6522402
+    source: http://cvpr2021.thecvf.com/node/330
+  place: Online
+  date: June 19-25, 2021
+  sub: CV
+
 - venue: ICRA
   year: 2021
   awards:
