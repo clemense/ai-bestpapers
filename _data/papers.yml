@@ -1,5 +1,34 @@
 ---
 
+- venue: RSS
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: 'TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments'
+    link: https://roboticsconference.org/program/papers/018/
+    author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Student Paper
+    title: Learning Riemannian Manifolds for Geodesic Motion Skills
+    link: https://roboticsconference.org/program/papers/082/
+    author: Hadi Beik-mohammadi, Soren Hauberg, Georgios Arvanitidis, Gerhard Neumann,
+      Leonel Rozo
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Student Paper
+    title: 'DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting'
+    link: https://roboticsconference.org/program/papers/067/
+    author: Eric Heiden, Miles Macklin, Yashraj S. Narang, Dieter Fox, Animesh Garg,
+      Fabio Ramos
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Systems Paper
+    title: 'TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments'
+    link: https://roboticsconference.org/program/papers/018/
+    author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
+    source: https://roboticsconference.org/program/awards/
+  place: Online
+  date: July 12-16, 2021
+  sub: RO
+
 - venue: CVPR
   year: 2021
   awards:
@@ -216,7 +245,7 @@
     link: https://www.aclweb.org/anthology/2020.emnlp-main.445/
     source: https://2020.emnlp.org/blog/2020-11-19-best-papers/
   - award: Best Demonstration Paper
-    title: "\U0001F917 Transformers: State-of-the-art Natural Language Processing"
+    title: '🤗 Transformers: State-of-the-art Natural Language Processing'
     author: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
       Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison,
       Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen
