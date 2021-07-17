@@ -19,3 +19,7 @@ This is based on [aideadlin.es](https://github.com/abhshkdz/ai-deadlines).
 ## License
 
 [MIT](LICENSE)
+
+<!---
+bundle update <gem_name>
+-->
