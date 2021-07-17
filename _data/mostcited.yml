@@ -2131,7 +2131,7 @@
   - citations: 128
     title: Generating text via adversarial training
     author: Y. Zhang, Z. Gan, L. Carin
-    link: https://www.academia.edu/download/52317881/_NIPS.2016.workshop_Generating_Text_via_Adversarial_Training.pdf
+    link: https://research.kaust.edu.sa/en/publications/generating-text-via-adversarial-training
   - citations: 104
     title: Gaussian process optimisation with multi-fidelity evaluations
     author: K. Kandasamy, G. Dasarathy, J. Oliva
@@ -2903,7 +2903,7 @@
     title: 'Place recognition with convnet landmarks: Viewpoint-robust, condition-robust,
       training-free'
     author: N. Sünderhauf, S. Shirazi, A. Jacobson
-    link: https://eprints.qut.edu.au/84931/21/rss15_placeRec.pdf
+    link: https://eprints.qut.edu.au/84931/
   - citations: 277
     title: Online localization of radio-tagged wildlife with an autonomous aerial
       robot system
@@ -3134,7 +3134,7 @@
   - citations: 40
     title: A layered model of human body and garment deformation
     author: A. Neophytou, A. Hilton
-    link: https://www.academia.edu/download/36333369/final.pdf
+    link: https://ieeexplore.ieee.org/abstract/document/7035823
 
 - venue: ECCV
   year: 2014
@@ -3361,7 +3361,7 @@
   - citations: 1034
     title: Fisher discrimination dictionary learning for sparse representation
     author: M. Yang, L. Zhang, X. Feng
-    link: https://core.ac.uk/download/pdf/187035699.pdf
+    link: http://www4.comp.polyu.edu.hk/~cslzhang/paper/conf/iccv11/FDDL_ICCV_final.pdf
   - citations: 1029
     title: Relative attributes
     author: D. Parikh, K. Grauman
@@ -3721,7 +3721,7 @@
     title: A soft exoskeleton for hand assistive and rehabilitation application using
       pneumatic actuators with variable stiffness
     author: H.K. Yap, J.H. Lim, F. Nasrallah, JCH Goh
-    link: https://www.academia.edu/download/38465175/0311.pdf
+    link: https://ieeexplore.ieee.org/abstract/document/7139889
   - citations: 216
     title: Intention-aware online POMDP planning for autonomous driving in a crowd
     author: H. Bai, S. Cai, N. Ye, D. Hsu
