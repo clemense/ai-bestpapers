@@ -1,5 +1,72 @@
 ---
 
+- venue: IROS
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: 'Extended Tactile Perception: Vibration Sensing through Tools and Grasped
+      Objects'
+    author: Tasbolat Taunyazov, Shui Song Luar, Eugene Lim, Hian Hian See, David Lee,
+      Benjamin Tee, Harold Soh
+    link: https://arxiv.org/pdf/2106.00489.pdf
+    source: https://www.iros2021.org/awards
+  - award: Best Student Paper
+    title: 'Dynamic Grasping with a “Soft” Drone: From Theory to Practice'
+    author: Joshua Fishman, Samuel Ubellacker, Nathan Hughes, Luca Carlone
+    link: https://arxiv.org/pdf/2103.06465.pdf
+    source: https://www.iros2021.org/awards
+  - award: Best Application Paper
+    title: CCRobot-IV-F A Ducted-Fan-Driven Flying-Type Bridge Stay Cable Climbing
+      Robot
+    author: Wenchao Zhang, Zhenliang Zheng, Xueqi Fu, Sarsenbek Hazken, Huaping Chen,
+      Min Zhao, Ning Ding
+    link: null
+    source: https://www.iros2021.org/awards
+  - award: Best Cognitive Robotics Paper
+    title: Imagination-enabled Robot Perception
+    author: Patrick Mania, Franklin Kenghagho Kenfack, Michael Neumann, and Michael
+      Beetz
+    link: https://arxiv.org/pdf/2011.11397.pdf
+    source: https://www.iros2021.org/awards
+  - award: Best Mobile Manipulation Paper
+    title: Probabilistic Inference in Planning for Partially Observable Long Horizon
+      Problems
+    author: Alphonsus Adu-Bredu, Nikhil Devraj, Pin-Han Lin, Zhen Zeng, Odest Chadwicke
+      Jenkins
+    link: null
+    source: https://www.iros2021.org/awards
+  - award: Best Robot Mechanism and Design Paper
+    title: 'A Multi-Modal Robotic Gripper with a Reconfigurable Base: Improving Dexterous
+      Manipulation without Compromising Grasping Efficiency'
+    author: Nathan Elangovan, Lucas Gerez, Geng Gao, Minas Liarokapis
+    link: https://www.researchgate.net/profile/Minas-Liarokapis/publication/353659233_A_Multi-Modal_Robotic_Gripper_with_a_Reconfigurable_Base_Improving_Dexterous_Manipulation_without_Compromising_Grasping_Efficiency/links/610900631e95fe241aa636d3/A-Multi-Modal-Robotic-Gripper-with-a-Reconfigurable-Base-Improving-Dexterous-Manipulation-without-Compromising-Grasping-Efficiency.pdf
+    source: https://www.iros2021.org/awards
+  - award: Best RoboCup Paper
+    title: Multi-Resolution POMDP Planning for Multi-Object Search in 3D
+    author: Kaiyu Zheng, Yoonchang Sung, George Konidaris, Stefanie Tellex
+    link: https://arxiv.org/pdf/2005.02878.pdf
+    source: https://www.iros2021.org/awards
+  - award: Best Entertainment and Amusement Paper
+    title: Collaborative Storytelling with Social Robots
+    author: Eric Nichols, Leo Gao, Yurii Vasylkiv, Randy Gomez
+    link: null
+    source: https://www.iros2021.org/awards
+  - award: Best Safety, Security, and Rescue Robotics Paper
+    title: Alternating Drive-and-Glide Flight Navigation of a Kiteplane for Sound
+      Source Position Estimation
+    author: Makoto Kumon, Hiroshi G. Okuno, Shuichi Tajima
+    link: null
+    source: https://www.iros2021.org/awards
+  - award: Best Agri-Robotics Paper
+    title: A Robust Illumination-Invariant Camera System for Agricultural Applications
+    author: Abhisesh Silwal, Tanvir Parhar, Francisco Yandun, Harjatin Baweja, George
+      Kantor
+    link: https://arxiv.org/pdf/2101.02190.pdf
+    source: https://www.iros2021.org/awards
+  place: Online
+  date: September 27 - October 1, 2021
+  sub: RO
+
 - venue: RSS
   year: 2021
   awards:
