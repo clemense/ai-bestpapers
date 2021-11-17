@@ -22,4 +22,8 @@ This is based on [aideadlin.es](https://github.com/abhshkdz/ai-deadlines).
 
 <!---
 bundle update <gem_name>
+
+cd utils
+python process.py
+mv sorted_data.yml ../_data/papers.yml
 -->

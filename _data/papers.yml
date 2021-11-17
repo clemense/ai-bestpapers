@@ -1,5 +1,23 @@
 ---
 
+- venue: CoRL
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: A System for General In-Hand Object Re-Orientation
+    author: Tao Chen, Jie Xu, Pulkit Agrawal
+    link: https://openreview.net/forum?id=7uSBJDoP7tY
+    source: https://www.robot-learning.org/program/awards_2021
+  - award: Best System Paper
+    title: 'FlingBot: The Unreasonable Effectiveness of Dynamic Manipulation for Cloth
+      Unfolding'
+    author: Huy Ha, Shuran Song
+    link: https://openreview.net/forum?id=0QJeE5hkyFZ
+    source: https://www.robot-learning.org/program/awards_2021
+  place: London, England
+  date: November 16-18, 2021
+  sub: RO
+
 - venue: IROS
   year: 2021
   awards:
@@ -312,7 +330,7 @@
     link: https://www.aclweb.org/anthology/2020.emnlp-main.445/
     source: https://2020.emnlp.org/blog/2020-11-19-best-papers/
   - award: Best Demonstration Paper
-    title: '🤗 Transformers: State-of-the-art Natural Language Processing'
+    title: "\U0001F917 Transformers: State-of-the-art Natural Language Processing"
     author: Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
       Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe Davison,
       Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien Plu, Canwen
