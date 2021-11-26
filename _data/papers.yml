@@ -18,6 +18,24 @@
   date: November 16-18, 2021
   sub: RO
 
+- venue: ICCV
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: 'Swin Transformer: Hierarchical Vision Transformer using Shifted Windows'
+    author: Ze Liu, Yutong Lin, Yue Cao, Han Hu), Yixuan Wei, Zheng Zhang (MSRA, Stephen
+      Lin, Baining Guo
+    link: https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html
+    source: https://iccv2021.thecvf.com/iccv-2021-paper-awards
+  - award: Best Student Paper
+    title: Pixel-Perfect Structure-from-Motion with Featuremetric Refinement
+    author: Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys
+    link: https://openaccess.thecvf.com/content/ICCV2021/html/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.html
+    source: https://iccv2021.thecvf.com/iccv-2021-paper-awards
+  place: Online
+  date: October 11 - October 17, 2021
+  sub: CV
+
 - venue: IROS
   year: 2021
   awards:
