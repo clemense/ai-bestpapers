@@ -324,6 +324,74 @@
   date: April 26 - May 1, 2021
   sub: ML
 
+- venue: AAAI
+  year: 2021
+  awards:
+  - award: Outstanding Paper
+    title: 'Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting'
+    author: Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui
+      Xiong, Wancai Zhang
+    link: https://arxiv.org/abs/2012.07436
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Outstanding Paper
+    title: 'Exploration-Exploitation in Multi-Agent Learning: Catastrophe Theory Meets
+      Game Theory'
+    author: Stefanos Leonardos, Georgios Piliouras
+    link: https://arxiv.org/abs/2012.03083
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: 'Outstanding Paper: Special Track on AI for Social Impact'
+    title: Mitigating Political Bias in Language Models through Reinforced Calibration
+    author: Ruibo Liu, Chenyan Jia, Jason W Wei, Guangxuan Xu, Lili Wang, Soroush
+      Vosoughi
+    link: https://arxiv.org/abs/2104.14795
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Distinguished Paper
+    title: IQ – Incremental Learning for Solving QSAT
+    author: Thomas L Lee, Viktor Tóth, Sean B Holden
+    link: https://www.aaai.org/AAAI21Papers/AAAI-7047.LeeT.pdf
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Distinguished Paper
+    title: Ethically Compliant Sequential Decision Making
+    author: Justin Svegliato, Samer Nashed, Shlomo Zilberstein
+    link: https://www.aaai.org/AAAI21Papers/AAAI-3534.SvegliatoJ.pdf
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Distinguished Paper
+    title: On the Tractability of SHAP Explanations
+    author: Guy Van den Broeck, Anton Lykov, Maximilian Schleich, Dan Suciu
+    link: https://arxiv.org/abs/2009.08634
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Distinguished Paper
+    title: Expected Eligibility Traces
+    author: Hado van Hasselt, Sephora Madjiheurem, Matteo Hessel, Andre Barreto, David
+      Silver, Diana Borsa
+    link: https://arxiv.org/abs/2007.01839
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Distinguished Paper
+    title: Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent
+      DAGs
+    author: Marcel Wienöbst, Max Bannach, Maciej Liskiewicz
+    link: https://arxiv.org/abs/2012.09679
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Distinguished Paper
+    title: Self-Supervised Multi-View Stereo via Effective Co-Segmentation and Data-Augmentation
+    author: Hongbin Xu, Zhipeng Zhou, Yu Qiao, Wenxiong Kang, Qiuxia Wu
+    link: https://arxiv.org/abs/2104.05374
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Best 3-Minute Presentation
+    title: Are Chess Discussions Racist? An Adversarial Hate Speech Data Set
+    author: Rupak Sarkar, Ashiqur R. Khudabukhs
+    link: https://slideslive.com/38951246
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  - award: Best Demonstration
+    title: 'TAILOR: Teaching with Active and Incremental Learning for Object Registration'
+    author: Qianli Xu, Nicolas Gauthier, Wenyu Liang, Fen Fang, Hui Li Tan, Ying Sun,
+      Yan Wu, Liyuan Li, Joo-Hwee Lim
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/18031
+    source: https://aaai.org/Conferences/AAAI-21/aaai-outstanding-and-distinguished-papers/
+  place: Online
+  date: February 2-9, 2021
+  sub: AI
+
 - venue: NeurIPS
   year: 2020
   awards:
