@@ -103,6 +103,38 @@
   date: September 27 - October 1, 2021
   sub: RO
 
+- venue: CASE
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: Extended Fabrication-Aware Convolution Learning Framework for Predicting
+      3D Shape Deformation in Additive Manufacturing
+    link: https://ieeexplore.ieee.org/abstract/document/9551545
+    author: Yuanxiang Wang, Cesar Ruiz, Qiang Huang
+    source: https://case2021.sciencesconf.org/resource/page/id/37
+  - award: Best Student Paper
+    title: 'Designing a User-Centred and Data-Driven Controller for Pushrim-Activated
+      Power-Assisted Wheels: A Case Study'
+    link: https://ieeexplore.ieee.org/abstract/document/9551445
+    author: Mahsa Khalili, H.F. Machiel Van der Loos, Jaimie Borisoff
+    source: https://case2021.sciencesconf.org/resource/page/id/37
+  - award: Best Application Paper
+    title: A Seamless Workflow for Design and Fabrication of Multimaterial Pneumatic
+      Soft Actuators
+    link: https://ieeexplore.ieee.org/abstract/document/9551668
+    author: Lawrence Smith, Travis Hainsworth, Zachary Jordan, Xavier Bell, Robert
+      MacCurdy
+    source: https://case2021.sciencesconf.org/resource/page/id/37
+  - award: Best Healthcare Automation Paper
+    title: 'Hospital Beds Planning and Admission Control Policies for COVID-19 Pandemic:
+      A Hybrid Computer Simulation Approach'
+    link: https://ieeexplore.ieee.org/abstract/document/9551589
+    author: Yiruo Lu, Yongpei Guan, Xiang Zhong, Jennifer Fishe, Thanh Hogan
+    source: https://case2021.sciencesconf.org/resource/page/id/37
+  place: Lyon, France
+  date: August 23-27, 2021
+  sub: RO
+
 - venue: RSS
   year: 2021
   awards:
@@ -475,7 +507,6 @@
     author: Yahav Avigal, Jensen Gao, William Wong, Kevin Li, Grady Pierroz, Fang
       Shuo Deng, Mark Theis, Mark Presten, Ken Goldberg
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/80-ieee-case-best-student-conference-paper-award
-    place: Online
   - award: Best Student Paper
     title: Large-Workspace and High-Resolution Magnetic Microrobot Navigation Using
       Global-Local Path Planning and Eye-In-Hand Visual Servoing
