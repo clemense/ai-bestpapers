@@ -197,6 +197,44 @@
   date: August 23-27, 2021
   sub: RO
 
+- venue: ICML
+  year: 2021
+  awards:
+  - award: Outstanding Paper
+    title: Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent
+      Evolution Strategies
+    author: Paul Vicol, Luke Metz, Jascha Sohl-Dickstein
+    link: https://icml.cc/virtual/2021/poster/10175
+    source: https://icml.cc/virtual/2021/awards_detail
+  - award: Outstanding Paper - Honorable Mention
+    title: Optimal Complexity in Decentralized Training
+    author: Yucheng Lu, Christopher De Sa
+    link: https://icml.cc/virtual/2021/poster/8893
+    source: https://icml.cc/virtual/2021/awards_detail
+  - award: Outstanding Paper - Honorable Mention
+    title: 'Oops I Took A Gradient: Scalable Sampling for Discrete Distributions'
+    author: Will Grathwohl, Kevin Swersky, Milad Hashemi, David Duvenaud, Chris Maddison
+    link: https://icml.cc/virtual/2021/poster/9335
+    source: https://icml.cc/virtual/2021/awards_detail
+  - award: Outstanding Paper - Honorable Mention
+    title: Understanding self-supervised learning dynamics without contrastive pairs
+    author: Yuandong Tian, Xinlei Chen, Surya Ganguli
+    link: https://icml.cc/virtual/2021/poster/10403
+    source: https://icml.cc/virtual/2021/awards_detail
+  - award: Outstanding Paper - Honorable Mention
+    title: Solving high-dimensional parabolic PDEs using the tensor train format
+    author: Lorenz Richter, Leon Sallandt, Nikolas Nüsken
+    link: https://icml.cc/virtual/2021/poster/9927
+    source: https://icml.cc/virtual/2021/awards_detail
+  - award: Test of Time
+    title: Bayesian Learning via Stochastic Gradient Langevin Dynamics
+    author: Yee Teh, Max Welling
+    link: https://icml.cc/2011/papers/398_icmlpaper.pdf
+    source: https://icml.cc/virtual/2021/test-of-time/11808
+  place: Online
+  date: July 18-24, 2021
+  sub: ML
+
 - venue: RSS
   year: 2021
   awards:
