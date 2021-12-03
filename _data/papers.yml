@@ -373,7 +373,7 @@
   sub: RO
 
 - venue: ICLR
-  year: 2020
+  year: 2021
   awards:
   - award: Outstanding Paper
     title: 'Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex
@@ -421,7 +421,7 @@
     link: https://openreview.net/forum?id=PxTIG12RRHS
     source: https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab
   place: Online
-  date: April 26 - May 1, 2021
+  date: May 3-7, 2021
   sub: ML
 
 - venue: AAAI
