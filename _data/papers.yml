@@ -250,6 +250,57 @@
   date: August 23-27, 2021
   sub: RO
 
+- venue: ACL
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: Vocabulary Learning via Optimal Transport for Neural Machine Translation
+    author: Jingjing Xu, Hao Zhou, Chun Gan, Zaixiang Zheng, Lei Li
+    link: https://aclanthology.org/2021.acl-long.571/
+    source: https://2021.aclweb.org/program/accept/
+  - award: Best Theme Paper
+    title: Including Signed Languages in Natural Language Processing
+    author: Kayo Yin, Amit Moryossef, Julie Hochgesang, Yoav Goldberg, Malihe Alikhani
+    link: https://arxiv.org/abs/2105.05222
+    source: https://2021.aclweb.org/program/accept/
+  - award: Outstanding Paper
+    title: 'All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated
+      Text'
+    author: Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan,
+      Noah A. Smith
+    link: https://arxiv.org/abs/2107.00061
+    source: https://2021.aclweb.org/program/accept/
+  - award: Outstanding Paper
+    title: Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning
+    author: Armen Aghajanyan, Sonal Gupta, Luke Zettlemoyer
+    link: https://arxiv.org/abs/2012.13255
+    source: https://2021.aclweb.org/program/accept/
+  - award: Outstanding Paper
+    title: Mind Your Outliers! Investigating the Negative Impact of Outliers on Active
+      Learning for Visual Question Answering
+    author: Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei, Christopher Manning
+    link: https://arxiv.org/abs/2107.02331
+    source: https://2021.aclweb.org/program/accept/
+  - award: Outstanding Paper
+    title: Neural Machine Translation with Monolingual Translation Memory
+    author: Deng Cai, Yan Wang, Huayang Li, Wai Lam, Lemao Liu
+    link: https://arxiv.org/abs/2105.11269
+    source: https://2021.aclweb.org/program/accept/
+  - award: Outstanding Paper
+    title: 'Scientific Credibility of Machine Translation Research: A Meta-Evaluation
+      of 769 Papers'
+    author: Benjamin Marie, Atsushi Fujita, Raphael Rubino
+    link: https://arxiv.org/abs/2106.15195
+    source: https://2021.aclweb.org/program/accept/
+  - award: Outstanding Paper
+    title: UnNatural Language Inference
+    author: Koustuv Sinha, Prasanna Parthasarathi, Joelle Pineau, Adina Williams
+    link: https://arxiv.org/abs/2101.00010
+    source: https://2021.aclweb.org/program/accept/
+  place: Online
+  date: August 2-5, 2021
+  sub: NLP
+
 - venue: ICML
   year: 2021
   awards:
