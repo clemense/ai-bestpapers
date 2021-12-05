@@ -80,6 +80,59 @@
   date: November 16-18, 2021
   sub: RO
 
+- venue: EMNLP
+  year: 2021
+  awards:
+  - award: Best Long Paper
+    title: Visually Grounded Reasoning across Languages and Cultures
+    author: Fangyu Liu, Emanuele Bugliarello, Edoardo Maria Ponti, Siva Reddy, Nigel
+      Collier, Desmond Elliott
+    link: https://arxiv.org/abs/2109.13238
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  - award: Best Short Paper
+    title: 'CHoRaL: Collecting Humor Reaction Labels from Millions of Social Media
+      Users'
+    author: Zixiaofan Yang, Shayan Hooshmand, Julia Hirschberg
+    link: https://aclanthology.org/2021.emnlp-main.364/
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  - award: Outstanding Paper
+    title: 'MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative
+      Tasks'
+    author: Cristian-Paul Bara, Sky CH-Wang, Joyce Chai
+    link: https://arxiv.org/abs/2109.06275
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  - award: Outstanding Paper
+    title: 'SituatedQA: Incorporating Extra-Linguistic Contexts into QA'
+    author: Michael Zhang, Eunsol Choi
+    link: https://arxiv.org/abs/2109.06157
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  - award: Outstanding Paper
+    title: 'When Attention Meets Fast Recurrence: Training Language Models with Reduced
+      Compute'
+    author: Tao Lei
+    link: https://arxiv.org/abs/2102.12459
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  - award: Outstanding Paper
+    title: 'Shortcutted Commonsense: Data Spuriousness in Deep Learning of Commonsense
+      Reasoning'
+    author: Ruben Branco, Antonio Branco, Joao Antonio Rodrigues, Joao Ricardo Silva
+    link: https://aclanthology.org/2021.emnlp-main.113/
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  - award: Best Demonstration Paper
+    title: 'Datasets: A Community Library for Natural Language Processing'
+    author: Quentin Lhoest, Albert Villanova del Moral, Yacine Jernite, Abhishek Thakur,
+      Patrick von Platen, Suraj Patil, Julien Chaumond, Mariama Drame, Julien Plu,
+      Lewis Tunstall, Joe Davison, Mario Šaško, Gunjan Chhablani, Bhavitvya Malik,
+      Simon Brandeis, Teven Le Scao, Victor Sanh, Canwen Xu, Nicolas Patry, Angelina
+      McMillan-Major, Philipp Schmid, Sylvain Gugger, Clément Delangue, Théo Matussière,
+      Lysandre Debut, Stas Bekman, Pierric Cistac, Thibault Goehringer, Victor Mustar,
+      François Lagunas, Alexander Rush, Thomas Wolf
+    link: https://arxiv.org/abs/2109.02846
+    source: https://2021.emnlp.org/blog/2021-10-29-best-paper-awards/
+  place: Online
+  date: November 7-11, 2021
+  sub: NLP
+
 - venue: ICCV
   year: 2021
   awards:
