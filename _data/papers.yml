@@ -344,24 +344,24 @@
   awards:
   - award: Best Paper
     title: 'TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments'
-    link: https://roboticsconference.org/program/papers/018/
+    link: http://www.hongbiaoz.com/files/paper5.pdf
     author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
     source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Best Student Paper
     title: Learning Riemannian Manifolds for Geodesic Motion Skills
-    link: https://roboticsconference.org/program/papers/082/
+    link: https://arxiv.org/abs/2106.04315
     author: Hadi Beik-mohammadi, Soren Hauberg, Georgios Arvanitidis, Gerhard Neumann,
       Leonel Rozo
     source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Best Student Paper
     title: 'DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting'
-    link: https://roboticsconference.org/program/papers/067/
+    link: https://arxiv.org/abs/2105.12244
     author: Eric Heiden, Miles Macklin, Yashraj S. Narang, Dieter Fox, Animesh Garg,
       Fabio Ramos
     source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Best Systems Paper
     title: 'TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments'
-    link: https://roboticsconference.org/program/papers/018/
+    link: http://www.hongbiaoz.com/files/paper5.pdf
     author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
     source: https://roboticsconference.org/2021/program/awards/index.html
   place: Online
