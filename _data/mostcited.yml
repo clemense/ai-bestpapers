@@ -717,7 +717,7 @@
     title: Asymptotically Optimal Planning for Non-Myopic Multi-Robot Information
       Gathering.
     author: Y. Kantaros, B. Schlotfeldt, N. Atanasov
-    link: https://www.seas.upenn.edu/~brentsc/files/papers/kantaros_rss_2019.pdf
+    link: http://roboticsproceedings.org/rss15/p62.pdf
   - citations: 17
     title: A dynamical system approach to motion and force generation in contact tasks
     author: W. Amanhoud, M. Khoramshahi, A. Billard
@@ -2903,7 +2903,7 @@
     title: 'Place recognition with convnet landmarks: Viewpoint-robust, condition-robust,
       training-free'
     author: N. Sünderhauf, S. Shirazi, A. Jacobson
-    link: https://eprints.qut.edu.au/84931/21/rss15_placeRec.pdf
+    link: https://eprints.qut.edu.au/84931/
   - citations: 277
     title: Online localization of radio-tagged wildlife with an autonomous aerial
       robot system

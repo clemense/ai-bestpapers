@@ -346,24 +346,24 @@
     title: 'TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments'
     link: https://roboticsconference.org/program/papers/018/
     author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Best Student Paper
     title: Learning Riemannian Manifolds for Geodesic Motion Skills
     link: https://roboticsconference.org/program/papers/082/
     author: Hadi Beik-mohammadi, Soren Hauberg, Georgios Arvanitidis, Gerhard Neumann,
       Leonel Rozo
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Best Student Paper
     title: 'DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting'
     link: https://roboticsconference.org/program/papers/067/
     author: Eric Heiden, Miles Macklin, Yashraj S. Narang, Dieter Fox, Animesh Garg,
       Fabio Ramos
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Best Systems Paper
     title: 'TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments'
     link: https://roboticsconference.org/program/papers/018/
     author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2021/program/awards/index.html
   place: Online
   date: July 12-16, 2021
   sub: RO
@@ -671,7 +671,7 @@
     title: Learning Latent Representations to Influence Multi-Agent Interaction
     author: Annie Xie, Dylan Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
     link: https://arxiv.org/abs/2011.06619
-    source: https://www.robot-learning.org/program/awards
+    source: https://sites.google.com/robot-learning.org/corl2020/program/awards
   - award: Best System Paper
     title: 'SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous
       Driving'
@@ -682,12 +682,12 @@
       Tian, Daniel Palenicek, Kasra Rezaee, Peyman Yadmellat, Kun Shao, Dong Chen,
       Baokuan Zhang, Hongbo Zhang, Jianye Hao, Wulong Liu, Jun Wang
     link: https://arxiv.org/abs/2010.09776
-    source: https://www.robot-learning.org/program/awards
+    source: https://sites.google.com/robot-learning.org/corl2020/program/awards
   - award: Best Presentation
     title: Accelerating Reinforcement Learning with Learned Skill Priors
     author: Karl Pertsch, Youngwoon Lee, Joseph Lim
     link: https://arxiv.org/abs/2010.11944
-    source: https://www.robot-learning.org/program/awards
+    source: https://sites.google.com/robot-learning.org/corl2020/program/awards
   place: Online
   date: November 16-18, 2020
   sub: RO
@@ -2120,7 +2120,7 @@
     title: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean
       Group
     author: David Rosen, Luca Carlone, Afonso Bandeira, John Leonard
-    link: http://wafr2016.berkeley.edu/papers/WAFR_2016_paper_138.pdf
+    link: https://arxiv.org/abs/1611.00128
     source: https://journals.sagepub.com/doi/10.1177/0278364919827656
   place: San Francisco, USA
   date: December 18-20, 2016
