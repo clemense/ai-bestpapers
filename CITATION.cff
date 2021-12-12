@@ -11,3 +11,6 @@ authors:
   - family-names: Eppner
     given-names: Clemens
     orcid: 'https://orcid.org/0000-0002-5398-4037'
+identifiers:
+  - type: url
+    value: 'https://github.com/clemense/ai-bestpapers'
