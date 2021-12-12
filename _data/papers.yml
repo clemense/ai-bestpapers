@@ -62,6 +62,35 @@
   date: December 6-14, 2021
   sub: ML
 
+- venue: 3DV
+  year: 2021
+  awards:
+  - award: Best Paper
+    title: 'DPFM: Deep Partial Functional Maps'
+    author: Souhaib Attaiki, Gautam Pai, Maks Ovsjanikov
+    link: https://arxiv.org/abs/2110.09994
+    source: https://3dv2021.surrey.ac.uk/prizes/
+  - award: Best Student Paper
+    title: 'RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching'
+    author: Lahav Lipson, Zachary Teed, Jia Deng
+    link: https://arxiv.org/abs/2109.07547
+    source: https://3dv2021.surrey.ac.uk/prizes/
+  - award: Best Paper Honorable Mention
+    title: Neural Disparity Refinement for Arbitrary Resolution Stereo
+    author: Filippo Aleotti, Fabio Tosi, Pierluigi Zama Ramirez, Matteo Poggi, Samuele
+      Salti, Stefano Mattoccia, Luigi Di Stefano
+    link: https://arxiv.org/abs/2110.15367
+    source: https://3dv2021.surrey.ac.uk/prizes/
+  - award: Best Demo
+    title: 'TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view
+      Stereo'
+    author: Lukas Koestler, Nan Yang, Niclas Zeller, Daniel Cremers
+    link: https://arxiv.org/abs/2111.07418
+    source: https://3dv2021.surrey.ac.uk/prizes/
+  place: Online
+  date: December 1-3, 2021
+  sub: CV
+
 - venue: CoRL
   year: 2021
   awards:
