@@ -1,5 +1,51 @@
 ---
 
+- venue: ICLR
+  year: 2022
+  awards:
+  - award: Outstanding Paper
+    title: 'Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in
+      Diffusion Probabilistic Models'
+    author: Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang
+    link: https://openreview.net/forum?id=0xiJLKH-ufZ
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Hyperparameter Tuning with Renyi Differential Privacy
+    author: Nicolas Papernot, Thomas Steinke
+    link: https://openreview.net/forum?id=-70L8lpp9DF
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Learning Strides in Convolutional Neural Networks
+    author: Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour
+    link: https://openreview.net/forum?id=M752z9FKJP
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Expressiveness and Approximation Properties of Graph Neural Networks
+    author: Floris Geerts, Juan L Reutter
+    link: https://openreview.net/forum?id=wIzUeM3TAU
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Comparing Distributions by Measuring Differences that Affect Decision Making
+    author: Shengjia Zhao, Abhishek Sinha, Yutong (Kelly) He, Aidan Perreault, Jiaming
+      Song, Stefano Ermon
+    link: https://openreview.net/forum?id=KB5onONJIAU
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: 'Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central
+      Path'
+    author: X.Y. Han, Vardan Papyan, David L. Donoho
+    link: https://openreview.net/forum?id=w1UbdvWH_R3
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Bootstrapped Meta-Learning
+    author: Sebastian Flennerhag, Yannick Schroecker, Tom Zahavy, Hado van Hasselt,
+      David Silver, Satinder Singh
+    link: https://openreview.net/forum?id=b-ny3x071E5
+    source: https://blog.iclr.cc/2022/04/20/announcing-the-iclr-2022-outstanding-paper-award-recipients/
+  place: Online
+  date: April 25-29, 2022
+  sub: ML
+
 - venue: AAAI
   year: 2022
   awards:
