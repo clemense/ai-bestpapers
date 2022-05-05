@@ -1,5 +1,64 @@
 ---
 
+- venue: AAAI
+  year: 2022
+  awards:
+  - award: Outstanding Paper
+    title: Online certification of preference-based fairness for personalized recommendersystems
+    author: Virginie Do, Sam Corbett-Davies, Jamal Atif, Nicolas Usunier
+    link: https://arxiv.org/abs/2104.14527
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Outstanding Student Paper
+    title: 'InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation'
+    author: Pierre Colombo, Chloé Clavel, Pablo Piantanida
+    link: https://arxiv.org/abs/2112.01589
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Best Student Abstract
+    title: Annotation Cost-Sensitive Deep Active Learning with Limited Data
+    author: Renaud Bernatchez, Audrey Durand and Flavie Lavoie-Cardinal
+    link: https://aaai-2022.virtualchair.net/poster_sa338
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'AlphaHoldem: High-Performance Artificial Intelligence for Heads-Up No-Limit
+      Poker via End-to-End Reinforcement Learning'
+    author: Enmin Zhao, Renye Yan, Jinqiu Li, Kai Li, Junliang Xing
+    link: https://aaai-2022.virtualchair.net/poster_aaai2268
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Certified Symmetry and Dominance Breaking for Combinatorial Optimisation
+    author: Bart Bogaerts, Stephan Gocht, Ciaran McCreesh, Jakob Nordström
+    link: https://arxiv.org/abs/2203.12275
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Online Elicitation of Necessarily Optimal Matchings
+    author: Jannik Peters
+    link: https://arxiv.org/abs/2112.04227
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Sampling-Based Robust Control of Autonomous Systems with Non-Gaussian Noise
+    author: Thom S. Badings, Alessandro Abate, Nils Jansen, David Parker, Hasan A.
+      Poonawala, Marielle Stoelinga
+    link: https://arxiv.org/abs/2110.12662
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Subset approximation of Pareto Regions with Bi-objective A*
+    author: Jorge A. Baier, Carlos Hernández, Nicolás Rivera
+    link: https://aaai-2022.virtualchair.net/poster_aaai10391
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: The SoftCumulative Constraint with Quadratic Penalty
+    author: Yanick Ouellet, Claude-Guy Quimper
+    link: https://aaai-2022.virtualchair.net/poster_aaai9956
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  - award: Best Demonstration
+    title: A Demonstration of Compositional, Hierarchical Interactive Task Learning
+    author: Aaron Mininger, John Laird
+    link: https://www.aaai.org/AAAI22Papers/DEMO-00325-MiningerA.pdf
+    source: https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2022/02/AAAI-22-Paper-Awards.pdf
+  place: Online
+  date: February 22 - March 1, 2022
+  sub: AI
+
 - venue: NeurIPS
   year: 2021
   awards:
