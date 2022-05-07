@@ -1,77 +1,77 @@
 body {
-  font-size: 16px;
-  line-height: 23px;
-  font-weight: 300;
-  -webkit-font-smoothing: subpixel-antialiased;
+    font-size: 16px;
+    line-height: 23px;
+    font-weight: 300;
+    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 body *::selection {
-  background: #e74c3c;
-  color: #fff;
+    background: #e74c3c;
+    color: #fff;
 }
 
 .container {
-  max-width: 980px;
+    max-width: 980px;
 }
 
 .top-strip {
-  background-color: #76b900;
-  height: 0.25em;
-  width: 100%;
+    background-color: #518000;
+    height: 0.25em;
+    width: 100%;
 }
 
-h1,h2,h3 {
-  /* font-weight: 300; */
+h1, h2, h3 {
+    /* font-weight: 300; */
 }
 
 h1 {
-  margin: 0 0 10px;
-  font-size: 30px;
-  line-height: 35px;
+    margin: 0 0 10px;
+    font-size: 30px;
+    line-height: 35px;
 }
 
 h2 {
-  margin: 0 0 10px;
-  font-size: 25px;
-  line-height: 30px;
+    margin: 0 0 10px;
+    font-size: 25px;
+    line-height: 30px;
 }
 
 h3 {
-  margin: 0;
-  font-size: 20px;
-  line-height: 25px;
+    margin: 0;
+    font-size: 20px;
+    line-height: 25px;
 }
 
 .page-header {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 #venue-title.page-header {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 p.authors {
-  margin-bottom: 5px;
-  color: #808080;
-  font-size: 20px;
+    margin-bottom: 5px;
+    color: #808080;
+    font-size: 20px;
 }
 
 p.authors a {
-  border-color: #dedede;
+    border-color: #dedede;
 }
 
 img {
-  max-width: 100%;
+    max-width: 100%;
 }
 
 p {
-  text-align: justify;
+    text-align: justify;
 }
 
 a {
-  text-decoration: none;
-  /* border-bottom: 1px solid #ccc; */
-  color: #609701;
+    text-decoration: none;
+    /* border-bottom: 1px solid #ccc; */
+    color: #609701;
 }
 
 .venue-row a {
@@ -81,40 +81,40 @@ a {
 }
 
 p.lead.authors a {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 a:hover, a:focus {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
 .thumb {
-  margin: 20px 0;
-  border: 1px solid #808080;
+    margin: 20px 0;
+    border: 1px solid #808080;
 }
 
 pre {
-  color: #333;
-  font-size: 12px;
-  line-height: 17px;
+    color: #333;
+    font-size: 12px;
+    line-height: 17px;
 }
 
 footer {
-  font-size: 13px;
+    font-size: 13px;
 }
 
 .past {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 
 .venue-row {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .venue-title {
-  font-size: 20px;
-  font-weight: 400;
+    font-size: 20px;
+    font-weight: 400;
 }
 
 .venue-place {
@@ -122,7 +122,7 @@ footer {
 }
 
 .deadline, .meta {
-  font-size: 13px;
+    font-size: 13px;
 }
 
 .award-info {
@@ -148,53 +148,56 @@ footer {
 }
 
 .note {
-  font-size: 13px;
-  margin-bottom: 5px;
+    font-size: 13px;
+    margin-bottom: 5px;
 }
 
 .venue-sub {
-  color: #5c9100;
-  background: rgba(236, 240, 241, 0.7);
-  font-size: 13px;
-  padding: 3px 5px;
-  cursor: pointer;
-  font-weight: 300;
+    color: #5c9100;
+    background: rgba(236, 240, 241, 0.7);
+    font-size: 13px;
+    padding: 3px 5px;
+    cursor: pointer;
+    font-weight: 300;
 }
 
 .venue-sub::selection {
-  background: #76b900;
+    background: #518000;
 }
 
 .checkbox input[type="checkbox"]:checked:after {
-  background-color: #76b900;
-  border-color: #76b900;
+    background-color: #518000;
+    border-color: #518000;
 }
 
 .checkbox input[type="checkbox"]:after, .checkbox input[type="checkbox"]:focus:after {
-  border-color: #76b900;
+    border-color: #518000;
 }
 
 @media only screen and (max-width: 450px) {
-  .venue-place {
-    display: none;
-  }
-  .venue-date {
-    display: none;
-  }
-  .note {
-    display: none;
-  }
-  .venue-row {
-    margin-bottom: 7px;
-  }
+    .venue-place {
+        display: none;
+    }
+
+    .venue-date {
+        display: none;
+    }
+
+    .note {
+        display: none;
+    }
+
+    .venue-row {
+        margin-bottom: 7px;
+    }
 }
 
 .checkbox {
-  font-size: 12px;
+    font-size: 12px;
 }
 
 .ind-cal {
-  margin: 0 5px;
+    margin: 0 5px;
 }
 
 /* .row{
@@ -212,7 +215,7 @@ footer {
 }
 
 
-#myinner{
+#myinner {
     width: 100%;
     overflow: auto;
     height: 100%;
