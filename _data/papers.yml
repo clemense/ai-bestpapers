@@ -1,5 +1,93 @@
 ---
 
+- venue: ICRA
+  year: 2022
+  awards:
+  - award: Outstanding Paper
+    title: Translating Images into Maps
+    link: https://arxiv.org/abs/2110.00966
+    author: Avishkar Saha, Oscar Alejandro Mendez Maldonado, Chris Russell, Richard
+      Bowden
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Student Paper
+    title: Interactive Robotic Grasping with Attribute-Guided Disambiguation
+    link: https://arxiv.org/abs/2203.08037
+    author: Yang Yang, Xibai Lou, Changhyun Choi
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Automation Paper
+    title: Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment
+      and Template Matching
+    link: https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/marks2022icra.pdf
+    author: Elias Ariel Marks, Federico Magistri, Cyrill Stachniss
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Coordination Paper
+    title: Decentralized Model Predictive Control for Equilibrium-based Collaborative
+      UAV Bar Transportation
+    link: https://www.diva-portal.org/smash/get/diva2:1640478/FULLTEXT01.pdf
+    author: Roberto Castro Sundin, Pedro Roque, Dimos V. Dimarogonas
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Deployed Systems Paper
+    title: Autonomous Teamed Exploration of Subterranean Environments using Legged
+      and Aerial Robots
+    link: https://arxiv.org/abs/2111.06482
+    author: Mihir Kulkarni, Mihir Rahul Dharmadhikari, Marco Tranzatto, Samuel Zimmermann,
+      Victor Reijgwart, Paolo De Petris, Huan Nguyen, Nikhil Vijay Khedekar, Christos
+      Papachristos, Lionel Ott, Roland Siegwart, Marco Hutter, Kostas Alexis
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Dynamics and Control Paper
+    title: Cooperative Modular Single Actuator Monocopters Capable of Controlled Passive
+      Separation
+    link: null
+    author: Xinyu Cai, Shane Kyi Hla Win, Luke Soe Thura Win, Danial Sufiyan, Shaohui
+      Foong
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Interaction Paper
+    title: Human-Robot Shared Control for Surgical Robot Based on Context-Aware Sim-to-Real
+      Adaptation
+    link: https://arxiv.org/abs/2204.11116
+    author: Dandan Zhang, Zicong Wu, Junhong Chen, Ruiqi Zhu, Adnan Munawar, Bo Xiao,
+      Yuan Guan, Hang Su, Yao Guo, Gregory Scott Fischer, Benny Ping Lai Lo, Guang-Zhong
+      Yang
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Learning Paper
+    title: Augmenting Reinforcement Learning with Behavior Primitives for Diverse
+      Manipulation Tasks
+    link: https://arxiv.org/abs/2110.03655
+    author: Nasiriany, Soroush; Liu, Huihan; Zhu, Yuke
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Locomotion Paper
+    title: Trajectory Optimization Formulation with Smooth Analytical Derivatives
+      for Track-leg and Wheel-leg Ground Robots
+    link: null
+    author: Adwait Mane, Dylan Swart, Jason White, Christian Hubicki
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Manipulation Paper
+    title: Manipulation of unknown objects via contact configuration regulation
+    link: https://arxiv.org/abs/2203.01203
+    author: Neel Doshi, Orion Taylor, Alberto Rodriguez
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Mechanisms and Design Paper
+    title: Design of a Biomimetic Tactile Sensor for Material Classification
+    link: https://arxiv.org/abs/2203.15941
+    author: Kevin Dai, Xinyu Wang, Allison M. Rojas, Evan Harber, Yu Tian, Nicholas
+      Paiva, Joseph Gnehm, Evan Schindewolf, Howie Choset, Victoria Webster-Wood,
+      Lu Li
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Navigation Paper
+    title: 'EDPLVO: Efficient Direct Point-Line Visual Odometry'
+    link: https://www.cs.cmu.edu/~kaess/pub/Zhou22icra.pdf
+    author: Lipu Zhou, Guoquan (Paul) Huang, Yinian Mao, Shengze Wang, Michael Kaess
+    source: https://www.icra2022.org/program/awards
+  - award: Outstanding Planning Paper
+    title: Non-Gaussian Risk Bounded Trajectory Optimization for Stochastic Nonlinear
+      Systems in Uncertain Environments
+    link: https://arxiv.org/abs/2203.03038
+    author: Weiqiao Han, Ashkan M. Jasour, Brian Williams
+    source: https://www.icra2022.org/program/awards
+  place: Philadelphia, USA
+  date: May 23-27, 2022
+  sub: RO
+
 - venue: ICLR
   year: 2022
   awards:
