@@ -1,5 +1,31 @@
 ---
 
+- venue: RSS
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of
+      Deformable Objects
+    link: https://arxiv.org/abs/2203.00663
+    author: Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran
+      Song
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Student Paper
+    title: 'AK: Attentive Kernel for Information Gathering'
+    link: https://arxiv.org/abs/2205.06426
+    author: Weizhe Chen, Roni Khardon, and Lantao Liu
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Systems Paper
+    title: Autonomously Untangling Long Cables
+    link: https://roboticsconference.org/program/papers/034/
+    author: Kaushik Shivakumar, Vainavi Viswanath, Justin Kerr, Brijen Thananjeyan,
+      Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael
+      Laskey, and Alejandro Escontrela
+    source: https://roboticsconference.org/program/awards/
+  place: New York, USA
+  date: June 27 - July 1, 2022
+  sub: RO
+
 - venue: ICRA
   year: 2022
   awards:
