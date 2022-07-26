@@ -1,5 +1,68 @@
 ---
 
+- venue: ICML
+  year: 2022
+  awards:
+  - award: Outstanding Paper
+    title: Stable Conformal Prediction Sets
+    author: Eugene Ndiaye
+    link: https://proceedings.mlr.press/v162/ndiaye22a.html
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: 'G-Mixup: Graph Data Augmentation for Graph Classification'
+    author: Xiaotian Han, Zhimeng Jiang, Ninghao Liu, Xia Hu
+    link: https://arxiv.org/abs/2202.07179
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: Learning Mixtures of Linear Dynamical Systems
+    author: Yanxi Chen, H. Vincent Poor
+    link: https://arxiv.org/abs/2201.11211
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: The Importance of Non-Markovianity in Maximum State Entropy Exploration
+    author: Mirco Mutti, Riccardo De Santi, Marcello Restelli
+    link: https://arxiv.org/abs/2202.03060
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: Do Differentiable Simulators Give Better Policy Gradients?
+    author: Hyung Ju Suh, Max Simchowitz, Kaiqing Zhang, Russ Tedrake
+    link: https://proceedings.mlr.press/v162/suh22b.html
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: Causal Conceptions of Fairness and their Consequences
+    author: Hamed Nilforoshan, Johann Gaebler, Ravi Shroff, Sharad Goel
+    link: https://proceedings.mlr.press/v162/nilforoshan22a.html
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: Solving Stackelberg Prediction Game with Least Squares Loss via Spherically
+      Constrained Least Squares Reformulation
+    author: Jiali Wang, Wen Huang, Rujun Jiang, Xudong Li, Alex Wang
+    link: https://arxiv.org/abs/2206.02991
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: 'Privacy for Free: How does Dataset Condensation Help Privacy?'
+    author: Tian Dong, Bo Zhao, Lingjuan Lyu
+    link: https://arxiv.org/abs/2206.00240
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: Bayesian Model Selection, the Marginal Likelihood, and Generalization
+    author: Sanae Lotfi, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Wilson
+    link: https://arxiv.org/abs/2202.11678
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Outstanding Paper
+    title: Understanding Dataset Difficulty with V-Usable Information
+    author: Kawin Ethayarajh, Yejin Choi, Swabha Swayamdipta
+    link: https://proceedings.mlr.press/v162/ethayarajh22a.html
+    source: https://icml.cc/virtual/2022/awards_detail
+  - award: Test of Time
+    title: Poisoning Attacks Against Support Vector Machines
+    author: Battista Biggio, Blaine Nelson, Pavel Laskov
+    link: https://arxiv.org/abs/1206.6389
+    source: https://icml.cc/virtual/2022/awards_detail
+  place: Baltimore, USA
+  date: July 17-23, 2022
+  sub: ML
+
 - venue: RSS
   year: 2022
   awards:
