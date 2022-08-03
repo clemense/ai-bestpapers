@@ -107,11 +107,11 @@ def query_generator(search_term, venue, year, num_results, pg, grace_period=0):
     google_search_query = search_term
     query_year = year
 
-    if venue == "CoRL":
-        if year == 2019:
-            query_year = 2020
-        elif year == 2020:
-            query_year = 2021
+    # if venue == "CoRL":
+    #     if year == 2019:
+    #         query_year = 2020
+    #     elif year == 2020:
+    #         query_year = 2021
 
     while True:
         try:
