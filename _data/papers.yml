@@ -206,6 +206,81 @@
   date: May 23-27, 2022
   sub: RO
 
+- venue: ACL
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: Learned Incremental Representations for Parsing
+    author: Nikita Kitaev, Thomas Lu, Dan Klein
+    link: https://aclanthology.org/2022.acl-long.220/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Best Special Theme Paper
+    title: Requirements and Motivations of Low-Resource Speech Synthesis for Language
+      Revitalization
+    author: Aidan Pine, Dan Wells, Nathan Brinklow, Patrick William Littell, Korin
+      Richmond
+    link: https://aclanthology.org/2022.acl-long.507/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Best Resource Paper
+    title: 'DiBiMT: A Novel Benchmark for Measuring Word Sense Disambiguation Biases
+      in Machine Translation'
+    author: Niccolò Campolungo, Federico Martelli, Francesco Saina, Roberto Navigli
+    link: https://aclanthology.org/2022.acl-long.298/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Best Linguistic Insight Paper
+    title: 'KinyaBERT: a Morphology-aware Kinyarwanda Language Model'
+    author: Antoine Nzeyimana, Andre Niyongabo Rubungo
+    link: https://aclanthology.org/2022.acl-long.367/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: ​Evaluating Factuality in Text Simplification
+    author: Ashwin Devaraj, William Berkeley Sheffield, Byron C. Wallace, Junyi Jessy
+      Li
+    link: https://aclanthology.org/2022.acl-long.506/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue
+    author: Jiawei Zhou, Jason Eisner, Michael Newman, Emmanouil Antonios Platanios,
+      Sam Thomson
+    link: https://aclanthology.org/2022.acl-long.110/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: 'Learning to Generalize to More: Continuous Semantic Augmentation for Neural
+      Machine Translation'
+    author: Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Rong Jin
+    link: https://aclanthology.org/2022.acl-long.546/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: 'Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot
+      Prompt Order Sensitivity'
+    author: Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp
+    link: https://aclanthology.org/2022.acl-long.556/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: Inducing Positive Perspectives with Text Reframing
+    author: Caleb Ziems, Minzhi Li, Anthony Zhang, Diyi Yang
+    link: https://aclanthology.org/2022.acl-long.257/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: 'Ditch the Gold Standard: Re-evaluating Conversational Question Answering'
+    author: Huihan Li, Tianyu Gao, Manan Goenka, Danqi Chen
+    link: https://aclanthology.org/2022.acl-long.555/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: 'Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons'
+    author: Akash Kumar Mohankumar, Mitesh M. Khapra
+    link: https://aclanthology.org/2022.acl-long.600/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  - award: Outstanding Paper
+    title: Compression of Generative Pre-trained Language Models via Quantization
+    author: Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping
+      Luo, Ngai Wong
+    link: https://aclanthology.org/2022.acl-long.331/
+    source: https://www.2022.aclweb.org/best-paper-awards
+  place: Dublin, Ireland
+  date: May 22-27, 2022
+  sub: NLP
+
 - venue: ICLR
   year: 2022
   awards:
