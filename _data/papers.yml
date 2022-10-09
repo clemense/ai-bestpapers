@@ -1,5 +1,25 @@
 ---
 
+- venue: CASE
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: Automated Pruning of Polyculture Plants
+    link: https://arxiv.org/abs/2208.10472
+    author: Mark Presten, Rishi Parikh, Shrey Aeron, Sandeep Mukherjee, Simeon Adebola,
+      Satvik Sharma, Mark Theis, Walter Teitelbaum, Ken Goldberg
+    source: https://www.linkedin.com/posts/maximilian-gilles-068522217_back-from-2022-ieee-case-conference-in-mexico-city-activity-6970176615360122880-KIrp
+  - award: Best Application Paper
+    title: Skip Training for Multi-Agent Reinforcement Learning Controller for Industrial
+      Wave Energy Converters
+    link: https://arxiv.org/abs/2209.05656
+    author: Soumyendu Sarkar, Vineet Gundecha, Sahand Ghorbanpour, Alexander Shmakov,
+      Ashwin Ramesh Babu, Alexandre Pichard, Mathieu Cocho
+    source: https://community.hpe.com/t5/advancing-life-work/hewlett-packard-labs-and-carnegie-clean-energy-collaborate-on/ba-p/7174356
+  place: Mexico City, Mexico
+  date: August 20-24, 2022
+  sub: RO
+
 - venue: ICML
   year: 2022
   awards:
