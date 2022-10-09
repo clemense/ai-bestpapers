@@ -716,6 +716,38 @@
   date: August 2-5, 2021
   sub: NLP
 
+- venue: Humanoids
+  year: 2020
+  awards:
+  - award: Best Oral Paper
+    title: Development of Musculoskeletal Legs with Planar Interskeletal Structures
+      to Realize Human Comparable Moving Function
+    author: Moritaka Onitsuka, Manabu Nishiura, Kento Kawaharazuka, Kei Tsuzuki, Yasunori
+      Toshimitsu, Yusuke Omura, Yuki Asano, Kei Okada, Koji Kawasaki, Masayuki Inaba
+    link: https://ieeexplore.ieee.org/abstract/document/9555807
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  - award: Best Interactive Paper
+    title: Deep Episodic Memory for Verbalization of Robot Experience
+    author: Leonard Bärmann, Fabian Peller-Konrad, Stefan Constantin, Tamim Asfour,
+      Alex Waibel
+    link: https://ieeexplore.ieee.org/abstract/document/9444649
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  - award: Mike Stilman Paper
+    title: 'Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic
+      Robotic Hand Design'
+    author: Li Tian, Hanhui Li, QiFa Wang, Xuezeng Du, Jialin Tao, Jordan Chong, Nadia
+      Magnenat Thalmann, Jianmin Zheng
+    link: https://arxiv.org/abs/2012.10981
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  - award: Most Influential Paper
+    title: 'Capture Point: A Step toward Humanoid Push Recovery'
+    author: Jerry Pratt, John Carff, Sergey Drakunov, Ambarish Goswami
+    link: https://ieeexplore.ieee.org/abstract/document/4115602
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  place: Munich, Germany
+  date: July 19-21, 2021
+  sub: RO
+
 - venue: ICML
   year: 2021
   awards:
