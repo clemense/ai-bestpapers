@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.5.8
+  - 2.6.0
 script:
   - bundle exec jekyll build --future
   - bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --url-ignore "/#.*/"
