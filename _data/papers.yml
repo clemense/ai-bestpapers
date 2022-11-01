@@ -1,5 +1,82 @@
 ---
 
+- venue: IROS
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: 'SpeedFolding: Learning Efficient Bimanual Folding of Garments'
+    author: Yahav Avigal, Lars Berscheid, Tamim Asfour, Torsten Kroeger, and Ken Goldberg
+    link: https://arxiv.org/abs/2208.10552
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Student Paper
+    title: 'FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility
+      Update'
+    author: Fan Yang, Chao Cao, Hongbiao Zhu, Jean Oh, and Ji Zhang
+    link: https://arxiv.org/abs/2110.09460
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Application Paper
+    title: Soft Tissue Characterisation Using a Novel Robotic Medical Percussion Device
+      with Acoustic Analysis and Neural Networks
+    author: Pilar Zhang Qiu, Yongxuan Tan, Oliver Thompson, Bennet Cobley,  and Thrishantha
+      Nanayakkara
+    link: https://ieeexplore.ieee.org/abstract/document/9830846
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Cognitive Robotics Paper
+    title: 'Gesture2Vec: Clustering Gestures using Representation Learning Methods
+      for Co-speech Gesture Generation'
+    author: Payam Jome Yazdian, Mo Chen, and Angelica Lim
+    link: https://openreview.net/forum?id=0Kj5mhn6sw
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Mobile Manipulation Paper
+    title: Robot Learning of Mobile Manipulation with Reachability Behavior Priors
+    author: Snehal Jauhri, Jan Peters, and Georgia Chalvatzaki
+    link: https://arxiv.org/abs/2203.04051
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Robot Mechanism and Design Paper
+    title: Aerial Grasping and the Velocity Sufficiency Region
+    author: Tony G. Chen, Kenneth Hoffmann, JunEn Low, Keiko Nagami, David Lentink,
+      and Mark Cutkosky
+    link: https://ieeexplore.ieee.org/abstract/document/9834073
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best RoboCup Paper
+    title: 'RCareWorld: A Human-centric Simulation World for Caregiving Robots'
+    author: Ruolin Ye, Wenqiang Xu, Haoyuan Fu, Rajat Kumar, Jenamani, Vy Nguyen,
+      Cewu Lu, Katherine Dimitropoulou, and Tapomayukh Bhattacharjee
+    link: https://arxiv.org/abs/2210.10821
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best RoboCup Paper
+    title: 'SpeedFolding: Learning Efficient Bimanual Folding of Garments'
+    author: Yahav Avigal, Lars Burscheid, Tamim Asfour, Torsten Kroeger, and Ken Goldberg
+    link: https://arxiv.org/abs/2208.10552
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Entertainment and Amusement Paper
+    title: Robot Learning to Paint from Demonstrations
+    author: Younghyo Park, Seunghun Jeon, and Taeyoon Lee
+    link: null
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Safety, Security, and Rescue Robotics Paper
+    title: Power-based Safety Layer for Aerial Vehicles in Physical Interaction using
+      Lyapunov Exponents
+    author: Eugenio Cuniato, Nicholas Lawrance, Marco Tognon, and Roland Siegwart
+    link: https://arxiv.org/abs/2205.12562
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Agri-Robotics Paper
+    title: Explicitly Incorporating Spatial Information to Recurrent Networks for
+      Agriculture
+    author: Claus Smitt, Michael Allan Halstead, Alireza Ahmadi, and Christopher Steven
+      McCool
+    link: https://arxiv.org/abs/2206.13406
+    source: https://iros2022.org/2022/10/30/award-winners/
+  - award: Best Industrial Robotics Research for Applications
+    title: Absolute Position Detection in 7-Phase Sensorless Electric Stepper Motor
+    author: Vincent Groenhuis, Gijs Rolff, Koen Bosman, Leon Abelmann, and Stefano
+      Stramigioli
+    link: https://research.utwente.nl/en/publications/absolute-position-detection-in-7-phase-sensorless-electric-steppe
+    source: https://iros2022.org/2022/10/30/award-winners/
+  place: Kyoto
+  date: October 23-27, 2022
+  sub: RO
+
 - venue: CASE
   year: 2022
   awards:
