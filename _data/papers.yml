@@ -97,6 +97,41 @@
   date: August 20-24, 2022
   sub: RO
 
+- venue: SIGGRAPH
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: 'Image Features Influence Reaction Time: A Learned Probabilistic Perceptual
+      Model for Saccade Latency'
+    author: Budmonde Duinkharjav, Praneeth Chakravarthula, Rachel Brown, Anjul Patney,
+      Qi Sun
+    link: https://arxiv.org/abs/2205.02437
+    source: https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/
+  - award: Best Paper
+    title: 'CLIPasso: Semantically Aware Object Sketching'
+    author: Yael Vinker, Ehsan Pajouheshgar, Jessica Y. Bo, Roman Christian Bachmann,
+      Amit Bermano, Daniel Cohen-Or, Amir Zamir, Ariel Shamir
+    link: https://arxiv.org/abs/2202.05822
+    source: https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/
+  - award: Best Paper
+    title: Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
+    author: Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller
+    link: https://arxiv.org/abs/2201.05989
+    source: https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/
+  - award: Best Paper
+    title: 'Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces'
+    author: Nicholas Sharp, Alec Jacobson
+    link: https://arxiv.org/abs/2202.02444
+    source: https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/
+  - award: Best Paper
+    title: 'DeepPhase: Periodic Autoencoders for Learning Motion Phase Manifolds'
+    author: Sebastian Starke, Ian Mason, Taku Komura
+    link: https://dl.acm.org/doi/10.1145/3528223.3530178
+    source: https://blog.siggraph.org/2022/07/siggraph-2022-technical-papers-awards-best-papers-and-honorable-mentions.html/
+  place: Vancouver, Canada
+  date: August 8-11, 2022
+  sub: CG
+
 - venue: ICML
   year: 2022
   awards:

@@ -95,3 +95,8 @@
     - WAFR
     - International Workshop on the Algorithmic Foundations of Robotics
   link: http://www.algorithmic-robotics.org/
+- name: SIGGRAPH
+  long: International Conference & Exhibition On Computer Graphics & Interactive Techniques
+  source:
+    - SIGGRAPH
+  link: https://www.siggraph.org/siggraph-events/conferences/

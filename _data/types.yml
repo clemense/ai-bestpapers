@@ -9,3 +9,5 @@
   sub: CV
 - name: Natural Language Proc
   sub: NLP
+- name: Computer Graphics
+  sub: CG
