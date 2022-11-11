@@ -217,6 +217,11 @@
       Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael
       Laskey, and Alejandro Escontrela
     source: https://roboticsconference.org/program/awards/
+  - award: Test of Time
+    title: Sampling-based algorithms for optimal motion planning
+    author: Sertac Karaman, Emilio Frazzoli
+    link: https://journals.sagepub.com/doi/pdf/10.1177/0278364911406761
+    source: https://roboticsconference.org/program/testoftimeaward/
   place: New York, USA
   date: June 27 - July 1, 2022
   sub: RO
@@ -943,6 +948,11 @@
     link: http://www.hongbiaoz.com/files/paper5.pdf
     author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
     source: https://roboticsconference.org/2021/program/awards/index.html
+  - award: Test of Time
+    title: SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces
+    author: Hanna Kurniawati, David Hsu, Wee Sun Lee
+    link: http://www.roboticsproceedings.org/rss04/p9.pdf
+    source: https://roboticsconference.org/2021/program/testoftimeaward/index.html
   place: Online
   date: July 12-16, 2021
   sub: RO
@@ -1421,6 +1431,11 @@
     author: Philipp Foehn, Dario Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias
       Gehrig, Manasi Muglikar, Davide Scaramuzza
     source: https://roboticsconference.org/2020/program/awards/index.html
+  - award: Test of Time
+    title: Square Root SAM: Simultaneous localization and mapping via square root information smoothing
+    author: Frank Dellaert, Michael Kaess
+    link: https://journals.sagepub.com/doi/epdf/10.1177/0278364906072768
+    source: https://roboticsconference.org/2020/program/testoftimeaward/index.html
   place: Online
   date: July 12-16, 2020
   sub: RO
