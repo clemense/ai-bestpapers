@@ -949,7 +949,7 @@
     author: Chao Cao, Hongbiao Zhu, Howie Choset, Ji Zhang
     source: https://roboticsconference.org/2021/program/awards/index.html
   - award: Test of Time
-    title: SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces
+    title: 'SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces'
     author: Hanna Kurniawati, David Hsu, Wee Sun Lee
     link: http://www.roboticsproceedings.org/rss04/p9.pdf
     source: https://roboticsconference.org/2021/program/testoftimeaward/index.html
@@ -1432,7 +1432,7 @@
       Gehrig, Manasi Muglikar, Davide Scaramuzza
     source: https://roboticsconference.org/2020/program/awards/index.html
   - award: Test of Time
-    title: Square Root SAM: Simultaneous localization and mapping via square root information smoothing
+    title: 'Square Root SAM: Simultaneous localization and mapping via square root information smoothing'
     author: Frank Dellaert, Michael Kaess
     link: https://journals.sagepub.com/doi/epdf/10.1177/0278364906072768
     source: https://roboticsconference.org/2020/program/testoftimeaward/index.html
