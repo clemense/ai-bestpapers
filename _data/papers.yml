@@ -107,6 +107,25 @@
   date: December 6-14, 2022
   sub: ML
 
+- venue: Humanoids
+  year: 2022
+  awards:
+  - award: Best Oral Paper
+    title: A Fast, Autonomous, Bipedal Walking Behavior over Rapid Regions
+    author: Duncan Calvert, Bhavyansh Mishra, Stephen McCrory, Sylvain Bertrand, Robert
+      Griffin, Jerry Pratt
+    link: https://arxiv.org/abs/2207.08312
+    source: https://www.humanoids2022.org/program/awards
+  - award: Best Interactive Paper
+    title: A Guideline for Humanoid Leg Design with Oblique Axes for Bipedal Locomotion
+    author: Konrad Fründ, Anton Leonhard Shu, Florian Christoph Loeffl, Christian
+      Ott
+    link: https://www.researchgate.net/publication/365001376_A_Guideline_for_Humanoid_Leg_Design_with_Oblique_Axes_for_Bipedal_Locomotion
+    source: https://www.humanoids2022.org/program/awards
+  place: Ginowan, Japan
+  date: November 28-30, 2022
+  sub: RO
+
 - venue: IROS
   year: 2022
   awards:
