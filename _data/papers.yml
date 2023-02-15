@@ -1,5 +1,93 @@
 ---
 
+- venue: AAAI
+  year: 2023
+  awards:
+  - award: Outstanding Paper
+    title: Misspecification in Inverse Reinforcement Learning
+    author: Joar Skalse, Alessandro Abate
+    link: https://arxiv.org/abs/2212.03201
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Outstanding Student Paper
+    title: 'Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation'
+    author: Yulu Gan, Yan Bai, Yihang Lou, Xianzheng Ma, Renrui Zhang, Nian Shi, Lin
+      Luo
+    link: https://arxiv.org/abs/2212.04145
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'DropMessage: Unifying Random Dropping for Graph Neural Networks'
+    author: Taoran Fang, Zhiqing Xiao, Chunping Wang, Jiarong Xu, Xuan Yang, Yang
+      Yang
+    link: https://arxiv.org/abs/2204.10037
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'Two Heads are Better than One: Image-Point Cloud Network for Depth-Based
+      3D Hand Pose Estimation'
+    author: Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang,
+      Jianxin Liao
+    link: null
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Neural Architecture Search for Wide Spectrum Adversarial Robustness
+    author: Zhi Cheng, Yanxi Li, Minjing Dong, Xiu Su, Shan You, Chang Xu
+    link: null
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'CowClip: Reducing CTR Prediction Model Training Time from 12 hours to
+      10 minutes on 1 GPU'
+    author: Zangwei Zheng, Pengtai Xu, Xuan Zou, Da Tang, Zhen Li, Chenguang Xi, Peng
+      Wu, Leqi Zou,  Yijie Zhu, Ming Chen, Xiangzhuo Ding, Fuzhao Xue, Ziheng Qin,
+      Youlong Cheng, Yang You
+    link: https://arxiv.org/abs/2204.06240
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'DICNet: Deep Instance-Level Contrastive Network for Double Incomplete
+      Multi-View Multi-Label Classification'
+    author: Chengliang Liu, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu
+    link: null
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot
+      Image Classification
+    author: Lintao Dong, Wei Zhai Zheng-Jun Zha
+    link: null
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'MaskBooster: End-to-End Self-Training for Sparsely Supervised Instance
+      Segmentation'
+    author: Shida Zheng, Chenshu Chen, Xi Yang, Wenming Tan
+    link: null
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'SimFair: A Unified Framework for Fairness-Aware Multi-Label Classification'
+    author: Tianci Liu, Haoyu Wang, Yaqing Wang, Xiaoqian Wang, Lu Su, Jing Gao
+    link: null
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'XRand: Differentially Private Defense against Explanation-Guided Attacks'
+    author: Truc Nguyen, Phung Lai, Hai Phan, My T. Thai
+    link: https://arxiv.org/abs/2212.04454
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: 'Clustering What Matters: Optimal Approximation for Clustering with Outliers'
+    author: Akanksha Agrawal, Tanmay Inamdar, Saket Saurabh, Jie Xue
+    link: https://arxiv.org/abs/2212.00696
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Robust Average-Reward Markov Decision Processes
+    author: Yue Wang, Alvaro Velasquez, George Atia, Ashley Prater-Bennette, Shaofeng
+      Zou
+    link: https://arxiv.org/abs/2301.00858
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  - award: Distinguished Paper
+    title: Efficient Answer Enumeration in Description Logics with Functional Roles
+    author: Carsten Lutz, Marcin Przybylko
+    link: https://arxiv.org/abs/2211.15248
+    source: https://aaai-23.aaai.org/wp-content/uploads/2023/02/AAAI-23-Paper-Awards.pdf
+  place: Washington, DC, USA
+  date: February 7-14, 2023
+  sub: AI
+
 - venue: CoRL
   year: 2022
   awards:

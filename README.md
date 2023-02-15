@@ -26,4 +26,7 @@ bundle update <gem_name>
 cd utils
 python process.py
 mv sorted_data.yml ../_data/papers.yml
+
+Check for conferences:
+https://aideadlin.es/calendar/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR
 -->
