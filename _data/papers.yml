@@ -1,5 +1,34 @@
 ---
 
+- venue: ICLR
+  year: 2023
+  awards:
+  - award: Outstanding Paper
+    title: Universal Few-shot Learning of Dense Prediction Tasks with Visual Token
+      Matching
+    author: Donggyun Kim, Jinwoo Kim, Seongwoong Cho, Chong Luo, Seunghoon Hong
+    link: https://arxiv.org/abs/2303.14969
+    source: https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Rethinking the Expressive Power of GNNs via Graph Biconnectivity
+    author: Bohang Zhang, Shengjie Luo, Liwei Wang, Di He
+    link: https://arxiv.org/abs/2301.09505
+    source: https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: 'DreamFusion: Text-to-3D using 2D Diffusion'
+    author: Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall
+    link: https://arxiv.org/abs/2209.14988
+    source: https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/
+  - award: Outstanding Paper
+    title: Emergence of Maps in the Memories of Blind Navigation Agents
+    author: Erik Wijmans, Manolis Savva, Irfan Essa, Stefan Lee, Ari S. Morcos, Dhruv
+      Batra
+    link: https://arxiv.org/abs/2301.13261
+    source: https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/
+  place: Kigali, Rwanda
+  date: May 1-5, 2023
+  sub: ML
+
 - venue: AAAI
   year: 2023
   awards:
