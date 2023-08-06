@@ -1,5 +1,100 @@
 ---
 
+- venue: ICRA
+  year: 2023
+  awards:
+  - award: Outstanding Paper
+    title: Distributed Data-Driven Predictive Control for Multi-Agent Collaborative
+      Legged Locomotion
+    link: https://arxiv.org/abs/2211.06917
+    author: Randall Fawcett, Leila Amanzadeh, Jeeseop Kim, Aaron Ames, Kaveh Akbari
+      Hamed
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Student Paper
+    title: Robust Locomotion on Legged Robots through Planning on Motion Primitive
+      Graphs
+    link: https://arxiv.org/abs/2209.07503
+    author: Wyatt Ubellacker, Aaron Ames
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Automation Paper
+    title: Target-Aware Implicit Mapping for Agricultural Crop Inspection
+    link: https://ieeexplore.ieee.org/abstract/document/10160487
+    author: Shane Kelly, Alessandro Riccardi, Elias Ariel Marks, Federico Magistri,
+      Tiziano Guadagnino, Margarita Chli, Cyrill Stachniss
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Multi-Robot Systems Paper
+    title: Graph Neural Networks for Multi-Robot Active Information Acquisition
+    link: https://arxiv.org/abs/2209.12091
+    author: Mariliza Tzes, Nikolaos Bousias, Evangelos Chatzipantazis, George J. Pappas
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Deployed Systems Paper
+    title: 'GUTS: Generalized Uncertainty-Aware Thompson Sampling for Multi-Agent
+      Active Search'
+    link: https://arxiv.org/abs/2304.02075
+    author: Nikhil Angad Bakshi, Tejus Gupta, Ramina Ghods, Jeff Schneider
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Dynamics and Control Paper
+    title: 'Nonlinear Model Predictive Control of a 3D Hopping Robot: Leveraging Lie
+      Group Integrators for Dynamically Stable Behaviors'
+    link: https://arxiv.org/abs/2209.11808
+    author: Noel Csomay-Shanklin, Victor Dorobantu, Aaron Ames
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Physical Human-Robot Interaction Paper
+    title: 'Learning from Physical Human Feedback: An Object-Centric One-Shot Adaptation
+      Method'
+    link: https://arxiv.org/abs/2203.04951
+    author: Alvin Shek, Bo Ying Su, Chn Rui, Changliu Liu
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Healthcare and Medical Robotics Paper
+    title: Real-Time Constrained 6D Object-Pose Tracking of an In-Hand Suture Needle
+      for Minimally Invasive Robotic Surgery
+    link: https://arxiv.org/abs/2210.11973
+    author: Zih-Yun Chiu, Florian Richter, Michael C. Yip
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Learning Paper
+    title: 'Code As Policies: Language Model Programs for Embodied Control'
+    link: Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter,
+      Peter Florence, Andy Zeng
+    author: https://arxiv.org/abs/2209.07753
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Locomotion Paper
+    title: Multi-Segmented, Adaptive Feet for Versatile Legged Locomotion in Natural
+      Terrain
+    link: https://arxiv.org/abs/2209.08499
+    author: Abhishek Chatterjee, An Mo, Bernadett Kiss, Emre Cemal Gönen, Alexander
+      Badri-Spröwitz
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Manipulation Paper
+    title: 'In-Hand Manipulation in Power Grasp: Design of an Adaptive Robot Hand
+      with Active Surfaces'
+    link: https://ieeexplore.ieee.org/abstract/document/10161516
+    author: Yilin Cai, Shenli Yuan
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Mechanisms and Design Paper
+    title: Contact Force Control with Continuously Compliant Robotic Legs
+    link: https://ieeexplore.ieee.org/abstract/document/10160269
+    author: Robin Bendfeld, C. David Remy
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Navigation Paper
+    title: 'SmartRainNet: Uncertainty Estimation for Laser Measurement in Rain'
+    link: https://ieeexplore.ieee.org/abstract/document/10160874
+    author: Chen Zhang, Zefan Huang, Beatrix Tung, Marcelo H Ang Jr, Daniela Rus
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Planning Paper
+    title: Learning-Based Initialization of Trajectory Optimization for Path-Following
+      Problems of Redundant Manipulators
+    link: https://ieeexplore.ieee.org/abstract/document/10161426
+    author: Minsung Yoon, Mincheul Kang, Daehyung Park, Sung-eui Yoon
+    source: https://www.icra2023.org/awards-finalists
+  - award: Outstanding Sensors and Perception Paper
+    title: Occlusion Reasoning for Skeleton Extraction of Self-Occluded Tree Canopies
+    link: https://arxiv.org/abs/2301.08387
+    author: Chung Hee Kim, George Kantor
+    source: https://www.icra2023.org/awards-finalists
+  place: London, UK
+  date: May 29 - June 2, 2023
+  sub: RO
+
 - venue: ICLR
   year: 2023
   awards:
