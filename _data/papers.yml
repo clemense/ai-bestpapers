@@ -1,5 +1,33 @@
 ---
 
+- venue: RSS
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: Time Optimal Ergodic Search
+    link: https://arxiv.org/abs/2305.11643
+    author: Dayi Dong, Henry Berger, Ian Abraham
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Student Paper
+    title: 'Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations'
+    link: https://arxiv.org/abs/2303.01497
+    author: Siddhant Haldar, Jyothish Pari, Anant Rai, Lerrel Pinto
+    source: https://roboticsconference.org/program/awards/
+  - award: Best Systems Paper
+    title: 'FurnitureBench: Reproducible Real-World Benchmark for Long-Horizon Complex
+      Manipulation'
+    link: https://arxiv.org/abs/2305.12821
+    author: Minho Heo, Youngwoon Lee, Doohyun Lee, Joseph J. Lim
+    source: https://roboticsconference.org/program/awards/
+  - award: Test of Time
+    title: Deep Learning for Detecting Robotic Grasps
+    author: Ian Lenz, Honglak Lee, Ashutosh Saxena
+    link: https://www.roboticsproceedings.org/rss09/p12.html
+    source: https://roboticsconference.org/program/testoftimeaward/
+  place: Daegu, Republic of Korea
+  date: July 10-14, 2023
+  sub: RO
+
 - venue: ICRA
   year: 2023
   awards:
@@ -573,24 +601,24 @@
     link: https://arxiv.org/abs/2203.00663
     author: Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran
       Song
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2022/program/awards/
   - award: Best Student Paper
     title: 'AK: Attentive Kernel for Information Gathering'
     link: https://arxiv.org/abs/2205.06426
     author: Weizhe Chen, Roni Khardon, and Lantao Liu
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2022/program/awards/
   - award: Best Systems Paper
     title: Autonomously Untangling Long Cables
     link: https://roboticsconference.org/program/papers/034/
     author: Kaushik Shivakumar, Vainavi Viswanath, Justin Kerr, Brijen Thananjeyan,
       Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael
       Laskey, and Alejandro Escontrela
-    source: https://roboticsconference.org/program/awards/
+    source: https://roboticsconference.org/2022/program/awards/
   - award: Test of Time
     title: Sampling-based algorithms for optimal motion planning
     author: Sertac Karaman, Emilio Frazzoli
-    link: https://journals.sagepub.com/doi/pdf/10.1177/0278364911406761
-    source: https://roboticsconference.org/program/testoftimeaward/
+    link: http://www.roboticsproceedings.org/rss06/p34.html
+    source: https://roboticsconference.org/2022/program/testoftimeaward/
   place: New York, USA
   date: June 27 - July 1, 2022
   sub: RO
