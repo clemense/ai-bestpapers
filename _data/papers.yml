@@ -28,6 +28,47 @@
   date: July 10-14, 2023
   sub: RO
 
+- venue: ACL
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from
+      The New Yorker Caption Contest
+    author: Jack Hessel, Ana Marasovic, Jena D. Hwang, Lillian Lee, Jeff Da, Rowan
+      Zellers, Robert Mankoff, Yejin Choi
+    link: https://arxiv.org/abs/2209.06293
+    source: https://2023.aclweb.org/program/best_papers/
+  - award: Best Paper
+    title: 'From Pretraining Data to Language Models to Downstream Tasks: Tracking
+      the Trails of Political Biases Leading to Unfair NLP Models'
+    author: Shangbin Feng, Chan Young Park, Yuhan Liu, Yulia Tsvetkov
+    link: https://arxiv.org/abs/2305.08283
+    source: https://2023.aclweb.org/program/best_papers/
+  - award: Best Paper
+    title: 'What the DAAM: Interpreting Stable Diffusion Using Cross Attention'
+    author: Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun
+      Kumar, Pontus Stenetorp, Jimmy Lin, Ferhan Ture
+    link: https://arxiv.org/abs/2210.04885
+    source: https://2023.aclweb.org/program/best_papers/
+  - award: Best Special Theme Paper
+    title: 'Weaker Than You Think: A Critical Look at Weakly Supervised Learning'
+    author: Dawei Zhu, Xiaoyu Shen, Marius Mosbach, Andreas Stephan, Dietrich Klakow
+    link: https://arxiv.org/abs/2305.17442
+    source: https://2023.aclweb.org/program/best_papers/
+  - award: Best Resource Paper
+    title: When Does Translation Require Context? A Data-driven, Multilingual Exploration
+    author: Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig
+    link: https://arxiv.org/abs/2109.07446
+    source: https://2023.aclweb.org/program/best_papers/
+  - award: Best Reproduction Paper
+    title: Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?
+    author: Shuheng Liu, Alan Ritter
+    link: https://arxiv.org/abs/2212.09747
+    source: https://2023.aclweb.org/program/best_papers/
+  place: Toronto, Canada
+  date: July 9-14, 2023
+  sub: NLP
+
 - venue: ICRA
   year: 2023
   awards:
