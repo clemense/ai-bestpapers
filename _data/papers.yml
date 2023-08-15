@@ -1,5 +1,50 @@
 ---
 
+- venue: ICML
+  year: 2023
+  awards:
+  - award: Outstanding Paper
+    title: Learning-Rate-Free Learning by D-Adaptation
+    author: Aaron Defazio, Konstantin Mishchenko
+    link: https://openreview.net/forum?id=GXZ6cT5cvY
+    source: https://icml.cc/Conferences/2023/Awards
+  - award: Outstanding Paper
+    title: A Watermark for Large Language Models
+    author: John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers,
+      Tom Goldstein
+    link: https://openreview.net/forum?id=aX8ig9X2a7
+    source: https://icml.cc/Conferences/2023/Awards
+  - award: Outstanding Paper
+    title: Generalization on the Unseen, Logic Reasoning and Degree Curriculum
+    author: Emmanuel Abbe, Samy Bengio, Aryo Lotfi, Kevin Rizk
+    link: https://openreview.net/forum?id=3dqwXb1te4
+    source: https://icml.cc/Conferences/2023/Awards
+  - award: Outstanding Paper
+    title: Adapting to game trees in zero-sum imperfect information games
+    author: Côme Fiegel, Pierre Menard, Tadashi Kozuno, Remi Munos, Vianney Perchet,
+      Michal Valko
+    link: https://openreview.net/forum?id=O1j4uFuSVW
+    source: https://icml.cc/Conferences/2023/Awards
+  - award: Outstanding Paper
+    title: Self-Repellent Random Walks on General Graphs - Achieving Minimal Sampling
+      Variance via Nonlinear Markov Chains
+    author: Vishwaraj Doshi, Jie Hu, Do Young Eun
+    link: https://openreview.net/forum?id=450iImFM4U
+    source: https://icml.cc/Conferences/2023/Awards
+  - award: Outstanding Paper
+    title: Bayesian Design Principles for Frequentist Sequential Learning
+    author: Yunbei Xu, Assaf Zeevi
+    link: https://openreview.net/forum?id=tRhQsHnoFw
+    source: https://icml.cc/Conferences/2023/Awards
+  - award: Test of Time
+    title: Learning Fair Representations
+    author: Rich Zemel, Yu Wu, Kevin Swersky, Toni Pitassi, Cynthia Dwork
+    link: http://proceedings.mlr.press/v28/zemel13
+    source: https://icml.cc/Conferences/2023/Test-of-Time
+  place: Honolulu, USA
+  date: July 23-29, 2023
+  sub: ML
+
 - venue: RSS
   year: 2023
   awards:
