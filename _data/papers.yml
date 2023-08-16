@@ -1,5 +1,66 @@
 ---
 
+- venue: SIGGRAPH
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: Split-Lohmann Multifocal Displays
+    author: Yingsi Qin, Wei-Yu Chen, Matthew O'Toole, Aswin C. Sankaranarayanan
+    link: https://dl.acm.org/doi/abs/10.1145/3592110
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Differentiable Stripe Patterns for Inverse Design of Structured Surfaces
+    author: Juan Montes Maestre, Yinwei Du, Ronan Hinchet, Stelian Coros, Bernhard
+      Thomaszewski
+    link: https://arxiv.org/abs/2305.13841
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Globally Consistent Normal Orientation for Point Clouds by Regularizing
+      the Winding-number Field
+    author: Rui Xu, Zhiyang Dou, Ningna Wang, Shiqing Xin, Shuangmin Chen, Mingyan
+      Jiang, Xiaohu Guo, Wenping Wang, Changhe Tu
+    link: https://arxiv.org/abs/2304.11605
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 3D Gaussian Splatting for Real-time Radiance Field Rendering
+    author: Bernhard Kerbl, Georgios Kopanas, Thomas Leimkuehler, George Drettakis
+    link: https://arxiv.org/abs/2308.04079
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'DOC: Differentiable Optimal Control for Retargeting Motions Onto Legged
+      Robots'
+    author: Ruben Grandia , Farbod Farshidian, Espen Knoop, Christian Schumacher,
+      Marco Hutter, Moritz Bächer
+    link: https://dl.acm.org/doi/10.1145/3592454
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: 'Functional Maps: A Flexible Representation of Maps Between Shapes'
+    author: Maks Ovsjanikov, Mirela Ben-Chen, Justin Solomon, Adrian Butscher, Leonidas
+      Guibas
+    link: https://www.research.autodesk.com/app/uploads/2023/03/functional-maps-a-flexible.pdf_rec0pprafEUWTenBH.pdf
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: Eulerian Video Magnification for Revealing Subtle Changes in the World
+    author: Hao-Yu Wu, Michael Rubinstein, Eugene Shih, John Guttag, Frédo Durand,
+      William Freeman
+    link: https://core.ac.uk/download/pdf/78051554.pdf
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: 'HDR-VDP-2: A Calibrated Visual Metric for Visibility and Quality Predictions
+      in All Luminance Conditions'
+    author: Rafal Mantiuk, Kil Joong Kim, Allan G. Rempel, Wolfgang Heidrich
+    link: https://www.cl.cam.ac.uk/~rkm38/pdfs/mantiuk11hdrvdp2.pdf
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: Optimizing Locomotion Controllers Using Biologically-based Actuators and
+      Objectives
+    author: Jack M. Wang, Samuel R. Hamner, Scott L. Delp, Vladlen Koltun
+    link: http://vladlen.info/papers/biolocomotion.pdf
+    source: https://blog.siggraph.org/2023/07/siggraph-2023-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  place: Los Angeles, USA
+  date: August 6-10, 2023
+  sub: CG
+
 - venue: ICML
   year: 2023
   awards:
