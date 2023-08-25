@@ -175,6 +175,42 @@
   date: July 9-14, 2023
   sub: NLP
 
+- venue: CVPR
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: 'Visual Programming: Compositional visual reasoning without training'
+    author: Tanmay Gupta, Aniruddha Kembhavi
+    link: https://arxiv.org/abs/2211.11559
+    source: https://cvpr2023.thecvf.com/Conferences/2023/Awards
+  - award: Best Paper
+    title: Planning-oriented Autonomous Driving
+    author: Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi
+      Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu,
+      Jifeng Dai, Yu Qiao, Hongyang Li
+    link: https://arxiv.org/abs/2212.10156
+    source: https://cvpr2023.thecvf.com/Conferences/2023/Awards
+  - award: Best Student Paper
+    title: 3D Registration with Maximal Cliques
+    author: Xiyu Zhang, Jiaqi Yang, Shikun Zhang, Yanning Zhang
+    link: https://arxiv.org/abs/2305.10854
+    source: https://cvpr2023.thecvf.com/Conferences/2023/Awards
+  - award: Best Paper Honorable Mention
+    title: 'DynIBaR: Neural Dynamic Image-Based Rendering'
+    author: Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely
+    link: https://arxiv.org/abs/2211.11082
+    source: https://cvpr2023.thecvf.com/Conferences/2023/Awards
+  - award: Best Student Paper Honorable Mention
+    title: 'DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven
+      Generation'
+    author: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein,
+      Kfir Aberman
+    link: https://arxiv.org/abs/2208.12242
+    source: https://cvpr2023.thecvf.com/Conferences/2023/Awards
+  place: Vancouver, Canada
+  date: June 18-22, 2023
+  sub: CV
+
 - venue: ICRA
   year: 2023
   awards:
