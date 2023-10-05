@@ -1,5 +1,58 @@
 ---
 
+- venue: ICCV
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: Passive Ultra-Wideband Single-Photon Imaging
+    author: Mian Wei1, Sotiris Nousias, Rahul Gulve, David B. Lindell, Kiriakos N.
+      Kutulakos
+    link: https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Passive_Ultra-Wideband_Single-Photon_Imaging_ICCV_2023_paper.pdf
+    source: https://twitter.com/CSProfKGD/status/1709468257734787542
+  - award: Best Paper
+    title: Adding Conditional Control to Text-to-Image Diffusion Models
+    author: Lvmin Zhang, Anyi Rao, Maneesh Agrawala
+    link: https://arxiv.org/abs/2302.05543
+    source: https://twitter.com/CSProfKGD/status/1709468257734787542
+  - award: Best Paper Honorable Mention
+    title: Segment Anything
+    author: Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland,
+      Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo,
+      Piotr Dollár, Ross Girshick
+    link: https://arxiv.org/abs/2304.02643
+    source: https://twitter.com/CSProfKGD/status/1709468257734787542
+  - award: Best Student Paper
+    title: Tracking Everything Everywhere All at Once
+    author: Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan,
+      Aleksander Holynski, Noah Snavely
+    link: https://arxiv.org/abs/2306.05422
+    source: https://twitter.com/CSProfKGD/status/1709468257734787542
+  place: Paris, France
+  date: October 2-6, 2023
+  sub: CV
+
+- venue: CASE
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: Learning Generalizable Tool Use with Non-rigid Grasp-pose Registration
+    link: https://arxiv.org/abs/2307.16499
+    author: Malte Mosbach, Sven Behnke
+    source: https://twitter.com/SvenBehnke/status/1696561779566957052
+  # - award: Best Student Paper
+  #   title: null
+  #   link: null
+  #   author: null
+  #   source: null
+  # - award: Best Application Paper
+  #   title: null
+  #   link: null
+  #   author: null
+  #   source: null
+  place: Auckland, New Zealand
+  date: August 26-30, 2023
+  sub: RO
+
 - venue: SIGGRAPH
   year: 2023
   awards:
@@ -1280,7 +1333,7 @@
     link: https://openaccess.thecvf.com/content/ICCV2021/html/Lindenberger_Pixel-Perfect_Structure-From-Motion_With_Featuremetric_Refinement_ICCV_2021_paper.html
     source: https://iccv2021.thecvf.com/iccv-2021-paper-awards
   place: Online
-  date: October 11 - October 17, 2021
+  date: October 11-17, 2021
   sub: CV
 
 - venue: IROS
