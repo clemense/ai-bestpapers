@@ -31,6 +31,79 @@
   date: October 2-6, 2023
   sub: CV
 
+- venue: IROS
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: Autonomous Power Line Inspection with Drones via Perception-Aware MPC
+    author: Jiaxu Xing, Giovanni Cioffi, Javier Hidalgo Carrio, Davide Scaramuzza
+    link: https://arxiv.org/abs/2304.00959
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Student Paper
+    title: Controlling Powered Prosthesis Kinematics over Continuous Transitions Between
+      Walk and Stair Ascent
+    author: Shihao Cheng, Curt A. Laubscher, Robert D. Gregg
+    link: https://locolab.robotics.umich.edu/documents/ChengGregg-IROS2023.pdf
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Application Paper
+    title: 'Autonomous Robotic Drilling System for Mice Cranial Window Creation: An
+      Evaluation with an Egg Model'
+    author: Enduo Zhao, Murilo Marques Marinho, Kanako Harada
+    link: https://arxiv.org/abs/2303.12265
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Cognitive Robotics Paper
+    title: Extracting Dynamic Navigation Goal from Natural Language Dialogue
+    author: Lanjun Liang, Ganghui Bian, Huailin Zhao, Yanzhi Dong, Huaping Liu
+    link: null
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Mobile Manipulation Paper
+    title: A perching and tilting aerial robot for precise and versatile power tool
+      work on vertical walls
+    author: Roman Dautzenberg, Timo Küster, Timon Mathis, Yann Roth, Curdin Steinauer,
+      Gabriel Käppeli, Julian Santen, Alina Arranhado, Friederike Biffar, Till Kötter,
+      Christian Lanegger, Mike Allenspach, Roland Siegwart, Rik Bähnemann
+    link: https://arxiv.org/abs/2310.10548
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Robot Mechanism and Design Paper
+    title: Swashplateless-elevon Actuation for a Dual-rotor Tail-sitter VTOL UAV
+    author: Nan Chen, Fanze Kong, Haotian Li, Jiayuan Liu, Ziwei Ye, Wei Xu, Fangcheng
+      Zhu, Ximin Lyu, Fu Zhang
+    link: https://arxiv.org/abs/2309.13559
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best RoboCup Paper
+    title: Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance
+    author: Hongzhan Yu, Chiaki Hirayama, Chenning Yu, Sylvia Herbert, Sicun Gao
+    link: https://arxiv.org/abs/2307.03015
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Entertainment and Amusement Paper
+    title: 'DoubleBee: A Hybrid Aerial-Ground Robot with Two Active Wheels'
+    author: Muqing Cao, Xinhang Xu, Shenghai Yuan, Kun Cao, Kangcheng Liu, Lihua Xie
+    link: https://arxiv.org/abs/2303.05075
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Safety, Security, and Rescue Robotics Paper
+    title: 'mCLARI: A Shape-Morphing Insect-Scale Robot Capable of Omnidirectional
+      Terrain-Adaptive Locomotion'
+    author: Heiko Dieter Kabutz, Alexander Hedrick, William Parker McDonnell, Kaushik
+      Jayaram
+    link: https://arxiv.org/abs/2310.04538
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Agri-Robotics Paper
+    title: Visual, Spatial, Geometric-Preserved Place Recognition for Cross-View and
+      Cross-Modal Collaborative Perception
+    author: Peng Gao, Jing Liang, Yu Shen, Sanghyun Son, Ming C. Lin
+    link: https://www.cs.umd.edu/~yushen/docs/IROS2023.pdf
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  - award: Best Industrial Robotics Research for Applications
+    title: 'Toward Closed-loop Additive Manufacturing: Paradigm Shift in Fabrication,
+      Inspection, and Repair'
+    author: Manpreet Singh, Fujun Ruan, Albert Xu, Yuchen Wu, Archit Rungta, Luyuan
+      Wang, Kevin Song, Howie Choset, Lu Li
+    link: https://fujunruan.com/pdfs/Close_loop.pdf
+    source: https://ieee-iros.org/iros-2023-award-winners/
+  place: Detroit, USA
+  date: October 1-5, 2023
+  sub: RO
+
 - venue: CASE
   year: 2023
   awards:
@@ -39,16 +112,6 @@
     link: https://arxiv.org/abs/2307.16499
     author: Malte Mosbach, Sven Behnke
     source: https://twitter.com/SvenBehnke/status/1696561779566957052
-  # - award: Best Student Paper
-  #   title: null
-  #   link: null
-  #   author: null
-  #   source: null
-  # - award: Best Application Paper
-  #   title: null
-  #   link: null
-  #   author: null
-  #   source: null
   place: Auckland, New Zealand
   date: August 26-30, 2023
   sub: RO
