@@ -773,6 +773,35 @@
   date: October 23-27, 2022
   sub: RO
 
+- venue: 3DV
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: Smooth Non-Rigid Shape Matching via Effective Dirichlet Energy Optimization
+    author: Robin Magnet, Jing Ren, Olga Sorkine-Hornung, Maks Ovsjanikov
+    link: https://arxiv.org/abs/2210.02870
+    source: https://3dvconf.github.io/2022/prizes/
+  - award: Best Student Paper
+    title: 'MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes'
+    author: Zhi Li, Soshi Shimada, Bernt Schiele, Christian Theobalt, Vladislav Golyanik
+    link: https://arxiv.org/abs/2208.08439
+    source: https://3dvconf.github.io/2022/prizes/
+  - award: Best Paper Honorable Mention
+    title: 'Any-Shot GIN: Generalizing Implicit Networks for Reconstructing Novel
+      Classes'
+    author: Yongqin Xian, Julian Chibane, Bharat Lal Bhatnagar, Zeynep Akata, Bernt
+      Schiele, Gerard Pons-Moll
+    link: https://ieeexplore.ieee.org/abstract/document/10044391/
+    source: https://3dvconf.github.io/2022/prizes/
+  - award: Best Demo
+    title: Live augmented echography
+    author: Albert Murienne
+    link: null
+    source: https://3dvconf.github.io/2022/prizes/
+  place: Prague, Czechia
+  date: September 12-15, 2022
+  sub: CV
+
 - venue: CASE
   year: 2022
   awards:
@@ -1004,7 +1033,7 @@
     title: Augmenting Reinforcement Learning with Behavior Primitives for Diverse
       Manipulation Tasks
     link: https://arxiv.org/abs/2110.03655
-    author: Nasiriany, Soroush; Liu, Huihan; Zhu, Yuke
+    author: Soroush Nasiriany, Huihan Liu, Yuke Zhu
     source: https://www.icra2022.org/program/awards
   - award: Outstanding Locomotion Paper
     title: Trajectory Optimization Formulation with Smooth Analytical Derivatives
