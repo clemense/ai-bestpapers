@@ -1,5 +1,26 @@
 ---
 
+- venue: CoRL
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: 'Robots That Ask For Help: Uncertainty Alignment for Large Language Model
+      Planners'
+    author: Allen Z. Ren, Anushri Dixit, Alexandra Bodrova, Sumeet Singh, Stephen
+      Tu, Noah Brown, Peng Xu, Leila Takayama, Fei Xia, Jake Varley, Zhenjia Xu, Dorsa
+      Sadigh, Andy Zeng, Anirudha Majumdar
+    link: https://arxiv.org/abs/2307.01928
+    source: https://twitter.com/Majumdar_Ani/status/1722787845415338434
+  - award: Best Systems Paper
+    title: 'RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse
+      Tools'
+    author: Haochen Shi, Huazhe Xu, Samuel Clarke, Yunzhu Li, Jiajun Wu
+    link: https://arxiv.org/abs/2306.14447
+    source: https://twitter.com/YunzhuLiYZ/status/1722814236508742092
+  place: Atlanta, USA
+  date: November 6-9, 2023
+  sub: RO
+
 - venue: ICCV
   year: 2023
   awards:
@@ -548,7 +569,7 @@
     author: Kun Huang, Edward S. Hu, Dinesh Jayaraman
     link: https://openreview.net/pdf?id=sK2aWU7X9b8
     source: https://twitter.com/corl_conf/status/1604331809071714304
-  - award: Best System Paper
+  - award: Best Systems Paper
     title: Legged Locomotion in Challenging Terrains using Egocentric Vision
     author: Ananye Agarwal, Ashish Kumar, Jitendra Malik, Deepak Pathak
     link: https://arxiv.org/abs/2211.07638
@@ -1347,7 +1368,7 @@
     author: Tao Chen, Jie Xu, Pulkit Agrawal
     link: https://openreview.net/forum?id=7uSBJDoP7tY
     source: https://www.robot-learning.org/program/awards_2021
-  - award: Best System Paper
+  - award: Best Systems Paper
     title: 'FlingBot: The Unreasonable Effectiveness of Dynamic Manipulation for Cloth
       Unfolding'
     author: Huy Ha, Shuran Song
@@ -1987,7 +2008,7 @@
     author: Annie Xie, Dylan Losey, Ryan Tolsma, Chelsea Finn, Dorsa Sadigh
     link: https://arxiv.org/abs/2011.06619
     source: https://sites.google.com/robot-learning.org/corl2020/program/awards
-  - award: Best System Paper
+  - award: Best Systems Paper
     title: 'SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous
       Driving'
     author: Ming Zhou, Jun Luo, Julian Villella, Yaodong Yang, David Rusu, Jiayu Miao,
@@ -2409,7 +2430,7 @@
     author: Seyed Kamyar Seyed Ghasemipour, Richard Semel, Shixiang Gu
     link: http://proceedings.mlr.press/v100/ghasemipour20a.html
     source: https://sites.google.com/robot-learning.org/corl2019
-  - award: Best System Paper
+  - award: Best Systems Paper
     title: Learning to Manipulate Object Collections Using Grounded State Representations
     author: Matthew Wilson, Tucker Hermans
     link: http://proceedings.mlr.press/v100/wilson20a.html
