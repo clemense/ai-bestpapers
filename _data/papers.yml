@@ -1,5 +1,64 @@
 ---
 
+- venue: NeurIPS
+  year: 2023
+  awards:
+  - award: Outstanding Main Track Paper
+    title: Privacy Auditing with One (1) Training Run
+    author: Thomas Steinke, Milad Nasr, Matthew Jagielski
+    link: https://arxiv.org/abs/2305.08846
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  - award: Outstanding Main Track Paper
+    title: Are Emergent Abilities of Large Language Models a Mirage?
+    author: Rylan Schaeffer, Brando Miranda, Sanmi Koyejo
+    link: https://arxiv.org/abs/2304.15004
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  - award: Outstanding Main Track Runner-Up Paper
+    title: Scaling Data-Constrained Language Models
+    author: Niklas Muennighoff · Alexander Rush · Boaz Barak · Teven Le Scao · Nouamane
+      Tazi · Aleksandra Piktus · Sampo Pyysalo · Thomas Wolf · Colin Raffel
+    link: https://arxiv.org/abs/2305.16264
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  - award: Outstanding Main Track Runner-Up  Paper
+    title: 'Direct Preference Optimization: Your Language Model is Secretly a Reward
+      Model'
+    author: Rafael Rafailov · Archit Sharma · Eric Mitchell · Christopher D Manning
+      · Stefano Ermon · Chelsea Finn
+    link: https://arxiv.org/abs/2305.18290
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  - award: Datasets & Benchmarks Best Paper
+    title: 'ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation'
+    author: Sungduk Yu · Walter Hannah · Liran Peng · Jerry Lin · Mohamed Aziz Bhouri
+      · Ritwik Gupta · Björn Lütjens · Justus C. Will · Gunnar Behrens · Julius Busecke
+      · Nora Loose · Charles Stern · Tom Beucler · Bryce Harrop · Benjamin Hillman
+      · Andrea Jenney · Savannah L. Ferretti · Nana Liu · Animashree Anandkumar ·
+      Noah Brenowitz · Veronika Eyring · Nicholas Geneva · Pierre Gentine · Stephan
+      Mandt · Jaideep Pathak · Akshay Subramaniam · Carl Vondrick · Rose Yu · Laure
+      Zanna · Tian Zheng · Ryan Abernathey · Fiaz Ahmed · David Bader · Pierre Baldi
+      · Elizabeth Barnes · Christopher Bretherton · Peter Caldwell · Wayne Chuang
+      · Yilun Han · YU HUANG · Fernando Iglesias-Suarez · Sanket Jantre · Karthik
+      Kashinath · Marat Khairoutdinov · Thorsten Kurth · Nicholas Lutsko · Po-Lun
+      Ma · Griffin Mooers · J. David Neelin · David Randall · Sara Shamekh · Mark
+      Taylor · Nathan Urban · Janni Yuval · Guang Zhang · Mike Pritchard
+    link: https://openreview.net/forum?id=W5If9P1xqO
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  - award: Datasets & Benchmarks Best Paper
+    title: 'DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models'
+    author: Boxin Wang · Weixin Chen · Hengzhi Pei · Chulin Xie · Mintong Kang · Chenhui
+      Zhang · Chejian Xu · Zidi Xiong · Ritik Dutta · Rylan Schaeffer · Sang Truong
+      · Simran Arora · Mantas Mazeika · Dan Hendrycks · Zinan Lin · Yu Cheng · Sanmi
+      Koyejo · Dawn Song · Bo Li
+    link: https://arxiv.org/abs/2306.11698
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  - award: Test of Time
+    title: Distributed Representations of Words and Phrases and their Compositionality
+    author: Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean
+    link: https://arxiv.org/abs/1310.4546
+    source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
+  place: New Orleans, USA
+  date: December 10-16, 2023
+  sub: ML
+
 - venue: CoRL
   year: 2023
   awards:
