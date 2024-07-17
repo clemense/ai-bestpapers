@@ -1,5 +1,74 @@
 ---
 
+- venue: CVPR
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: Generative Image Dynamics
+    author: Zhengqi Li, Richard Tucker, Noah Snavely, Aleksander Holynski
+    link: https://arxiv.org/abs/2309.07906
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Paper
+    title: Rich Human Feedback for Text-to-Image Generation
+    author: Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas
+      Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang, Junjie Ke, Krishnamurthy
+      Dj Dvijotham, Katherine M. Collins, Yiwen Luo, Yang Li, Kai J. Kohlhoff, Deepak
+      Ramachandran, Vidhya Navalpakkam
+    link: https://arxiv.org/abs/2312.10240
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Student Paper
+    title: 'Mip-Splatting: Alias-free 3D Gaussian Splatting'
+    author: Zehao Yu, Anpei Chen, Binbin Huang, Torsten Sattler, Andreas Geiger
+    link: https://arxiv.org/abs/2311.16493
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Student Paper
+    title: 'BioCLIP: A Vision Foundation Model for the Tree of Life'
+    author: Samuel Stevens, Jiaman Wu, Matthew J. Thompson, Elizabeth G. Campolongo,
+      Chan Hee Song, David Edward Carlyn, Li Dong, Wasila M. Dahdul, Charles Stewart,
+      Tanya Berger-Wolf, Wei-Lun Chao, Yu Su
+    link: https://arxiv.org/abs/2311.18803
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Paper Honorable Mention
+    title: 'EventPS: Real-Time Photometric Stereo Using an Event Camera'
+    author: Bohan Yu, Jieji Ren, Jin Han, Feishi Wang, Jinxiu Liang, Boxin Shi
+    link: https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Paper Honorable Mention
+    title: 'pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable
+      3D Reconstruction'
+    author: David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann
+    link: https://arxiv.org/abs/2312.12337
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Student Paper Honorable Mention
+    title: 'SpiderMatch: 3D Shape Matching with Global Optimality and Geometric Consistency'
+    author: Paul Roetzer, Florian Bernard
+    link: https://openaccess.thecvf.com/content/CVPR2024/papers/Roetzer_SpiderMatch_3D_Shape_Matching_with_Global_Optimality_and_Geometric_Consistency_CVPR_2024_paper.pdf
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Student Paper Honorable Mention
+    title: 'Image Processing GNN: Breaking Rigidity in Super-Resolution'
+    author: Yuchuan Tian, Hanting Chen, Chao Xu, Yunhe Wang
+    link: https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Image_Processing_GNN_Breaking_Rigidity_in_Super-Resolution_CVPR_2024_paper.pdf
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Student Paper Honorable Mention
+    title: 'Objects as volumes: A stochastic geometry view of opaque solids'
+    author: Bailey Miller, Hanyu Chen, Alice Lai, Ioannis Gkioulekas
+    link: https://arxiv.org/abs/2312.15406
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Best Student Paper Honorable Mention
+    title: Comparing the Decision-Making Mechanisms by Transformers and CNNs via Explanation
+      Methods
+    author: Mingqi Jiang, Saeed Khorram, Li Fuxin
+    link: https://arxiv.org/abs/2212.06872
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  - award: Test of Time
+    title: Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+    author: Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik
+    link: https://arxiv.org/abs/1311.2524
+    source: https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners
+  place: Seattle, USA
+  date: June 17-21, 2024
+  sub: CV
+
 - venue: NeurIPS
   year: 2023
   awards:
@@ -15,39 +84,38 @@
     source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
   - award: Outstanding Main Track Runner-Up Paper
     title: Scaling Data-Constrained Language Models
-    author: Niklas Muennighoff · Alexander Rush · Boaz Barak · Teven Le Scao · Nouamane
-      Tazi · Aleksandra Piktus · Sampo Pyysalo · Thomas Wolf · Colin Raffel
+    author: Niklas Muennighoff, Alexander Rush, Boaz Barak, Teven Le Scao, Nouamane
+      Tazi, Aleksandra Piktus, Sampo Pyysalo, Thomas Wolf, Colin Raffel
     link: https://arxiv.org/abs/2305.16264
     source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
   - award: Outstanding Main Track Runner-Up  Paper
     title: 'Direct Preference Optimization: Your Language Model is Secretly a Reward
       Model'
-    author: Rafael Rafailov · Archit Sharma · Eric Mitchell · Christopher D Manning
-      · Stefano Ermon · Chelsea Finn
+    author: Rafael Rafailov, Archit Sharma, Eric Mitchell, Christopher D Manning ,
+      Stefano Ermon, Chelsea Finn
     link: https://arxiv.org/abs/2305.18290
     source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
   - award: Datasets & Benchmarks Best Paper
     title: 'ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation'
-    author: Sungduk Yu · Walter Hannah · Liran Peng · Jerry Lin · Mohamed Aziz Bhouri
-      · Ritwik Gupta · Björn Lütjens · Justus C. Will · Gunnar Behrens · Julius Busecke
-      · Nora Loose · Charles Stern · Tom Beucler · Bryce Harrop · Benjamin Hillman
-      · Andrea Jenney · Savannah L. Ferretti · Nana Liu · Animashree Anandkumar ·
-      Noah Brenowitz · Veronika Eyring · Nicholas Geneva · Pierre Gentine · Stephan
-      Mandt · Jaideep Pathak · Akshay Subramaniam · Carl Vondrick · Rose Yu · Laure
-      Zanna · Tian Zheng · Ryan Abernathey · Fiaz Ahmed · David Bader · Pierre Baldi
-      · Elizabeth Barnes · Christopher Bretherton · Peter Caldwell · Wayne Chuang
-      · Yilun Han · YU HUANG · Fernando Iglesias-Suarez · Sanket Jantre · Karthik
-      Kashinath · Marat Khairoutdinov · Thorsten Kurth · Nicholas Lutsko · Po-Lun
-      Ma · Griffin Mooers · J. David Neelin · David Randall · Sara Shamekh · Mark
-      Taylor · Nathan Urban · Janni Yuval · Guang Zhang · Mike Pritchard
+    author: Sungduk Yu, Walter Hannah, Liran Peng, Jerry Lin, Mohamed Aziz Bhouri
+      , Ritwik Gupta, Björn Lütjens, Justus C. Will, Gunnar Behrens, Julius Busecke
+      , Nora Loose, Charles Stern, Tom Beucler, Bryce Harrop, Benjamin Hillman , Andrea
+      Jenney, Savannah L. Ferretti, Nana Liu, Animashree Anandkumar · Noah Brenowitz,
+      Veronika Eyring, Nicholas Geneva, Pierre Gentine, Stephan Mandt, Jaideep Pathak,
+      Akshay Subramaniam, Carl Vondrick, Rose Yu, Laure Zanna, Tian Zheng, Ryan Abernathey,
+      Fiaz Ahmed, David Bader, Pierre Baldi , Elizabeth Barnes, Christopher Bretherton,
+      Peter Caldwell, Wayne Chuang , Yilun Han, YU HUANG, Fernando Iglesias-Suarez,
+      Sanket Jantre, Karthik Kashinath, Marat Khairoutdinov, Thorsten Kurth, Nicholas
+      Lutsko, Po-Lun Ma, Griffin Mooers, J. David Neelin, David Randall, Sara Shamekh,
+      Mark Taylor, Nathan Urban, Janni Yuval, Guang Zhang, Mike Pritchard
     link: https://openreview.net/forum?id=W5If9P1xqO
     source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
   - award: Datasets & Benchmarks Best Paper
     title: 'DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models'
-    author: Boxin Wang · Weixin Chen · Hengzhi Pei · Chulin Xie · Mintong Kang · Chenhui
-      Zhang · Chejian Xu · Zidi Xiong · Ritik Dutta · Rylan Schaeffer · Sang Truong
-      · Simran Arora · Mantas Mazeika · Dan Hendrycks · Zinan Lin · Yu Cheng · Sanmi
-      Koyejo · Dawn Song · Bo Li
+    author: Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui
+      Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang Truong , Simran
+      Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn
+      Song, Bo Li
     link: https://arxiv.org/abs/2306.11698
     source: https://blog.neurips.cc/2023/12/11/announcing-the-neurips-2023-paper-awards/
   - award: Test of Time
