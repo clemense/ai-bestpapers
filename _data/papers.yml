@@ -69,6 +69,96 @@
   date: June 17-21, 2024
   sub: CV
 
+- venue: ICRA
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: Goal Masked Diffusion Policies for Unified Navigation and Exploration
+    link: https://arxiv.org/abs/2310.07896
+    author: Ajay Sridhar, Dhruv Shah, Catherine Glossop, Sergey Levine
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Paper
+    title: 'Open X-Embodiment: Robotic Learning Datasets and RT-X'
+    link: https://arxiv.org/abs/2310.08864
+    author: Sergey Levine, Chelsea Finn, Ken Goldberg, Lawrence Yunliang Chen, Gaurav
+      Sukhatme, Shivin Dass, Lerrel Pinto, Yuke Zhu, Yifeng Zhu, Shuran Song, Oier
+      Mees, Deepak Pathak, Hao-Shu Fang, Henrik Iskov Christensen, Mingyu Ding, Youngwoon
+      Lee, Dorsa Sadigh, Ilija Radosavovic, Jeannette Bohg, Xiaolong Wang, Xuanlin
+      Li, Krishan Rana, Kento Kawaharazuka, Tatsuya Matsushima, Jihoon Oh, Takayuki
+      Osa, Oliver Kroemer, Beomjoon Kim, Edward Johns, Freek Stulp, Jan Schneider,
+      Jiajun Wu, Yunzhu Li, Heni Ben Amor, Lionel Ott, Roberto Martin-Martin, Karol
+      Hausman, Quan Vuong, Pannag Sanketi, Nicolas Heess, Vincent Vanhoucke, Karl
+      Pertsch, Stefan Schaal, Cheng Chi, Chuer Pan, Alex Bewley
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Student Paper
+    title: Optimized Design and Fabrication of Skeletal Muscle Actuators for Bio-syncretic
+      Robots
+    link: null
+    author: Lianchao Yang, Chuang Zhang, Ruiqian Wang, Yiwei Zhang, Lianqing Liu
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Automation Paper
+    title: 'TinyMPC: Model-Predictive Control on Resource-Constrained Microcontrollers'
+    link: https://arxiv.org/abs/2310.16985
+    author: Khai Nguyen, Sam Schoedel, Anoushka Alavilli, Brian Plancher, Zachary
+      Manchester
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Cognitive Robotics Paper
+    title: 'VLFM: Vision-Language Frontier Maps for Semantic Navigation'
+    author: Naoki Yokoyama, Sehoon Ha, Dhruv Batra, Jiuguang Wang, Bernadette Bucher
+    link: https://arxiv.org/abs/2312.03275
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Multi-Robot Systems Paper
+    title: Do We Run Large-Scale Multi-Robot Systems on the Edge? More Evidence for
+      Two-Phase Performance in System Size Scaling
+    link: https://arxiv.org/abs/2310.11843
+    author: Jonas Kuckling, Robin Luckey, Viktor Avrutin, Andrew Vardy, Andreagiovanni
+      Reina, Heiko Hamann
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Service Robotics Paper
+    title: Learning to Walk in Confined Spaces Using 3D Representation
+    link: https://arxiv.org/abs/2403.00187
+    author: Takahiro Miki, Joonho Lee, Lorenz Wellhausen, Marco Hutter
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Robot Vision Paper
+    title: 'NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency
+      SLAM System'
+    link: https://arxiv.org/abs/2311.09525
+    author: Yunxuan Mao, Xuan Yu, Kai Wang, Yue Wang, Rong Xiong, Yiyi Liao
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Human-Robot Interaction Paper
+    title: 'CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting'
+    link: https://arxiv.org/abs/2402.13442
+    author: Peter Schaldenbrand, Gaurav Parmar, Jun-Yan Zhu, James Mccann, Jean Oh
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Medical Robotics Paper
+    title: Exoskeleton-Mediated Physical Human-Human Interaction for a Sit-to-Stand
+      Rehabilitation Task
+    link: https://arxiv.org/abs/2310.06084
+    author: Lorenzo Vianello, Emek Baris Kucuktabak, Matthew Short, Clément Lhoste,
+      Lorenzo Amato, Kevin Lynch, Jose L. Pons
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Unmanned Aerial Vehicle Paper
+    title: Time-Optimal Gate-Traversing Planner for Autonomous Drone Racing
+    link: https://arxiv.org/abs/2309.06837
+    author: Chao Qin, Maxime Simon Joseph Michet, Jingxiang Chen, Hugh H.-T. Liu
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Robot Manipulation Paper
+    title: 'SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention'
+    link: https://arxiv.org/abs/2312.01990
+    author: Isabel Leal, Krzysztof Choromanski, Deepali Jain, Avinava Dubey, Jacob
+      Varley, Michael S. Ryoo, Yao Lu, Frederick Liu, Vikas Sindhwani, Tamas Sarlos,
+      Kenneth Oslund, Karol Hausman, Quan Vuong, Kanishka Rao
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  - award: Best Mechanisms and Design Paper
+    title: Design and Modeling of a Nested Bi-cavity-based Soft Growing Robot for
+      Grasping in Constrained Environments
+    link: https://www.researchgate.net/profile/Haochen-Yong/publication/380693293_Design_and_Modeling_of_a_Nested_Bi-cavity-based_Soft_Growing_Robot_for_Grasping_in_Constrained_Environments/links/6648b453bc86444c72e99b56/Design-and-Modeling-of-a-Nested-Bi-cavity-based-Soft-Growing-Robot-for-Grasping-in-Constrained-Environments.pdf
+    author: Haochen Yong, Fukang Xu, Chenfei Li, Han Ding, Zhigang Wu
+    source: https://2024.ieee-icra.org/awards-and-finalists/
+  place: Yokohama, Japan
+  date: May 13 - May 17, 2024
+  sub: RO
+
 - venue: NeurIPS
   year: 2023
   awards:
