@@ -1,5 +1,39 @@
 ---
 
+- venue: RSS
+  year: 2024
+  awards:
+  - award: Outstanding Paper
+    title: Real-Time Anomaly Detection and Reactive Planning with Large Language Models
+    link: https://arxiv.org/abs/2407.08735
+    author: Rohan Sinha, Amine Elhafsi, Christopher Agia, Matt Foutter, Edward Schmerling,
+      Marco Pavone
+    source: null
+  - award: Outstanding Student Paper
+    title: Dynamic On-Palm Manipulation via Controlled Sliding
+    link: https://arxiv.org/abs/2405.08731
+    author: William Yang, Michael Posa
+    source: null
+  - award: Outstanding Systems Paper
+    title: 'Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in
+      Dynamic Environments'
+    link: https://arxiv.org/abs/2402.13817
+    author: Lukas Schmid, Marcus Abate, Yun Chang, Luca Carlone
+    source: null
+  - award: Outstanding Demo Paper
+    title: Demonstrating Agile Flight from Pixels without State Estimation
+    link: https://arxiv.org/abs/2406.12505
+    author: Ismail Geles, Leonard Bauersfeld, Angel Romero, Jiaxu Xing, Davide Scaramuzza
+    source: null
+  - award: Test of Time
+    title: 'LOAM: Lidar Odometry and Mapping in Real-time'
+    author: Ji Zhang, Sanjiv Singh
+    link: https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf
+    source: https://roboticsconference.org/program/testoftimeaward/
+  place: Delft, Netherlands
+  date: July 15-19, 2024
+  sub: RO
+
 - venue: CVPR
   year: 2024
   awards:
