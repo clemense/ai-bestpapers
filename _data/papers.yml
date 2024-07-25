@@ -193,6 +193,58 @@
   date: May 13 - May 17, 2024
   sub: RO
 
+- venue: AAAI
+  year: 2024
+  awards:
+  - award: Outstanding Paper
+    title: 'GxVAEs: Two Joint VAEs Generate Hit Molecules from Gene Expression Profiles'
+    author: Chen Li, Yoshihiro Yamanishi
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/29248
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Outstanding Paper
+    title: Reliable Conflictive Multi-view Learning
+    author: Cai Xu, Jiajun Si, Ziyu Guan, Wei Zhao, Yue Wu, Xiyue Gao
+    link: https://arxiv.org/abs/2402.16897
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Outstanding Paper
+    title: Proportional Aggregation of Preferences for Sequential Decision Making
+    author: Nikhil Chandak, Shashwat Goel, Dominik Peters
+    link: https://arxiv.org/abs/2306.14858
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Best Paper for AI for Social Impact
+    title: 'DISCount: Counting in Large Image Collections with Detector-Based Importance
+      Sampling'
+    author: Gustavo Perez, Subhransu Maji, Daniel Sheldon
+    link: https://arxiv.org/abs/2306.03151
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Best Student Paper for AI for Social Impact
+    title: 'Scaling Up Pareto Optimization for Tree Structures with Affine Transformations:
+      Evaluating Hybrid Floating Solar-Hydropower Systems in the Amazon'
+    author: Marc Grimson, Rafael Almeida, Qinru Shi, Yiwei Bai, Hector Angarita, Felipe
+      Siqueira Pacheco, Rafael Schmitt, Alexander Flecker, Carla Gomes
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/30210
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Best Demonstration
+    title: Expressive and Flexible Simulation of Information Spread Strategies in
+      Social Networks Using Planning
+    author: Bharath Muppasani, Vignesh Narayanan, Biplav Srivastava, Michael N. Huhns
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/30576
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Best Student Abstract
+    title: 'JoLT: Jointly Learned Representations of Language and Time-Series for
+      Clinical Time-series Interpretation'
+    author: Yifu Cai, Arvind Srinivasan, Mononito Goswami, Arjun Choudhry, Artur Dubrawski
+    link: https://openreview.net/pdf?id=UVF1AMBj9u
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  - award: Best Student Abstract
+    title: 'Strategic Recommendation: Revenue Optimal Matching for Online Platforms'
+    author: Luca D’Amico-Wong, Gary Qiurui Ma, David Parkes
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/30432
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-24-paper-awards/
+  place: Vancouver, Canada
+  date: February 20-27, 2024
+  sub: AI
+
 - venue: NeurIPS
   year: 2023
   awards:
