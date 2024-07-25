@@ -193,6 +193,29 @@
   date: May 13 - May 17, 2024
   sub: RO
 
+- venue: 3DV
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: 'SlimmeRF: Slimmable Radiance Fields'
+    author: Shiran Yuan, Hao Zhao
+    link: https://arxiv.org/abs/2312.10034
+    source: https://x.com/3DVconf/status/1770126507018490152
+  - award: Best Student Paper
+    title: 'GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping'
+    author: Ruochen Chen, Liming Chen, Shaifali Parashar
+    link: https://arxiv.org/abs/2312.01490
+    source: https://x.com/3DVconf/status/1770126746676813885
+  - award: Best Paper Honorable Mention
+    title: 'NICER SLAM: Neural Implicit Scene Encoding for RGB SLAM'
+    author: Zihan Zhu, Songyou Peng, Viktor Larsson, Zhaopeng Cui, Martin R. Oswald,
+      Andreas Geiger, Marc Pollefeys
+    link: https://arxiv.org/abs/2302.03594
+    source: https://x.com/3DVconf/status/1770126924142010829
+  place: Davos, Switzerland
+  date: March 18-21, 2024
+  sub: CV
+
 - venue: AAAI
   year: 2024
   awards:
