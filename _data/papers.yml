@@ -1,5 +1,60 @@
 ---
 
+- venue: SIGGRAPH
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: 'From Microfacets to Participating Media: A Unified Theory of Light Transport
+      With Stochastic Geometry'
+    author: Dario Seyb, Eugene d’Eon, Benedikt Bitterli, Wojciech Jarosz
+    link: https://dl.acm.org/doi/10.1145/3658121
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'Walkin’ Robin: Walk on Stars With Robin Boundary Conditions'
+    author: Bailey Miller, Rohan Sawhney, Keenan Crane, Ioannis Gkioulekas
+    link: https://dl.acm.org/doi/10.1145/3658153
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Repulsive Shells
+    author: Josua Sassen, Henrik Schumacher, Martin Rumpf, Keenan Crane
+    link: https://dl.acm.org/doi/10.1145/3658174
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Lightning-Fast Method of Fundamental Solutions
+    author: Jiong Chen, Florian Schäfer, Mathieu Desbrun
+    link: https://dl.acm.org/doi/10.1145/3658199
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Robust Containment Queries Over Collections of Rational Parametric Curves
+      via Generalized Winding Numbers
+    author: Jacob Spainhour, David Gunderman, Kenneth Weiss
+    link: https://dl.acm.org/doi/10.1145/3658228
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: 3D Shape Regression for Real-Time Facial Animation
+    author: Chen Cao, Yanlin Weng, Stephen Lin, Kun Zhou
+    link: https://dl.acm.org/doi/10.1145/2461912.2462012
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: 'Femto-Photography: Capturing and Visualizing the Propagation of Light'
+    author: Andreas Velten, Di Wu, Adrián Jarabo, Belén Masiá, Christopher Barsi,
+      Chinmaya Joshi, Everett Lawson, Moungi Bawendi, Diego Gutiérrez, Ramesh Raskar
+    link: https://dl.acm.org/doi/10.1145/2461912.2461928
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: Robust Inside-Outside Segmentation Using Generalized Winding Numbers
+    author: Alec Jacobson, Ladislav Kavan, Olga Sorkine-Hornung
+    link: https://dl.acm.org/doi/10.1145/2461912.2461916
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: How do Humans Sketch Objects?
+    author: Mathias Eitz, James Hays, Marc Alexa
+    link: https://dl.acm.org/doi/10.1145/2185520.2185540
+    source: https://blog.siggraph.org/2024/06/siggraph-2024-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  place: Denver, USA
+  date: July 28 - August 1, 2024
+  sub: CG
+
 - venue: RSS
   year: 2024
   awards:
@@ -190,7 +245,7 @@
     author: Haochen Yong, Fukang Xu, Chenfei Li, Han Ding, Zhigang Wu
     source: https://2024.ieee-icra.org/awards-and-finalists/
   place: Yokohama, Japan
-  date: May 13 - May 17, 2024
+  date: May 13-17, 2024
   sub: RO
 
 - venue: 3DV
