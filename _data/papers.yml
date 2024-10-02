@@ -1,5 +1,121 @@
 ---
 
+- venue: ACL
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: 'Natural Language Satisfiability: Exploring the Problem Distribution and
+      Evaluating Transformer-based Language Models'
+    author: Tharindu Madusanka, Ian Pratt-Hartmann, Riza Batista-Navarro
+    link: https://aclanthology.org/2024.acl-long.815/
+    source: https://x.com/aclmeeting/status/1823664612132200675
+  - award: Best Paper
+    title: Deciphering Oracle Bone Language with Diffusion Models
+    author: Haisu Guan, Huanxin Yang, Xinyu Wang, Shengwei Han, Yongge Liu, Lianwen
+      Jin, Xiang Bai, Yuliang Liu
+    link: https://arxiv.org/abs/2406.00684
+    source: https://x.com/aclmeeting/status/1823664612132200675
+  - award: Best Paper
+    title: 'Mission: Impossible Language Models'
+    author: Julie Kallini, Isabel Papadimitriou, Richard Futrell, Kyle Mahowald, Christopher
+      Potts
+    link: https://arxiv.org/abs/2401.06416
+    source: https://x.com/aclmeeting/status/1823664612581273959
+  - award: Best Paper
+    title: Semisupervised Neural Proto-Language Reconstruction
+    author: Liang Lu, Peirong Xie, David R. Mortensen
+    link: https://arxiv.org/abs/2406.05930
+    source: https://x.com/aclmeeting/status/1823664612581273959
+  - award: Best Paper
+    title: Why are Sensitive Functions Hard for Transformers?
+    author: Michael Hahn, Mark Rofin
+    link: https://arxiv.org/abs/2402.09963
+    source: https://x.com/aclmeeting/status/1823664612581273959
+  - award: Best Paper
+    title: Causal Estimation of Memorisation Profiles
+    author: Pietro Lesci, Clara Meister, Thomas Hofmann, Andreas Vlachos, Tiago Pimentel
+    link: https://arxiv.org/abs/2406.04327
+    source: https://x.com/aclmeeting/status/1823664612207743110
+  - award: Best Paper
+    title: 'Aya Model: An Instruction Finetuned Open-Access Multilingual Language
+      Model'
+    author: Ahmet Üstün, Viraat Aryabumi, Zheng-Xin Yong, Wei-Yin Ko, Daniel D'souza,
+      Gbemileke Onilude, Neel Bhandari, Shivalika Singh, Hui-Lee Ooi, Amr Kayid, Freddie
+      Vargus, Phil Blunsom, Shayne Longpre, Niklas Muennighoff, Marzieh Fadaee, Julia
+      Kreutzer, Sara Hooker
+    link: https://arxiv.org/abs/2402.07827
+    source: https://x.com/aclmeeting/status/1823664612207743110
+  - award: Best Social Impact Paper
+    title: 'How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion
+      to Challenge AI Safety by Humanizing LLMs'
+    author: Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
+    link: https://arxiv.org/abs/2401.06373
+    source: https://x.com/aclmeeting/status/1823664611901505737
+  - award: Best Social Impact Paper
+    title: 'DIALECTBENCH: An NLP Benchmark for Dialects, Varieties, and Closely-Related
+      Languages'
+    author: Fahim Faisal, Orevaoghene Ahia, Aarohi Srivastava, Kabir Ahuja, David
+      Chiang, Yulia Tsvetkov, Antonios Anastasopoulos
+    link: https://arxiv.org/abs/2403.11009
+    source: https://x.com/aclmeeting/status/1823664611901505737
+  - award: Best Social Impact Paper
+    title: Having Beer after Prayer? Measuring Cultural Bias in Large Language Models
+    author: Tarek Naous, Michael J. Ryan, Alan Ritter, Wei Xu
+    link: https://arxiv.org/abs/2305.14456
+    source: https://x.com/aclmeeting/status/1823664612673486938
+  - award: Best Resource Paper
+    title: 'Latxa: An Open Language Model and Evaluation Suite for Basque'
+    author: Julen Etxaniz, Oscar Sainz, Naiara Perez, Itziar Aldabe, German Rigau,
+      Eneko Agirre, Aitor Ormazabal, Mikel Artetxe, Aitor Soroa
+    link: https://arxiv.org/abs/2403.20266
+    source: https://x.com/aclmeeting/status/1823664612577051026
+  - award: Best Resource Paper
+    title: 'AppWorld: A Controllable World of Apps and People for Benchmarking Interactive
+      Coding Agents'
+    author: Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong,
+      Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian
+    link: https://arxiv.org/abs/2407.18901
+    source: https://x.com/aclmeeting/status/1823664612346351639
+  - award: Best Resource Paper
+    title: 'Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining
+      Research'
+    author: Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson,
+      Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, Valentin
+      Hofmann, Ananya Harsh Jha, Sachin Kumar, Li Lucy, Xinxi Lyu, Nathan Lambert,
+      Ian Magnusson, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam,
+      Matthew E. Peters, Abhilasha Ravichander, Kyle Richardson, Zejiang Shen, Emma
+      Strubell, Nishant Subramani, Oyvind Tafjord, Pete Walsh, Luke Zettlemoyer, Noah
+      A. Smith, Hannaneh Hajishirzi, Iz Beltagy, Dirk Groeneveld, Jesse Dodge, Kyle
+      Lo
+    link: https://arxiv.org/abs/2402.00159
+    source: https://x.com/aclmeeting/status/1823664612577051026
+  - award: Best Theme Paper
+    title: 'OLMo: Accelerating the Science of Language Models'
+    author: Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney,
+      Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang,
+      Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan,
+      Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill,
+      Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E.
+      Peters, Valentina Pyatkin, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah,
+      Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi,
+      Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca
+      Soldaini, Noah A. Smith, Hannaneh Hajishirzi
+    link: https://arxiv.org/abs/2402.00838
+    source: https://x.com/aclmeeting/status/1823664612677705762
+  - award: Test of Time
+    title: Measures of Distributional Similarities
+    author: Lillian Lee
+    link: https://aclanthology.org/P99-1004.pdf
+    source: https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award
+  - award: Test of Time
+    title: 'GloVe: Global Vectors for Word Representation'
+    author: Jeffrey Pennington, Richard Socher, Christopher Manning
+    link: https://aclanthology.org/D14-1162/
+    source: https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award
+  place: Bangkok, Thailand
+  date: August 11-16, 2024
+  sub: NLP
+
 - venue: SIGGRAPH
   year: 2024
   awards:
@@ -54,6 +170,87 @@
   place: Denver, USA
   date: July 28 - August 1, 2024
   sub: CG
+
+- venue: ICML
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: Probabilistic Inference in Language Models via Twisted Sequential Monte
+      Carlo
+    author: Stephen Zhao, Rob Brekelmans, Alireza Makhzani, Roger Grosse
+    link: https://arxiv.org/abs/2404.17546
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: 'Position: Considerations for Differentially Private Learning with Large-Scale
+      Public Pretraining'
+    author: Florian Tramer, Gautam Kamath, Nicholas Carlini
+    link: https://arxiv.org/abs/2212.06470
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: 'Position: Measure Dataset Diversity, Don''t Just Claim It'
+    author: Dora Zhao, Jerone Andrews, Orestis Papakyriakopoulos, Alice Xiang
+    link: https://arxiv.org/abs/2407.08188
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: 'Information Complexity of Stochastic Convex Optimization: Applications
+      to Generalization and Memorization'
+    author: Idan Attias, Gintare Karolina Dziugaite, Mahdi Haghifam, Roi Livni, Daniel
+      Roy
+    link: https://arxiv.org/abs/2402.09327
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: Stealing part of a production language model
+    author: Nicholas Carlini, Daniel Paleka, Krishnamurthy Dvijotham, Thomas Steinke,
+      Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr,
+      Arthur Conmy, Eric Wallace, David Rolnick, Florian Tramer
+    link: https://arxiv.org/abs/2403.06634
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: Debating with More Persuasive LLMs Leads to More Truthful Answers
+    author: Akbir Khan, John Hughes, Dan Valentine, Laura Ruis, Kshitij Sachan, Ansh
+      Radhakrishnan, Edward Grefenstette, Samuel Bowman, Tim Rocktäschel, Ethan Perez
+    link: https://arxiv.org/abs/2402.06782
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: 'VideoPoet: A Large Language Model for Zero-Shot Video Generation'
+    author: Dan Kondratyuk, Lijun Yu, Xiuye Gu, Jose Lezama, Jonathan Huang, Grant
+      Schindler, Rachel Hornung, Vighnesh N Birodkar, Jimmy Yan, Ming-Chang Chiu,
+      Krishna Somandepalli, Hassan Akbari, Yair Alon, Yong Cheng, Joshua V Dillon,
+      Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen,
+      Mikhail Sirotenko, Kihyuk Sohn, Xuan Yang, Hartwig Adam, Ming-Hsuan Yang, Irfan
+      Essa, Huisheng Wang, David Ross, Bryan Seybold, Lu Jiang
+    link: https://arxiv.org/abs/2312.14125
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: 'Genie: Generative Interactive Environments'
+    author: Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi,
+      Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps,
+      Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess,
+      Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad
+      Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel
+    link: https://arxiv.org/abs/2402.15391
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution
+    author: Aaron Lou, Chenlin Meng, Stefano Ermon
+    link: https://arxiv.org/abs/2310.16834
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Best Paper
+    title: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis
+    author: Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas
+      Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel,
+      Dustin Podell, Tim Dockhorn, Zion English, Robin Rombach
+    link: https://arxiv.org/abs/2403.03206
+    source: https://icml.cc/virtual/2024/awards_detail
+  - award: Test of Time
+    title: 'DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition'
+    author: Jeffrey Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang,
+      Eric Tzeng, Trevor Darrell
+    link: https://arxiv.org/abs/1310.1531
+    source: https://icml.cc/virtual/2024/awards_detail
+  place: Vienna, Austria
+  date: July 21-27, 2024
+  sub: ML
 
 - venue: RSS
   year: 2024
@@ -354,7 +551,7 @@
     author: Sungduk Yu, Walter Hannah, Liran Peng, Jerry Lin, Mohamed Aziz Bhouri
       , Ritwik Gupta, Björn Lütjens, Justus C. Will, Gunnar Behrens, Julius Busecke
       , Nora Loose, Charles Stern, Tom Beucler, Bryce Harrop, Benjamin Hillman , Andrea
-      Jenney, Savannah L. Ferretti, Nana Liu, Animashree Anandkumar · Noah Brenowitz,
+      Jenney, Savannah L. Ferretti, Nana Liu, Animashree Anandkumar, Noah Brenowitz,
       Veronika Eyring, Nicholas Geneva, Pierre Gentine, Stephan Mandt, Jaideep Pathak,
       Akshay Subramaniam, Carl Vondrick, Rose Yu, Laure Zanna, Tian Zheng, Ryan Abernathey,
       Fiaz Ahmed, David Bader, Pierre Baldi , Elizabeth Barnes, Christopher Bretherton,
@@ -674,7 +871,7 @@
       Kumar, Pontus Stenetorp, Jimmy Lin, Ferhan Ture
     link: https://arxiv.org/abs/2210.04885
     source: https://2023.aclweb.org/program/best_papers/
-  - award: Best Special Theme Paper
+  - award: Best Theme Paper
     title: 'Weaker Than You Think: A Critical Look at Weakly Supervised Learning'
     author: Dawei Zhu, Xiaoyu Shen, Marius Mosbach, Andreas Stephan, Dietrich Klakow
     link: https://arxiv.org/abs/2305.17442
@@ -688,6 +885,12 @@
     title: Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?
     author: Shuheng Liu, Alan Ritter
     link: https://arxiv.org/abs/2212.09747
+    source: https://2023.aclweb.org/program/best_papers/
+  - award: Best Social Impact Paper
+    title: 'Marked Personas: Using Natural Language Prompts to Measure Stereotypes
+      in Language Models'
+    author: Myra Cheng, Esin Durmus, Dan Jurafsky
+    link: https://arxiv.org/abs/2305.18189
     source: https://2023.aclweb.org/program/best_papers/
   place: Toronto, Canada
   date: July 9-14, 2023
@@ -1478,7 +1681,7 @@
     author: Nikita Kitaev, Thomas Lu, Dan Klein
     link: https://aclanthology.org/2022.acl-long.220/
     source: https://www.2022.aclweb.org/best-paper-awards
-  - award: Best Special Theme Paper
+  - award: Best Theme Paper
     title: Requirements and Motivations of Low-Resource Speech Synthesis for Language
       Revitalization
     author: Aidan Pine, Dan Wells, Nathan Brinklow, Patrick William Littell, Korin
