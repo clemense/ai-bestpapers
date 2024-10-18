@@ -1,5 +1,77 @@
 ---
 
+- venue: IROS
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: On the Modularity of Elementary Dynamic Actions
+    author: Moses Nah, Johannes Lachner, Federico Tessari, Neville Hogan
+    link: https://arxiv.org/abs/2309.15271
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=12442
+  - award: Best Student Paper
+    title: Millipede-Inspired Multi-legged Magnetic Soft Robots for Targeted Locomotion
+      in Tortuous Environments
+    author: Jiangfan Yu, Yilan Wang, Yiling Xiong, Kaiwen Fang
+    link: null
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=12333
+  - award: Best Application Paper
+    title: 'ProSIP: Probabilistic Surface Interaction Primitives for Learning of Robotic
+      Cleaning of Edges'
+    author: Christoph Unger, Christian Hartl-Nesic, Minh Nhat Vu, Andreas Kugi
+    link: null
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=12155
+  - award: Best Cognitive Robotics Paper
+    title: 'BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation'
+    author: Jonas Schramm, Niclas Vödisch, Kürsat Petek, B Ravi Kiran, Senthil Yogamani,
+      Wolfram Burgard, Abhinav Valada
+    link: https://arxiv.org/abs/2403.11761
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=11483
+  - award: Best Mobile Manipulation Paper
+    title: Harmonic Mobile Manipulation
+    author: Ruihan Yang, Yejin Kim, Rose Hendrix, Aniruddha Kembhavi, Xiaolong Wang,
+      Kiana Ehsani
+    link: https://arxiv.org/abs/2312.06639
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=12063
+  - award: Best Robot Mechanism and Design Paper
+    title: 'BaRiFlex: A Robotic Gripper with Versatility and Collision Robustness
+      for Robot Learning'
+    author: Gu-Cheol Jeong, Arpit Bahety, Gabriel Pedraza, Ashish D. Deshpande, Roberto
+      Martín-Martín
+    link: https://arxiv.org/abs/2312.05323
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=11643
+  - award: Best RoboCup Paper
+    title: 'Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity'
+    author: Jake Varley, Sumeet Singh, Deepali Jain, Krzysztof Choromanski, Andy Zeng,
+      Somnath Basu Roy Chowdhury, Avinava Dubey, Vikas Sindhwani
+    link: https://arxiv.org/abs/2404.03570
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=11548
+  - award: Best Entertainment and Amusement Paper
+    title: 'Robot Synesthesia: A Sound and Emotion Guided AI Painter'
+    author: Vihaan Misra, Peter Schaldenbrand, Jean Oh
+    link: https://arxiv.org/abs/2302.04850
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=11718
+  - award: Best Safety, Security, and Rescue Robotics Paper
+    title: Learned Regions of Attraction for Safe Motion Primitive Transitions
+    author: Wyatt Ubellacker, Aaron D. Ames
+    link: null
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=11807
+  - award: Best Agri-Robotics Paper
+    title: 'BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level Phenotyping
+      of Sugar Beet Plants under Field Conditions'
+    author: Elias Marks, Jonas Bömer, Federico Magistri, Anurag Sah, Jens Behley,
+      Cyrill Stachniss
+    link: https://arxiv.org/abs/2312.14706
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=11981
+  - award: Best Industrial Robotics Research for Applications
+    title: 'Harnessing with Twisting: Single-Arm Deformable Linear Object Manipulation
+      for Industrial Harnessing Task'
+    author: Xiang Zhang, Hsien-Chung Lin, Yu Zhao, Masayoshi Tomizuka
+    link: https://arxiv.org/abs/2410.10729
+    source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=12212
+  place: Abu Dhabi, UAE
+  date: October 14-18, 2024
+  sub: RO
+
 - venue: ACL
   year: 2024
   awards:
