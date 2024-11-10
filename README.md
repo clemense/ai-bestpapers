@@ -1,4 +1,4 @@
-## Best AI Papers [![Build Status](https://api.travis-ci.com/clemense/ai-bestpapers.svg?branch=gh-pages)](https://app.travis-ci.com/github/clemense/ai-bestpapers)
+## Best AI Papers [![pages-build-deployment](https://github.com/clemense/ai-bestpapers/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/clemense/ai-bestpapers/actions/workflows/pages/pages-build-deployment)
 
 List of awarded papers from Robotics/AI/ML/CV/NLP/CG venues.
 
