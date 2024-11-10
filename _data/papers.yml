@@ -1,5 +1,42 @@
 ---
 
+- venue: CoRL
+  year: 2024
+  awards:
+  - award: Outstanding Paper
+    title: 'PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators'
+    author: Kuo-Hao Zeng, Zichen Zhang, Kiana Ehsani, Rose Hendrix, Jordi Salvador, Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs
+    link: https://arxiv.org/abs/2406.20083
+    source: https://www.corl.org/program/awards
+  - award: Outstanding Paper
+    title: 'One Model to Drift Them All: Physics-Informed Conditional Diffusion Model for Driving at the Limits'
+    author: Franck Djeumou, Thomas Jonathan Lew, Nan Ding, Michael Thompson, Makoto Suminaka, Marcus Greiff, John Subosits
+    link: https://openreview.net/forum?id=0gDbaEtVrd
+    source: https://www.corl.org/program/awards
+  - award: Outstanding Paper Finalist
+    title: 'Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning'
+    author: Joey Hejna, Chethan Bhateja, Yichen Jian, Karl Pertsch, Dorsa Sadigh
+    link: https://arxiv.org/abs/2408.14037
+    source: https://www.corl.org/program/awards
+  - award: Outstanding Paper Finalist
+    title: Equivariant Diffusion Policy
+    author: Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt
+    link: https://arxiv.org/abs/2407.01812
+    source: https://www.corl.org/program/awards
+  - award: Outstanding Paper Finalist
+    title: 'HumanPlus: Humanoid Shadowing and Imitation from Humans'
+    author: Zipeng Fu, Qingqing Zhao, Qi Wu, Gordon Wetzstein, Chelsea Finn
+    link: https://arxiv.org/abs/2406.10454
+    source: https://www.corl.org/program/awards
+  - award: Outstanding Paper Finalist
+    title: 'OpenVLA: An Open-Source Vision-Language-Action Model'
+    author: Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
+    link: https://arxiv.org/abs/2406.09246
+    source: https://www.corl.org/program/awards
+  place: Munich, Germany
+  date: November 6-9, 2024
+  sub: RO
+  
 - venue: IROS
   year: 2024
   awards:
