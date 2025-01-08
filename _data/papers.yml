@@ -613,6 +613,43 @@
   date: May 13-17, 2024
   sub: RO
 
+- venue: ICLR
+  year: 2024
+  awards:
+  - award: Outstanding Paper
+    title: Vision Transformers Need Registers
+    author: Timothée Darcet, Maxime Oquab, Julien Mairal, Piotr Bojanowski
+    link: https://arxiv.org/abs/2309.16588
+    source: https://iclr.cc/virtual/2024/awards_detail
+  - award: Outstanding Paper
+    title: Protein Discovery with Discrete Walk-Jump Sampling
+    author: Nathan Frey, Dan Berenberg, Karina Zadorozhny, Joseph Kleinhenz, Julien
+      Lafrance-Vanasse, Isidro Hotzel, Yan Wu, Stephen Ra, Richard Bonneau, Kyunghyun
+      Cho, Andreas Loukas, Vladimir Gligorijevic, Saeed Saremi
+    link: https://arxiv.org/abs/2306.12360
+    source: https://iclr.cc/virtual/2024/awards_detail
+  - award: Outstanding Paper
+    title: Generalization in diffusion models arises from geometry-adaptive harmonic
+      representations
+    author: Zahra Kadkhodaie, Florentin Guth, Eero Simoncelli, Stéphane Mallat
+    link: https://arxiv.org/abs/2310.02557
+    source: https://iclr.cc/virtual/2024/awards_detail
+  - award: Outstanding Paper
+    title: 'Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires
+      Data-Driven Priors'
+    author: Ido Amos, Jonathan Berant, Ankit Gupta
+    link: https://arxiv.org/abs/2310.02980
+    source: https://iclr.cc/virtual/2024/awards_detail
+  - award: Outstanding Paper
+    title: Learning Interactive Real-World Simulators
+    author: Sherry Yang, Yilun Du, Seyed Ghasemipour, Jonathan Tompson, Leslie Kaelbling,
+      Dale Schuurmans, Pieter Abbeel
+    link: https://arxiv.org/abs/2310.06114
+    source: https://iclr.cc/virtual/2024/awards_detail
+  place: Vienna, Austria
+  date: May 7-11, 2024
+  sub: ML
+
 - venue: 3DV
   year: 2024
   awards:
