@@ -1,16 +1,71 @@
 ---
 
+- venue: NeurIPS
+  year: 2024
+  awards:
+  - award: Best Main Track Paper
+    title: 'Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale
+      Prediction'
+    author: Keyu Tian, Yi Jiang, Zehuan Yuan, Bingyue Peng, Liwei Wang
+    link: https://arxiv.org/abs/2404.02905
+    source: https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/
+  - award: Best Main Track Paper
+    title: 'Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary
+      differential operators'
+    author: Zekun Shi, Zheyuan Hu, Min Lin, Kenji Kawaguchi
+    link: https://arxiv.org/abs/2412.00088
+    source: https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/
+  - award: Best Main Track Runner-Up Paper
+    title: Not All Tokens Are What You Need for Pretraining
+    author: Zhenghao Lin, Zhibin Gou, Yeyun Gong, Xiao Liu, yelong shen, Ruochen Xu,
+      Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
+    link: https://arxiv.org/abs/2404.07965
+    source: https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/
+  - award: Best Main Track Runner-Up Paper
+    title: Guiding a Diffusion Model with a Bad Version of Itself
+    author: Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo
+      Aila, Samuli Laine
+    link: https://arxiv.org/abs/2406.02507
+    source: https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/
+  - award: Datasets & Benchmarks Best Paper
+    title: 'The PRISM Alignment Dataset: What Participatory, Representative and Individualised
+      Human Feedback Reveals About the Subjective and Multicultural Alignment of Large
+      Language Models'
+    author: Hannah Rose Kirk, Alexander Whitefield, Paul Röttger, Andrew Michael Bean,
+      Katerina Margatina, Rafael Mosquera, Juan Manuel Ciro, Max Bartolo, Adina Williams,
+      He He, Bertie Vidgen, Scott A. Hale
+    link: https://arxiv.org/abs/2404.16019
+    source: https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/
+  - award: Test of Time
+    title: Generative Adversarial Networks
+    author: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+      Sherjil Ozair, Aaron Courville, Yoshua Bengio
+    link: https://arxiv.org/abs/1406.2661
+    source: https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/
+  - award: Test of Time
+    title: Sequence to Sequence Learning with Neural Networks
+    author: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+    link: https://arxiv.org/abs/1409.3215
+    source: https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/
+  place: Vancouver, Canada
+  date: December 10-15, 2024
+  sub: ML
+
 - venue: CoRL
   year: 2024
   awards:
   - award: Outstanding Paper
-    title: 'PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators'
-    author: Kuo-Hao Zeng, Zichen Zhang, Kiana Ehsani, Rose Hendrix, Jordi Salvador, Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs
+    title: 'PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful
+      Navigators'
+    author: Kuo-Hao Zeng, Zichen Zhang, Kiana Ehsani, Rose Hendrix, Jordi Salvador,
+      Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs
     link: https://arxiv.org/abs/2406.20083
     source: https://www.corl.org/program/awards
   - award: Outstanding Paper
-    title: 'One Model to Drift Them All: Physics-Informed Conditional Diffusion Model for Driving at the Limits'
-    author: Franck Djeumou, Thomas Jonathan Lew, Nan Ding, Michael Thompson, Makoto Suminaka, Marcus Greiff, John Subosits
+    title: 'One Model to Drift Them All: Physics-Informed Conditional Diffusion Model
+      for Driving at the Limits'
+    author: Franck Djeumou, Thomas Jonathan Lew, Nan Ding, Michael Thompson, Makoto
+      Suminaka, Marcus Greiff, John Subosits
     link: https://openreview.net/forum?id=0gDbaEtVrd
     source: https://www.corl.org/program/awards
   - award: Outstanding Paper Finalist
@@ -20,7 +75,8 @@
     source: https://www.corl.org/program/awards
   - award: Outstanding Paper Finalist
     title: Equivariant Diffusion Policy
-    author: Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt
+    author: Dian Wang, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang,
+      Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt
     link: https://arxiv.org/abs/2407.01812
     source: https://www.corl.org/program/awards
   - award: Outstanding Paper Finalist
@@ -30,13 +86,16 @@
     source: https://www.corl.org/program/awards
   - award: Outstanding Paper Finalist
     title: 'OpenVLA: An Open-Source Vision-Language-Action Model'
-    author: Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn
+    author: Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna,
+      Suraj Nair, Rafael Rafailov, Ethan Foster, Grace Lam, Pannag Sanketi, Quan Vuong,
+      Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine,
+      Percy Liang, Chelsea Finn
     link: https://arxiv.org/abs/2406.09246
     source: https://www.corl.org/program/awards
   place: Munich, Germany
   date: November 6-9, 2024
   sub: RO
-  
+
 - venue: IROS
   year: 2024
   awards:
