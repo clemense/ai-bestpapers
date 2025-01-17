@@ -4,6 +4,8 @@
 # Find most cited papers.
 # It writes to `mostcited.yml`, copy those to the `_data/mostcited.yml` after screening.
 
+# Originally, worked with scholarly-1.0.5, Python 3.7.8
+
 import random
 import itertools
 import yaml
@@ -149,9 +151,10 @@ min_number_of_days_elapsed = int(365 / 2)
 pg = ProxyGenerator()
 # pg.FreeProxies()
 # to use thor do: sudo service tor start
-pg.Tor_External(
+success = pg.Tor_External(
     tor_sock_port=9050, tor_control_port=9051, tor_password="myscholarly_password"
 )
+assert success, "Can't start Proxy service"
 scholarly.use_proxy(pg)
 
 data_papers = yaml.load(open("../_data/papers.yml", "r"), Loader=Loader)
@@ -307,17 +310,18 @@ for award in data_papers:
         data_mostcited.append(new_entry)
 
 
-# write to yaml file
-with open("mostcited.yml", "w") as outfile:
-    for line in ordered_dump(
-        data_mostcited,
-        Dumper=yaml.SafeDumper,
-        default_flow_style=False,
-        explicit_start=True,
-        allow_unicode=True,
-    ).splitlines():
-        outfile.write(line.replace("- venue:", "\n- venue:"))
-        outfile.write("\n")
+    # write to yaml file after each update
+    # to see progress in case of infinite "next proxy" loop
+    with open("mostcited.yml", "w") as outfile:
+        for line in ordered_dump(
+            data_mostcited,
+            Dumper=yaml.SafeDumper,
+            default_flow_style=False,
+            explicit_start=True,
+            allow_unicode=True,
+        ).splitlines():
+            outfile.write(line.replace("- venue:", "\n- venue:"))
+            outfile.write("\n")
 
 # {'author_id': ['0oIAvO8AAAAJ', '', 'zGOh8jYAAAAJ', '6gd_QS0AAAAJ'],
 # 'bib': {'abstract': "Bridging thereality gap'that separates simulated "
