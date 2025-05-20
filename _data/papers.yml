@@ -24,6 +24,101 @@
   date: April 24-28, 2025
   sub: ML
 
+- venue: AAAI
+  year: 2025
+  awards:
+  - award: Outstanding Paper
+    title: 'Every Bit Helps: Achieving the Optimal Distortion with a Few Queries'
+    author: Soroush Ebadian, Nisarg Shah
+    link: https://doi.org/10.1609/aaai.v39i13.33507
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Outstanding Paper
+    title: Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by
+      Abductive Reflection
+    author: Wen-Chao Hu, Wang-Zhou Dai ,Yuan Jiang, Zhi-Hua Zhou
+    link: https://arxiv.org/abs/2412.08457
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Outstanding Paper
+    title: 'Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives'
+    author: Marius Belly, Nathanaël Fijalkow, Hugo Gimbert, Florian Horn, Guillermo
+      Perez, Pierre Vandenhove
+    link: https://arxiv.org/abs/2412.12063
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Outstanding Paper – AI for Social Alignment Track
+    title: 'DivShift: Exploring Domain-Specific Distribution Shifts in Large-Scale,
+      Volunteer-Collected Biodiversity Datasets'
+    author: Elena Sierra, Lauren Gillespie, Moises Exposito Alonso
+    link: https://arxiv.org/abs/2410.19816
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Poster
+    title: 'BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling
+      and Reinforcement Learning'
+    author: Artem Zholus, Maksim Kuznetsov, Roman Schutski, Rim Shayakhmetov, Daniil
+      Polykovskiy, Sarath Chandar, Alex Zhavoronkov
+    link: https://arxiv.org/abs/2406.03686
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Poster
+    title: Eliminating Majority Illusion is Easy
+    author: Jack Dippel, Max Dupre la Tour, April Niu, Sanjukta Roy, Adrian Vetta
+    link: https://arxiv.org/abs/2407.20187
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Poster
+    title: Computing Game Symmetries and Equilibria That Respect Them
+    author: Emanuel Tewolde, Brian Hu Zhang, Caspar Oesterheld, Tuomas Sandholm, Vincent
+      Conitzer
+    link: https://arxiv.org/abs/2501.08905
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Student Abstract
+    title: Multi-Modal Hand-to-Mouth Gesture Recognition in Activity-Oriented RGB-Thermal
+      Footage
+    author: Glenn Fernandes, Meixi Lu, Farzad Shahabi, Jiayi Zheng, Aggelos Katsaggelos,
+      Nabil Alshurafa
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/35254
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Student Abstract
+    title: Understanding Unique Behavioral Patterns through Multimodal Analysis of
+      Eye-Hand Coordination in Autistic Children
+    author: Emily Yu
+    link: https://doi.org/10.1609/aaai.v39i28.35322
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Demonstration
+    title: 'Neurosymbolic Reinforcement Learning: Playing MiniHack With Probabilistic
+      Logic Shields'
+    author: David Debot, Gabriele Venturato, Giuseppe Marra, Luc De Raedt
+    link: https://doi.org/10.1609/aaai.v39i28.35349
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Demonstration
+    title: 'MerryQuery: A Trustworthy LLM-Powered Tool Providing Personalized Support
+      for Educators and Students'
+    author: Benyamin Tabarsi, Aditya Basarkar, Xukun Liu, Dongkuan (DK) Xu, Tiffany
+      Barnes
+    link: https://doi.org/10.1609/aaai.v39i28.35372
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Doctoral Consortium Best Poster
+    title: Understanding Microtargeting Pattern on Social Media
+    author: Tunazzina Islam
+    link: https://doi.org/10.1609/aaai.v39i28.35212
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Doctoral Consortium Best Poster
+    title: Intelligent Clinical Assistant for Personalized Responses and Clinical
+      Summaries
+    author: Subash Neupane
+    link: https://doi.org/10.1609/aaai.v39i28.35221
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Doctoral Consortium Best Poster
+    title: The Mainstays of Trustworthy Machine Learning
+    author: Chhavi Yadav
+    link: https://doi.org/10.1609/aaai.v39i28.35233
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  - award: Best Demonstration
+    title: Multimodal Commonsense Knowledge Distillation for Visual Question Answering
+    author: Shuo Yang, Siwen Luo, Soyeon Caren Han
+    link: https://arxiv.org/abs/2411.02722
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-25-paper-awards/
+  place: Philadelphia, USA
+  date: February 25 - March 4, 2025
+  sub: AI
+
 - venue: NeurIPS
   year: 2024
   awards:
