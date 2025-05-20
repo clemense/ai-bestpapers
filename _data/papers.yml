@@ -1,5 +1,29 @@
 ---
 
+- venue: ICLR
+  year: 2025
+  awards:
+  - award: Outstanding Paper
+    title: Safety Alignment Should be Made More Than Just a Few Tokens Deep
+    author: Xiangyu Qi, Ashwinee Panda, Kaifeng Lyu, Xiao Ma, Subhrajit Roy, Ahmad
+      Beirami, Prateek Mittal, Peter Henderson
+    link: https://openreview.net/forum?id=6Mxhg9PtDE
+    source: https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/
+  - award: Outstanding Paper
+    title: Learning Dynamics of LLM Finetuning
+    author: Yi Ren, Danica J. Sutherland
+    link: https://openreview.net/forum?id=tPNHOoZFl9
+    source: https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/
+  - award: Outstanding Paper
+    title: 'AlphaEdit: Null-Space Constrained Model Editing for Language Models'
+    author: Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Jie Shi, Xiang Wang,
+      Xiangnan He, Tat-Seng Chua
+    link: https://openreview.net/forum?id=HvSytvg3Jh
+    source: https://blog.iclr.cc/2025/04/22/announcing-the-outstanding-paper-awards-at-iclr-2025/
+  place: Singapore, Singapore
+  date: April 24-28, 2025
+  sub: ML
+
 - venue: NeurIPS
   year: 2024
   awards:
