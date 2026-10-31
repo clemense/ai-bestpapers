@@ -1,5 +1,1743 @@
 ---
 
+- venue: EMNLP
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: 'DiscoTrace: Representing and Comparing Answering Strategies of Humans and LLMs in
+      Information-Seeking Question Answering'
+    author: Neha Srikanth, Jordan Boyd-Graber, Rachel Rudinger
+    link: https://aclanthology.org/2026.emnlp-main.140/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Best Paper
+    title: 'Don’t Read Everything: A Curvature-Conditioned Query for Linear Attention'
+    author: Dong Le, Thong Thanh Nguyen, Cong-Duy T Nguyen, Anh Tuan Luu
+    link: https://aclanthology.org/2026.emnlp-main.1153/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Accelerating Constrained Decoding with Token Space Compression
+    author: Michael Sullivan, Alexander Koller
+    link: https://aclanthology.org/2026.emnlp-main.749/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Rethinking the Evaluation of Efficiency Methods for Multi-Agent Systems
+    author: Jiamu Zhang, Lingxi Zhang, Pengjun Lu, Qiyue Zhang, Yu-Neng Chuang, Zhengchen Li,
+      Shuai Xu, Vipin Chaudhary, Hanjie Chen
+    link: https://aclanthology.org/2026.emnlp-main.798/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction'
+    author: Yuting Ning, Zhehao Zhang, Yash Kumar Lal, Boyu Gou, Junyi Li, Weitong Ruan, Chentao
+      Ye, Rahul Gupta, Diyi Yang, Yu Su, Huan Sun
+    link: https://aclanthology.org/2026.emnlp-main.948/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Counterfactual Constraint-Conditioned On-Policy Distillation for Multi-Constraint
+      Instruction Following
+    author: Yanzhao Zheng, Yuanqiang Yu, Tianze Xu, Chao Ma, Zhentao Zhang, Jihuai Zhu, Baohua
+      Dong, Hangcheng Zhu, Ruohui Huang
+    link: https://aclanthology.org/2026.emnlp-main.1037/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual
+      Pre-Training'
+    author: Haiyue Song, Huy Hien Vu, Masao Utiyama
+    link: https://aclanthology.org/2026.emnlp-main.1090/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Can MLLMs Perceive and Describe Medical Image Quality Beyond Scores?
+    author: Jiyao Liu, Jinjie Wei, Wanying Qu, Chenglong Ma, Junzhi Ning, Yunheng Li, Ying Chen,
+      Jiafan Zhang, Pengcheng Chen, Xin Gao, Ming Hu, Xin Wang, Shujian Gao, Dingkang Yang,
+      Zhongying Deng, Jin Ye, Lihao Liu, Junjun He, Ningsheng Xu
+    link: https://aclanthology.org/2026.emnlp-main.1129/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Omnilingual MT: Machine Translation for 1,600 Languages'
+    author: Belen Alastruey, Niyati Bafna, Andrea Caciolai, Kevin Heffernan, Artyom Kozhevnikov,
+      Christophe Ropers, Eduardo Sánchez, Charles-Éric Saint-James, Ioannis Tsiamas, Xiang Tony
+      Cao, Chierh Cheng, Joe Chuang, Paul-Ambroise Duquenne, Mark Duppenthaler, Cynthia Gao,
+      Pere-Lluís Huguet Cabot, João Maria Janeiro, Jean Maillard, Gabriel Eduardo Mejia-Gonzalez,
+      Holger Schwenk, Edan Toledo, Arina Turkatenko, Albert Ventayol-Boada, Ravi Arikapudi,
+      Nathanial Paul Ekberg, Rashel Moritz, Alexandre Mourachko, Surya Parimi, Mary Williamson,
+      Shireen Yates, David Dale, Marta R. Costa-jussà
+    link: https://aclanthology.org/2026.emnlp-main.1280/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Do Benchmarks Measure the Same Thing? Evaluation-Free Benchmark Redundancy Analysis
+      with SAE
+    author: Yaoning Wang, Jiahao Ying, Yubo Ma, Yu Wan, Dayiheng Liu, Yixin Cao, Yu-Gang Jiang
+    link: https://aclanthology.org/2026.emnlp-main.1284/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'UReason: Benchmarking Reasoning-to-Generation Alignment in Unified Multimodal Models'
+    author: Cheng Yang, Chufan Shi, Bo Shui, Yaokang Wu, Muzi Tao, Huijuan Wang, Ivan Yee Lee,
+      Yong Liu, Xuezhe Ma, Taylor Berg-Kirkpatrick
+    link: https://aclanthology.org/2026.emnlp-main.2519/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'In-Place Feedback: Reliable Refinement for Multi-Turn Expert-LLM Collaboration'
+    author: Youngbin Choi, Minjong Lee, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong
+      Park, Dongwoo Kim
+    link: https://aclanthology.org/2026.emnlp-main.1338/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery'
+    author: Hanane Nour Moussa, Yifei Li, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang,
+      Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun
+    link: https://aclanthology.org/2026.emnlp-main.1501/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'The Cost of Sounding Different: Accent Bias in Audio Language Models'
+    author: Aruna Srivastava, Orevaoghene Ahia, Li Lucy, Ashley Christendat, Sameep Chattopadhyay,
+      Farhan Samir, Tejumade Afonja, Valentin Hofmann, Sachin Kumar, Noah A. Smith, Yulia Tsvetkov
+    link: https://aclanthology.org/2026.emnlp-main.1612/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'From Token Probabilities to Semantic Constraints: Towards Declarative Probabilistic
+      Evaluation of Language Models'
+    author: Kyle Richardson, Cullen Anderson, Pranav Balakrishnan, Takuto Ban, Daksha Ladia,
+      Ankita Gupta, Marisa Hudspeth
+    link: https://aclanthology.org/2026.emnlp-main.1752/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Conformal Certification of Reasoning Trace Prefixes
+    author: Matt Y. Cheung, Ashok Veeraraghavan, Hanjie Chen, Guha Balakrishnan
+    link: https://aclanthology.org/2026.emnlp-main.1776/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: When Must Faithful Chain-of-Thought Fail? An Information-Theoretic Bound and Its
+      Empirical Limits
+    author: Jikun Wu, Dongxin Guo, SM Yiu
+    link: https://aclanthology.org/2026.emnlp-main.1823/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: Diffusion Large Language Models for Visual Speech Recognition
+    author: Jeong Hun Yeo, Chae Won Kim, Hyeongseop Rha, Yong Man Ro
+    link: https://aclanthology.org/2026.emnlp-main.1826/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Race in the Record: Measuring Racial Signal and Model Inference in Police Arrest
+      Narratives'
+    author: Arka Dutta, Ted Forsyth, O. Nicholas Robertson, Ashiqur R. KhudaBukhsh
+    link: https://aclanthology.org/2026.emnlp-main.1850/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Aligned but Not Partner-Specific: How Multimodal LLM Agents Succeed in Reference
+      Games Without Forming Conceptual Pacts'
+    author: Po-Ya Angela Wang, Chinmaya Mishra, Asli Ozyurek, Paula Rubio-Fernandez, Esam Ghaleb
+    link: https://aclanthology.org/2026.emnlp-main.1978/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Format as Nuisance: Intervention-Inspired Cross-Format Distillation for Knowledge
+      Conflicts'
+    author: Yue Yu, Wang Luo, Shenghao Ye, Zepeng Bao, Jiacheng Liu, Yongqi Li, Wenxin Tang,
+      Tieyun Qian
+    link: https://aclanthology.org/2026.emnlp-main.2028/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Double Trouble: Bilingual Pretraining Leaves Language-Conditioned Effects in Shared-Language
+      Representations'
+    author: Anjishnu Mukherjee, Ziwei Zhu, Antonios Anastasopoulos
+    link: https://aclanthology.org/2026.emnlp-main.2062/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Language Identification for Non-Standard Varieties: Language Varieties as Geolects
+      on a Geodesic Grid'
+    author: Sina Ahmadi, Rico Sennrich
+    link: https://aclanthology.org/2026.emnlp-main.2175/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Outstanding Paper
+    title: 'Accountable AI with Grounded, Faithful, Consistent, Actionable Rationales: A Case
+      Study in Clinical Trial Matching with VERDICT'
+    author: Zikai Zhou, Yufei Jin, Yilin Xu, Yu-Chiang Wang, Chieh-Ju Chao, Monica Lam
+    link: https://aclanthology.org/2026.emnlp-main.2598/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Best Special Theme Paper
+    title: 'Beyond “To whom it may concern”: Tailoring Machine Translation to Audience and Intent'
+    author: Raphaël Merx, Ekaterina Vylomova, Trevor Cohn
+    link: https://aclanthology.org/2026.emnlp-main.2523/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Best Resource Paper
+    title: 'XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions?'
+    author: Akhila Yerukola, Jena D. Hwang, Mingqian Zheng, Jenna Godsey, Hyunwoo Kim, Valentina
+      Pyatkin, Jennifer Hu, Maarten Sap
+    link: https://aclanthology.org/2026.emnlp-main.2646/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Social Impact Award
+    title: Clinically Grounded Privacy Evaluation of Medical LMs
+    author: Sasha Ronaghi, Sana Tonekaboni, Lena Stempfle, Vivian Utti, Jordan Li Cahoon, Nathaniel
+      Hendrix, Ayin Vala, Marzyeh Ghassemi, Emily Alsentzer
+    link: https://aclanthology.org/2026.emnlp-main.2388/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Best Demo Paper Runner-Up
+    title: 'CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific
+      Text Annotation'
+    author: Jaspreet Ranjit, Swaminathan Chellappa, Augusto Rivas Costante, Chandan Manjunath,
+      Laura Onasch-Vera, Hailey Winetrobe Nadel, Eric Rice, Swabha Swayamdipta
+    link: https://aclanthology.org/2026.emnlp-demos.53/
+    source: https://2026.emnlp.org/program/awards_papers/
+  - award: Best Demo Paper
+    title: 'WonderEcon: An Interactive LLM-Agent System for Simulating Economies'
+    author: Jing Qian, Boyu Liu, Wenyuan Gu, Hang Ruan, Cheng Huo, Junjie Yang, Mingyu Deng,
+      Jiale Han, Benyou Wang
+    link: https://aclanthology.org/2026.emnlp-demos.77/
+    source: https://2026.emnlp.org/program/awards_papers/
+  place: Budapest, Hungary
+  date: October 24-29, 2026
+  sub: NLP
+
+- venue: IROS
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: 'LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding'
+    author: Yumin Lee, Hyoseok Ju, Giseop Kim
+    link: https://team-aprl.github.io/publications.html?year=2026&venue=iros&q=LT-Mem#lt-mem
+    source: https://team-aprl.github.io/news.html
+  place: Pittsburgh, USA
+  date: September 27 - October 1, 2026
+  sub: RO
+
+- venue: ECCV
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat
+    author: Simone Foti, Caner Korkmaz, Stefanos Zafeiriou, Tolga Birdal
+    link: https://eccv.ecva.net/virtual/2026/poster/3652
+    source: https://eccv.ecva.net/Conferences/2026/AcceptedPapers
+  - award: Best Paper Honorable Mention
+    title: 'LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows'
+    author: Zhengqin Li, Cheng Zhang, Jakob Engel, Dong Zhao
+    link: https://eccv.ecva.net/virtual/2026/poster/4770
+    source: https://eccv.ecva.net/Conferences/2026/AcceptedPapers
+  - award: Best Paper Honorable Mention
+    title: 'Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation'
+    author: Irene Kim, Sai Tanmay Reddy Chakkera, Alexandros Graikos, Dimitris Samaras, Akshat
+      Dave
+    link: https://eccv.ecva.net/virtual/2026/poster/5532
+    source: https://eccv.ecva.net/Conferences/2026/AcceptedPapers
+  place: Malmö, Sweden
+  date: September 8-13, 2026
+  sub: CV
+
+- venue: CASE
+  year: 2026
+  awards:
+  - award: Best Conference Paper
+    title: 'XFlowMP: Task-Conditioned Motion Fields for Generative Robot Planning with Schrödinger
+      Bridges'
+    author: Khang Nguyen, Minh Nhat Vu
+    link: https://arxiv.org/abs/2512.00022
+    source: https://www.ieee-ras.org/khang-nguyen-on-xflowmp-and-learning-to-plan-robot-movements/
+  place: Shenyang, China
+  date: August 17-21, 2026
+  sub: RO
+
+- venue: SIGGRAPH
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: 'GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization'
+    author: Chenxi Liu, Selena Ling, Alec Jacobson
+    link: https://s2026.conference-schedule.org/presentation/?id=papers_191&sess=sess155
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'Mixwell: Sharp 2D Fluid Brushes for Progressive Physics-Based Mixing'
+    author: Doug James, Ethan James
+    link: https://s2026.conference-schedule.org/presentation/?id=papers_413&sess=sess108
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'Walk on Decomposed Subdomains: A Hybrid Monte Carlo-Deterministic Solver for Elliptic
+      PDEs'
+    author: Clément Jambon, Mohammad Sina Nabizadeh, Mina Konaković Luković
+    link: https://s2026.conference-schedule.org/presentation/?id=papers_755&sess=sess123
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Robust Planar Maps for 3D Vectorization
+    author: Robert Fuchs, Keenan Crane
+    link: https://s2026.conference-schedule.org/presentation/?id=papers_971&sess=sess116
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Inverse Rendering for Discrete X-Ray Computed Tomography
+    author: Lovro Nuic, Ziyi Zhang, Korbinian Sager, Wenzel Jakob
+    link: https://s2026.conference-schedule.org/presentation/?id=papers_1520&sess=sess133
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Uncertainty-Aware Geometry Processing on Gaussian Process Implicit Surfaces
+    author: Baptiste Genest, David Coeurjolly
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Spatiotemporal FLIP for Fast Free-Surface and Two-Phase Simulation With Very Large
+      Time Steps
+    author: Bernhard Braun, Rene Winchenbach, Jan Bender, Nils Thuerey
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Gradient Domain Reconstruction for Monte Carlo PDE Solvers
+    author: Jiaqi Wu, Xuejun Hu, Shuang Zhao, Kun Xu
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Spatio-Temporal Control Variates with ReSTIR for Real-Time Rendering
+    author: Zhong Shi, Cunhao Wu, Lifan Wu, Kun Xu
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Sample Matching for Joint Extinction Gradient Estimation in Differentiable Volume
+      Rendering
+    author: Ruihan Yu, Yu-Chen Wang, Jingwang Ling, Feng Xu, Shuang Zhao
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: 'Inspiration Seeds: Learning Non-Literal Visual Combinations for Generative Exploration'
+    author: Kfir Goldberg, Elad Richardson, Yael Vinker
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: A Two-Millisecond Passthrough Headset for Perceptual Studies
+    author: Eric Penner, Josephine D’Angelo, Clinton Smith, Nathan Matsuda, Neethan Siva, Phillip
+      Guan
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Stochastic Geomorphological Transport for Terrain Erosion Simulation
+    author: Nicholas McDonald, Guillaume Cordonnier
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Implicit Minimal Surfaces for Bijective Correspondences
+    author: Etienne Corman, Yousuf Soliman, Robin Magnet, Mark Gillespie
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: 'Photons × Force: Differentiable Radiation Pressure Modeling'
+    author: Charles Constant, Santosh Bhattarai, Elizabeth Bates, Marek Ziebart, Tobias Ritschel
+    link: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: A Deep Learning Framework for Character Motion Synthesis and Editing (2016)
+    author: Daniel Holden, Jun Saito, Taku Komura
+    link: https://dl.acm.org/doi/10.1145/2897824.2925975
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: 'Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric
+      Domains (2015)'
+    author: Justin Solomon, Fernando de Goes, Gabriel Peyré, Marco Cuturi, Adrian Butscher,
+      Andy Nguyen, Tao Du, Leonidas Guibas
+    link: https://dl.acm.org/doi/10.1145/2766963
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: Intrinsic Images in the Wild (2014)
+    author: Sean Bell, Kavita Bala, Noah Snavely
+    link: https://dl.acm.org/doi/10.1145/2601097.2601206
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: A Machine Learning Approach for Filtering Monte Carlo Noise (2015)
+    author: Nima Khademi Kalantari, Steve Bako, Pradeep Sen
+    link: https://dl.acm.org/doi/10.1145/2766977
+    source: https://blog.siggraph.org/2026/05/siggraph-2026-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  place: Los Angeles, USA
+  date: July 19-23, 2026
+  sub: CG
+
+- venue: RSS
+  year: 2026
+  awards:
+  - award: Outstanding Paper Award
+    title: 'FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional
+      Robot Control'
+    author: Donghu Kim, Youngdo Lee, Minho Park, Kinam Kim, Takuma Seno, I. Made Aswin Nahrendra,
+      Sehee Min, Daniel Palenicek, Florian Vogt, Danica Kragic, Jan Peters, Jaegul Choo, Hojoon
+      Lee
+    link: https://roboticsconference.org/2026/program/papers/99/
+    source: https://roboticsconference.org/2026/program/awards/
+  - award: Outstanding Student Paper Award
+    title: 'Muninn: Your Trajectory Diffusion Model But Faster'
+    author: Gokul Puthumanaillam, Hao Jiang, Ruben Hernandez, Jose Fuentes, Paulo Padrao, Leonardo
+      Bobadilla, Melkior Ornik
+    link: https://roboticsconference.org/2026/program/papers/160/
+    source: https://roboticsconference.org/2026/program/awards/
+  - award: Outstanding Systems Paper in Memory of Seth Teller Award
+    title: 'NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force
+      Perception'
+    author: Zhiyang Dou, John U. Onyemelukwe, Hangxing Zhang, Heng Zhang, Minghao Guo, Yunsheng
+      Tian, Michal Piotr Lipiec, Joshua Jacob, Chao Liu, Peter Yichen Chen, Yuri Ivanov, Wojciech
+      Matusik
+    link: https://roboticsconference.org/2026/program/papers/159/
+    source: https://roboticsconference.org/2026/program/awards/
+  place: Sydney, Australia
+  date: July 13-17, 2026
+  sub: RO
+
+- venue: ICML
+  year: 2026
+  awards:
+  - award: Outstanding Paper Award
+    title: 'The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language
+      Models'
+    author: Zanlin Ni, Shenzhi Wang, Yang Yue, Tianyu Yu, Weilin Zhao, Yeguo Hua, Tianyi Chen,
+      Jun Song, Cheng Yu, Bo Zheng, Gao Huang
+    link: https://icml.cc/virtual/2026/oral/71086
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Paper Award
+    title: High-Accuracy Sampling for Diffusion Models and Log-Concave Distributions
+    author: Fan Chen, Sinho Chewi, Constantinos Daskalakis, Alexander Rakhlin
+    link: https://icml.cc/virtual/2026/oral/71132
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Position Paper Award
+    title: 'Position: The Alignment Community is Unintentionally Building a Censor’s Toolkit'
+    author: Sarah Ball, Phil Hackemann
+    link: https://icml.cc/virtual/2026/oral/71119
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Paper Honorable Mention
+    title: 'The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes'
+    author: Mohammad Taufeeque, Stefan Heimersheim, Adam Gleave, Chris Cundy
+    link: https://icml.cc/virtual/2026/oral/71065
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Paper Honorable Mention
+    title: Motion Attribution for Video Generation
+    author: Xindi Wu, Despoina Paschalidou, Jun Gao, Antonio Torralba, Laura Leal-Taixé, Olga
+      Russakovsky, Sanja Fidler, Jonathan Lorraine
+    link: https://icml.cc/virtual/2026/oral/71049
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Paper Honorable Mention
+    title: How much can language models memorize?
+    author: John Xavier Morris, Chawin Sitawarin, Narine Kokhlikyan, Chuan Guo, G. Edward Suh,
+      Alexander M Rush, Kamalika Chaudhuri, Saeed Mahloujifar
+    link: https://icml.cc/virtual/2026/oral/71168
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Paper Honorable Mention
+    title: A Random Matrix Perspective on the Consistency of Diffusion Models
+    author: Binxu Wang, Jacob A Zavatone-Veth, Cengiz Pehlevan
+    link: https://icml.cc/virtual/2026/oral/71191
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Paper Honorable Mention
+    title: 'To Grok Grokking: Provable Grokking in Ridge Regression'
+    author: Mingyue Xu, Gal Vardi, Itay Safran
+    link: https://icml.cc/virtual/2026/oral/71134
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Outstanding Position Paper Honorable Mention
+    title: 'Position: AI/ML Deepfake Research is Misaligned with AI Generated Non-Consensual
+      Intimate Imagery (AIG-NCII)'
+    author: Li Qiwei, Wells Lucas Santo, Sarita Schoenebeck, Eric Gilbert
+    link: https://icml.cc/virtual/2026/oral/71187
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  place: Seoul, South Korea
+  date: July 6-11, 2026
+  sub: ML
+
+- venue: ACL
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: The Imperfective Paradox in Large Language Models
+    author: Bolei Ma, Yusuke Miyao
+    link: https://aclanthology.org/2026.acl-long.689/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Paper
+    title: Memory Efficiency and Resource-Rational Encoding in Sentence Processing
+    author: Weijie Xu, Brian Dillon, Richard Futrell
+    link: https://aclanthology.org/2026.acl-long.1550/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Paper
+    title: Characterizing the Expressivity of Local Attention in Transformers
+    author: Jiaoda Li, Ryan Cotterell
+    link: https://aclanthology.org/2026.acl-long.1739/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Theme Paper
+    title: 'CoSToM: Causal-oriented Steering for Intrinsic Theory-of-Mind Alignment in Large
+      Language Models'
+    author: Mengfan Li, Xuanhua Shi, Yang Deng
+    link: https://aclanthology.org/2026.acl-long.421/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Theme Paper
+    title: 'Mapping the Circumplex of Affect: Geometric Analysis of Emotion Representations
+      via Hyperspherical Contrastive Learning'
+    author: Yusuke Yamauchi, Akiko Aizawa
+    link: https://aclanthology.org/2026.acl-long.772/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Resource Paper
+    title: 'HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application'
+    author: Tian Lan, Yiqian Yang, Qianghuai Jia, Li Zhu, Hui Jiang, Hang Zhu, Weihua Luo, Longyue
+      Wang
+    link: https://aclanthology.org/2026.acl-long.937/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Resource Paper
+    title: 'ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language
+      Models'
+    author: Chonghan Qin, Xiachong Feng, Weitao Ma, Xiaocheng Feng, Lingpeng Kong
+    link: https://aclanthology.org/2026.acl-long.1301/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Resource Paper
+    title: 'Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural
+      Human Interaction'
+    author: Advait Gosai, Tyler Vuong, Utkarsh Tyagi, Steven Li, Wenjia You, Miheer Bavare,
+      Arda Uçar, Zhongwang Fang, Brian Jang, Bing Liu, Yunzhong He
+    link: https://aclanthology.org/2026.acl-long.1654/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Resource Paper
+    title: 'VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking'
+    author: Mark Rothermel, Marcus Kornmann, Marcus Rohrbach, Anna Rohrbach
+    link: https://aclanthology.org/2026.acl-long.1948/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Social Impact Paper
+    title: 'DIA-HARM: Dialectal Disparities in Harmful Content Detection Across 50 English Dialects'
+    author: Jason S Lucas, Matt Murtagh White, Ali Al-Lawati, Uchendu Uchendu, Adaku Uchendu,
+      Dongwon Lee
+    link: https://aclanthology.org/2026.acl-long.144/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Social Impact Paper
+    title: Your Students Don’t Use LLMs Like You Wish They Did
+    author: Sebastian Kobler, Matthew Clemson, Angela Sun, Jonathan K. Kummerfeld
+    link: https://aclanthology.org/2026.acl-long.875/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Social Impact Paper
+    title: 'Afri-MCQA: Multimodal Cultural Question Answering for African Languages'
+    author: Atnafu Lambebo Tonja, Srija Anand, Emilio Villa-Cueva, Israel Abebe Azime, Jesujoba
+      Oluwadara Alabi, Muhidin A. Mohamed, Debela Desalegn Yadeta, Negasi Haile Abadi, Abigail
+      Oppong, Nnaemeka Casmir Obiefuna, Idris Abdulmumin, Naome A Etori, Eric Peter Wairagala,
+      Kanda Patrick Tshinu, Imanigirimbabazi Emmanuel, Gabofetswe Malema, Alham Fikri Aji, David
+      Ifeoluwa Adelani, Thamar Solorio
+    link: https://aclanthology.org/2026.acl-long.1869/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery'
+    author: Angelo Ortiz Tandazo, Manel Khentout, Youssef Benchekroun, Thomas Hueber, Emmanuel
+      Dupoux
+    link: https://aclanthology.org/2026.acl-long.24/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Evolutionary Guided Decoding: Iterative Value Refinement for LLMs'
+    author: Zhenhua Liu, Lijun Li, Ruizhe Chen, Yuxian Jiang, Tong Zhu, Zhaochen Su, Wenliang
+      Chen, Jing Shao
+    link: https://aclanthology.org/2026.acl-long.148/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained
+      LLM-Generated Text Detection'
+    author: Yang Li, Qiang Sheng, Zhengjia Wang, Yehan Yang, Danding Wang, Juan Cao
+    link: https://aclanthology.org/2026.acl-long.235/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via
+      Generative Montage'
+    author: Jinwei Hu, Xinmiao Huang, Youcheng Sun, Yi Dong, Xiaowei Huang
+    link: https://aclanthology.org/2026.acl-long.270/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence
+      for Full-Duplex SLMs'
+    author: Zhenyu Liu, Xuanyu Zhang, Yunxin Li, Qixun Teng, Shenyuan Jiang, Haolan Chen, Mingjun
+      Zhao, Fanbo Meng, Yu Xu, Yancheng He, Baotian Hu, Haizhou Li, Min Zhang
+    link: https://aclanthology.org/2026.acl-long.419/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational
+      LLMs
+    author: Luise Ge, Yongyan Zhang, Yevgeniy Vorobeychik
+    link: https://aclanthology.org/2026.acl-long.479/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded
+      Reasoning in LLMs'
+    author: Zhan Qu, Michael Färber
+    link: https://aclanthology.org/2026.acl-long.734/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning'
+    author: Naixin Zhai, Pengyang Shao, Binbin Zheng, Yonghui Yang, Fei Shen, Long Bai, Xun
+      Yang
+    link: https://aclanthology.org/2026.acl-long.893/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR'
+    author: Jiaying Zhang, Lei Shi, Jiguo Li, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He
+    link: https://aclanthology.org/2026.acl-long.1110/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement'
+    author: Guirong Chen, Shuqi Ye, Wenkai Yang, Shiqi Shen, Guangyao Shen, Yankai Lin
+    link: https://aclanthology.org/2026.acl-long.1321/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Systematicity between Forms and Meanings across Languages Supports Efficient Communication
+    author: Doreen Osmelak, Yang Xu, Michael Hahn, Kate McCurdy
+    link: https://aclanthology.org/2026.acl-long.1340/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective'
+    author: Zhezheng Hao, Hong Wang, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin,
+      Can Wang, Jiawei Chen
+    link: https://aclanthology.org/2026.acl-long.1436/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'From Local to Global: Revisiting Structured Pruning Paradigms for Large Language
+      Models'
+    author: Ziyan Wang, Enmao Diao, Qi Le, Pu Wang, Minwoo Lee, Shu-ping Yeh, Evgeny Stupachenko,
+      Hao Feng, Li Yang
+    link: https://aclanthology.org/2026.acl-long.1653/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Massively Multilingual Joint Segmentation and Glossing
+    author: Michael Ginn, Lindia Tjuatja, Enora Rice, Ali Marashian, Maria Valentini, Jasmine
+      Xu, Graham Neubig, Alexis Palmer
+    link: https://aclanthology.org/2026.acl-long.1657/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World
+      Uncertainty'
+    author: Johannes Kirmayr, Lukas Stappen, Elisabeth Andre
+    link: https://aclanthology.org/2026.acl-long.1886/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'ViLL-E: Video LLM Embeddings for Retrieval'
+    author: Rohit Gupta, Jayakrishnan Unnikrishnan, Fan Fei, Sheng Liu, Son Tran, Mubarak Shah
+    link: https://aclanthology.org/2026.acl-long.2003/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding
+      in Language Models'
+    author: Miyu Oba, Saku Sugawara
+    link: https://aclanthology.org/2026.acl-long.2132/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'CIG: Measuring Conversational Information Gain in Deliberative Dialogues with Semantic
+      Memory Dynamics'
+    author: Ming-Bin Chen, Jey Han Lau, Lea Frermann
+    link: https://aclanthology.org/2026.acl-long.2203/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Best Demonstration Paper
+    title: 'The olmOCR Project: Building Fully Open OCR using VLMs'
+    author: Jake Poznanski, Kyle Lo, Luca Soldaini
+    link: https://aclanthology.org/2026.acl-demo.62/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Student Research Workshop Best Papers
+    title: Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language
+      Models
+    author: Kaito Watanabe, Taisei Yamamoto, Tomoki Doi, Hitomi Yanaka
+    link: https://aclanthology.org/2026.acl-srw.106/
+    source: https://2026.aclweb.org/program/best_papers/
+  - award: Student Research Workshop Best Papers
+    title: 'BanglaSocialBench: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment
+      of LLMs in Bangladeshi Social Interaction'
+    author: Tanvir Ahmed Sijan, S. M. Golam Rifat, Pankaj Partha, Md. Tanjeed Islam, Md Musfique
+      Anwar
+    link: https://aclanthology.org/2026.acl-srw.22/
+    source: https://2026.aclweb.org/program/best_papers/
+  place: San Diego, USA
+  date: July 2-7, 2026
+  sub: NLP
+
+- venue: CVPR
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
+    author: Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni,
+      Junyu Xie, Shuyang Sun, Rahul Sukthankar, Joëlle K. Barral, Raia Hadsell, Zoubin Ghahramani,
+      Andrew Zisserman, Junlin Zhang, Mehdi S. M. Sajjadi
+    link: https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Efficiently_Reconstructing_Dynamic_Scenes_One_D4RT_at_a_Time_CVPR_2026_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers
+  - award: Best Student Paper
+    title: Native and Compact Structured Latents for 3D Generation
+    author: Jianfeng Xiang, Xiaoxue Chen, Sicheng Xu, Ruicheng Wang, Zelong Lv, Yu Deng, Hongyuan
+      Zhu, Yue Dong, Hao Zhao, Nicholas Jing Yuan, Jiaolong Yang
+    link: https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_Native_and_Compact_Structured_Latents_for_3D_Generation_CVPR_2026_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers
+  - award: Best Paper Honorable Mention
+    title: 'NitroGen: An Open Foundation Model for Generalist Gaming Agents'
+    author: Loïc Magne, Anas Awadalla, Guanzhi Wang, Yinzhen Xu, Joshua Belofsky, Fengyuan Hu,
+      Joohwan Kim, Ludwig Schmidt, Georgia Gkioxari, Jan Kautz, Yisong Yue, Yejin Choi, Yuke
+      Zhu, Linxi Fan
+    link: https://openaccess.thecvf.com/content/CVPR2026/html/Magne_NitroGen_An_Open_Foundation_Model_for_Generalist_Gaming_Agents_CVPR_2026_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers
+  - award: Best Paper Honorable Mention
+    title: 'SAM 3D: 3Dfy Anything in Images'
+    author: Xingyu Chen, FU-JEN CHU, Pierre Gleize, Kevin J Liang, Alexander Sax, Hao Tang,
+      Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jia-Wei Liu, Ziqi Ma,
+      Anushka Sagar, Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia
+      Gkioxari, Matt Feiszli, Jitendra Malik
+    link: https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers
+  - award: Best Student Paper Honorable Mention
+    title: 'ChordEdit: One-Step Low-Energy Transport for Image Editing'
+    author: Liangsi Lu, Xuhang Chen, Minzhe Guo, Shichu Li, Jingchao Wang, Yang Shi
+    link: https://openaccess.thecvf.com/content/CVPR2026/html/Lu_ChordEdit_One-Step_Low-Energy_Transport_for_Image_Editing_CVPR_2026_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2026/News/Best_Papers
+  place: Denver, USA
+  date: June 3-7, 2026
+  sub: CV
+
+- venue: ICRA
+  year: 2026
+  awards:
+  - award: Best Conference Paper
+    title: 'SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon
+      Manipulation'
+    author: Yifei Simon Shao, Yuchen Zheng, Sunan Sun, Pratik Chaudhari, Vijay Kumar, Nadia
+      Figueroa
+    link: https://arxiv.org/abs/2510.01661
+    source: https://www.ieee-ras.org/yifei-simon-shao-on-symskill-and-long-horizon-robot-manipulation/
+  - award: Best Conference Paper
+    title: 'OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation
+      and Scene Interaction'
+    author: Lujie Yang, Xiaoyu Huang, Zhen Wu, Angjoo Kanazawa, Pieter Abbeel, Carmelo Sferrazza,
+      C. Karen Liu, Rocky Duan, Guanya Shi
+    link: https://arxiv.org/abs/2509.26633
+    source: https://lecar-lab.github.io/publications.html
+  - award: Best Student Paper
+    title: 'LASER: Level-Based Asynchronous Scheduling and Execution Regime for Spatiotemporally
+      Constrained Multi-Robot Timber Manufacturing'
+    author: Zhenxiang Huang, Lior Skoury, Tim Stark, Aaron Wagner, Hans Jakob Wagner, Thomas
+      Wortmann, Achim Menges
+    link: https://doi.org/10.1109/icra57385.2026.11696913
+    source: https://www.icd.uni-stuttgart.de/news/IEEE-ICRA-2026-Best-Student-Paper-Award/
+  - award: Best Paper on Planning and Control
+    title: 'SymSkill: Symbol and Skill Co-Invention for Data-Efficient and Reactive Long-Horizon
+      Manipulation'
+    author: Yifei Simon Shao, Yuchen Zheng, Sunan Sun, Pratik Chaudhari, Vijay Kumar, Nadia
+      Figueroa
+    link: https://arxiv.org/abs/2510.01661
+    source: https://symskill.github.io/
+  - award: Best Paper on Robot Manipulation and Locomotion
+    title: 'OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation
+      and Scene Interaction'
+    author: Lujie Yang, Xiaoyu Huang, Zhen Wu, Angjoo Kanazawa, Pieter Abbeel, Carmelo Sferrazza,
+      C. Karen Liu, Rocky Duan, Guanya Shi
+    link: https://arxiv.org/abs/2509.26633
+    source: https://lecar-lab.github.io/publications.html
+  - award: Best Paper on Human-Robot Interaction
+    title: 'HEXAR: A Hierarchical Explainability Architecture for Robots'
+    author: Tamlin Love, Ferran Gebellí, Pradip Pramanick, Antonio Andriella, Guillem Alenyà,
+      Anaís Garrell, Raquel Ros, Silvia Rossi
+    link: https://doi.org/10.1109/icra57385.2026.11697168
+    source: https://www.inf.uni-hamburg.de/research/projects/trail/overview/announcements/2026-trail-best-paper-award.html
+  place: Vienna, Austria
+  date: June 1-5, 2026
+  sub: RO
+
+- venue: ICLR
+  year: 2026
+  awards:
+  - award: Outstanding Paper
+    title: Transformers are Inherently Succinct
+    author: Pascal Bergsträßer, Ryan Cotterell, Anthony Widjaja Lin
+    link: https://openreview.net/forum?id=Yxz92UuPLQ
+    source: https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/
+  - award: Outstanding Paper
+    title: LLMs Get Lost In Multi-Turn Conversation
+    author: Philippe Laban, Hiroaki Hayashi, Yingbo Zhou, Jennifer Neville
+    link: https://openreview.net/forum?id=VKGTGGcwl6
+    source: https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/
+  - award: Outstanding Paper Honorable Mention
+    title: 'The Polar Express: Optimal Matrix Sign Methods and their Application to the Muon
+      Algorithm'
+    author: Noah Amsel, David Persson, Christopher Musco, Robert M. Gower
+    link: https://openreview.net/forum?id=yRtgZ1K8hO
+    source: https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/
+  place: Rio de Janeiro, Brazil
+  date: April 23-27, 2026
+  sub: ML
+
+- venue: 3DV
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: 'Look Around and Pay Attention: Multi-camera Point Tracking Reimagined with Transformers'
+    author: Bishoy Galoaa, Xiangyu Bai, Shayda Moezzi, Utsav Nandi, Sai Siddhartha Vivek Dhir
+      Rangoju, Somaieh Amraee, Sarah Ostadabbas
+    link: https://ieeexplore.ieee.org/document/11533188/
+    source: https://3dvconf.github.io/2026/awards/
+  - award: Best Paper Runner Up
+    title: 'NeuralFur: Animal Fur Reconstruction from Multi-view Images'
+    author: Vanessa Sklyarova, Berna Kabadayi, Anastasios Yiannakidis, Giorgio Becherini, Michael
+      J. Black, Justus Thies
+    link: https://arxiv.org/abs/2601.12481
+    source: https://3dvconf.github.io/2026/awards/
+  place: Vancouver, Canada
+  date: March 20-23, 2026
+  sub: CV
+
+- venue: AAAI
+  year: 2026
+  awards:
+  - award: Outstanding Paper Award
+    title: Model Change for Description Logic Concepts
+    author: Ana Ozaki, Jandson S Ribeiro
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Outstanding Paper Award
+    title: Causal Structure Learning for Dynamical Systems with Theoretical Score Analysis
+    author: Nicholas Tagliapietra, Katharina Ensinger, Christoph Zimmer, Osman Mian
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Outstanding Paper Award
+    title: 'ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver'
+    author: Wenxuan Song, Ziyang Zhou, Han Zhao, Jiayi Chen, Pengxiang Ding, Haodong Yan, Yuxin
+      Huang, Feilong Tang, Donglin Wang, Haoang Li
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Outstanding Paper Award
+    title: 'High-Pass Matters: Theoretical Insights and Sheaflet-Based Design for Hypergraph
+      Neural Networks'
+    author: Ming Li, Yujie Fang, Dongrui Shen, Han Feng, Xiaosheng Zhuang, Kelin Xia, Pietro
+      Lio
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Outstanding Paper Award
+    title: 'LLM2CLIP: Powerful Language Model Unlocks Richer Cross-Modality Representation'
+    author: Weiquan Huang, Aoqi Wu, Yifan Yang, Xufang Luo, Yuqing Yang, Usman Naseem, Chunyu
+      Wang, Qi Dai, Xiyang Dai, Dongdong Chen, Chong Luo, Lili Qiu, Liang Hu
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Paper Award – AI Alignment Track
+    title: On the Alignment of Large Language Models with Global Human Opinion
+    author: Yang Liu, Masahiro Kaneko, Chenhui Chu
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Paper Award – AI for Social Impact Track
+    title: 'PlantTraitNet: An Uncertainty-Aware Multimodal Framework for Global-Scale Plant
+      Trait Inference from Citizen Science Data'
+    author: Ayushi Sharma, Johanna Trost, Daniel Lusk, Johannes Dollinger, Julian Schrader,
+      Christian Rossi, Javier Lopatin, Etienne Laliberté, Simon Haberstroh, Jana Eichel, Daniel
+      Mederer, Jose Miguel Cerda-Paredes, Shyam S. Phartyal, Lisa-Maricia Schwarz, Anja Linstädter,
+      Maria Conceição Caldeira, Teja Kattenborn
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Paper Award – AI for Social Impact Track
+    title: Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts
+    author: Sumin Lee, Sungwon Park, Jeasurk Yang, Jihee Kim, Meeyoung Cha
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Demonstration Award
+    title: 'Next-Generation Metalens Vision System: Powered by AI and Applied to AI'
+    author: Fen Fang, Muli Yang, Henan Wang, Xinan Liang, Tobias W. W. Mass, Xuewu Xu, Xulei
+      Yang, Zhengguo Li
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Demonstration Award Runner-Up
+    title: 'Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal
+      Multimodal Prompting'
+    author: Yolo Yunlong Tang, Jing Bi, Chao Huang, Susan Liang, Daiki Shimada, Hang Hua, Yunzhong
+      Xiao, Yizhi Song, Pinxin Liu, Mingqian Feng, JunJia Guo, Zhuo Liu, Luchuan Song, Ali Vosoughi,
+      Jinxi He, Liu He, Zeliang Zhang, Jiebo Luo, Chenliang Xu
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Poster Award
+    title: 'MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video
+      Reconstruction from Brain Signals'
+    author: Xuan-Hao Liu, Yan-Kai Liu, Tianyi Zhou, Bao-Liang Lu, Wei-Long Zheng
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Poster Award
+    title: 'CAMAR: Continuous Actions Multi-Agent Routing'
+    author: Artem Pshenitsyn, Aleksandr Panov, Alexey Skrynnik
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Poster Award
+    title: Preference Elicitation for Step-Wise Explanations in Logic Puzzles
+    author: Marco Foschini, Marianne Defresne, Emilio Gamba, Bart Bogaerts, Tias Guns
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Best Poster Award
+    title: 'Fractured Glass, Failing Cameras: Simulating PhysicsBased Adversarial Samples for
+      Autonomous Driving Systems'
+    author: Manav Prabhakar, Jwalandhar Girnar, Arpan Kusari
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  - award: Student Abstract Program Award
+    title: Cumulant Attention in Vision Transformers
+    author: Yuto Morimoto, Zhipeng Wang and Koji Yasuda.
+    link: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+    source: https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/
+  place: Singapore, Singapore
+  date: January 20-27, 2026
+  sub: AI
+
+- venue: NeurIPS
+  year: 2025
+  awards:
+  - award: Datasets & Benchmarks Best Paper
+    title: 'Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)'
+    author: Liwei Jiang, Yuanjun Chai, Margaret Li, Mickel Liu, Raymond Fok, Nouha Dziri, Yulia
+      Tsvetkov, Maarten Sap, Yejin Choi
+    link: https://openreview.net/forum?id=saDOrrnNTz
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Best Main Track Paper
+    title: 'Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free'
+    author: Zihan Qiu, Zekun Wang, Bo Zheng, Zeyu Huang, Kaiyue Wen, Songlin Yang, Rui Men,
+      Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, Junyang Lin
+    link: https://openreview.net/forum?id=1b7whO4SfY
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Best Main Track Paper
+    title: '1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching
+      Capabilities'
+    author: Kevin Wang, Ishaan Javali, Michał Bortkiewicz, Tomasz Trzcinski, Benjamin Eysenbach
+    link: https://openreview.net/forum?id=s0JVsx3bx1
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Best Main Track Paper
+    title: 'Why Diffusion Models Don’t Memorize: The Role of Implicit Dynamical Regularization
+      in Training'
+    author: Tony Bonnaire, Raphaël Urfin, Giulio Biroli, Marc Mezard
+    link: https://openreview.net/forum?id=BSZqpqgqM0
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Best Paper Runner-Up
+    title: Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond
+      the Base Model?
+    author: Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao
+      Huang
+    link: https://openreview.net/forum?id=4OsgYD7em5
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Best Paper Runner-Up
+    title: Optimal Mistake Bounds for Transductive Online Learning
+    author: Zachary Chase, Steve Hanneke, Shay Moran, Jonathan Shafer
+    link: https://openreview.net/forum?id=EoebmBe9fG
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Best Paper Runner-Up
+    title: Superposition Yields Robust Neural Scaling
+    author: Yizhou Liu, Ziming Liu, Jeff Gore
+    link: https://openreview.net/forum?id=knPz7gtjPW
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  place: San Diego, USA
+  date: December 2-7, 2025
+  sub: ML
+
+- venue: EMNLP
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: 'Infini-gram mini: Exact n-gram Search at the Internet Scale with FM-Index'
+    author: Hao Xu, Jiacheng Liu, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi
+    link: https://aclanthology.org/2025.emnlp-main.1268/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: 'LingGym: How Far Are LLMs from Thinking Like Field Linguists?'
+    author: Changbing Yang, Franklin Ma, Freda Shi, Jian Zhu
+    link: https://aclanthology.org/2025.emnlp-main.69/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?'
+    author: Hua Shen, Nicholas Clark, Tanu Mitra
+    link: https://aclanthology.org/2025.emnlp-main.154/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: 'DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph
+      Refinement'
+    author: Shaoqing Lin, Chong Teng, Fei Li, Donghong Ji, Lizhen Qu, Zhuang Li
+    link: https://aclanthology.org/2025.emnlp-main.398/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: Generative or Discriminative? Revisiting Text Classification in the Era of Transformers
+    author: Siva Rajesh Kasa, Karan Gupta, Sumegh Roychowdhury, Ashutosh Kumar, Yaswanth Biruduraju,
+      Santhosh Kumar Kasa, Pattisapu Nikhil Priyatam, Arindam Bhattacharya, Shailendra Agarwal,
+      Vijay Huddar
+    link: https://aclanthology.org/2025.emnlp-main.486/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps
+    author: Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic, Yonatan Belinkov
+    link: https://aclanthology.org/2025.emnlp-main.504/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: 'MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning'
+    author: Jingyan Shen, Jiarui Yao, Rui Yang, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han
+      Zhao
+    link: https://aclanthology.org/2025.emnlp-main.882/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Outstanding Paper
+    title: Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions
+    author: Sasha Boguraev, Christopher Potts, Kyle Mahowald
+    link: https://aclanthology.org/2025.emnlp-main.1271/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Best Special Theme Paper
+    title: 'InterIDEAS: Philosophical Intertextuality via LLMs'
+    author: Yue Yang, Yinzhi Xu, Chenghao Huang, JohnMichael Jurgensen, Han Hu, Hao Wang
+    link: https://aclanthology.org/2025.emnlp-main.1180/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Best Resource Paper
+    title: 'Autoformalization in the Wild: Assessing LLMs on Real-World Mathematical Definitions'
+    author: Lan Zhang, Marco Valentino, Andre Freitas
+    link: https://aclanthology.org/2025.emnlp-main.90/
+    source: https://2025.emnlp.org/program/awards/
+  - award: Social Impact Award
+    title: 'AccessEval: Benchmarking Disability Bias in Large Language Models'
+    author: Srikant Panda, Amit Agarwal, Hitesh Laxmichand Patel
+    link: https://aclanthology.org/2025.emnlp-main.1653/
+    source: https://2025.emnlp.org/program/awards/
+  - award: People’s Choice Award
+    title: Randomly Removing 50% of Dimensions in Text Embeddings has Minimal Impact on Retrieval
+      and Classification Tasks
+    author: Sotaro Takeshita, Yurina Takeshita, Daniel Ruffinelli, Simone Paolo Ponzetto
+    link: https://aclanthology.org/2025.emnlp-main.1410/
+    source: https://2025.emnlp.org/program/awards/
+  place: Suzhou, China
+  date: November 4-9, 2025
+  sub: NLP
+
+- venue: ICCV
+  year: 2025
+  awards:
+  - award: Best Paper (Marr Prize)
+    title: Generating Physically Stable and Buildable Brick Structures from Text
+    author: Ava Pun, Kangle Deng, Ruixuan Liu, Deva Ramanan, Changliu Liu, Jun-Yan Zhu
+    link: https://openaccess.thecvf.com/content/ICCV2025/html/Pun_Generating_Physically_Stable_and_Buildable_Brick_Structures_from_Text_ICCV_2025_paper.html
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Student Paper
+    title: 'FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models'
+    author: Vladimir Kulikov, Matan Kleiner, Inbar Huberman-Spiegelglas, Tomer Michaeli
+    link: https://openaccess.thecvf.com/content/ICCV2025/html/Kulikov_FlowEdit_Inversion-Free_Text-Based_Editing_Using_Pre-Trained_Flow_Models_ICCV_2025_paper.html
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Paper Honorable Mention
+    title: Spatially-Varying Autofocus
+    author: Yingsi Qin, Aswin C. Sankaranarayanan, Matthew O'Toole
+    link: https://openaccess.thecvf.com/content/ICCV2025/html/Qin_Spatially-Varying_Autofocus_ICCV_2025_paper.html
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Paper Honorable Mention
+    title: 'RayZer: A Self-supervised Large View Synthesis Model'
+    author: Hanwen Jiang, Hao Tan, Peng Wang, Haian Jin, Yue Zhao, Sai Bi, Kai Zhang, Fujun
+      Luan, Kalyan Sunkavalli, Qixing Huang, Georgios Pavlakos
+    link: https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_RayZer_A_Self-supervised_Large_View_Synthesis_Model_ICCV_2025_paper.html
+    source: https://www.thecvf.com/?page_id=413
+  place: Honolulu, USA
+  date: October 19-23, 2025
+  sub: CV
+
+- venue: IROS
+  year: 2025
+  awards:
+  - award: Best Conference Paper
+    title: Interdigitated Electrodes for Selective Stimulation of Skeletal Muscle Actuators
+      in Biosyncretic Robots
+    author: Lianchao Yang, Chuang Zhang, Qi Zhang, Yiwei Zhang, Hengshen Qin, Lianqing Liu
+    link: https://doi.org/10.1109/IROS60139.2025.11246698
+    source: https://english.sia.cas.cn/news/Events/202512/t20251212_1136776.html
+  - award: Best Student Paper
+    title: 'Neural MP: A Generalist Neural Motion Planner'
+    author: Murtaza Dalal, Jiahui Yang, Russell Mendonca, Youssef Khaky, Ruslan Salakhutdinov,
+      Deepak Pathak
+    link: https://arxiv.org/abs/2409.05864
+    source: https://jim-young6709.github.io/
+  place: Hangzhou, China
+  date: October 19-25, 2025
+  sub: RO
+
+- venue: Humanoids
+  year: 2025
+  awards:
+  - award: Best Oral Paper Award
+    title: 'Design of a 3-DOF Hopping Robot with an Optimized Gearbox: An Intermediate Platform
+      Toward Bipedal Robots'
+    author: JongHun Choe, Gijeong Kim, Hajun Kim, Dongyun Kang, Min-Su Kim, Hae-Won Park
+    link: https://2025humanoids.org/awards/
+    source: https://2025humanoids.org/awards/
+  - award: Mike Stilman Award
+    title: 'From Screen to Stage: Kid Cosmo, a Life-Like, Torque-Controlled Humanoid for Entertainment
+      Robotics'
+    author: Havel Liu, Mingzhang Zhu, Arturo Moises Flores Alvarez, Yuan Hung Lo, Conrad Ku,
+      Federico Parres Parres, Justin Quan, Colin Togashi, AdityaShridhar Navghare, Quanyou Wang,
+      Dennis Hong
+    link: https://2025humanoids.org/awards/
+    source: https://2025humanoids.org/awards/
+  - award: Best Interactive Paper
+    title: Design and Experiment of Hydraulic Driven Deformable Wheeled Biped Robot
+    author: Xu Li, Aobo Zhang, Haoyang Yu, Haibo Feng, Songyuan Zhang, YILI FU
+    link: https://2025humanoids.org/awards/
+    source: https://2025humanoids.org/awards/
+  place: Seoul, South Korea
+  date: September 30 - October 2, 2025
+  sub: RO
+
+- venue: CoRL
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation
+    author: Peiyuan Zhi, Peiyang Li, Jianqin Yin, Baoxiong Jia, Siyuan Huang
+    link: https://2025.corl.org/program/awards
+    source: https://2025.corl.org/program/awards
+  - award: Best Paper
+    title: 'Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning
+      and Learning'
+    author: Yunsheng Tian, Joshua Jacob, Yijiang Huang, Jialiang Zhao, Edward Li Gu, Pingchuan
+      Ma, Annan Zhang, Farhad Javid, Branden Romero, Sachin Chitta, Shinjiro Sueda, Hui Li,
+      Wojciech Matusik
+    link: https://2025.corl.org/program/awards
+    source: https://2025.corl.org/program/awards
+  - award: Best Student Paper
+    title: Visual Imitation Enables Contextual Humanoid Control
+    author: Arthur Allshire, Hongsuk Choi, Junyi Zhang, David McAllister, Anthony Zhang, Chung
+      Min Kim, Trevor Darrell, Pieter Abbeel, Jitendra Malik, Angjoo Kanazawa
+    link: https://2025.corl.org/program/awards
+    source: https://2025.corl.org/program/awards
+  place: Seoul, South Korea
+  date: September 27-30, 2025
+  sub: RO
+
+- venue: CASE
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: Multi-modal Generative Modeling of Event Sequences and Time Series for Solar PV Systems
+    author: Jiayu Huang, Boyang Xu, Yongming Liu, and Hao Yan
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-conference-paper-award/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-conference-paper-award/
+  - award: Best Student Paper
+    title: K-Wafer Cyclic Sequence for Scheduling of Dual-Armed Cluster Tool with Purge Operation
+    author: Sanghyun Joo and Hyun-Jung Kim
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-student-paper-award/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-student-paper-award/
+  - award: Best Application Paper
+    title: Bayesian Intention for Enhanced Human Robot Collaboration
+    author: Vanessa Hernandez-Cruz, Xiaotong Zhang, and Kamal Youcef-Toumi
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-application-paper-award/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-application-paper-award/
+  - award: Peter Luh Memorial Best Paper for Young Researcher
+    title: 'Tackling the ‘small data’ challenge: A Versatile Melt Pool Encoder via Reconstructive
+      Unsupervised Pretraining for Few-Shot Learning'
+    author: Zijue Chen, Heng Wang, and Dayalan Gunasegaram
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
+  place: Los Angeles, USA
+  date: August 17-21, 2025
+  sub: RO
+
+- venue: SIGGRAPH
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: Shape Space Spectra
+    author: Yue Chang, Otman Benchekroun, Maurizio M. Chiaramonte, Peter Yichen Chen, Eitan
+      Grinspun
+    link: https://s2025.conference-schedule.org/presentation/?id=papers_139&sess=sess140
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'CAST: Component-Aligned 3D Scene Reconstruction From an RGB Image'
+    author: Kaixin Yao, Longwen Zhang, Xinhao Yan, Yan Zeng, Qixuan Zhang, Jiayuan Gu, Wei Yang,
+      Lan Xu, Jingyi Yu
+    link: https://s2025.conference-schedule.org/presentation/?id=papers_364&sess=sess103
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'TokenVerse: Versatile Multi-Concept Personalization in Token Modulation Space'
+    author: Daniel Garibi, Shahar Yadin, Roni Paiss, Omer Tov, Shiran Zada, Ariel Ephrat, Tomer
+      Michaeli, Inbar Mosseri, Tali Dekel
+    link: https://s2025.conference-schedule.org/presentation/?id=papers_396&sess=sess148
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: Vector-Valued Monte Carlo Integration Using Ratio Control Variates
+    author: Haolin Lu, Delio Vicini, Wesley Chang, Tzu-Mao Li
+    link: https://s2025.conference-schedule.org/presentation/?id=papers_635&sess=sess127
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper
+    title: 'Transformer IMU Calibrator: Dynamic On-Body IMU Calibration for Inertial Motion
+      Capture'
+    author: Chengxu Zuo, Jiawei Huang, Xiao Jiang, Yuan Yao, Xiangren Shi, Rui Cao, Xinyu Yi,
+      Feng Xu, Shihui Guo, Yipeng Qin
+    link: https://s2025.conference-schedule.org/presentation/?id=papers_1351&sess=sess139
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: 'Lifting the Winding Number: Precise Discontinuities in Neural Fields for Physics
+      Simulation'
+    author: Yue Chang, Mengfei Liu, Zhecheng Wang, Peter Yichen Chen, Eitan Grinspun
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: A Monte Carlo Rendering Framework for Simulating Optical Heterodyne Detection
+    author: Juhyeon Kim, Craig Benko, Magnus Wrenninge, Ryusuke Villemin, Zeb Barber, Wojciech
+      Jarosz, Adithya Pediredla
+    link: https://doi.org/10.1145/3731150
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Rectangular Surface Parameterization
+    author: Etienne Corman, Keenan Crane
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: High-Performance CPU Cloth Simulation Using Domain-Decomposed Projective Dynamics
+    author: Zixuan Lu, Ziheng Liu, Lei Lan, Huamin Wang, Yuko Ishiwaka, Chenfanfu Jiang, Kui
+      Wu, Yin Yang
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Variational Surface Reconstruction Using Natural Neighbors
+    author: Jianjun Xia, Tao Ju
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: 'Moment Bounds Are Differentiable: Efficiently Approximating Measures in Inverse
+      Rendering'
+    author: Markus Worchel, Marc Alexa
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Clebsch Gauge Fluid on Particle Flow Maps
+    author: Zhiqi Li, Candong Lin, Duowen Chen, Xinyi Zhou, Shiying Xiong, Bo Zhu
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: Faraday Cage Estimation of Normals for Point Clouds and Ribbon Sketches
+    author: Daniel Scrivener, Daniel Cui, Ellis Coldren, Mazdak Abulnaga, Mikhail Bessmeltsev,
+      Edward Chien
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Best Paper Honorable Mention
+    title: 'C-Tubes: Design of Tubular Structures From Developable Strips'
+    author: Klara Mundilova, Michele Vidulis, Quentin Becker, Florin Isvoranu, Mark Pauly
+    link: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: Unified Particle Physics for Real-Time Applications (2014)
+    author: Miles Macklin, Matthias Müller, Nuttapong Chentanez, Tae-Yong Kim
+    link: https://doi.org/10.1145/2601097.2601152
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: Learning Visual Similarity for Product Design With Convolutional Neural Networks
+      (2015)
+    author: Sean Bell, Kavita Bala
+    link: https://doi.org/10.1145/2766959
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: L1-Medial Skeleton of Point Cloud (2013)
+    author: Hui Huang, Shihao Wu, Daniel Cohen-Or, Minglun Gong, Hao Zhang, Guiqing Li, Baoquan
+      Chen
+    link: https://doi.org/10.1145/2461912.2461913
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  - award: Test of Time
+    title: 'Embree: A Kernel Framework for Efficient CPU Ray Tracing (2014)'
+    author: Ingo Wald, Sven Woop, Carsten Benthin, Gregory S. Johnson, Manfred Ernst
+    link: https://dl.acm.org/doi/10.1145/2601097.2601199
+    source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
+  place: Vancouver, Canada
+  date: August 10-14, 2025
+  sub: CG
+
+- venue: ACL
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: 'A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive'
+    author: Sarath Sivaprasad, Pramod Kaushik, Sahar Abdelnabi, Mario Fritz
+    link: https://aclanthology.org/2025.acl-long.1454/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Paper
+    title: 'Fairness through Difference Awareness: Measuring Desired Group Discrimination in
+      LLMs'
+    author: Angelina Wang, Michelle Phan, Daniel E. Ho, Sanmi Koyejo
+    link: https://aclanthology.org/2025.acl-long.341/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Paper
+    title: 'Language Models Resist Alignment: Evidence From Data Compression'
+    author: Jiaming Ji, Kaile Wang, Tianyi Alex Qiu, Boyuan Chen, Jiayi Zhou, Changye Li, Hantao
+      Lou, Josef Dai, Yunhuai Liu, Yaodong Yang
+    link: https://aclanthology.org/2025.acl-long.1141/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Paper
+    title: 'Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention'
+    author: Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda
+      Xie, Yuxing Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng
+      Liang, Wangding Zeng
+    link: https://aclanthology.org/2025.acl-long.1126/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Social Impact Paper
+    title: 'AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark
+      Dataset'
+    author: Charles Nimo, Tobi Olatunji, Abraham Toluwase Owodunni, Tassallah Abdullahi, Emmanuel
+      Ayodele, Mardhiyah Sanni, Ezinwanne C. Aka, Folafunmi Omofoye, Foutse Yuehgoh, Timothy
+      Faniran, Bonaventure F. P. Dossou, Moshood O. Yekini, Jonas Kemp, Katherine A Heller,
+      Jude Chidubem Omeke, Chidi Asuzu Md, Naome A Etori, Aïmérou Ndiaye, Ifeoma Okoh, Evans
+      Doe Ocansey, Wendy Kinara, Michael L. Best, Irfan Essa, Stephen Edward Moore, Chris Fourie,
+      Mercy Nyamewaa Asiedu
+    link: https://aclanthology.org/2025.acl-long.96/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Social Impact Paper
+    title: 'The AI Gap: How Socioeconomic Status Affects Language Technology Interactions'
+    author: Elisa Bassignana, Amanda Cercas Curry, Dirk Hovy
+    link: https://aclanthology.org/2025.acl-long.914/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Resource Paper
+    title: Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational
+      Pipeline with UniMoral
+    author: Shivani Kumar, David Jurgens
+    link: https://aclanthology.org/2025.acl-long.294/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Resource Paper
+    title: 'BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets
+      for 28 Languages'
+    author: Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle,
+      Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim
+      Said Ahmad, David Ifeoluwa Adelani, Alham Fikri Aji, Felermino D. M. A. Ali, Ilseyar Alimova,
+      Vladimir Araujo, Nikolay Babakov, Naomi Baes, Ana-Maria Bucur, Andiswa Bukula, Guanqun
+      Cao, Rodrigo Tufiño, Rendi Chevi, Chiamaka Ijeoma Chukwuneke, Alexandra Ciobotaru, Daryna
+      Dementieva, Murja Sani Gadanya, Robert Geislinger, Bela Gipp, Oumaima Hourrane, Oana Ignat,
+      Falalu Ibrahim Lawan, Rooweither Mabuya, Rahmad Mahendra, Vukosi Marivate, Alexander Panchenko,
+      Andrew Piper, Charles Henrique Porto Ferreira, Vitaly Protasov, Samuel Rutunda, Manish
+      Shrivastava, Aura Cristina Udrea, Lilian Diana Awuor Wanzare, Sophie Wu, Florian Valentin
+      Wunderlich, Hanif Muhammad Zhafran, Tianhui Zhang, Yi Zhou, Saif M. Mohammad
+    link: https://aclanthology.org/2025.acl-long.436/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Resource Paper
+    title: 'Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs'
+    author: Fakhraddin Alwajih, Abdellah El Mekki, Samar Mohamed Magdy, AbdelRahim A. Elmadany,
+      Omer Nacar, El Moatez Billah Nagoudi, Reem Abdel-Salam, Hanin Atwany, Youssef Nafea, Abdulfattah
+      Mohammed Yahya, Rahaf Alhamouri, Hamzah A. Alsayadi, Hiba Zayed, Sara Shatnawi, Serry
+      Sibaee, Yasir Ech-chammakhy, Walid Al-Dhabyani, Marwa Mohamed Ali, Imen Jarraya, Ahmed
+      Oumar El-Shangiti, Aisha Alraeesi, Mohammed Anwar AL-Ghrawi, Abdulrahman S. Al-Batati,
+      Elgizouli Mohamed, Noha Taha Elgindi, Muhammed Saeed, Houdaifa Atou, Issam Ait Yahia,
+      Abdelhak Bouayad, Mohammed Machrouh, Amal Makouar, Dania Alkawi, Mukhtar Mohamed, Safaa
+      Taher Abdelfadil, Amine Ziad Ounnoughene, Anfel Rouabhia, Rwaa Assi, Ahmed Sorkatti, Mohamedou
+      Cheikh Tourad, Anis Koubaa, Ismail Berrada, Mustafa Jarrar, Shady Shehata, Muhammad Abdul-Mageed
+    link: https://aclanthology.org/2025.acl-long.1579/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Theme Paper
+    title: 'MaCP: Minimal yet Mighty Adaptation via Hierarchical Cosine Projection'
+    author: Yixian Shen, Qi Bi, Jia-hong Huang, Hongyi Zhu, Andy D. Pimentel, Anuj Pathania
+    link: https://aclanthology.org/2025.acl-long.1006/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Theme Paper
+    title: 'Meta-rater: A Multi-dimensional Data Selection Method for Pre-training Language
+      Models'
+    author: Xinlin Zhuang, Jiahui Peng, Ren Ma, Yinfan Wang, Tianyi Bai, Xingjian Wei, Qiu Jiantao,
+      Chi Zhang, Ying Qian, Conghui He
+    link: https://aclanthology.org/2025.acl-long.533/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Theme Paper
+    title: 'SubLIME: Subset Selection via Rank Correlation Prediction for Data-Efficient LLM
+      Evaluation'
+    author: Gayathri Saranathan, Cong Xu, Mahammad Parwez Alam, Tarun Kumar, Martin Foltin,
+      Soon Yee Wong, Suparna Bhattacharya
+    link: https://aclanthology.org/2025.acl-long.1477/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: A New Formulation of Zipf’s Meaning-Frequency Law through Contextual Diversity
+    author: Ryo Nagata, Kumiko Tanaka-Ishii
+    link: https://aclanthology.org/2025.acl-long.744/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'All That Glitters is Not Novel: Plagiarism in AI Generated Research'
+    author: Tarun Gupta, Danish Pruthi
+    link: https://aclanthology.org/2025.acl-long.1249/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Between Circuits and Chomsky: Pre-pretraining on Formal Languages Imparts Linguistic
+      Biases'
+    author: Michael Y. Hu, Jackson Petty, Chuan Shi, William Merrill, Tal Linzen
+    link: https://aclanthology.org/2025.acl-long.478/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Beyond N-Grams: Rethinking Evaluation Metrics and Strategies for Multilingual Abstractive
+      Summarization'
+    author: Itai Mondshine, Tzuf Paz-Argaman, Reut Tsarfaty
+    link: https://aclanthology.org/2025.acl-long.932/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual
+      Intervention
+    author: Weixuan Wang, Minghao Wu, Barry Haddow, Alexandra Birch
+    link: https://aclanthology.org/2025.acl-long.270/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Byte Latent Transformer: Patches Scale Better Than Tokens'
+    author: Artidoro Pagnoni, Ramakanth Pasunuru, Pedro Rodriguez, John Nguyen, Benjamin Muller,
+      Margaret Li, Chunting Zhou, Lili Yu, Jason E Weston, Luke Zettlemoyer, Gargi Ghosh, Mike
+      Lewis, Ari Holtzman, Srini Iyer
+    link: https://aclanthology.org/2025.acl-long.453/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Capability Salience Vector: Fine-grained Alignment of Loss and Capabilities for
+      Downstream Task Scaling Law'
+    author: Qiming Ge, Shuhao Xing, Songyang Gao, Yunhua Zhou, Yicheng Zou, Songyang Zhang,
+      Zhi Chen, Hang Yan, Qi Zhang, Qipeng Guo, Kai Chen
+    link: https://aclanthology.org/2025.acl-long.1157/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User
+      Instructions with Attributed Grounding'
+    author: Chiwei Zhu, Benfeng Xu, Xiaorui Wang, Zhendong Mao
+    link: https://aclanthology.org/2025.acl-long.517/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'HALOGEN: Fantastic LLM Hallucinations and Where to Find Them'
+    author: Abhilasha Ravichander, Shrusti Ghela, David Wadden, Yejin Choi
+    link: https://aclanthology.org/2025.acl-long.71/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter'
+    author: Manuel Tonneau, Diyi Liu, Niyati Malhotra, Scott A. Hale, Samuel Fraiberger, Victor
+      Orozco-Olvera, Paul Röttger
+    link: https://aclanthology.org/2025.acl-long.115/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'I⁰T: Embedding Standardization Method Towards Zero Modality Gap'
+    author: Na Min An, Eunki Kim, James Thorne, Hyunjung Shim
+    link: https://aclanthology.org/2025.acl-long.1319/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'IndicSynth: A Large-Scale Multilingual Synthetic Speech Dataset for Low-Resource
+      Indian Languages'
+    author: Divya V Sharma, Vijval Ekbote, Anubha Gupta
+    link: https://aclanthology.org/2025.acl-long.1070/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models'
+    author: Hugo Pitorro, Marcos Vinicius Treviso
+    link: https://aclanthology.org/2025.acl-long.1194/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction
+      in LLMs'
+    author: Jingcheng Niu, Xingdi Yuan, Tong Wang, Hamidreza Saghir, Amir H. Abdi
+    link: https://aclanthology.org/2025.acl-long.791/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution
+      Shifts'
+    author: Qibing Ren, Hao Li, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi
+      Yan, Lizhuang Ma, Jing Shao
+    link: https://aclanthology.org/2025.acl-long.1207/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: Mapping 1,000+ Language Models via the Log-Likelihood Vector
+    author: Momose Oyama, Hiroaki Yamagiwa, Yusuke Takase, Hidetoshi Shimodaira
+    link: https://aclanthology.org/2025.acl-long.1584/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'MiniLongBench: The Low-cost Long Context Understanding Benchmark for Large Language
+      Models'
+    author: Zhongzhan Huang, Guoming Ling, Shanshan Zhong, Hefeng Wu, Liang Lin
+    link: https://aclanthology.org/2025.acl-long.560/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'PARME: Parallel Corpora for Low-Resourced Middle Eastern Languages'
+    author: Sina Ahmadi, Rico Sennrich, Erfan Karami, Ako Marani, Parviz Fekrazad, Gholamreza
+      Akbarzadeh Baghban, Hanah Hadi, Semko Heidari, Mahîr Dogan, Pedram Asadi, Dashne Bashir,
+      Mohammad Amin Ghodrati, Kourosh Amini, Zeynab Ashourinezhad, Mana Baladi, Farshid Ezzati,
+      Alireza Ghasemifar, Daryoush Hosseinpour, Behrooz Abbaszadeh, Amin Hassanpour, Bahaddin
+      Jalal Hamaamin, Saya Kamal Hama, Ardeshir Mousavi, Sarko Nazir Hussein, Isar Nejadgholi,
+      Mehmet Ölmez, Horam Osmanpour, Rashid Roshan Ramezani, Aryan Sediq Aziz, Ali Salehi Sheikhalikelayeh,
+      Mohammadreza Yadegari, Kewyar Yadegari, Sedighe Zamani Roodsari
+    link: https://aclanthology.org/2025.acl-long.1451/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Past Meets Present: Creating Historical Analogy with Large Language Models'
+    author: Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, Zujie Liang, Deqing
+      Yang, Yanghua Xiao
+    link: https://aclanthology.org/2025.acl-long.200/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Pre³: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation'
+    author: Junyi Chen, Shihao Bai, Zaijun Wang, Siyu Wu, Chuheng Du, Hailong Yang, Ruihao Gong,
+      Shengzhong Liu, Fan Wu, Guihai Chen
+    link: https://aclanthology.org/2025.acl-long.551/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Rethinking the Role of Prompting Strategies in LLM Test-Time Scaling: A Perspective
+      of Probability Theory'
+    author: Yexiang Liu, Zekun Li, Zhi Fang, Nan Xu, Ran He, Tieniu Tan
+    link: https://aclanthology.org/2025.acl-long.1356/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: Revisiting Compositional Generalization Capability of Large Language Models Considering
+      Instruction Following Ability
+    author: Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
+    link: https://aclanthology.org/2025.acl-long.1508/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: Toward Automatic Discovery of a Canine Phonetic Alphabet
+    author: Theron S. Wang, Xingyuan Li, Hridayesh Lekhak, Tuan Minh Dang, Mengyue Wu, Kenny
+      Q. Zhu
+    link: https://aclanthology.org/2025.acl-long.451/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: Towards the Law of Capacity Gap in Distilling Language Models
+    author: Chen Zhang, Qiuchi Li, Dawei Song, Zheyu Ye, Yan Gao, Yao Hu
+    link: https://aclanthology.org/2025.acl-long.1097/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: 'Turning Trash into Treasure: Accelerating Inference of Large Language Models with
+      Token Recycling'
+    author: Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang
+      Xu
+    link: https://aclanthology.org/2025.acl-long.338/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Outstanding Paper
+    title: Typology-Guided Adaptation for African NLP
+    author: Ndapa Nakashole
+    link: https://2025.aclweb.org/program/awards/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Demo
+    title: 'OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens'
+    author: Jiacheng Liu, Taylor Blanton, Yanai Elazar, Sewon Min, Yen-Sung Chen, Arnavi Chheda-Kothary,
+      Huy Tran, Byron Bischoff, Eric Marsh, Michael Schmitz, Cassidy Trier, Aaron Sarnat, Jenna
+      James, Jon Borchardt, Bailey Kuehl, Evie Yu-Yen Cheng, Karen Farley, Taira Anderson, David
+      Albright, Carissa Schoenick, Luca Soldaini, Dirk Groeneveld, Rock Yuren Pang, Pang Wei
+      Koh, Noah A. Smith, Sophie Lebrecht, Yejin Choi, Hannaneh Hajishirzi, Ali Farhadi, Jesse
+      Dodge
+    link: https://aclanthology.org/2025.acl-demo.18/
+    source: https://2025.aclweb.org/program/awards/
+  - award: Best Student Research Workshop Paper
+    title: 'Towards Multi-Perspective NLP Systems: A Thesis Proposal'
+    author: Benedetta Muscato
+    link: https://aclanthology.org/2025.acl-srw.30/
+    source: https://2025.aclweb.org/program/awards/
+  place: Vienna, Austria
+  date: July 27 - August 1, 2025
+  sub: NLP
+
+- venue: ICML
+  year: 2025
+  awards:
+  - award: Test of Time Award
+    title: 'Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate
+      Shift'
+    author: Sergey Ioffe, Christian Szegedy
+    link: https://icml.cc/virtual/2025/test-of-time/39855
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Test of Time Honorable Mention
+    title: Trust Region Policy Optimization
+    author: John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, Philipp Moritz
+    link: https://icml.cc/virtual/2025/talk/52802
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Test of Time Honorable Mention
+    title: Variational Inference with Normalizing Flows
+    author: Danilo Jimenez Rezende, Shakir Mohamed
+    link: https://icml.cc/virtual/2025/talk/52803
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Paper
+    title: Score Matching with Missing Data
+    author: Josh Givens, Song Liu, Henry Reeve
+    link: https://icml.cc/virtual/2025/poster/44169
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Paper
+    title: Conformal Prediction as Bayesian Quadrature
+    author: Jake Snell, Thomas Griffiths
+    link: https://icml.cc/virtual/2025/poster/45390
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Paper
+    title: The Value of Prediction in Identifying the Worst-Off
+    author: Unai Fischer Abaigar, Christoph Kern, Juan Perdomo
+    link: https://icml.cc/virtual/2025/oral/47269
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Paper
+    title: 'Roll the dice & look before you leap: Going beyond the creative limits of next-token
+      prediction'
+    author: Vaishnavh Nagarajan, Chen Wu, Charles Ding, Aditi Raghunathan
+    link: https://icml.cc/virtual/2025/poster/45769
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Paper
+    title: 'CollabLLM: From Passive Responders to Active Collaborators'
+    author: Shirley Wu, Michel Galley, Baolin Peng, Hao Cheng, Gavin Li, Yao Dou, Weixin Cai,
+      James Zou, Jure Leskovec, Jianfeng Gao
+    link: https://icml.cc/virtual/2025/oral/47250
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Paper
+    title: 'Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions'
+    author: Jaeyeon Kim, Kulin Shah, Vasilis Kontonis, Sham Kakade, Sitan Chen
+    link: https://icml.cc/virtual/2025/oral/47251
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Position Paper
+    title: 'Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer
+      Rewards'
+    author: Jaeho Kim, Yunseok Lee, Seulki Lee
+    link: https://icml.cc/virtual/2025/oral/40109
+    source: https://icml.cc/virtual/2025/awards_detail
+  - award: Outstanding Position Paper
+    title: 'Position: AI Safety should prioritize the Future of Work'
+    author: Sanchaita Hazra, Bodhisattwa Prasad Majumder, Tuhin Chakrabarty
+    link: https://icml.cc/virtual/2025/oral/40167
+    source: https://icml.cc/virtual/2025/awards_detail
+  place: Vancouver, Canada
+  date: July 13-19, 2025
+  sub: ML
+
+- venue: RSS
+  year: 2025
+  awards:
+  - award: Outstanding Demo Paper Award
+    title: Demonstrating MuJoCo Playground
+    author: Kevin Zakka, Baruch Tabanpour, Qiayuan Liao, Mustafa Haiderbhai, Samuel Holt, Jing
+      Yuan Luo, Arthur Allshire, Erik Frey, Koushil Sreenath, Lueder Alexander Kahrs, Carmelo
+      Sferrazza, Yuval Tassa, Pieter Abbeel
+    link: https://roboticsconference.org/2025/program/papers/20/
+    source: https://roboticsconference.org/2025/program/awards/
+  - award: Outstanding Systems Paper Award
+    title: Building Rome with Convex Optimization
+    author: Haoyu Han, Heng Yang
+    link: https://roboticsconference.org/2025/program/papers/32/
+    source: https://roboticsconference.org/2025/program/awards/
+  - award: Outstanding Student Paper Award
+    title: Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL
+    author: Songyuan Zhang, Oswin So, Mitchell Black, Zachary Serlin, Chuchu Fan
+    link: https://roboticsconference.org/2025/program/papers/27/
+    source: https://roboticsconference.org/2025/program/awards/
+  - award: Outstanding Paper Award
+    title: 'FEAST: A Flexible Mealtime-Assistance System Tackling In-the-Wild Personalization'
+    author: Rajat Kumar Jenamani, Tom Silver, Ben Dodson, Shiqin Tong, Anthony Song, Yuting
+      Yang, Ziang Liu, Benjamin Howe, Aimee Whitneck, Tapomayukh Bhattacharjee
+    link: https://roboticsconference.org/2025/program/papers/83/
+    source: https://roboticsconference.org/2025/program/awards/
+  place: Los Angeles, USA
+  date: June 21-25, 2025
+  sub: RO
+
+- venue: CVPR
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: 'VGGT: Visual Geometry Grounded Transformer'
+    author: Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht,
+      David Novotny
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  - award: Best Student Paper
+    title: Neural Inverse Rendering from Propagating Light
+    author: Anagh Malik, Benjamin Attal, Andrew Xie, Matthew O'Toole, David B. Lindell
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Malik_Neural_Inverse_Rendering_from_Propagating_Light_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  - award: Best Paper Honorable Mention
+    title: 'MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos'
+    author: Zhengqi Li, Richard Tucker, Forrester Cole, Qianqian Wang, Linyi Jin, Vickie Ye,
+      Angjoo Kanazawa, Aleksander Holynski, Noah Snavely
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Li_MegaSaM_Accurate_Fast_and_Robust_Structure_and_Motion_from_Casual_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  - award: Best Paper Honorable Mention
+    title: Navigation World Models
+    author: Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Bar_Navigation_World_Models_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  - award: Best Paper Honorable Mention
+    title: 'Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language
+      Models'
+    author: Matt Deitke, Christopher Clark, Sangho Lee, Rohun Tripathi, Yue Yang, Jae Sung Park,
+      Mohammadreza Salehi, Niklas Muennighoff, Kyle Lo, Luca Soldaini, Jiasen Lu, Taira Anderson,
+      Erin Bransom, Kiana Ehsani, Huong Ngo, YenSung Chen, Ajay Patel, Mark Yatskar, Chris Callison-Burch,
+      Andrew Head, Rose Hendrix, Favyen Bastani, Eli VanderBilt, Nathan Lambert, Yvonne Chou,
+      Arnavi Chheda, Jenna Sparks, Sam Skjonsberg, Michael Schmitz, Aaron Sarnat, Byron Bischoff,
+      Pete Walsh, Chris Newell, Piper Wolters, Tanmay Gupta, Kuo-Hao Zeng, Jon Borchardt, Dirk
+      Groeneveld, Crystal Nam, Sophie Lebrecht, Caitlin Wittlif, Carissa Schoenick, Oscar Michel,
+      Ranjay Krishna, Luca Weihs, Noah A. Smith, Hannaneh Hajishirzi, Ross Girshick, Ali Farhadi,
+      Aniruddha Kembhavi
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Deitke_Molmo_and_PixMo_Open_Weights_and_Open_Data_for_State-of-the-Art_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  - award: Best Paper Honorable Mention
+    title: 3D Student Splatting and Scooping
+    author: Jialin Zhu, Jiangbei Yue, Feixiang He, He Wang
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_3D_Student_Splatting_and_Scooping_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  - award: Best Student Paper Honorable Mention
+    title: Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens
+    author: Kaihang Pan, Wang Lin, Zhongqi Yue, Tenglong Ao, Liyu Jia, Wei Zhao, Juncheng Li,
+      Siliang Tang, Hanwang Zhang
+    link: https://openaccess.thecvf.com/content/CVPR2025/html/Pan_Generative_Multimodal_Pretraining_with_Discrete_Diffusion_Timestep_Tokens_CVPR_2025_paper.html
+    source: https://cvpr.thecvf.com/Conferences/2025/BestPapersDemos
+  place: Nashville, USA
+  date: June 11-15, 2025
+  sub: CV
+
+- venue: ICRA
+  year: 2025
+  awards:
+  - award: Best Paper on Robot Learning
+    title: 'Robo-DM: Data Management for Large Robot Datasets'
+    author: Kaiyuan Chen, Letian Fu, David Huang, Yanxiang Zhang, Yunliang Lawrence Chen, Huang
+      Huang, Kush Hari, Ashwin Balakrishna, Ted Xiao, Pannag Sanketi, John Kubiatowicz, Ken
+      Goldberg
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper in Field and Service Robotics
+    title: 'PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-Rich Manipulation Using
+      Tactile-Diffusion Policies'
+    author: Jialiang Zhao, Naveen Kuppuswamy, Siyuan Feng, Benjamin Burchfiel, Edward Adelson
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper on Human-Robot Interaction
+    title: Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition
+    author: Shengcheng Luo, Quanquan Peng, Jun Lv, Kaiwen Hong, Katherine Driggs-Campbell, Cewu
+      Lu, Yong-Lu Li
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper on Mechanisms and Design
+    title: Individual and Collective Behaviors in Soft Robot Worms Inspired by Living Worm Blobs
+    author: Carina Kaeser, Junghan Kwon, Elio Challita, Harry Tuazon, Robert Wood, Saad Bhamla,
+      Justin Werfel
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper on Planning and Control
+    title: 'No Plan but Everything under Control: Robustly Solving Sequential Tasks with Dynamically
+      Composed Gradient Descent'
+    author: Vito Mengers, Oliver Brock
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper on Robot Perception
+    title: 'MAC-VO: Metrics-Aware Covariance for Learning-Based Stereo Visual Odometry'
+    author: Yuheng Qiu, Yutian Chen, Zihao Zhang, Wenshan Wang, Sebastian Scherer
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper on Robot Manipulation and Locomotion
+    title: 'D(R, O) Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment
+      Dexterous Grasping'
+    author: Zhenyu Wei, Zhixuan Xu, Jingxiang Guo, Yiwen Hou, Chongkai Gao, Zhehao Cai, Jiayu
+      Luo, Lin Shao
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper in Automation
+    title: Physics-Aware Robotic Palletization with Online Masking Inference
+    author: Tianqi Zhang, Zheng Wu, Yuxin Chen, Yixiao Wang, Boyuan Liang, Scott Moura, Masayoshi
+      Tomizuka, Mingyu Ding, Wei Zhan
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper in Medical Robotics
+    title: In-Vivo Tendon-Driven Rodent Ankle Exoskeleton System for Sensorimotor Rehabilitation
+    author: Juwan Han, Seunghyeon Park, Keehoon Kim
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Paper on Multi-Robot Systems
+    title: 'Deploying Ten Thousand Robots: Scalable Imitation Learning for Lifelong Multi-Agent
+      Path Finding'
+    author: He Jiang, Yutong Wang, Rishi Veerapaneni, Tanishq Harish Duhan, Guillaume Adrien
+      Sartoretti, Jiaoyang Li
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Student Paper
+    title: 'Deploying Ten Thousand Robots: Scalable Imitation Learning for Lifelong Multi-Agent
+      Path Finding'
+    author: He Jiang, Yutong Wang, Rishi Veerapaneni, Tanishq Harish Duhan, Guillaume Adrien
+      Sartoretti, Jiaoyang Li
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Student Paper
+    title: 'ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane
+      from Colored Shadows'
+    author: Giuseppe Vitrani, Basile Pasquale, Michaël Wiertlewski
+    link: https://doi.org/10.1109/icra55743.2025.11128441
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Student Paper
+    title: 'Point and Go: Intuitive Reference Frame Reallocation in Mode Switching for Assistive
+      Robotics'
+    author: Allie Wang, Chen Jiang, Michael Przystupa, Justin Valentine, Martin Jagersand
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Student Paper
+    title: 'TinySense: A Lighter Weight and More Power-Efficient Avionics System for Flying
+      Insect-Scale Robots'
+    author: Zhitao Yu, Josh Tran, Claire Li, Aaron Weber, Yash P. Talwekar, Sawyer Fuller
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Conference Paper
+    title: Marginalizing and Conditioning Gaussians Onto Linear Approximations of Smooth Manifolds
+      with Applications in Robotics
+    author: Zi Cong Guo, James Richard Forbes, and Timothy Barfoot
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  - award: Best Conference Paper
+    title: 'MAC-VO: Metrics-Aware Covariance for Learning-Based Stereo Visual Odometry'
+    author: Yuheng Qiu, Yutian Chen, Zihao Zhang, Wenshan Wang, and Sebastian Scherer
+    link: https://2025.ieee-icra.org/program/awards-and-finalists/
+    source: https://2025.ieee-icra.org/program/awards-and-finalists/
+  place: Atlanta, USA
+  date: May 19-23, 2025
+  sub: RO
+
 - venue: ICLR
   year: 2025
   awards:
@@ -23,6 +1761,29 @@
   place: Singapore, Singapore
   date: April 24-28, 2025
   sub: ML
+
+- venue: 3DV
+  year: 2025
+  awards:
+  - award: Best Paper
+    title: 'An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion'
+    author: Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang
+    link: https://3dvconf.github.io/2025/awards/
+    source: https://3dvconf.github.io/2025/awards/
+  - award: Best Student Paper
+    title: 'MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion'
+    author: Bardienus Pieter Duisterhof, Lojze Zust, Philippe Weinzaepfel, Vincent Leroy, Yohann
+      Cabon, Jerome Revaud
+    link: https://3dvconf.github.io/2025/awards/
+    source: https://3dvconf.github.io/2025/awards/
+  - award: Best Paper Honorable Mention
+    title: 'MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation'
+    author: Hyunwoo Kim, Itai Lang, Thibault Groueix, Noam Aigerman, Vladimir Kim, Rana Hanocka
+    link: https://3dvconf.github.io/2025/awards/
+    source: https://3dvconf.github.io/2025/awards/
+  place: Singapore, Singapore
+  date: March 25-28, 2025
+  sub: CV
 
 - venue: AAAI
   year: 2025
@@ -170,6 +1931,229 @@
   date: December 10-15, 2024
   sub: ML
 
+- venue: Humanoids
+  year: 2024
+  awards:
+  - award: Best Oral Presentation
+    title: 'APriCoT: Action Primitives based on Contact-state Transition for In-Hand Tool Manipulation'
+    author: Daichi Saito, Atsushi Kanehira, Kazuhiro Sasabuchi, Naoki Wake, Jun Takamatsu, Hideki
+      Koike, Katsushi Ikeuchi
+    link: https://doi.org/10.1109/humanoids58906.2024.10769968
+    source: https://2024.ieee-humanoids.org/program-glance/awards/
+  - award: Best Interactive Presentation
+    title: 'Robot-assisted group exercise program for targeting sarcopenia in older adults:
+      Preliminary results'
+    author: M. Bogliolo, F. Burlando, A. Germinario, F. Vallone, A. Pilotto, E. Micheli
+    link: https://2024.ieee-humanoids.org/program-glance/awards/
+    source: https://2024.ieee-humanoids.org/program-glance/awards/
+  - award: Mike Stilman Award
+    title: 'CubiXMusashi: Fusion of Wire-Driven CubiX and Musculoskeletal Humanoid Musashi toward
+      Unlimited Performance'
+    author: Shintaro Inoue, Kento Kawaharazuka, Temma Suzuki, Sota Yuzaki, Yoshimoto Ribayashi,
+      Yuta Sahara, Kei Okada
+    link: https://2024.ieee-humanoids.org/program-glance/awards/
+    source: https://2024.ieee-humanoids.org/program-glance/awards/
+  place: Nancy, France
+  date: November 22-24, 2024
+  sub: RO
+
+- venue: EMNLP
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: An image speaks a thousand words, but can everyone listen? On image transcreation
+      for cultural relevance
+    author: Simran Khanuja, Sathyanarayanan Ramamoorthy, Yueqi Song, Graham Neubig
+    link: https://aclanthology.org/2024.emnlp-main.573/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: Towards Robust Speech Representation Learning for Thousands of Languages
+    author: William Chen, Wangyou Zhang, Yifan Peng, Xinjian Li, Jinchuan Tian, Jiatong Shi,
+      Xuankai Chang, Soumi Maiti, Karen Livescu, Shinji Watanabe
+    link: https://aclanthology.org/2024.emnlp-main.570/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: 'Backward Lens: Projecting Language Model Gradients into the Vocabulary Space'
+    author: Shahar Katz, Yonatan Belinkov, Mor Geva, Lior Wolf
+    link: https://aclanthology.org/2024.emnlp-main.142/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: 'Pretraining Data Detection for Large Language Models: A Divergence-based Calibration
+      Method'
+    author: Weichao Zhang, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng
+    link: https://aclanthology.org/2024.emnlp-main.300/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: 'CoGen: Learning from Feedback with Coupled Comprehension and Generation'
+    author: Mustafa Omer Gul, Yoav Artzi
+    link: https://aclanthology.org/2024.emnlp-main.721/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Fishing for Magikarp: Automatically Detecting Under-trained Tokens in Large Language
+      Models'
+    author: Sander Land, Max Bartolo
+    link: https://aclanthology.org/2024.emnlp-main.649/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Learning to Retrieve Iteratively for In-Context Learning
+    author: Yunmo Chen, Tongfei Chen, Harsh Jhamtani, Patrick Xia, Richard Shin, Jason Eisner,
+      Benjamin Van Durme
+    link: https://aclanthology.org/2024.emnlp-main.406/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Measuring Psychological Depth in Language Models
+    author: Fabrice Y Harel-Canada, Hanyu Zhou, Sreya Muppalla, Zeynep Senahan Yildiz, Miryung
+      Kim, Amit Sahai, Nanyun Peng
+    link: https://aclanthology.org/2024.emnlp-main.953/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases
+      with LLMs
+    author: Alexander Spangher, Nanyun Peng, Sebastian Gehrmann, Mark Dredze
+    link: https://aclanthology.org/2024.emnlp-main.1216/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability
+      in Text-to-Image Generation'
+    author: Raphael Tang, Crystina Zhang, Lixinyu Xu, Yao Lu, Wenyan Li, Pontus Stenetorp, Jimmy
+      Lin, Ferhan Ture
+    link: https://aclanthology.org/2024.emnlp-main.311/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Finding Blind Spots in Evaluator LLMs with Interpretable Checklists
+    author: Sumanth Doddapaneni, Mohammed Safi Ur Rahman Khan, Sshubam Verma, Mitesh M Khapra
+    link: https://aclanthology.org/2024.emnlp-main.911/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity
+      Theory'
+    author: Wei Fan, Haoran Li, Zheye Deng, Weiqi Wang, Yangqiu Song
+    link: https://aclanthology.org/2024.emnlp-main.195/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Verification and Refinement of Natural Language Explanations through LLM-Symbolic
+      Theorem Proving
+    author: Xin Quan, Marco Valentino, Louise A. Dennis, Andre Freitas
+    link: https://aclanthology.org/2024.emnlp-main.172/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: The Zeno’s Paradox of ‘Low-Resource’ Languages
+    author: Hellina Hailu Nigatu, Atnafu Lambebo Tonja, Benjamin Rosman, Thamar Solorio, Monojit
+      Choudhury
+    link: https://aclanthology.org/2024.emnlp-main.983/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: When Is Multilinguality a Curse? Language Modeling for 250 High- and Low-Resource
+      Languages
+    author: Tyler A. Chang, Catherine Arnett, Zhuowen Tu, Benjamin K. Bergen
+    link: https://aclanthology.org/2024.emnlp-main.236/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing
+      AANNs'
+    author: Kanishka Misra, Kyle Mahowald
+    link: https://aclanthology.org/2024.emnlp-main.53/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support
+      Setting
+    author: Maxime Kayser, Bayar Menzat, Cornelius Emde, Bogdan Bercean, Alex Novak, Abdala
+      Espinosa, Bartlomiej W. Papiez, Susanne Gaube, Thomas Lukasiewicz, Oana-Maria Camburu
+    link: https://aclanthology.org/2024.emnlp-main.1051/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Threshold-driven Pruning with Segmented Maximum Term Weights for Approximate Cluster-based
+      Sparse Retrieval
+    author: Yifan Qiao, Parker Carlson, Shanxiu He, Yingrui Yang, Tao Yang
+    link: https://aclanthology.org/2024.emnlp-main.1101/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing
+    author: Fangkai Jiao, Chengwei Qin, Zhengyuan Liu, Nancy F. Chen, Shafiq Joty
+    link: https://aclanthology.org/2024.emnlp-main.20/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Are Large Language Models Capable of Generating Human-Level Narratives?
+    author: Yufei Tian, Tenghao Huang, Miri Liu, Derek Jiang, Alexander Spangher, Muhao Chen,
+      Jonathan May, Nanyun Peng
+    link: https://aclanthology.org/2024.emnlp-main.978/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Formality is Favored: Unraveling the Learning Preferences of Large Language Models
+      on Data with Conflicting Knowledge'
+    author: Jiahuan Li, Yiqing Cao, Shujian Huang, Jiajun Chen
+    link: https://aclanthology.org/2024.emnlp-main.304/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'OATH-Frames: Characterizing Online Attitudes Towards Homelessness with LLM Assistants'
+    author: Jaspreet Ranjit, Brihi Joshi, Rebecca Dorn, Laura Petry, Olga Koumoundouros, Jayne
+      Bottarini, Peichen Liu, Eric Rice, Swabha Swayamdipta
+    link: https://aclanthology.org/2024.emnlp-main.724/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories'
+    author: Ben Bogin, Kejuan Yang, Shashank Gupta, Kyle Richardson, Erin Bransom, Peter Clark,
+      Ashish Sabharwal, Tushar Khot
+    link: https://aclanthology.org/2024.emnlp-main.702/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from
+      Multilingual Knowledge Graphs
+    author: Simone Conia, Daniel Lee, Min Li, Umar Farooq Minhas, Saloni Potdar, Yunyao Li
+    link: https://aclanthology.org/2024.emnlp-main.914/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Which questions should I answer? Salience Prediction of Inquisitive Questions
+    author: Yating Wu, Ritika Mangla, Alexandros G. Dimakis, Greg Durrett, Junyi Jessy Li
+    link: https://aclanthology.org/2024.emnlp-main.1114/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Demo Paper Award
+    title: 'OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal
+      Conversational Agents'
+    author: Qiang Sun, Yuanyi Luo, Sirui Li, Wenxiao Zhang, Wei Liu
+    link: https://aclanthology.org/2024.emnlp-demo.5/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Outstanding Demo Paper
+    title: 'sign.mt: Real-Time Multilingual Sign Language Translation Application'
+    author: Amit Moryossef
+    link: https://aclanthology.org/2024.emnlp-demo.19/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Resource Paper
+    title: 'KidLM: Advancing Language Models for Children – Early Insights and Future Directions'
+    author: Mir Tafseer Nayeem, Davood Rafiei
+    link: https://aclanthology.org/2024.emnlp-main.277/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Resource Paper
+    title: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
+    author: Jiayin Wang, Fengran Mo, Weizhi Ma, Peijie Sun, Min Zhang, Jian-Yun Nie
+    link: https://aclanthology.org/2024.emnlp-main.210/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Social Impact Paper
+    title: What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine Translation
+      with a Human-centered Study
+    author: Beatrice Savoldi, Sara Papi, Matteo Negri, Ana Guerberof-Arenas, Luisa Bentivogli
+    link: https://aclanthology.org/2024.emnlp-main.1002/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Social Impact Paper
+    title: STOP! Benchmarking Large Language Models with Sensitivity Testing on Offensive Progressions
+    author: Robert Morabito, Sangmitra Madhusudan, Tyler McDonald, Ali Emami
+    link: https://aclanthology.org/2024.emnlp-main.243/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Social Impact Paper
+    title: 'Twists, Humps, and Pebbles: Multilingual Speech Recognition Models Exhibit Gender
+      Performance Gaps'
+    author: Giuseppe Attanasio, Beatrice Savoldi, Dennis Fucci, Dirk Hovy
+    link: https://aclanthology.org/2024.emnlp-main.1188/
+    source: https://2024.emnlp.org/program/best_papers/
+  - award: Best Special Theme Paper
+    title: 'DEM: Distribution Edited Model for Training with Mixed Data Distributions'
+    author: Dhananjay Ram, Aditya Rawal, Momchil Hardalov, Nikolaos Pappas, Sheng Zha
+    link: https://aclanthology.org/2024.emnlp-main.1074/
+    source: https://2024.emnlp.org/program/best_papers/
+  place: Miami, USA
+  date: November 12-16, 2024
+  sub: NLP
+
 - venue: CoRL
   year: 2024
   awards:
@@ -285,6 +2269,59 @@
     source: https://www.youtube.com/live/LJYOVsKJMsI?feature=shared&t=12212
   place: Abu Dhabi, UAE
   date: October 14-18, 2024
+  sub: RO
+
+- venue: ECCV
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: Minimalist Vision with Freeform Pixels
+    author: J. Klotz, S. Nayar
+    link: https://www.thecvf.com/?page_id=413
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Paper Honorable Mention
+    title: 'Rasterized Edge Gradients: Handling Discontinuities Differentially'
+    author: S. Pidhorskyi, T. Simon, G. Schwartz, H. Wen, Y. Sheikh, J. Saragih
+    link: https://www.thecvf.com/?page_id=413
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Paper Honorable Mention
+    title: Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models
+    author: V. Petsiuk, K. Saenko
+    link: https://www.thecvf.com/?page_id=413
+    source: https://www.thecvf.com/?page_id=413
+  place: Milan, Italy
+  date: September 29 - October 4, 2024
+  sub: CV
+
+- venue: CASE
+  year: 2024
+  awards:
+  - award: Best Paper
+    title: Semantic Behaviour Tree Learning through Kinesthetic Demonstrations for Position-Force
+      Controlled Robotic Applications
+    author: Lorenzo Fratini, Niccolò Lucci, Matteo Malavenda, Andrea Maria Zanchettin, and Paolo
+      Rocco
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-conference-paper-award/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-conference-paper-award/
+  - award: Best Student Paper
+    title: 'Adaptive Responses of Cancer Cells to Tumor Microenvironment Changes: An Evolutionary
+      Model Perspective'
+    author: Chiara Romano, Alessandro Borri, Maria Domenica Di Benedetto
+    link: https://doi.org/10.1109/case59546.2024.10711752
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-student-paper-award/
+  - award: Best Application Paper
+    title: Multi-Agent Path Planning for Finite Horizon Tasks with Counting Time Temporal Logics
+    author: Peng Lv, Shaoyuan Li, and Xiang Yin
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-application-paper-award/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-application-paper-award/
+  - award: Peter Luh Memorial Best Paper for Young Researcher
+    title: An efficient parallel single surrogate objective optimization method for multi-objective
+      black-box problem and its application in processor design
+    author: Xiaoliang Lv, Qiaozhu Zhai, Yuhang Zhu, Jianchen Hu, Yuzhou Zhou, and Xiaohong Guan
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
+  place: Bari, Italy
+  date: August 28 - September 1, 2024
   sub: RO
 
 - venue: ACL
@@ -844,6 +2881,18 @@
   date: February 20-27, 2024
   sub: AI
 
+- venue: Humanoids
+  year: 2023
+  awards:
+  - award: Best Oral Paper
+    title: Visual servoing for dual arm shaping of soft objects in 3D
+    author: Célia Saghour, Mathieu Célérier, Philippe Fraisse, Andrea Cherubini
+    link: https://doi.org/10.1109/Humanoids57100.2023.10375172
+    source: https://www.lirmm.fr/2023/12/19/congratulations-to-celia-saghour-who-won-the-best-oral-paper-award-at-the-ieee-humanoids-2023-conference/
+  place: Austin, USA
+  date: December 12-14, 2023
+  sub: RO
+
 - venue: NeurIPS
   year: 2023
   awards:
@@ -901,6 +2950,188 @@
   place: New Orleans, USA
   date: December 10-16, 2023
   sub: ML
+
+- venue: EMNLP
+  year: 2023
+  awards:
+  - award: Best Paper
+    title: 'Label Words are Anchors: An Information Flow Perspective for Understanding In-Context
+      Learning'
+    author: Lean Wang, Lei Li, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
+    link: https://aclanthology.org/2023.emnlp-main.609/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: Faster Minimum Bayes Risk Decoding with Confidence-based Pruning
+    author: Julius Cheng, Andreas Vlachos
+    link: https://aclanthology.org/2023.emnlp-main.767/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: 'Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through
+      a Global Prompt Hacking Competition'
+    author: Sander Schulhoff, Jeremy Pinto, Anaum Khan, Louis-François Bouchard, Chenglei Si,
+      Svetlina Anati, Valen Tagliabue, Anson Kost, Christopher Carnahan, Jordan Boyd-Graber
+    link: https://aclanthology.org/2023.emnlp-main.302/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: 'PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich
+      Scientific Documents'
+    author: Kyle Lo, Zejiang Shen, Benjamin Newman, Joseph Chang, Russell Authur, Erin Bransom,
+      Stefan Candra, Yoganand Chandrasekhar, Regan Huff, Bailey Kuehl, Amanpreet Singh, Chris
+      Wilhelm, Angele Zamarron, Marti A. Hearst, Daniel Weld, Doug Downey, Luca Soldaini
+    link: https://aclanthology.org/2023.emnlp-demo.45/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Best Paper
+    title: Personalized Dense Retrieval on Global Index for Voice-enabled Conversational Systems
+    author: Masha Belyi, Charlotte Dzialo, Chaitanya Dwivedi, Prajit Muppidi, Kanna Shimizu
+    link: https://aclanthology.org/2023.emnlp-industry.9/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models
+      with First-Order Logic Provers'
+    author: Theo Olausson, Alex Gu, Ben Lipkin, Cedegao Zhang, Armando Solar-Lezama, Joshua
+      Tenenbaum, Roger Levy
+    link: https://aclanthology.org/2023.emnlp-main.313/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Toward a Critical Toponymy Framework for Named Entity Recognition: A Case Study
+      of Airbnb in New York City'
+    author: Mikael Brunila, Jack LaViolette, Sky CH-Wang, Priyanka Verma, Clara Féré, Grant
+      McKenzie
+    link: https://aclanthology.org/2023.emnlp-main.284/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization'
+    author: Hyunwoo Kim, Jack Hessel, Liwei Jiang, Peter West, Ximing Lu, Youngjae Yu, Pei Zhou,
+      Ronan Bras, Malihe Alikhani, Gunhee Kim, Maarten Sap, Yejin Choi
+    link: https://aclanthology.org/2023.emnlp-main.799/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Incorporating Worker Perspectives into MTurk Annotation Practices for NLP
+    author: Olivia Huang, Eve Fleisig, Dan Klein
+    link: https://aclanthology.org/2023.emnlp-main.64/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Physician Detection of Clinical Harm in Machine Translation: Quality Estimation
+      Aids in Reliance and Backtranslation Identifies Critical Errors'
+    author: Nikita Mehandru, Sweta Agrawal, Yimin Xiao, Ge Gao, Elaine Khoong, Marine Carpuat,
+      Niloufar Salehi
+    link: https://aclanthology.org/2023.emnlp-main.712/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Preserving Knowledge Invariance: Rethinking Robustness Evaluation of Open Information
+      Extraction'
+    author: Ji Qi, Chuchun Zhang, Xiaozhi Wang, Kaisheng Zeng, Jifan Yu, Jinxin Liu, Lei Hou,
+      Juanzi Li, Xu Bin
+    link: https://aclanthology.org/2023.emnlp-main.360/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agents
+    author: Weiwei Sun, Lingyong Yan, Xinyu Ma, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei
+      Yin, Zhaochun Ren
+    link: https://aclanthology.org/2023.emnlp-main.923/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Unraveling Feature Extraction Mechanisms in Neural Networks
+    author: Xiaobing Sun, Jiaxi Li, Wei Lu
+    link: https://aclanthology.org/2023.emnlp-main.650/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'ViPE: Visualise Pretty-much Everything'
+    author: Hassan Shahmohammadi, Adhiraj Ghosh, Hendrik Lensch
+    link: https://aclanthology.org/2023.emnlp-main.333/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Revisiting the Optimality of Word Lengths
+    author: Tiago Pimentel, Clara Meister, Ethan Wilcox, Kyle Mahowald, Ryan Cotterell
+    link: https://aclanthology.org/2023.emnlp-main.137/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Language Model Quality Correlates with Psychometric Predictive Power in Multiple
+      Languages
+    author: Ethan Wilcox, Clara Meister, Ryan Cotterell, Tiago Pimentel
+    link: https://aclanthology.org/2023.emnlp-main.466/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'FedID: Federated Interactive Distillation for Large-Scale Pretraining Language Models'
+    author: Xinge Ma, Jiangming Liu, Jin Wang, Xuejie Zhang
+    link: https://aclanthology.org/2023.emnlp-main.529/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Ties Matter: Meta-Evaluating Modern Metrics with Pairwise Accuracy and Tie Calibration'
+    author: Daniel Deutsch, George Foster, Markus Freitag
+    link: https://aclanthology.org/2023.emnlp-main.798/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models
+    author: Jirui Qi, Raquel Fernández, Arianna Bisazza
+    link: https://aclanthology.org/2023.emnlp-main.658/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Look-back Decoding for Open-Ended Text Generation
+    author: Nan Xu, Chunting Zhou, Asli Celikyilmaz, Xuezhe Ma
+    link: https://aclanthology.org/2023.emnlp-main.66/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Text Embeddings Reveal (Almost) As Much As Text
+    author: John Morris, Volodymyr Kuleshov, Vitaly Shmatikov, Alexander Rush
+    link: https://aclanthology.org/2023.emnlp-main.765/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Understanding Compositional Data Augmentation in Typologically Diverse Morphological
+      Inflection
+    author: Farhan Samir, Miikka Silfverberg
+    link: https://aclanthology.org/2023.emnlp-main.19/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions'
+    author: Wenhao Yu, Meng Jiang, Peter Clark, Ashish Sabharwal
+    link: https://aclanthology.org/2023.emnlp-main.515/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May
+      Think - Introducing AI Detectability Index (ADI)'
+    author: Megha Chakraborty, S.M Towhidul Islam Tonmoy, S M Mehedi Zaman, Krish Sharma, Niyar
+      R Barman, Chandan Gupta, Shreya Gautam, Tanay Kumar, Vinija Jain, Aman Chadha, Amit P.
+      Sheth, Amitava Das
+    link: https://aclanthology.org/2023.emnlp-main.136/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Bridging Continuous and Discrete Spaces: Interpretable Sentence Representation Learning
+      via Compositional Operations'
+    author: James Y. Huang, Wenlin Yao, Kaiqiang Song, Hongming Zhang, Muhao Chen, Dong Yu
+    link: https://aclanthology.org/2023.emnlp-main.900/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis'
+    author: Pranav Narayanan Venkit, Mukund Srinath, Sanjana Gautam, Saranya Venkatraman, Vipul
+      Gupta, Rebecca J. Passonneau, Shomir Wilson
+    link: https://aclanthology.org/2023.emnlp-main.848/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers
+    author: Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi
+    link: https://aclanthology.org/2023.emnlp-main.513/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: Background Summarization of Event Timelines
+    author: Adithya Pratapa, Kevin Small, Markus Dreyer
+    link: https://aclanthology.org/2023.emnlp-main.505/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Linear-Time Modeling of Linguistic Structure: An Order-Theoretic Perspective'
+    author: Tianyu Liu, Afra Amini, Mrinmaya Sachan, Ryan Cotterell
+    link: https://aclanthology.org/2023.emnlp-main.52/
+    source: https://2023.emnlp.org/program/best_papers/
+  - award: Outstanding Paper
+    title: 'Joint Dialogue Topic Segmentation and Categorization: A Case Study on Clinical Spoken
+      Conversations'
+    author: Zhengyuan Liu, Siti Umairah Md Salleh, Hong Choon Oh, Pavitra Krishnaswamy, Nancy
+      Chen
+    link: https://aclanthology.org/2023.emnlp-industry.19/
+    source: https://2023.emnlp.org/program/best_papers/
+  place: Singapore, Singapore
+  date: December 6-10, 2023
+  sub: NLP
 
 - venue: CoRL
   year: 2023
@@ -1499,6 +3730,24 @@
   date: December 14-18, 2022
   sub: RO
 
+- venue: EMNLP
+  year: 2022
+  awards:
+  - award: Best Long Paper
+    title: Abstract Visual Reasoning with Tangram Shapes
+    author: Anya Ji, Noriyuki Kojima, Noah Rush, Alane Suhr, Wai Keen Vong, Robert Hawkins,
+      Yoav Artzi
+    link: https://aclanthology.org/2022.emnlp-main.38/
+    source: https://aisb.org.uk/conference-reports-empirical-methods-in-natural-language-processing-emnlp-2022/
+  - award: Best Short Paper
+    title: Topic-Regularized Authorship Representation Learning
+    author: Jitkapat Sawatphol, Nonthakit Chaiwong, Can Udomcharoenchaikit, Sarana Nutanong
+    link: https://aclanthology.org/2022.emnlp-main.70/
+    source: https://aisb.org.uk/conference-reports-empirical-methods-in-natural-language-processing-emnlp-2022/
+  place: Abu Dhabi, UAE
+  date: December 7-11, 2022
+  sub: NLP
+
 - venue: NeurIPS
   year: 2022
   awards:
@@ -1702,6 +3951,28 @@
   date: October 23-27, 2022
   sub: RO
 
+- venue: ECCV
+  year: 2022
+  awards:
+  - award: Best Paper
+    title: On the Versatile Uses of Partial Distance Correlation in Deep Learning
+    author: X. Zhen, Z. Meng, R. Chakraborty, V. Singh
+    link: https://www.thecvf.com/?page_id=413
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Paper Honorable Mention
+    title: 'Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields'
+    author: G. Tiwari, D. Antic, J. Lenssen, N. Sarafianos, T. Tung, G. Pons-Moll
+    link: https://www.thecvf.com/?page_id=413
+    source: https://www.thecvf.com/?page_id=413
+  - award: Best Paper Honorable Mention
+    title: A Level Set Theory for Neural Implicit Evolution under Explicit Flows
+    author: I. Mehta, M. Chandraker, R. Ramamoorthi
+    link: https://www.thecvf.com/?page_id=413
+    source: https://www.thecvf.com/?page_id=413
+  place: Tel Aviv, Israel
+  date: October 23-27, 2022
+  sub: CV
+
 - venue: 3DV
   year: 2022
   awards:
@@ -1878,6 +4149,19 @@
     source: https://roboticsconference.org/2022/program/testoftimeaward/
   place: New York, USA
   date: June 27 - July 1, 2022
+  sub: RO
+
+- venue: WAFR
+  year: 2022
+  awards:
+  - award: Outstanding Paper
+    title: Finding and Optimizing Certified, Collision-Free Regions in Configuration Space for
+      Robot Manipulators
+    author: Alexandre Amice, Hongkai Dai, Peter Werner, Annan Zhang, Russ Tedrake
+    link: https://wafr2022.github.io/proceedings/WAFR_2022_Final_60.pdf
+    source: https://locomotion.csail.mit.edu/index.html
+  place: College Park, USA
+  date: June 22-24, 2022
   sub: RO
 
 - venue: CVPR
@@ -2507,38 +4791,6 @@
   date: August 2-5, 2021
   sub: NLP
 
-- venue: Humanoids
-  year: 2020
-  awards:
-  - award: Best Oral Paper
-    title: Development of Musculoskeletal Legs with Planar Interskeletal Structures
-      to Realize Human Comparable Moving Function
-    author: Moritaka Onitsuka, Manabu Nishiura, Kento Kawaharazuka, Kei Tsuzuki, Yasunori
-      Toshimitsu, Yusuke Omura, Yuki Asano, Kei Okada, Koji Kawasaki, Masayuki Inaba
-    link: https://ieeexplore.ieee.org/abstract/document/9555807
-    source: https://humanoids-2020.org/conference-program/awards/index.html
-  - award: Best Interactive Paper
-    title: Deep Episodic Memory for Verbalization of Robot Experience
-    author: Leonard Bärmann, Fabian Peller-Konrad, Stefan Constantin, Tamim Asfour,
-      Alex Waibel
-    link: https://ieeexplore.ieee.org/abstract/document/9444649
-    source: https://humanoids-2020.org/conference-program/awards/index.html
-  - award: Mike Stilman Paper
-    title: 'Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic
-      Robotic Hand Design'
-    author: Li Tian, Hanhui Li, QiFa Wang, Xuezeng Du, Jialin Tao, Jordan Chong, Nadia
-      Magnenat Thalmann, Jianmin Zheng
-    link: https://arxiv.org/abs/2012.10981
-    source: https://humanoids-2020.org/conference-program/awards/index.html
-  - award: Most Influential Paper
-    title: 'Capture Point: A Step toward Humanoid Push Recovery'
-    author: Jerry Pratt, John Carff, Sergey Drakunov, Ambarish Goswami
-    link: https://ieeexplore.ieee.org/abstract/document/4115602
-    source: https://humanoids-2020.org/conference-program/awards/index.html
-  place: Munich, Germany
-  date: July 19-21, 2021
-  sub: RO
-
 - venue: ICML
   year: 2021
   awards:
@@ -3038,6 +5290,38 @@
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/81-ieee-case-best-application-paper-award-sponsored-by-qsi
   place: Online
   date: August 20-21, 2020
+  sub: RO
+
+- venue: Humanoids
+  year: 2020
+  awards:
+  - award: Best Oral Paper
+    title: Development of Musculoskeletal Legs with Planar Interskeletal Structures
+      to Realize Human Comparable Moving Function
+    author: Moritaka Onitsuka, Manabu Nishiura, Kento Kawaharazuka, Kei Tsuzuki, Yasunori
+      Toshimitsu, Yusuke Omura, Yuki Asano, Kei Okada, Koji Kawasaki, Masayuki Inaba
+    link: https://ieeexplore.ieee.org/abstract/document/9555807
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  - award: Best Interactive Paper
+    title: Deep Episodic Memory for Verbalization of Robot Experience
+    author: Leonard Bärmann, Fabian Peller-Konrad, Stefan Constantin, Tamim Asfour,
+      Alex Waibel
+    link: https://ieeexplore.ieee.org/abstract/document/9444649
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  - award: Mike Stilman Paper
+    title: 'Towards Complex and Continuous Manipulation: A Gesture Based Anthropomorphic
+      Robotic Hand Design'
+    author: Li Tian, Hanhui Li, QiFa Wang, Xuezeng Du, Jialin Tao, Jordan Chong, Nadia
+      Magnenat Thalmann, Jianmin Zheng
+    link: https://arxiv.org/abs/2012.10981
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  - award: Most Influential Paper
+    title: 'Capture Point: A Step toward Humanoid Push Recovery'
+    author: Jerry Pratt, John Carff, Sergey Drakunov, Ambarish Goswami
+    link: https://ieeexplore.ieee.org/abstract/document/4115602
+    source: https://humanoids-2020.org/conference-program/awards/index.html
+  place: Munich, Germany
+  date: July 19-21, 2021
   sub: RO
 
 - venue: ICML
