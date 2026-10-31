@@ -192,7 +192,7 @@
   - award: Best Paper
     title: 'LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding'
     author: Yumin Lee, Hyoseok Ju, Giseop Kim
-    link: https://team-aprl.github.io/publications.html?year=2026&venue=iros&q=LT-Mem#lt-mem
+    link: https://arxiv.org/abs/2608.19059
     source: https://team-aprl.github.io/news.html
   place: Pittsburgh, USA
   date: September 27 - October 1, 2026
@@ -1163,7 +1163,7 @@
       Capture'
     author: Chengxu Zuo, Jiawei Huang, Xiao Jiang, Yuan Yao, Xiangren Shi, Rui Cao, Xinyu Yi,
       Feng Xu, Shihui Guo, Yipeng Qin
-    link: https://eprints.bournemouth.ac.uk/41394/1/1351%20TIC.pdf
+    link: https://arxiv.org/abs/2506.10580
     source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
   - award: Best Paper Honorable Mention
     title: 'Lifting the Winding Number: Precise Discontinuities in Neural Fields for Physics
@@ -1797,18 +1797,18 @@
   - award: Best Paper
     title: 'An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion'
     author: Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang
-    link: https://3dvconf.github.io/2025/awards/
+    link: https://arxiv.org/abs/2408.03178
     source: https://3dvconf.github.io/2025/awards/
   - award: Best Student Paper
     title: 'MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion'
     author: Bardienus Pieter Duisterhof, Lojze Zust, Philippe Weinzaepfel, Vincent Leroy, Yohann
       Cabon, Jerome Revaud
-    link: https://3dvconf.github.io/2025/awards/
+    link: https://arxiv.org/abs/2409.19152
     source: https://3dvconf.github.io/2025/awards/
   - award: Best Paper Honorable Mention
     title: 'MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation'
     author: Hyunwoo Kim, Itai Lang, Thibault Groueix, Noam Aigerman, Vladimir Kim, Rana Hanocka
-    link: https://3dvconf.github.io/2025/awards/
+    link: https://arxiv.org/abs/2408.14899
     source: https://3dvconf.github.io/2025/awards/
   place: Singapore, Singapore
   date: March 25-28, 2025
@@ -4193,7 +4193,7 @@
     title: Finding and Optimizing Certified, Collision-Free Regions in Configuration Space for
       Robot Manipulators
     author: Alexandre Amice, Hongkai Dai, Peter Werner, Annan Zhang, Russ Tedrake
-    link: https://wafr2022.github.io/proceedings/WAFR_2022_Final_60.pdf
+    link: https://arxiv.org/abs/2205.03690
     source: https://locomotion.csail.mit.edu/index.html
   place: College Park, USA
   date: June 22-24, 2022
