@@ -424,6 +424,12 @@
     author: Li Qiwei, Wells Lucas Santo, Sarita Schoenebeck, Eric Gilbert
     link: https://icml.cc/virtual/2026/oral/71187
     source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
+  - award: Test of Time
+    title: Asynchronous Methods for Deep Reinforcement Learning
+    author: Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap,
+      Tim Harley, David Silver, Koray Kavukcuoglu
+    link: https://proceedings.mlr.press/v48/mniha16.html
+    source: https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/
   place: Seoul, South Korea
   date: July 6-11, 2026
   sub: ML
@@ -737,6 +743,18 @@
     author: Noah Amsel, David Persson, Christopher Musco, Robert M. Gower
     link: https://openreview.net/forum?id=yRtgZ1K8hO
     source: https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/
+  - award: Test of Time
+    title: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial
+      Networks
+    author: Alec Radford, Luke Metz, Soumith Chintala
+    link: https://arxiv.org/abs/1511.06434
+    source: https://blog.iclr.cc/2026/04/22/announcing-the-test-of-time-awards-from-iclr-2016/
+  - award: Test of Time
+    title: Continuous control with deep reinforcement learning
+    author: Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez,
+      Yuval Tassa, David Silver, Daan Wierstra
+    link: https://arxiv.org/abs/1509.02971
+    source: https://blog.iclr.cc/2026/04/22/announcing-the-test-of-time-awards-from-iclr-2016/
   place: Rio de Janeiro, Brazil
   date: April 23-27, 2026
   sub: ML
@@ -900,6 +918,11 @@
     author: Yizhou Liu, Ziming Liu, Jeff Gore
     link: https://openreview.net/forum?id=knPz7gtjPW
     source: https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/
+  - award: Test of Time
+    title: 'Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks'
+    author: Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun
+    link: https://arxiv.org/abs/1506.01497
+    source: https://blog.neurips.cc/2025/11/26/announcing-the-test-of-time-paper-award-for-neurips-2025/
   place: San Diego, USA
   date: December 2-7, 2025
   sub: ML
@@ -1099,6 +1122,12 @@
     author: Zijue Chen, Heng Wang, and Dayalan Gunasegaram
     link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
+  - award: Best Healthcare Automation Paper
+    title: Dynamic Allocation of Medical Examination Resources in Hospitals with Varying Appointment
+      Preferences
+    author: Fangyu Zong, Mirui Zhang, Yue Zhao, Zhenghao Fan, Feifan Wang
+    link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-healthcare-automation-paper-award/
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-healthcare-automation-paper-award/
   place: Los Angeles, USA
   date: August 17-21, 2025
   sub: RO
@@ -1110,31 +1139,31 @@
     title: Shape Space Spectra
     author: Yue Chang, Otman Benchekroun, Maurizio M. Chiaramonte, Peter Yichen Chen, Eitan
       Grinspun
-    link: https://s2025.conference-schedule.org/presentation/?id=papers_139&sess=sess140
+    link: https://www.dgp.toronto.edu/projects/sss/
     source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
   - award: Best Paper
     title: 'CAST: Component-Aligned 3D Scene Reconstruction From an RGB Image'
     author: Kaixin Yao, Longwen Zhang, Xinhao Yan, Yan Zeng, Qixuan Zhang, Jiayuan Gu, Wei Yang,
       Lan Xu, Jingyi Yu
-    link: https://s2025.conference-schedule.org/presentation/?id=papers_364&sess=sess103
+    link: https://arxiv.org/abs/2502.12894
     source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
   - award: Best Paper
     title: 'TokenVerse: Versatile Multi-Concept Personalization in Token Modulation Space'
     author: Daniel Garibi, Shahar Yadin, Roni Paiss, Omer Tov, Shiran Zada, Ariel Ephrat, Tomer
       Michaeli, Inbar Mosseri, Tali Dekel
-    link: https://s2025.conference-schedule.org/presentation/?id=papers_396&sess=sess148
+    link: https://arxiv.org/abs/2501.12224
     source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
   - award: Best Paper
     title: Vector-Valued Monte Carlo Integration Using Ratio Control Variates
     author: Haolin Lu, Delio Vicini, Wesley Chang, Tzu-Mao Li
-    link: https://s2025.conference-schedule.org/presentation/?id=papers_635&sess=sess127
+    link: https://dvicini.github.io/ratio-control-variates/
     source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
   - award: Best Paper
     title: 'Transformer IMU Calibrator: Dynamic On-Body IMU Calibration for Inertial Motion
       Capture'
     author: Chengxu Zuo, Jiawei Huang, Xiao Jiang, Yuan Yao, Xiangren Shi, Rui Cao, Xinyu Yi,
       Feng Xu, Shihui Guo, Yipeng Qin
-    link: https://s2025.conference-schedule.org/presentation/?id=papers_1351&sess=sess139
+    link: https://eprints.bournemouth.ac.uk/41394/1/1351%20TIC.pdf
     source: https://blog.siggraph.org/2025/06/siggraph-2025-technical-papers-awards-best-papers-honorable-mentions-and-test-of-time.html/
   - award: Best Paper Honorable Mention
     title: 'Lifting the Winding Number: Precise Discontinuities in Neural Fields for Physics
@@ -2320,6 +2349,12 @@
     author: Xiaoliang Lv, Qiaozhu Zhai, Yuhang Zhu, Jianchen Hu, Yuzhou Zhou, and Xiaohong Guan
     link: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
     source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-peter-luh-memorial-best-paper-award-for-young-researcher/
+  - award: Best Healthcare Automation Paper
+    title: Automating 3D Surgical Suture Planning
+    author: Viraj Ramakrishnan, Julia Isaac, Harshika Jalan, Harsha Polavaram, Aviv Adler, Hansoul
+      Kim, Danyal M. Fer, Ken Goldberg
+    link: https://autolab.berkeley.edu/assets/publications/media/case-2024-viraj-suture-placement-final.pdf
+    source: https://www.ieee-ras.org/awards-recognition/conference-awards/ieee-case-best-healthcare-automation-paper-award/
   place: Bari, Italy
   date: August 28 - September 1, 2024
   sub: RO

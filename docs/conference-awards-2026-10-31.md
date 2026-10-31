@@ -2,7 +2,7 @@
 
 Before this update, the last content commit added **AAAI 2025** (May 20, 2025). The latest conference by event date was **ICLR 2025**, April 24–28, 2025.
 
-Added **36 conference editions** and **343 award records** for existing venue series. Existing conference records and citation counts are unchanged. Entries are sorted by conference start date, newest first.
+Added **36 conference editions** and **349 award records** for existing venue series. Existing conference records and citation counts are unchanged. Entries are sorted by conference start date, newest first.
 
 ## Added editions
 
@@ -13,18 +13,18 @@ Each award in `_data/papers.yml` records its verification source. Paper titles l
 | 3DV | 2025, 2026 | 5 |
 | AAAI | 2026 | 15 |
 | ACL | 2025, 2026 | 73 |
-| CASE | 2024, 2025, 2026 | 9 |
+| CASE | 2024, 2025, 2026 | 11 |
 | CoRL | 2025 | 3 |
 | CVPR | 2025, 2026 | 12 |
 | ECCV | 2022, 2024, 2026 | 9 |
 | EMNLP | 2022, 2023, 2024, 2025, 2026 | 106 |
 | Humanoids | 2023, 2024, 2025 | 7 |
 | ICCV | 2025 | 4 |
-| ICLR | 2026 | 3 |
-| ICML | 2025, 2026 | 20 |
+| ICLR | 2026 | 5 |
+| ICML | 2025, 2026 | 21 |
 | ICRA | 2025, 2026 | 22 |
 | IROS | 2025, 2026 | 3 |
-| NeurIPS | 2025 | 7 |
+| NeurIPS | 2025 | 8 |
 | RSS | 2025, 2026 | 7 |
 | SIGGRAPH | 2025, 2026 | 37 |
 | WAFR | 2022 | 1 |
@@ -59,7 +59,16 @@ Each award in `_data/papers.yml` records its verification source. Paper titles l
 - Parsed the complete YAML with both Python/PyYAML and Ruby/Psych.
 - Confirmed all 139 pre-existing conference records are unchanged.
 - Checked unique venue/year pairs, duplicate award/title pairs, required metadata, absolute HTTPS links, and chronological ordering.
-- Rendered the existing home-page Liquid template with all data: 175 conference editions and 1,041 award records. Checked every new title, author string, and link against the generated HTML.
+- Rendered the existing home-page Liquid template with all data: 175 conference editions and 1,047 award records. Checked every new title, author string, and link against the generated HTML.
 - Visually inspected the local browser preview; the latest conference and its award groups display correctly.
 - `git diff --check` passes.
 - Full Jekyll build could not run: the system Ruby 2.6 environment lacks development tools needed to build the `ffi` dependency. The Liquid render is a partial build check, not a claim that the full GitHub Pages dependency bundle ran.
+
+## Review fixes
+
+- Replaced all five SIGGRAPH 2025 Best Paper links that returned HTTP 401 with public author-project pages, arXiv entries, or a university-hosted paper PDF.
+- Added the announced Test of Time winners for ICML 2026 (A3C), ICLR 2026 (DCGAN and DDPG), and NeurIPS 2025 (Faster R-CNN), with links to the original papers and official award announcements.
+- Added IEEE CASE’s published Best Healthcare Automation Paper winners for 2024 and 2025, including authors and the IEEE RAS award source.
+- Preserved conference order and all other award metadata while applying these review fixes.
+- The IROS 2025 institutional award source still fails TLS certificate verification. Two alternate announcements from the same institution have the same problem; the original citation is retained, and the paper’s publisher DOI remains available. No certificate checks were bypassed.
+- Rechecked all 14 distinct replacement/addition paper and award URLs: HTTP 200 with normal TLS verification. Re-rendered and checked all 349 added award records against their HTML titles, authors, and links; the complete page contains 1,047 award records.
