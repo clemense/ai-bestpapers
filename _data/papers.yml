@@ -1,5 +1,18 @@
 ---
 
+- venue: CoRL
+  year: 2026
+  awards:
+  - award: Best Paper
+    title: 'SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model'
+    author: Qiayuan Liao, Yiyang Shao, Junfeng Long, Kevin Zakka, Roberto Horowitz, Pieter
+      Abbeel, Koushil Sreenath
+    link: https://arxiv.org/abs/2610.28480
+    source: https://x.com/qiayuanliao/status/2120740445923823846
+  place: Austin, Texas, USA
+  date: November 9-12, 2026
+  sub: RO
+
 - venue: EMNLP
   year: 2026
   awards:
