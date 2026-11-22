@@ -9,6 +9,12 @@
       Abbeel, Koushil Sreenath
     link: https://arxiv.org/abs/2610.28480
     source: https://x.com/qiayuanliao/status/2120740445923823846
+  - award: Best Student Paper
+    title: 'RoboTTT: Context Scaling for Robot Policies'
+    author: Yunfan Jiang, Yevgen Chebotar, Ruijie Zheng, Fengyuan Hu, Yunhao Ge, Jimmy Wu,
+      Tianyuan Dai, Scott Reed, Li Fei-Fei, Yuke Zhu, Linxi "Jim" Fan
+    link: https://arxiv.org/abs/2607.15275
+    source: https://research.nvidia.com/labs/lpr/publications/
   place: Austin, Texas, USA
   date: November 9-12, 2026
   sub: RO
